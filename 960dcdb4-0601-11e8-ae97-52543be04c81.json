@@ -1,0 +1,14 @@
+{
+    "uuid": "960dcdb4-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Katowice",
+    "url": "http://stream4.nadaje.com:9212/radiokatowice",
+    "homepage": "http://www.radio.katowice.pl/",
+    "favicon": "http://www.radio.katowice.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "variety",
+    "state": "Katowice",
+    "bitrate": 0
+}

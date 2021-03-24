@@ -1,0 +1,14 @@
+{
+    "uuid": "d21e9894-5762-11e8-b0ce-52543be04c81",
+    "name": "PulseEDM Dance Music Radio",
+    "url": "http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://pulseedm.cdnstream1.com:8124/1373_128.m3u\u0026t=.pls",
+    "homepage": "http://www.pulseedm.com/",
+    "favicon": "http://www.pulseedm.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "edm",
+    "state": "Texas",
+    "bitrate": 128
+}

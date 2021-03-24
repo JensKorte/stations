@@ -1,0 +1,14 @@
+{
+    "uuid": "961696dc-0601-11e8-ae97-52543be04c81",
+    "name": "MDR Jump",
+    "url": "http://avw.mdr.de/streams/284320-0_mp3_high.m3u",
+    "homepage": "http://www.jumpradio.de",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/mdr_mdrjump.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "youth",
+    "state": "",
+    "bitrate": 0
+}

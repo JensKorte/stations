@@ -1,0 +1,14 @@
+{
+    "uuid": "d865eec5-2a68-11ea-aa0c-52543be04c81",
+    "name": "Novira",
+    "url": "http://stream.novira.nl:8000/mp3",
+    "homepage": "https://novira.nl",
+    "favicon": "https://novira.nl/wp-content/uploads/2018/10/Website-Favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

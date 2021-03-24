@@ -1,0 +1,14 @@
+{
+    "uuid": "17ea1f66-168a-11e8-ae97-52543be04c81",
+    "name": "RTBF Classic 21 - Route 66",
+    "url": "https://radios.rtbf.be/wr-c21-route66-128.mp3",
+    "homepage": "http://www.rtbfradioplayer.be/radio/liveradio/webradio-classic21-66",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/201_300x170_2017-03-01-19-30-11-806.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf,country",
+    "state": "",
+    "bitrate": 192
+}

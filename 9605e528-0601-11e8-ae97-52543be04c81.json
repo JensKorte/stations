@@ -1,0 +1,14 @@
+{
+    "uuid": "9605e528-0601-11e8-ae97-52543be04c81",
+    "name": "Monster Radio RX93.1",
+    "url": "http://icecast.eradioportal.com:8000/monsterrx",
+    "homepage": "http://www.rx931.com/",
+    "favicon": "http://www.rx931.com/favicon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Philippines",
+    "country_code": "PH",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

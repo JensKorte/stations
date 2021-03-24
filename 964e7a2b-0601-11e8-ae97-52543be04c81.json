@@ -1,0 +1,14 @@
+{
+    "uuid": "964e7a2b-0601-11e8-ae97-52543be04c81",
+    "name": "CKLX \"91.9 Sports\" Montreal, QC",
+    "url": "http://icecast-cklx.rncm.ca/cklx.mp3",
+    "homepage": "https://919sport.ca/",
+    "favicon": "https://919sport.ca//assets/images/favicons/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "sport,montreal",
+    "state": "Quebec",
+    "bitrate": 64
+}

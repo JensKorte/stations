@@ -1,0 +1,14 @@
+{
+    "uuid": "961b5fd0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Zachód (AAC)",
+    "url": "http://stream02.zachod.pl:10113",
+    "homepage": "http://www.zachod.pl/",
+    "favicon": "http://www.zachod.pl/wp-content/themes/rz-new/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Zielona Gora",
+    "bitrate": 48
+}

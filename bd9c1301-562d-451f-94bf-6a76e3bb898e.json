@@ -1,0 +1,14 @@
+{
+    "uuid": "bd9c1301-562d-451f-94bf-6a76e3bb898e",
+    "name": "Kiss FM 106.5",
+    "url": "http://online.kissfm.ua/KissFM",
+    "homepage": "https://www.kissfm.ua/",
+    "favicon": "https://www.kissfm.ua/static/img/KissFM_1200x630.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 128
+}

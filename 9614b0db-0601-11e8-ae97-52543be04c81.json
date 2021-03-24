@@ -1,0 +1,14 @@
+{
+    "uuid": "9614b0db-0601-11e8-ae97-52543be04c81",
+    "name": "KPFA 94.1 Berkeley, CA",
+    "url": "http://stations.pacifica.org:8000/kpfa_64",
+    "homepage": "http://kpfa.org/",
+    "favicon": "https://kpfa.org/wp-content/uploads/2015/03/kpfa-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pacifica,berkeley,community radio,news",
+    "state": "California",
+    "bitrate": 0
+}

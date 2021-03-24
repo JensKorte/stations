@@ -1,0 +1,14 @@
+{
+    "uuid": "0692fa71-bb66-4264-b93d-5d92612b3c70",
+    "name": "News Radio 1440",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIAMAAC.aac",
+    "homepage": "https://www.newsradio1440.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WLWI.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Montgomery AL",
+    "bitrate": 48
+}

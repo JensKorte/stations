@@ -1,0 +1,14 @@
+{
+    "uuid": "791d00cf-5ff8-11e9-a622-52543be04c81",
+    "name": "Star FM სტარ",
+    "url": "http://stream.it-solutions.ge:8000/mp3-starfm",
+    "homepage": "http://stargroup.ge/index.php/",
+    "favicon": "https://cdn.onlineradiobox.com/img/logo/5/43465.v2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Georgia",
+    "country_code": "GE",
+    "language": "georgian",
+    "tags": "entertainment,talk,news,pop",
+    "state": "",
+    "bitrate": 128
+}

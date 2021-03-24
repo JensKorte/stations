@@ -1,0 +1,14 @@
+{
+    "uuid": "e680995f-7675-11ea-b1cf-52543be04c81",
+    "name": "Radiopik",
+    "url": "http://stream1.radiopik.pl:9006/;",
+    "homepage": "http://www.radiopik.pl/",
+    "favicon": "http://www.radiopik.pl/assets/favicon/og-image.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish,polski",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

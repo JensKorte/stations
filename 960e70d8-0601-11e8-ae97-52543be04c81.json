@@ -1,0 +1,14 @@
+{
+    "uuid": "960e70d8-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bucuresti FM",
+    "url": "http://89.238.227.6:8032/;stream/1",
+    "homepage": "http://www.bucurestifm.ro/",
+    "favicon": "http://bucurestifm.ro/wp-content/uploads/sites/2/2014/04/favicon-regionale.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "top 40",
+    "state": "",
+    "bitrate": 128
+}

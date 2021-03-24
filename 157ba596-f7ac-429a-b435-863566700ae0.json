@@ -1,0 +1,14 @@
+{
+    "uuid": "157ba596-f7ac-429a-b435-863566700ae0",
+    "name": "Radio Cielo - FM 106.9 mhz (Zarate)",
+    "url": "http://streamall.alsolnet.com:443/radiocielo",
+    "homepage": "http://radiocielo.net/",
+    "favicon": "http://radiocielo.net/images/logo.png",
+    "creation": "2021-03-21 05:09:06",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español",
+    "tags": "zarate,argentina,radio cielo",
+    "state": "Provincia de Buenos Aires",
+    "bitrate": 73
+}

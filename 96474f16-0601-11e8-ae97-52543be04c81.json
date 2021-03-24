@@ -1,0 +1,14 @@
+{
+    "uuid": "96474f16-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Študent",
+    "url": "http://kruljo.radiostudent.si:8000/loq.m3u",
+    "homepage": "https://radiostudent.si/",
+    "favicon": "http://radiostudent.si/sites/all/themes/eresh/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "low bandwidth,student,cultural,public",
+    "state": "Osrednjeslovenska",
+    "bitrate": 32
+}

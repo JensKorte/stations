@@ -1,0 +1,14 @@
+{
+    "uuid": "bea323c3-3438-11ea-afca-52543be04c81",
+    "name": "Cadena Xeneize Radio",
+    "url": "http://01.solumedia.com.ar:7459/stream",
+    "homepage": "http://www.cadenaxeneize.com",
+    "favicon": "https://cadenaxeneize.com/v2/wp-content/uploads/2019/04/cropped-512-X-512-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "radio,boca,cadena,xeneize,argentina,grande,america",
+    "state": "Buenos Aires",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96488ce4-0601-11e8-ae97-52543be04c81",
+    "name": "XERC-FM 97.7 \"Radio Centro\" Mexico City, DF",
+    "url": "http://provisioning.streamtheworld.com/pls/XERC_FMAAC.pls",
+    "homepage": "http://977.mx/",
+    "favicon": "http://977.mx/wp-content/themes/977/images/bg/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "contemporary hits,ciudad mexico,mexico city",
+    "state": "Distrito Federal",
+    "bitrate": 32
+}

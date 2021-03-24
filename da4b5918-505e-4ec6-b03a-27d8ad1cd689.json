@@ -1,0 +1,14 @@
+{
+    "uuid": "da4b5918-505e-4ec6-b03a-27d8ad1cd689",
+    "name": "Радіо Шансон 101.9",
+    "url": "http://media2.brg.ua:8000/shanson_l",
+    "homepage": "https://www.shanson.ua/",
+    "favicon": "https://www.shanson.ua/player/assets/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 160
+}

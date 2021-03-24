@@ -1,0 +1,14 @@
+{
+    "uuid": "962cf025-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 7",
+    "url": "http://stream.radio7.lv:8024/Radio7.m3u",
+    "homepage": "http://radio7.lv/",
+    "favicon": "http://radio7.lv/images/radio7.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

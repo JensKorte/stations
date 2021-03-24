@@ -1,0 +1,14 @@
+{
+    "uuid": "8d86206c-2afb-11e8-91bf-52543be04c81",
+    "name": "Arapuan FM Campina Grande 107.3 MHz FM",
+    "url": "http://centova6.ciclanohost.com.br:9518/;stream.nsv",
+    "homepage": "http://arapuanfm.com.br/2018/",
+    "favicon": "http://www.arapuanfm.com.br/2018/images/site/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "local talk,music,brazilian music,local news,campina grande",
+    "state": "Paraiba",
+    "bitrate": 64
+}

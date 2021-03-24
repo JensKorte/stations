@@ -1,0 +1,14 @@
+{
+    "uuid": "f4208706-7cfb-4d81-8f38-feb74bbcff6e",
+    "name": "BBC Radio 4 FM (Low Bitrate)",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8",
+    "homepage": "https://www.bbc.co.uk/radio4",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s25419g.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "bbc,today,reviews,arts,radio drama,drama,news,talk \u0026 speech,talk radio,news talk,talk",
+    "state": "England",
+    "bitrate": 50
+}

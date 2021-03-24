@@ -1,0 +1,14 @@
+{
+    "uuid": "962cc9c5-0601-11e8-ae97-52543be04c81",
+    "name": "Latvijas Radio 3 - Klasika",
+    "url": "http://lr3mp0.latvijasradio.lv:8004/;",
+    "homepage": "http://klasika.lsm.lv/lv/lr3/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZRsZ-GV51S6hs4kQcT_QaM1BKdoGfqAomjATuY0XgZQ444zqfiw",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "public radio,classical,latvijas radio",
+    "state": "",
+    "bitrate": 128
+}

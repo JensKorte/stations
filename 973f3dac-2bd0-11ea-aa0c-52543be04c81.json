@@ -1,0 +1,14 @@
+{
+    "uuid": "973f3dac-2bd0-11ea-aa0c-52543be04c81",
+    "name": "SW Radio plautdietsch",
+    "url": "http://www.segenswelle.de:8000/plautdietsch",
+    "homepage": "https://www.sw-radio.com/",
+    "favicon": "https://www.sw-radio.com/images/segenswelle/sw-logo-150.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "plautdietsch",
+    "tags": "christian radio,predigten,christliche lieder",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 64
+}

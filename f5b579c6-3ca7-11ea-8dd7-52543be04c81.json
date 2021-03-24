@@ -1,0 +1,14 @@
+{
+    "uuid": "f5b579c6-3ca7-11ea-8dd7-52543be04c81",
+    "name": "Hitradio center love",
+    "url": "http://stream3.radiocenter.si:8060/;stream/1",
+    "homepage": "http://radiocenter.si/",
+    "favicon": "http://radiocenter.si//Public/assets/dist/img/150_center.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "94850cb6-4bcd-11e8-a4d1-52543be04c81",
+    "name": "svobodne-radio",
+    "url": "http://svobodneradio.radioca.st:8859/stream",
+    "homepage": "http://www.svobodne-radio.cz/",
+    "favicon": "http://svobodne-radio.cz/wp-content/uploads/2018/02/site-logo-og.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "",
+    "state": "Czech Republic",
+    "bitrate": 128
+}

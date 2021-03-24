@@ -1,0 +1,14 @@
+{
+    "uuid": "df35c759-6b46-11e9-af37-52543be04c81",
+    "name": "Radio Hayama",
+    "url": "http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.195.194.140:8073/listen.pls?sid=1\u0026t=.m3u",
+    "homepage": "http://www.radiohayama.com",
+    "favicon": "https://pbs.twimg.com/profile_images/896894423362969602/udGjL95N_400x400.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "multilingual",
+    "tags": "japan,jazz",
+    "state": "",
+    "bitrate": 128
+}

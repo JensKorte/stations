@@ -1,0 +1,14 @@
+{
+    "uuid": "b36b8ebb-1908-433e-acee-64cd30b23869",
+    "name": "WFMS 95.5",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMSFM_SC",
+    "homepage": "https://www.wfms.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WFMSFM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Fishers IN",
+    "bitrate": 80
+}

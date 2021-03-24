@@ -1,0 +1,14 @@
+{
+    "uuid": "96293128-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Dance Music",
+    "url": "http://stream.radiomusic.net:8130/stream",
+    "homepage": "http://www.radiodancemusic.com/",
+    "favicon": "http://www.radiodancemusic.com/images/home/logo-rdm-2016.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "dance,electronica",
+    "state": "Lazio",
+    "bitrate": 192
+}

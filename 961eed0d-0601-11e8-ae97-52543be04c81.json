@@ -1,0 +1,14 @@
+{
+    "uuid": "961eed0d-0601-11e8-ae97-52543be04c81",
+    "name": "Žinių Radijas",
+    "url": "http://netradio.ziniur.lt:8000/ziniur.mp3",
+    "homepage": "http://www.ziniuradijas.lt",
+    "favicon": "http://www.ziniuradijas.lt//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "lithuanian news radio,zinios is lietuvos,ziniu radijas lietuva,ziniu radijas vilnius,lietuvos zinios,zinios,ziniu radijas",
+    "state": "Vilniaus m.",
+    "bitrate": 0
+}

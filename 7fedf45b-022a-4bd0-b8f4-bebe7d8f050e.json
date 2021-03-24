@@ -1,0 +1,14 @@
+{
+    "uuid": "7fedf45b-022a-4bd0-b8f4-bebe7d8f050e",
+    "name": "MIX Querétaro - 106.5 FM - XHGV-FM - Grupo ACIR - Querétaro, QT",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGVAAC.aac",
+    "homepage": "https://www.iheart.com/live/mix-1065-8080/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/40d588aa-508e-4f16-ae4b-7155b1db6de1?ops=fit(240%2C240)",
+    "creation": "2021-02-28 05:29:22",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "estación,fm,radio,mex,mx,méxico,querétaro,2010s,2000s,90s,80s,iheart radio,iheart,acir,grupo acir,80s,90s y más,mix fm,mix",
+    "state": "Queretaro",
+    "bitrate": 48
+}

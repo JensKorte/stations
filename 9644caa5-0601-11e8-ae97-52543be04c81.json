@@ -1,0 +1,14 @@
+{
+    "uuid": "9644caa5-0601-11e8-ae97-52543be04c81",
+    "name": "RTV Oost Radio",
+    "url": "http://streams.rtvoost.nl/audio/oost/mp3",
+    "homepage": "https://www.rtvoost.nl/",
+    "favicon": "https://www.rtvoost.nl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "variety,local news,news,regional programs",
+    "state": "Overijssel",
+    "bitrate": 0
+}

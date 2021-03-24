@@ -1,0 +1,14 @@
+{
+    "uuid": "e86b8937-c99b-479d-bac7-e820d9cd2cd3",
+    "name": "Radiodio",
+    "url": "http://live.francra.org:8000/RadioDio.m3u",
+    "homepage": "https://radiodio.org/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français",
+    "tags": "",
+    "state": "Auvergne-Rhône-Alpes",
+    "bitrate": 160
+}

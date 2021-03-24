@@ -1,0 +1,14 @@
+{
+    "uuid": "2b023eee-70a0-4bd0-b116-14297b596257",
+    "name": "Radio Tiempo Cali (89.5 FM)",
+    "url": "https://r50.letio.com/io/?gs=9164\u0026idCDN=50\u0026try=0\u0026type=segments.m3u8",
+    "homepage": "https://www.radiotiempo.co/",
+    "favicon": "https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "balada en español,latin music,musica romantica",
+    "state": "Cali, Valle del Cauca",
+    "bitrate": 0
+}

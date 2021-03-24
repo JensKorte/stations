@@ -1,0 +1,14 @@
+{
+    "uuid": "b2472e99-75f3-47a0-9ef9-31725032d995",
+    "name": "FM Macondo 91.5",
+    "url": "http://51.79.99.194:9014/stream",
+    "homepage": "http://www.fantasticomacondo.com.ar/",
+    "favicon": "http://www.fantasticomacondo.com.ar/logo-fm-macondo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español,spanish",
+    "tags": "macondo,fantastico macondo,salta",
+    "state": "Salta",
+    "bitrate": 32
+}

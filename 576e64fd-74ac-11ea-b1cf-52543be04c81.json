@@ -1,0 +1,14 @@
+{
+    "uuid": "576e64fd-74ac-11ea-b1cf-52543be04c81",
+    "name": "Radio FM",
+    "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "homepage": "https://fm.rtvs.sk/",
+    "favicon": "https://www.rtvs.sk/media/a501/image/file/13/0006/qGyY.o_radiu.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "",
+    "tags": "local music,world music,multicultural,alternative",
+    "state": "",
+    "bitrate": 0
+}

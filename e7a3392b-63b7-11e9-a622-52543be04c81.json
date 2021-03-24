@@ -1,0 +1,14 @@
+{
+    "uuid": "e7a3392b-63b7-11e9-a622-52543be04c81",
+    "name": "Radio Corape Satelital (MP3)",
+    "url": "http://makrodigital.com:8054/radio_corape.m3u",
+    "homepage": "https://www.corape.org.ec/satelital/",
+    "favicon": "https://www.corape.org.ec:443/satelital/theme/image/favicon.png?xs=sd",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "radio publica,public radio,radio comunitaria,community radio,news,noticias,musica,music",
+    "state": "Pichincha",
+    "bitrate": 0
+}

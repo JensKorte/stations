@@ -1,0 +1,14 @@
+{
+    "uuid": "5245b3b3-b697-4f0f-8746-dc249e6de292",
+    "name": "Radio Guadiana FM",
+    "url": "http://95.217.75.38:9844/stream",
+    "homepage": "https://www.radioguadiana.pt/",
+    "favicon": "https://www.radioguadiana.pt/imagens/logo.jpg",
+    "creation": "2021-02-12 09:44:11",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "português",
+    "tags": "vila-real,guadiana",
+    "state": "",
+    "bitrate": 128
+}

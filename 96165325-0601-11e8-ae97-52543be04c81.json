@@ -1,0 +1,14 @@
+{
+    "uuid": "96165325-0601-11e8-ae97-52543be04c81",
+    "name": "Radio EINS Coburg",
+    "url": "http://rs3.stream24.net:80/radio-eins.mp3",
+    "homepage": "http://www.radioeins.com/",
+    "favicon": "http://www.radioeins.com/wp-content/themes/fhb/themes/radio-eins/img/share-logo.png?cb=1466705079",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "local radio,90s,80s",
+    "state": "Bavaria",
+    "bitrate": 128
+}

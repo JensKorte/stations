@@ -1,0 +1,14 @@
+{
+    "uuid": "298d4487-4d3c-40a0-a82c-ac1f07cacd43",
+    "name": "AM 960 KLTF",
+    "url": "http://173.193.205.96:7487/stream",
+    "homepage": "https://fallsradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KLTF.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Little Falls MN",
+    "bitrate": 128
+}

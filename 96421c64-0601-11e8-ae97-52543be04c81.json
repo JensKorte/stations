@@ -1,0 +1,14 @@
+{
+    "uuid": "96421c64-0601-11e8-ae97-52543be04c81",
+    "name": "Concertzender Oriënt Express",
+    "url": "http://streams.greenhost.nl:8080/orientexpress",
+    "homepage": "https://www.concertzender.nl/programma_genre/wereldmuziek/",
+    "favicon": "https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch,english",
+    "tags": "world music",
+    "state": "",
+    "bitrate": 128
+}

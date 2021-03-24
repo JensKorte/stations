@@ -1,0 +1,14 @@
+{
+    "uuid": "3ccb01e4-7c1c-11ea-8a3b-52543be04c81",
+    "name": "VRT Radio 1 - Classics",
+    "url": "http://icecast.vrtcdn.be/radio1_classics_high.mp3",
+    "homepage": "http://vrt.be",
+    "favicon": "http://vrt.be/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "flemish,dutch",
+    "tags": "golden oldies",
+    "state": "Vlaanderen",
+    "bitrate": 0
+}

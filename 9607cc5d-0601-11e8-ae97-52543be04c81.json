@@ -1,0 +1,14 @@
+{
+    "uuid": "9607cc5d-0601-11e8-ae97-52543be04c81",
+    "name": "RTS Option Musique",
+    "url": "http://stream.srg-ssr.ch/option-musique/mp3_128.m3u",
+    "homepage": "http://www.rts.ch/option-musique/",
+    "favicon": "http://static.radio.net/images/broadcasts/9e/dd/3462/5/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "srg ssr,public radio",
+    "state": "",
+    "bitrate": 0
+}

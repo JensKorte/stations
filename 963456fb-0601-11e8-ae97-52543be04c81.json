@@ -1,0 +1,14 @@
+{
+    "uuid": "963456fb-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio - Czwórka (Program 4) (AAC+)",
+    "url": "http://stream3.polskieradio.pl:8956/;",
+    "homepage": "https://www.polskieradio.pl/10,Czworka",
+    "favicon": "http://moje.polskieradio.pl/_img/kanaly/pr4.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "alternative",
+    "state": "",
+    "bitrate": 128
+}

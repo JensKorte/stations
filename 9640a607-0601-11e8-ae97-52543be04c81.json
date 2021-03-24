@@ -1,0 +1,14 @@
+{
+    "uuid": "9640a607-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 1 радио 1 класическите хитове",
+    "url": "http://stream.radioreklama.bg:80/radio164",
+    "homepage": "http://www.radio1.bg",
+    "favicon": "http://radio1.bg/theme_assets/radio1/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "news,classic hits",
+    "state": "",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9625c524-0601-11e8-ae97-52543be04c81",
+    "name": "Radio FolkBG",
+    "url": "http://radio.folkbg.net:8000",
+    "homepage": "http://folkbg.net",
+    "favicon": "http://folkbg.net/i/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "pop,folk",
+    "state": "Blagoevgad",
+    "bitrate": 320
+}

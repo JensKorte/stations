@@ -1,0 +1,14 @@
+{
+    "uuid": "df327c97-f492-11e8-a471-52543be04c81",
+    "name": "France 24 Spanish TV",
+    "url": "http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8",
+    "homepage": "http://www.france24.com/",
+    "favicon": "http://www.france24.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "spanish",
+    "tags": "",
+    "state": "Paris",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a1c7b247-9355-437b-9a52-4d4803268768",
+    "name": "WINY Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WINYAMAAC.aac",
+    "homepage": "https://www.winyradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/winy.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "adult contemporary",
+    "state": "Putnam CT",
+    "bitrate": 64
+}

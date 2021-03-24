@@ -1,0 +1,14 @@
+{
+    "uuid": "08e46c9d-62cc-11e9-a622-52543be04c81",
+    "name": "Radio Fluminense 101.5 FM",
+    "url": "http://stream.fluminensefm.com:9304/listen.pls",
+    "homepage": "http://fluminensefm.com/",
+    "favicon": "https://pbs.twimg.com/profile_images/1070749129159163905/W-99nqIQ_400x400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "musica,news,noticias,music,music",
+    "state": "Los Ríos",
+    "bitrate": 128
+}

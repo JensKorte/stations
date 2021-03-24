@@ -1,0 +1,14 @@
+{
+    "uuid": "6a22a9cb-3ca8-11ea-8dd7-52543be04c81",
+    "name": "Hitradio center rock",
+    "url": "http://stream.rockradio.si:9034/;stream/1",
+    "homepage": "http://radiocenter.si/",
+    "favicon": "http://radiocenter.si//Public/assets/dist/img/150_center.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "english,slovenian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 128
+}

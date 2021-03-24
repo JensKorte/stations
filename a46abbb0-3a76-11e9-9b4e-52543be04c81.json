@@ -1,0 +1,14 @@
+{
+    "uuid": "a46abbb0-3a76-11e9-9b4e-52543be04c81",
+    "name": "teos.fm",
+    "url": "http://stream.teos.fm:8004/mp3_hq",
+    "homepage": "https://teos.fm",
+    "favicon": "https://teos.fm/",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "religion",
+    "state": "",
+    "bitrate": 128
+}

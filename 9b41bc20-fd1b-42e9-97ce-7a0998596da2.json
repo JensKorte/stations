@@ -1,0 +1,14 @@
+{
+    "uuid": "9b41bc20-fd1b-42e9-97ce-7a0998596da2",
+    "name": "Українське радіо. Херсон. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-ks-aacplus",
+    "homepage": "http://ukr.radio/radio-ks",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Kherson",
+    "bitrate": 48
+}

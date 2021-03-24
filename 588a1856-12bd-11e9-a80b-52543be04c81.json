@@ -1,0 +1,14 @@
+{
+    "uuid": "588a1856-12bd-11e9-a80b-52543be04c81",
+    "name": "Национальное Радио Чувашии / Chuvash National Radio",
+    "url": "http://icecast.ntrk21.ru:8000/nacradio",
+    "homepage": "http://ntrk21.ru/radio",
+    "favicon": "https://guzei.com/online_radio/logo300/9294.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "",
+    "tags": "news,talk,folk",
+    "state": "Cheboksary",
+    "bitrate": 128
+}

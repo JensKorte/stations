@@ -1,0 +1,14 @@
+{
+    "uuid": "961fe735-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Classic 2 Stream (MP3)",
+    "url": "http://live-radio01.mediahubaustralia.com/FM2W/mp3/",
+    "homepage": "https://radio.abc.net.au/stations/classic2/live",
+    "favicon": "https://resize.abcradio.net.au/LScJUk4auRdy1dHmdL27M55e4iE=/100x100/center/middle/http://www.abc.net.au/radio/images/service/classic2.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "classical,abc,public radio",
+    "state": "",
+    "bitrate": 96
+}

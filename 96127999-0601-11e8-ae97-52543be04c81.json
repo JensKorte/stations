@@ -1,0 +1,14 @@
+{
+    "uuid": "96127999-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 6.75 Solo Musica",
+    "url": "http://nrf1.newradio.it:9530/stream",
+    "homepage": "http://www.r675solomusica.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s287557q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cecina,misc,music",
+    "state": "Toscana",
+    "bitrate": 128
+}

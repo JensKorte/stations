@@ -1,0 +1,14 @@
+{
+    "uuid": "96095880-0601-11e8-ae97-52543be04c81",
+    "name": "KDAQ 89.9 \"Red River Radio\" Shreveport, LA",
+    "url": "http://playerservices.streamtheworld.com/m3u/KDAQFM.m3u",
+    "homepage": "http://redriverradio.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/rrr/files/201508/RRRNewlogoico_0.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pri,npr,public radio",
+    "state": "Louisiana",
+    "bitrate": 64
+}

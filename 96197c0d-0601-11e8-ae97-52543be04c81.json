@@ -1,0 +1,14 @@
+{
+    "uuid": "96197c0d-0601-11e8-ae97-52543be04c81",
+    "name": "Horizonte FM",
+    "url": "http://centova.radio.com.pt:9436/;",
+    "homepage": "http://horizontefm.pt/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s104511q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "local music",
+    "state": "Lisbon",
+    "bitrate": 128
+}

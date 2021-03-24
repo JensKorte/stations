@@ -1,0 +1,14 @@
+{
+    "uuid": "82329bca-e104-11e9-a8ba-52543be04c81",
+    "name": "RTBF Viva+",
+    "url": "https://radios.rtbf.be/vivaplus-128.mp3",
+    "homepage": "https://www.rtbf.be/vivaplus",
+    "favicon": "https://marpimagecache.s3.amazonaws.com/image/1131_300x170_2019-09-26-09-08-53-947.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "70s,60s,oldies",
+    "state": "Wallonia",
+    "bitrate": 128
+}

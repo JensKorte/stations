@@ -1,0 +1,14 @@
+{
+    "uuid": "9609e6dc-0601-11e8-ae97-52543be04c81",
+    "name": "Naxi Radio",
+    "url": "http://naxi128.streaming.rs:9150/",
+    "homepage": "http://www.naxi.rs/",
+    "favicon": "http://www.naxi.rs/images/naxi_favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "serbian music",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "938ae5d8-754a-11e9-af37-52543be04c81",
+    "name": "egoFlash 192",
+    "url": "http://www.egofm.de/flashstream/192kb.m3u",
+    "homepage": "https://player.egofm.de/radioplayer/?stream=egoflash",
+    "favicon": "https://player.egofm.de//radioplayer/img/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

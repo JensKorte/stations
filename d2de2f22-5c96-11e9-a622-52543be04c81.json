@@ -1,0 +1,14 @@
+{
+    "uuid": "d2de2f22-5c96-11e9-a622-52543be04c81",
+    "name": "Radio Naval 1510 AM (AAC)",
+    "url": "https://streamingecuador.net:8029/radionaval.m3u",
+    "homepage": "https://www.inocar.mil.ec/",
+    "favicon": "https://streamingecuador.net/makrostreaming/radionaval/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "radio publica,public radio,musica,noticias,talk,news,music",
+    "state": "Guayaquil",
+    "bitrate": 0
+}

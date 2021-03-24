@@ -1,0 +1,14 @@
+{
+    "uuid": "c44bed8f-3b56-11e8-b74d-52543be04c81",
+    "name": "Máquina do Tempo Web Radio",
+    "url": "http://servidor27.brlogic.com:8124/live",
+    "homepage": "http://www.webradiomaquinadotempo.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s227840q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

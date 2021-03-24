@@ -1,0 +1,14 @@
+{
+    "uuid": "4e7e8fcc-5ada-11ea-be63-52543be04c81",
+    "name": "Radio Javor",
+    "url": "http://javor.streaming.rs:9320/",
+    "homepage": "http://www.radiojavor.rs/",
+    "favicon": "http://www.radiojavor.rs/images/Znak%20Radio%20Javor%20Q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "",
+    "state": "Ivanjica",
+    "bitrate": 64
+}

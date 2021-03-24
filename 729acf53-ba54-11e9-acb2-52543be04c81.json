@@ -1,0 +1,14 @@
+{
+    "uuid": "729acf53-ba54-11e9-acb2-52543be04c81",
+    "name": "TBS TV",
+    "url": "http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8",
+    "homepage": "http://tbs.seoul.kr",
+    "favicon": "http://tbs.seoul.kr/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Republic Of Korea",
+    "country_code": "KR",
+    "language": "korean",
+    "tags": "",
+    "state": "Seoul",
+    "bitrate": 1490
+}

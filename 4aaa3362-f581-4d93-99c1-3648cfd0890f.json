@@ -1,0 +1,14 @@
+{
+    "uuid": "4aaa3362-f581-4d93-99c1-3648cfd0890f",
+    "name": "XRCB On Air",
+    "url": "https://icecast.xrcb.cat/main.mp3",
+    "homepage": "https://xrcb.cat/",
+    "favicon": "https://xrcb.cat/wp-content/themes/xrcb/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "english,català,español",
+    "tags": "247,culture,music,podcasts,network,xarxa,barcelona,community",
+    "state": "",
+    "bitrate": 256
+}

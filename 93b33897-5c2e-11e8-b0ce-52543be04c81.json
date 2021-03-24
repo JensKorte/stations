@@ -1,0 +1,14 @@
+{
+    "uuid": "93b33897-5c2e-11e8-b0ce-52543be04c81",
+    "name": "Chunghsien News TV",
+    "url": "http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8",
+    "homepage": "http://zhongxian.cbg.cn/",
+    "favicon": "http://www.haoqu.net/d/file/2017/0630/small6e79735514de66fb5657ab8f93ea27391498832153.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,chungking",
+    "state": "Chungking",
+    "bitrate": 1237
+}

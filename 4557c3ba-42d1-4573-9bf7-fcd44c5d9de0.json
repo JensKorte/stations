@@ -1,0 +1,14 @@
+{
+    "uuid": "4557c3ba-42d1-4573-9bf7-fcd44c5d9de0",
+    "name": "Radio 4CC - AM 927 - Gladstone, QLD",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CCAAC.aac",
+    "homepage": "https://www.4cc.com.au/",
+    "favicon": "https://static-media.streema.com/media/cache/69/52/6952f842768d62ea88408febe1619956.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "music,classic hits,community radio,news,hits",
+    "state": "Queensland",
+    "bitrate": 64
+}

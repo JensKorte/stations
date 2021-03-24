@@ -1,0 +1,14 @@
+{
+    "uuid": "9618c00f-0601-11e8-ae97-52543be04c81",
+    "name": "CFTE 1410 TSN Vancouver",
+    "url": "http://provisioning.streamtheworld.com/pls/CFTEAMAAC.pls",
+    "homepage": "http://www.tsn.ca/radio/vancouver-1040-i-1410",
+    "favicon": "http://images.tsn.ca/favicon32.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "vancouver,tsn,talk,vancouver whitecaps,vancouver canadians,sport",
+    "state": "British Columbia",
+    "bitrate": 40
+}

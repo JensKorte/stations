@@ -1,0 +1,14 @@
+{
+    "uuid": "9efc1935-20a8-460d-9ec3-fa8f65a2ef1c",
+    "name": "Спутник ФМ - Уфимская Волна",
+    "url": "https://radio.mediacdn.ru/sputnik_fm.mp3",
+    "homepage": "https://bash.news/sputnik/",
+    "favicon": "https://bash.news/images/logo-sputnik.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "news,pop,music,107,уфа,ufa",
+    "state": "Bashkortostan",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "964fade0-0601-11e8-ae97-52543be04c81",
+    "name": "Ретро FM",
+    "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
+    "homepage": "http://retrofm.ru",
+    "favicon": "http://retrofm.ru/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "russia,moscow,pop,russian pop,music,retro,classic hits",
+    "state": "Moscow",
+    "bitrate": 0
+}

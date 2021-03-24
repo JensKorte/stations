@@ -1,0 +1,14 @@
+{
+    "uuid": "19c318ef-f402-11e8-a471-52543be04c81",
+    "name": "Traditional Christmas",
+    "url": "http://icecast.unitedradio.it/um033.mp3",
+    "homepage": "http://www.unitedmusic.it/",
+    "favicon": "http://www.unitedmusic.it/images/loghi/TRADITIONALCHRISTMAS.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "mediaset,christmas music",
+    "state": "Lombardia",
+    "bitrate": 128
+}

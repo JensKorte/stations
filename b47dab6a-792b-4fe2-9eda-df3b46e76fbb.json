@@ -1,0 +1,14 @@
+{
+    "uuid": "b47dab6a-792b-4fe2-9eda-df3b46e76fbb",
+    "name": "Radio Land Van Waas (Stream)",
+    "url": "http://stream.rlvw.be:8480/stream",
+    "homepage": "https://www.rlvw.be/",
+    "favicon": "https://www.rlvw.be/favicon.ico",
+    "creation": "2021-03-23 14:45:14",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "nederlands",
+    "tags": "all ages",
+    "state": "Oost-Vlaanderen",
+    "bitrate": 128
+}

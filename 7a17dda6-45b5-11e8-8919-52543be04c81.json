@@ -1,0 +1,14 @@
+{
+    "uuid": "7a17dda6-45b5-11e8-8919-52543be04c81",
+    "name": "Classic FM",
+    "url": "http://webradio.classicfm.dk/classichorsens",
+    "homepage": "http://classicfm.dk/",
+    "favicon": "http://classicfm.robinhood.stepclient.dk/wp-content/uploads/2017/11/classic_logo-1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "90s,80s,70s,classic hits",
+    "state": "",
+    "bitrate": 192
+}

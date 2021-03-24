@@ -1,0 +1,14 @@
+{
+    "uuid": "3ce6c555-5ae7-11e9-a622-52543be04c81",
+    "name": "CHOQ Rock",
+    "url": "http://radio.servlinks.com:8350/choqrock",
+    "homepage": "https://www.choq.ca/chaines-musicales",
+    "favicon": "http://www.choq.ca/images/default_SEO.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "student,universitaire,university radio,student radio,rock",
+    "state": "Montreal",
+    "bitrate": 128
+}

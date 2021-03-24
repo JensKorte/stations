@@ -1,0 +1,14 @@
+{
+    "uuid": "7c24b2c6-ad2c-11e9-88f4-52543be04c81",
+    "name": "Radio Leipzig",
+    "url": "http://streams.bcs-systems.de/slp/live/leipzig/mp3/web/playlist.m3u",
+    "homepage": "https://www.radioleipzig.de/",
+    "favicon": "https://www.radioleipzig.de///cms/tpl/slp/radioleipzig_favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "",
+    "state": "Sachsen",
+    "bitrate": 192
+}

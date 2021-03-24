@@ -1,0 +1,14 @@
+{
+    "uuid": "963f6d4b-0601-11e8-ae97-52543be04c81",
+    "name": "Laut.FM BluesRockCafe",
+    "url": "http://stream.laut.fm/bluesrockcafe",
+    "homepage": "https://laut.fm/bluesrockcafe",
+    "favicon": "https://assets.laut.fm/6c4ad32af49cfe8fc652983624317731?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "blues,rock",
+    "state": "",
+    "bitrate": 128
+}

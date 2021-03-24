@@ -1,0 +1,14 @@
+{
+    "uuid": "964f661d-0601-11e8-ae97-52543be04c81",
+    "name": "Image FM 97.9 MHZ",
+    "url": "http://streaming.hamropatro.com:8631/;stream.mp3",
+    "homepage": "http://www.imagefm.com.np",
+    "favicon": "http://www.imagefm.com.np/wp-content/uploads/2017/08/Image_fm_97.9.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Nepal",
+    "country_code": "NP",
+    "language": "nepali",
+    "tags": "",
+    "state": "Bagmati",
+    "bitrate": 64
+}

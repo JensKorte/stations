@@ -1,0 +1,14 @@
+{
+    "uuid": "bdc0a04a-809d-454f-9f79-9f95929c60e1",
+    "name": "Fanatica POP",
+    "url": "http://ascl.denial.cl:8010/",
+    "homepage": "https://fanatica.cl",
+    "favicon": "https://www.fanatica.cl/wp-content/uploads/2021/01/fanatica_pop_512.png",
+    "creation": "2021-02-27 04:09:35",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "top40,pop",
+    "state": "Santiago",
+    "bitrate": 128
+}

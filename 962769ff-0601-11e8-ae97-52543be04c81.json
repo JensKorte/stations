@@ -1,0 +1,14 @@
+{
+    "uuid": "962769ff-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM Lounge",
+    "url": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
+    "homepage": "http://www.rougefm.com/webradios-longe/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/lounge.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "lounge",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

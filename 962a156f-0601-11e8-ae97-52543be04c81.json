@@ -1,0 +1,14 @@
+{
+    "uuid": "962a156f-0601-11e8-ae97-52543be04c81",
+    "name": "Mondadori Store Radio",
+    "url": "http://icecast.unitedradio.it/mondadori",
+    "homepage": "http://www.inmondadori.it/",
+    "favicon": "http://www.mondadoristore.it/images/logoFB.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "mediaset,milano,instore radio",
+    "state": "Lombardia",
+    "bitrate": 128
+}

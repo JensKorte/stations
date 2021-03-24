@@ -1,0 +1,14 @@
+{
+    "uuid": "d4a46e5c-afc3-429a-8052-5f7dc08c1fdb",
+    "name": "Українське радіо. Дніпро. (128 кбітс/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-dp-mp3-m",
+    "homepage": "http://ukr.radio/radio-dp",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Dnipro",
+    "bitrate": 128
+}

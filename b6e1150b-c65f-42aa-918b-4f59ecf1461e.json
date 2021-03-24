@@ -1,0 +1,14 @@
+{
+    "uuid": "b6e1150b-c65f-42aa-918b-4f59ecf1461e",
+    "name": "FLUX FM Dub Radio [128 kbps]",
+    "url": "http://streams.fluxfm.de/dubradio/mp3-128/streams.fluxfm.de/",
+    "homepage": "https://www.fluxfm.de/",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2019/01/DUBRADIO-250x250.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german english",
+    "tags": "reggae,dub",
+    "state": "Berlin",
+    "bitrate": 0
+}

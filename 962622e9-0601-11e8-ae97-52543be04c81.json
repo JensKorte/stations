@@ -1,0 +1,14 @@
+{
+    "uuid": "962622e9-0601-11e8-ae97-52543be04c81",
+    "name": "Canal 4 Radio",
+    "url": "http://91.121.156.27:8011/stream#.mp3",
+    "homepage": "http://www.canal4radio.com/",
+    "favicon": "http://www.canal4radio.com/wp-content/uploads/2016/08/Canal-4-Radio_Blanco.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,catalan",
+    "tags": "local news,information",
+    "state": "Mallorca",
+    "bitrate": 0
+}

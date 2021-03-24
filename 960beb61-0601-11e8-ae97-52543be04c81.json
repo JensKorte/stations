@@ -1,0 +1,14 @@
+{
+    "uuid": "960beb61-0601-11e8-ae97-52543be04c81",
+    "name": "R101 FM",
+    "url": "http://icecast.unitedradio.it/r101",
+    "homepage": "http://www.r101.it/",
+    "favicon": "http://img.r101.it/res/img/social.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "mediaset,pop,adult contemporary",
+    "state": "Lombardia",
+    "bitrate": 96
+}

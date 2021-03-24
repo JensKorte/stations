@@ -1,0 +1,14 @@
+{
+    "uuid": "b9e83659-740e-11ea-b1cf-52543be04c81",
+    "name": "ICI Radio-Canada Première Gaspésie - Îles de la Madeleine",
+    "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMAT0_MAT",
+    "homepage": "https://ici.radio-canada.ca/premiere",
+    "favicon": "https://ici.radio-canada.ca/unit/content/favicon/Default/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french,français",
+    "tags": "iles de la madeleine,matane,gaspesie",
+    "state": "Quebec",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9637b9e9-0601-11e8-ae97-52543be04c81",
+    "name": "UOC Radio",
+    "url": "http://rs.radio.uoc.gr:8000/uoc_256.ogg",
+    "homepage": "http://radio.uoc.gr/",
+    "favicon": "http://www.radio.uoc.gr/images/logogo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "alternative,university radio",
+    "state": "Crete",
+    "bitrate": 0
+}

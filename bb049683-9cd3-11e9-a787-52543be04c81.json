@@ -1,0 +1,14 @@
+{
+    "uuid": "bb049683-9cd3-11e9-a787-52543be04c81",
+    "name": "radio 98eins",
+    "url": "http://mmv-mediathek.de:8000/radio98eins.m3u",
+    "homepage": "http://radio98eins.de",
+    "favicon": "http://radio98eins.de/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "public radio,offener kanal,greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "bitrate": 192
+}

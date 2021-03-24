@@ -1,0 +1,14 @@
+{
+    "uuid": "c4175f89-69da-11ea-b1cf-52543be04c81",
+    "name": "Бизнес FM",
+    "url": "https://bfm.hostingradio.ru:9075/fm",
+    "homepage": "https://www.bfm.ru/",
+    "favicon": "https://s.bfm.ru/images/bfm_json_ld.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "business programs,business news,business",
+    "state": "",
+    "bitrate": 185
+}

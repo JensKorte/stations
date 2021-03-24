@@ -1,0 +1,14 @@
+{
+    "uuid": "961d9820-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Vogošca",
+    "url": "http://188.40.62.20:8018/listen.pls",
+    "homepage": "http://www.rtvvogosca.ba",
+    "favicon": "http://www.rtvvogosca.ba/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Bosnia And Herzegovina",
+    "country_code": "BA",
+    "language": "bosnian",
+    "tags": "local",
+    "state": "",
+    "bitrate": 128
+}

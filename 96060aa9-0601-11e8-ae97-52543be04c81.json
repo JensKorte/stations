@@ -1,0 +1,14 @@
+{
+    "uuid": "96060aa9-0601-11e8-ae97-52543be04c81",
+    "name": "RLB Radioattiva",
+    "url": "http://nr5.newradio.it:8767/stream.mp3",
+    "homepage": "http://www.rlb.it/",
+    "favicon": "http://www.rlb.it/radio/wp-content/uploads/2016/09/favico.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rende,pop,rock,electronica",
+    "state": "Calabria",
+    "bitrate": 192
+}

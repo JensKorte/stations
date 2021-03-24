@@ -1,0 +1,14 @@
+{
+    "uuid": "f5b3b718-5341-4f16-a703-03653552c3fa",
+    "name": "Denver Open Media 104.7",
+    "url": "http://komfstream.denveropenmedia.org:8000/stream",
+    "homepage": "https://www.denveropenmedia.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/DenverOpenMedia.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "",
+    "state": "Denver CO",
+    "bitrate": 160
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960edf98-0601-11e8-ae97-52543be04c81",
+    "name": "RTBF VivaCité Charleroi",
+    "url": "https://radios.rtbf.be/vivacharleroi-64.aac",
+    "homepage": "https://www.rtbf.be/vivacite/",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/15_300x170_2016-01-12-09-45-34-386.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf",
+    "state": "",
+    "bitrate": 95
+}

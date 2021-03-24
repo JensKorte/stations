@@ -1,0 +1,14 @@
+{
+    "uuid": "555c1a10-1db2-11ea-a955-52543be04c81",
+    "name": "Radio Classique",
+    "url": "http://icepe1.infomaniak.ch:80/radioclassique-high.mp3",
+    "homepage": "https://www.radioclassique.fr/",
+    "favicon": "https://www.radioclassique.fr/wp-content/thumbnails/themes/radioclassique/images/logo-radioclassique-600x600-tt-width-600-height-630-fill-0-crop-1-bgcolor-ffffff.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 0
+}

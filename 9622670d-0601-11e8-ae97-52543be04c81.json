@@ -1,0 +1,14 @@
+{
+    "uuid": "9622670d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 24 Rock",
+    "url": "http://icecast.radio24.ch/radio24rock",
+    "homepage": "http://www.radio24.ch",
+    "favicon": "http://www.radio24.ch/__radio__/1.3.0/__static__/dist/images/radio24-logo.svg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "alternative,metal,rock",
+    "state": "",
+    "bitrate": 128
+}

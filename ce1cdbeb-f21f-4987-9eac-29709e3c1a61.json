@@ -1,0 +1,14 @@
+{
+    "uuid": "ce1cdbeb-f21f-4987-9eac-29709e3c1a61",
+    "name": "Mother Earth Radio (96khz/24bit)",
+    "url": "http://icecast3.streamserver24.com:18800/motherearth",
+    "homepage": "motherearthradio.de",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "misc",
+    "state": "",
+    "bitrate": 128
+}

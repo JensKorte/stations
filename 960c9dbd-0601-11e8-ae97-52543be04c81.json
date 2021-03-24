@@ -1,0 +1,14 @@
+{
+    "uuid": "960c9dbd-0601-11e8-ae97-52543be04c81",
+    "name": "RaBe Radio Bern Switzerland",
+    "url": "http://stream.rabe.ch:8000/livestream/rabe-mid.mp3",
+    "homepage": "http://www.rabe.ch/",
+    "favicon": "https://kuriosum.org/wp-content/uploads/2014/07/radiobern-rabe.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "multilingual",
+    "tags": "multikulti",
+    "state": "Bern",
+    "bitrate": 192
+}

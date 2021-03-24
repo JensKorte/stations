@@ -1,0 +1,14 @@
+{
+    "uuid": "96471cd4-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Vanessa",
+    "url": "http://sr3.inmystream.info:8002/stream",
+    "homepage": "http://www.radiovanessa.it/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s93121q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "venezia,pop",
+    "state": "Veneto",
+    "bitrate": 192
+}

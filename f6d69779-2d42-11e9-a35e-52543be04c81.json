@@ -1,0 +1,14 @@
+{
+    "uuid": "f6d69779-2d42-11e9-a35e-52543be04c81",
+    "name": "RTHK Channel 31 TV",
+    "url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8",
+    "homepage": "http://www.rthk.hk/",
+    "favicon": "http://www.rthk.hk/img/tv_logo_31_s.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "cantonese",
+    "tags": "",
+    "state": "Hong Kong",
+    "bitrate": 0
+}

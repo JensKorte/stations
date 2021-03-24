@@ -1,0 +1,14 @@
+{
+    "uuid": "19d8ec48-b1f2-49e4-b642-7e78e83bdfd5",
+    "name": "WBRT",
+    "url": "http://janus.cdnstream.com:5597/live",
+    "homepage": "https://www.wbrtcountry.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WBRT.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Bardstown KY",
+    "bitrate": 128
+}

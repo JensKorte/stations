@@ -1,0 +1,14 @@
+{
+    "uuid": "96466129-0601-11e8-ae97-52543be04c81",
+    "name": "WHUR-HD4 96.3 \"DC Radio\" Washington, DC",
+    "url": "http://whurhd4.streamon.fm:8000/whurhd4-48k.aac",
+    "homepage": "https://dcradio.gov/",
+    "favicon": "https://dcradio.gov/wp-content/uploads/2017/08/cropped-site-icon-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "washington dc,information,local government",
+    "state": "Washington, DC",
+    "bitrate": 47
+}

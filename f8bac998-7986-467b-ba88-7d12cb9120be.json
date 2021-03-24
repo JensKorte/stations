@@ -1,0 +1,14 @@
+{
+    "uuid": "f8bac998-7986-467b-ba88-7d12cb9120be",
+    "name": "Radiokey",
+    "url": "https://live.audiradio.com:8006/listen",
+    "homepage": "https://www.radiokey.it/",
+    "favicon": "https://www.radiokey.it/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian,english",
+    "tags": "classic rock,funky,adult contemporary,black,soul,00s,90s,80s",
+    "state": "",
+    "bitrate": 128
+}

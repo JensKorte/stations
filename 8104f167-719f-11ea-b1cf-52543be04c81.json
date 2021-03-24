@@ -1,0 +1,14 @@
+{
+    "uuid": "8104f167-719f-11ea-b1cf-52543be04c81",
+    "name": "MCRADIO",
+    "url": "http://puylouradio.net:8000/stream",
+    "homepage": "http://www.mcradio.fr",
+    "favicon": "http://www.mcradio.fr/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "hits,pop rock,regional radio",
+    "state": "",
+    "bitrate": 0
+}

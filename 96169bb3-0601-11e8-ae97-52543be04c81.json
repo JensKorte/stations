@@ -1,0 +1,14 @@
+{
+    "uuid": "96169bb3-0601-11e8-ae97-52543be04c81",
+    "name": "Qmusic Het Foute Uur",
+    "url": "http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_fouteuur_32.aac",
+    "homepage": "http://qmusic.nl/playlist/fouteuur",
+    "favicon": "http://qmusic.nl/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "foute uur",
+    "state": "",
+    "bitrate": 32
+}

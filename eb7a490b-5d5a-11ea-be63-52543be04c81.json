@@ -1,0 +1,14 @@
+{
+    "uuid": "eb7a490b-5d5a-11ea-be63-52543be04c81",
+    "name": "Deutschlandfunk",
+    "url": "https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus",
+    "homepage": "https://www.deutschlandfunk.de/",
+    "favicon": "https://www.deutschlandfunk.de/themes/dradio/icons/dlf/apple-touch-icon-60x60.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "opus,information",
+    "state": "Germany",
+    "bitrate": 0
+}

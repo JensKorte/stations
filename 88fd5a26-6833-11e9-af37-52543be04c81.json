@@ -1,0 +1,14 @@
+{
+    "uuid": "88fd5a26-6833-11e9-af37-52543be04c81",
+    "name": "Radio Brisas 98.5 (MDP)",
+    "url": "http://181.41.240.16:8030/live.mp3",
+    "homepage": "http://infobrisas.com/",
+    "favicon": "https://static.radio.es/images/broadcasts/65/fe/107426/2/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español",
+    "tags": "radio,local,mar del plata",
+    "state": "Mar del Plata",
+    "bitrate": 96
+}

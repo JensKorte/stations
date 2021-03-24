@@ -1,0 +1,14 @@
+{
+    "uuid": "9629c940-0601-11e8-ae97-52543be04c81",
+    "name": "KXRY 91.1 \"X Ray FM\" Portland, OR",
+    "url": "http://listen.xray.fm:8000/stream",
+    "homepage": "https://xray.fm/",
+    "favicon": "http://s31.postimg.org/gvngbyezf/unnamed.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "portland,community radio",
+    "state": "Oregon",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9610ad64-0601-11e8-ae97-52543be04c81",
+    "name": "Ballermann Radio",
+    "url": "http://stream.bmr-radio.de",
+    "homepage": "http://www.ballermann-radio.de",
+    "favicon": "http://www.ballermann-radio.de/wp-content/uploads/2016/05/BMR_banner300x300px.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,party,schlager",
+    "state": "",
+    "bitrate": 128
+}

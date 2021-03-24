@@ -1,0 +1,14 @@
+{
+    "uuid": "9617dea5-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 936 Hobart  MP3",
+    "url": "http://live-radio01.mediahubaustralia.com/7LRW/mp3/",
+    "homepage": "https://radio.abc.net.au/stations/local_hobart/live",
+    "favicon": "https://resize.abcradio.net.au/tSBqtfgy3X58gLQ8g3UQPpfXXUs=/100x100/center/middle/http://www.abc.net.au/radio/images/service/ABC-Radio-Hobart.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "hobart,abc,news,information,public,local",
+    "state": "Tasmania",
+    "bitrate": 64
+}

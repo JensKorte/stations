@@ -1,0 +1,14 @@
+{
+    "uuid": "96426965-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Betelgeuse / Радио Бетельгейзе",
+    "url": "http://sat.radio-betelgeuse.com:8000/live",
+    "homepage": "http://www.radio-betelgeuse.com/",
+    "favicon": "http://www.radio-betelgeuse.com/b2/wp-content/uploads/2015/09/radioman2.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "space,music",
+    "state": "",
+    "bitrate": 128
+}

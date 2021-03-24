@@ -1,0 +1,14 @@
+{
+    "uuid": "961c3c79-0601-11e8-ae97-52543be04c81",
+    "name": "BBC Radio Cymru",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p",
+    "homepage": "http://www.bbc.co.uk/radiocymru",
+    "favicon": "http://static.radio.net/images/broadcasts/6b/06/11938/1/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "welsh",
+    "tags": "bbc,local music,sport,news",
+    "state": "Wales",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "43385a94-e295-11e9-a8ba-52543be04c81",
+    "name": "LiveIreland Channel 1",
+    "url": "http://192.111.140.11:8058/stream",
+    "homepage": "https://www.radio.net/s/liveireland1",
+    "favicon": "https://static.radio.net/images/broadcasts/0c/be/3968/1/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "",
+    "state": "Dublin",
+    "bitrate": 128
+}

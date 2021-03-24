@@ -1,0 +1,14 @@
+{
+    "uuid": "8f5caf82-56b6-11e9-aa33-52543be04c81",
+    "name": "КЕКС FM",
+    "url": "http://emg02.hostingradio.ru/keksfm64.aac",
+    "homepage": "http://keks.fm",
+    "favicon": "http://top-radio.ru/assets/image/radio/180/keksfm.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "ru",
+    "tags": "keks,kekc",
+    "state": "Moscow",
+    "bitrate": 64000
+}

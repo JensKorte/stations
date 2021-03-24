@@ -1,0 +1,14 @@
+{
+    "uuid": "cea05625-546f-11ea-be63-52543be04c81",
+    "name": "Ok Radio 105.5 FM",
+    "url": "http://okradio.rtvhd.net:8130/;stream/1",
+    "homepage": "http://www.okradio.fm/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s9039g.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "language": "chata,ingles,english,spanish,español",
+    "tags": "musica latina,latin urban,raggaeton,regueton,chata",
+    "state": "",
+    "bitrate": 32
+}

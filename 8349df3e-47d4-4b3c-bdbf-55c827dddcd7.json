@@ -1,0 +1,14 @@
+{
+    "uuid": "8349df3e-47d4-4b3c-bdbf-55c827dddcd7",
+    "name": "Play Radio Rock",
+    "url": "https://stream.playradio.rs:8443/rock.mp3",
+    "homepage": "https://playradio.rs/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian,english",
+    "tags": "music,internet radio,belgrade,rock",
+    "state": "",
+    "bitrate": 128
+}

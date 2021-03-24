@@ -1,0 +1,14 @@
+{
+    "uuid": "75bc9e68-6fa5-4d87-864f-5b8a9d4c5c86",
+    "name": "radio Free Fm UK",
+    "url": "http://radio.freefm.uk:8020/radio.ogg",
+    "homepage": "https://freefm.co.uk/",
+    "favicon": "https://freefm.co.uk/images/favicon/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "wisbech,electronic,dance",
+    "state": "",
+    "bitrate": 320
+}

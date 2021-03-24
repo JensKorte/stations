@@ -1,0 +1,14 @@
+{
+    "uuid": "e8de3a5d-17a8-11ea-a620-52543be04c81",
+    "name": "Virgin Radio Nouvelle Scène",
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr8.aac",
+    "homepage": "https://www.virginradio.fr/webradios/",
+    "favicon": "https://media.virginradio.fr/3898251/media.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "",
+    "bitrate": 133
+}

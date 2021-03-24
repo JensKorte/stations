@@ -1,0 +1,14 @@
+{
+    "uuid": "271bcbba-2d67-11ea-aa0c-52543be04c81",
+    "name": "Ysäri",
+    "url": "https://stream.bauermedia.fi/ysari/ysari_64.aac",
+    "homepage": "https://www.ysariradio.fi/",
+    "favicon": "https://www.ysariradio.fi/files/meta_images/ysari-fb-cover.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

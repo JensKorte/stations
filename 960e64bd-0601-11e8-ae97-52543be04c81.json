@@ -1,0 +1,14 @@
+{
+    "uuid": "960e64bd-0601-11e8-ae97-52543be04c81",
+    "name": "Rádió GaGa - Marosvásárhely",
+    "url": "http://rc.radiogaga.ro:8000/mp3-256.m3u",
+    "homepage": "http://www.radiogaga.ro",
+    "favicon": "http://marosvasarhelyi.info/wp-content/uploads/2010/10/GAGA4FREKV1.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "hungarian",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 256
+}

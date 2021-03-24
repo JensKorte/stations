@@ -1,0 +1,14 @@
+{
+    "uuid": "962b5245-0601-11e8-ae97-52543be04c81",
+    "name": "Radio C1 inBlu",
+    "url": "http://nr5.newradio.it:8659/stream",
+    "homepage": "http://www.radioc1inblu.it/",
+    "favicon": "http://www.radioc1inblu.it///templates/ts_newsline/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "talk,sport",
+    "state": "Marche",
+    "bitrate": 96
+}

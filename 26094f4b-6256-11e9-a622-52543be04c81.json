@@ -1,0 +1,14 @@
+{
+    "uuid": "26094f4b-6256-11e9-a622-52543be04c81",
+    "name": "Radio Sonoonda 99.7 FM",
+    "url": "http://5.135.183.124:8040/stream.m3u",
+    "homepage": "http://www.sonoonda.com",
+    "favicon": "http://www.sonoonda.com///templates/plantilla01/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,musica,music",
+    "state": "Manabí",
+    "bitrate": 128
+}

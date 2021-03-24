@@ -1,0 +1,14 @@
+{
+    "uuid": "9646f1db-0601-11e8-ae97-52543be04c81",
+    "name": "delta radio X-Mas",
+    "url": "http://streams.deltaradio.de/x-mas/mp3-192/radiosure/",
+    "homepage": "http://www.deltaradio.de/",
+    "favicon": "http://www.deltaradio.de/frontend/theme-delta/design/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "alternative,christmas music",
+    "state": "Schleswig-Holstein",
+    "bitrate": 192
+}

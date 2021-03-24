@@ -1,0 +1,14 @@
+{
+    "uuid": "832d1cdd-ee5d-11e8-a471-52543be04c81",
+    "name": "Radio Noord",
+    "url": "https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls",
+    "homepage": "https://www.rtvnoord.nl/radio",
+    "favicon": "https://www.rtvnoord.nl/Content/Images/noord/touch-icon-ipad-retina.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "nederlands",
+    "tags": "regio,nieuws",
+    "state": "Groningen",
+    "bitrate": 0
+}

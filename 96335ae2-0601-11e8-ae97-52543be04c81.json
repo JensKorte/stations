@@ -1,0 +1,14 @@
+{
+    "uuid": "96335ae2-0601-11e8-ae97-52543be04c81",
+    "name": "SWR Aktuell 64kbps",
+    "url": "http://mp3-live.swr.de/swraktuell_s.m3u",
+    "homepage": "http://www.swr.de/swraktuell/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/4/47/SWR_Aktuell_Logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "information,news",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

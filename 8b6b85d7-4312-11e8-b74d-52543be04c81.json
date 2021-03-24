@@ -1,0 +1,14 @@
+{
+    "uuid": "8b6b85d7-4312-11e8-b74d-52543be04c81",
+    "name": "Choukow Traffic Radio",
+    "url": "http://tv.zkxww.com:1935/broadcast/1003.stream_aac/playlist.m3u8",
+    "homepage": "http://www.zkxww.com/",
+    "favicon": "http://www.zkxww.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "honan",
+    "state": "Honan",
+    "bitrate": 48
+}

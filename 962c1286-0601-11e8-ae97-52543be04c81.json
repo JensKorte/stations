@@ -1,0 +1,14 @@
+{
+    "uuid": "962c1286-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Onda Libera",
+    "url": "http://s6.mediastreaming.it:9064/stream",
+    "homepage": "http://www.ondalibera.it/",
+    "favicon": "http://www.ondalibera.it/images/logo-ondalibera-uff.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop,dance,90s,disco",
+    "state": "Lazio",
+    "bitrate": 96
+}

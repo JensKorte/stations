@@ -1,0 +1,14 @@
+{
+    "uuid": "96163e36-0601-11e8-ae97-52543be04c81",
+    "name": "KATRA FM",
+    "url": "http://www.katrafm.com:8000/live",
+    "homepage": "http://www.katrafm.com/",
+    "favicon": "http://www.predavatel.com/bg/3/plovdiv_snimki/kat.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "contemporary,hits",
+    "state": "Plovdiv",
+    "bitrate": 128
+}

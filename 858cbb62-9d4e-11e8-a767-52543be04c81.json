@@ -1,0 +1,14 @@
+{
+    "uuid": "858cbb62-9d4e-11e8-a767-52543be04c81",
+    "name": "Klassik Radio - News Classics",
+    "url": "https://stream.klassikradio.de/newclassics/mp3-128",
+    "homepage": "https://music.klassikradio.de/?channel=New_Classics_Sender",
+    "favicon": "https://music.klassikradio.de//icons-a30e8c3cdddb2ef4cdc4cfd7bee5a716/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "new classic,classical",
+    "state": "Bavaria",
+    "bitrate": 0
+}

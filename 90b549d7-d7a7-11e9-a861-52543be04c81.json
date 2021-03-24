@@ -1,0 +1,14 @@
+{
+    "uuid": "90b549d7-d7a7-11e9-a861-52543be04c81",
+    "name": "RNI Radio Northsea Inbternational",
+    "url": "http://stream.radio-northsea.de:7000/mp3",
+    "homepage": "https://www.radio-northsea.de/",
+    "favicon": "https://www.radio-northsea.de/wp-content/uploads/2018/04/cropped-RNI_Logo_23_Juli_2013-transparent-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german englisch dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960d2be8-0601-11e8-ae97-52543be04c81",
+    "name": "KVOD 88.1 Colorado Public Radio - Classical - Denver, CO  AAC+",
+    "url": "http://stream2.cprnetwork.org:8000/cpr2_aac",
+    "homepage": "http://www.cpr.org/",
+    "favicon": "http://www.cpr.org/sites/default/files/styles/large/public/images/cpr-logo-square.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "denver,classical,public radio",
+    "state": "Colorado",
+    "bitrate": 48
+}

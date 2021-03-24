@@ -1,0 +1,14 @@
+{
+    "uuid": "9623cd3d-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 639 \"North and West\", Port Pirie, SA  (AAC)",
+    "url": "http://abcradiolivehls-lh.akamaihd.net/i/localportpirie_1@326236/master.m3u8",
+    "homepage": "http://www.abc.net.au/northandwest/",
+    "favicon": "https://resize.abcradio.net.au/unmdDxa7bCFeYHyqVdMltv1-Qnc=/100x100/center/middle/http://www.abc.net.au/radio/images/service/local_northandwest.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "m3u8,port pirie,abc,public radio,local news,information,news",
+    "state": "South Australia",
+    "bitrate": 24
+}

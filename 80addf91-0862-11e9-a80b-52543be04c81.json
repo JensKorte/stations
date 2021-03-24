@@ -1,0 +1,14 @@
+{
+    "uuid": "80addf91-0862-11e9-a80b-52543be04c81",
+    "name": "161.fm",
+    "url": "http://stream.161.fm:8000/128",
+    "homepage": "",
+    "favicon": "http://161.fm/templates/jsn_metro_pro/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "",
+    "state": "Rostov",
+    "bitrate": 128
+}

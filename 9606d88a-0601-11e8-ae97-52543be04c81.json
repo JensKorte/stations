@@ -1,0 +1,14 @@
+{
+    "uuid": "9606d88a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Max Penny",
+    "url": "http://listen.radiomax.technology/penny",
+    "homepage": "http://www.radiomax.at/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s112691q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "instore radio",
+    "state": "",
+    "bitrate": 100
+}

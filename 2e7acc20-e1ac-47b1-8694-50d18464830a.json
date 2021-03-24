@@ -1,0 +1,14 @@
+{
+    "uuid": "2e7acc20-e1ac-47b1-8694-50d18464830a",
+    "name": "Українське радіо. Одеса. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-od-aacplus",
+    "homepage": "http://ukr.radio/radio-od",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Odesa",
+    "bitrate": 48
+}

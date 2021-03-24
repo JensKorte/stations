@@ -1,0 +1,14 @@
+{
+    "uuid": "b11e885d-e303-44ae-9db6-5ed3d6ec2947",
+    "name": "Radio Malva 104.9FM",
+    "url": "http://radiomalva.ddns.net:8000/rmbc.ogg",
+    "homepage": "https://radiomalva.org",
+    "favicon": "https://secure.gravatar.com/blavatar/2674f97dc6ffb1ffca407a88951818c7",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan,spanish",
+    "tags": "radio libre,autogestión,political,local radio,commercial-free,free radio,community radio",
+    "state": "País Valencià",
+    "bitrate": 0
+}

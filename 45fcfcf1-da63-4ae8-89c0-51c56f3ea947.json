@@ -1,0 +1,14 @@
+{
+    "uuid": "45fcfcf1-da63-4ae8-89c0-51c56f3ea947",
+    "name": "Radio Christus",
+    "url": "http://nr8.newradio.it:9532/stream",
+    "homepage": "https://www.radiochristus.it/rch/index.php/",
+    "favicon": "https://www.radiochristus.it/rch/images/headers/header.jpg",
+    "creation": "2021-03-20 10:15:26",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italienisch",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 64
+}

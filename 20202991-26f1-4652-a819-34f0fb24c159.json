@@ -1,0 +1,14 @@
+{
+    "uuid": "20202991-26f1-4652-a819-34f0fb24c159",
+    "name": "RCI Net 105.5 FM",
+    "url": "http://213.239.218.99:7032/stream/1/",
+    "homepage": "https://www.rci.pt/",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/10/41/18993/1/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "hits,news,local news",
+    "state": "Viseu",
+    "bitrate": 64
+}

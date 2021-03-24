@@ -1,0 +1,14 @@
+{
+    "uuid": "96253250-0601-11e8-ae97-52543be04c81",
+    "name": "Radio MPA",
+    "url": "http://s3.mediastreaming.it:9050/listen.pls",
+    "homepage": "http://www.radiompa.com/",
+    "favicon": "http://www.radiompa.com/new/wp-content/uploads/2012/02/RADIO-MPA-300x2073.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "italian pop",
+    "state": "Campania",
+    "bitrate": 64
+}

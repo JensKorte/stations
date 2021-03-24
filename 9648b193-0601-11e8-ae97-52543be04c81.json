@@ -1,0 +1,14 @@
+{
+    "uuid": "9648b193-0601-11e8-ae97-52543be04c81",
+    "name": "Hitradio RTL Sachsen - Top 40",
+    "url": "http://streams.bcs-systems.de/hrrtl/top40/sachsen/mp3/radioplayer/web?",
+    "homepage": "https://www.hitradio-rtl.de/",
+    "favicon": "https://www.hitradio-rtl.de///cms/tpl/hrrtl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock,hits,top 40",
+    "state": "",
+    "bitrate": 192
+}

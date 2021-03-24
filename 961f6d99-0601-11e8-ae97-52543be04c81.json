@@ -1,0 +1,14 @@
+{
+    "uuid": "961f6d99-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 4 Südbaden",
+    "url": "http://mp3-live.swr.de/swr4fr_m.m3u",
+    "homepage": "http://www.swr.de/swr4/bw/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swr4-logo.svg/320px-Swr4-logo.svg.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

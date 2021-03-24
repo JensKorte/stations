@@ -1,0 +1,14 @@
+{
+    "uuid": "2068ca2f-f65c-11e8-a471-52543be04c81",
+    "name": "Unicauca estereo",
+    "url": "http://ftpemisora.unicauca.edu.co:8000/stream",
+    "homepage": "http://www.unicauca.edu.co/sitioemisora/",
+    "favicon": "http://www.unicauca.edu.co/sitioemisora/sites/all/themes/radio/imagenes/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "university radio,folklore,local radio,colombian music",
+    "state": "Cauca",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5b1ddcdd-7f95-11e8-a43d-52543be04c81",
+    "name": "Radio 105 - Estate",
+    "url": "http://icecast.unitedradio.it/105Estate.mp3",
+    "homepage": "http://www.105.net/",
+    "favicon": "https://www.105.net/resizer/380/380/true/1529485063147.png--.png?1529485063000",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "mediaset,summer,hits",
+    "state": "Lombardia",
+    "bitrate": 128
+}

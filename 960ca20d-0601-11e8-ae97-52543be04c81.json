@@ -1,0 +1,14 @@
+{
+    "uuid": "960ca20d-0601-11e8-ae97-52543be04c81",
+    "name": "Hobby Rádió",
+    "url": "http://www.hobbyradio.hu:8000/hobbyradio.mp3",
+    "homepage": "http://www.hobbyradio.hu/",
+    "favicon": "http://www.hobbyradio.hu/images/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "70s,90s,80s,talk",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963d1a76-0601-11e8-ae97-52543be04c81",
+    "name": "Laut.FM RadioRock",
+    "url": "http://stream.laut.fm/radiorock",
+    "homepage": "http://www.laut.fm/radiorock/",
+    "favicon": "http://assets.laut.fm/0904db4f01441a8614ae6a03d0cc8a81?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock,alternative,emo,hard rock",
+    "state": "",
+    "bitrate": 128
+}

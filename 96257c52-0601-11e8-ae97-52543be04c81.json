@@ -1,0 +1,14 @@
+{
+    "uuid": "96257c52-0601-11e8-ae97-52543be04c81",
+    "name": "Amsterdam Funk Channel",
+    "url": "http://stream.afc.fm:8504/;stream.mp3",
+    "homepage": "http://www.afc.fm/",
+    "favicon": "http://www.afc.fm///templates/tk_gen_free_ii/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "amsterdam,funk,neo-soul,nu-disco,rnb,soul",
+    "state": "",
+    "bitrate": 192
+}

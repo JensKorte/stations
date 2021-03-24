@@ -1,0 +1,14 @@
+{
+    "uuid": "733251b1-e24b-45cf-bdf1-91a8301b0cf5",
+    "name": "BBC Radio Sunderland",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/ak/bbc_radio_sunderland.m3u8",
+    "homepage": "https://www.bbc.co.uk/events/e6qmzc",
+    "favicon": "https://ichef.bbci.co.uk/images/ic/1008x567/p092qnkk.jpg",
+    "creation": "2021-03-22 20:05:05",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "local news",
+    "state": "",
+    "bitrate": 135
+}

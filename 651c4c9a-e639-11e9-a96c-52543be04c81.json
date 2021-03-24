@@ -1,0 +1,14 @@
+{
+    "uuid": "651c4c9a-e639-11e9-a96c-52543be04c81",
+    "name": "France Culture",
+    "url": "http://icecast.radiofrance.fr/franceculture-midfi.mp3",
+    "homepage": "https://www.franceculture.fr",
+    "favicon": "https://www.franceculture.fr//favicons/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "french",
+    "tags": "radio france,public radio,talk,culture",
+    "state": "France",
+    "bitrate": 0
+}

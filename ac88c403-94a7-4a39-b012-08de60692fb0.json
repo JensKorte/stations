@@ -1,0 +1,14 @@
+{
+    "uuid": "ac88c403-94a7-4a39-b012-08de60692fb0",
+    "name": "The Kyoto Connection Radio",
+    "url": "https://server.laradio.online:59009/live",
+    "homepage": "http://www.thekyotoconnection.com/radio/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "japanese",
+    "tags": "japanese,japan,japanese music",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962886df-0601-11e8-ae97-52543be04c81",
+    "name": "Radyo ILEF Ankara",
+    "url": "http://radyo.cc.ankara.edu.tr:8089/listen.pls",
+    "homepage": "http://ilef.ankara.edu.tr/radyoilef/",
+    "favicon": "http://ilef.ankara.edu.tr/wp-content/themes/ilef/images/icon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "jazz,easy listening,ankara üniversitesi,i̇letişim fakültesi,ankara,college radio",
+    "state": "",
+    "bitrate": 64
+}

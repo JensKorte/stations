@@ -1,0 +1,14 @@
+{
+    "uuid": "9630bad0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Punto Nuovo",
+    "url": "http://onair15.xdevel.com:8062/listen.pls",
+    "homepage": "http://www.radiopuntonuovo.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s72197q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cesinali,pop,talk,news,sport",
+    "state": "Campania",
+    "bitrate": 128
+}

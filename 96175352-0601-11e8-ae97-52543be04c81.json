@@ -1,0 +1,14 @@
+{
+    "uuid": "96175352-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ondaine",
+    "url": "http://live.francra.org:8000/RadioOndaine.m3u",
+    "homepage": "http://www.radio-ondaine.fr/",
+    "favicon": "http://www.radio-ondaine.fr/images/site/rlogo_top2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Auvergne-Rhône-Alpes",
+    "bitrate": 0
+}

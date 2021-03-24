@@ -1,0 +1,14 @@
+{
+    "uuid": "368c18e4-5a19-11e9-a622-52543be04c81",
+    "name": "Radio Tarquinia",
+    "url": "http://188.165.192.5:8215/stream2",
+    "homepage": "http://www.radiotarquinia.com/",
+    "favicon": "http://www.radiotarquinia.com/sites/all/themes/onepage/onepage/css/colors/orange/images/front_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "tarquinia,pop",
+    "state": "Lazio",
+    "bitrate": 128
+}

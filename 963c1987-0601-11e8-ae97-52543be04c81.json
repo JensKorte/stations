@@ -1,0 +1,14 @@
+{
+    "uuid": "963c1987-0601-11e8-ae97-52543be04c81",
+    "name": "Rado VazoGasy",
+    "url": "http://stream.radiovazogasy.com:8001/;stream/1",
+    "homepage": "http://radiovazogasy.com/",
+    "favicon": "http://radiovazogasy.com/application/views/themes/rvg_v6/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "language": "malagasy",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

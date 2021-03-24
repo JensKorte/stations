@@ -1,0 +1,14 @@
+{
+    "uuid": "cb5806fc-2786-11e9-a80b-52543be04c81",
+    "name": "ICI RDI TV",
+    "url": "http://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8",
+    "homepage": "http://ici.radio-canada.ca/rdi",
+    "favicon": "http://ici.radio-canada.ca/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "",
+    "state": "Quebec",
+    "bitrate": 0
+}

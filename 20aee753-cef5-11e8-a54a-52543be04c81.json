@@ -1,0 +1,14 @@
+{
+    "uuid": "20aee753-cef5-11e8-a54a-52543be04c81",
+    "name": "Stockholm FM 88,0 Sweden",
+    "url": "http://mrs.net/stream/cityradio_fm88_broadband/listenlive.m3u",
+    "homepage": "http://www.narradio.se",
+    "favicon": "http://www.narradio.se/logo_205.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "stockholm",
+    "tags": "various,talk,politics,church,culture",
+    "state": "",
+    "bitrate": 128
+}

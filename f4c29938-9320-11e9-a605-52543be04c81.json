@@ -1,0 +1,14 @@
+{
+    "uuid": "f4c29938-9320-11e9-a605-52543be04c81",
+    "name": "RPP Noticias",
+    "url": "http://20323.live.streamtheworld.com/RADIO_RPPAAC.aac?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjczMzU0MzM2IiwiaWF0IjoxNTYxMDEwMjI4LCJ0ZC1yZWciOmZhbHNlfQ.T2EHy5YM9Vq2_iFrx2S56UG5c7mSTFot-Y5UAh7YFro",
+    "homepage": "https://rpp.pe/",
+    "favicon": "https://s.rpp-noticias.io/images/imgshare.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "sport,talk,news",
+    "state": "Lima",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9611b77e-0601-11e8-ae97-52543be04c81",
+    "name": "RadioTP",
+    "url": "http://radiotp.pl:8058/stream",
+    "homepage": "http://www.radiotp.pl/",
+    "favicon": "http://www.radiotp.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

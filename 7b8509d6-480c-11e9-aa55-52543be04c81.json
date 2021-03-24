@@ -1,0 +1,14 @@
+{
+    "uuid": "7b8509d6-480c-11e9-aa55-52543be04c81",
+    "name": "Subsonic Radio Requests",
+    "url": "http://horizons.subsonicradio.com:8000/requests.mp3.m3u",
+    "homepage": "http://www.subsonicradio.com",
+    "favicon": "http://www.subsonicradio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "disneyland park,disneyland",
+    "state": "",
+    "bitrate": 128
+}

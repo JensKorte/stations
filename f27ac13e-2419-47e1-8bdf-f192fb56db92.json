@@ -1,0 +1,14 @@
+{
+    "uuid": "f27ac13e-2419-47e1-8bdf-f192fb56db92",
+    "name": "Radio Domino",
+    "url": "http://51.15.152.81:9142/stream",
+    "homepage": "http://www.radiodomino.net",
+    "favicon": "http://radiodomino.net/wp-content/uploads/2020/08/RadioDomino.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "español latino",
+    "tags": "",
+    "state": "LIMA",
+    "bitrate": 128
+}

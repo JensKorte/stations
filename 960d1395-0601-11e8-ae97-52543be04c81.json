@@ -1,0 +1,14 @@
+{
+    "uuid": "960d1395-0601-11e8-ae97-52543be04c81",
+    "name": "Southern FM",
+    "url": "http://stream.swifthosting.com.au:8080/stream",
+    "homepage": "http://www.southernfm.com.au/",
+    "favicon": "https://www.southernfm.com.au/wp-content/uploads/logos/88.3_Logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "community radio",
+    "state": "Victoria",
+    "bitrate": 128
+}

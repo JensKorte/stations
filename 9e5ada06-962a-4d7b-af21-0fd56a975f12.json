@@ -1,0 +1,14 @@
+{
+    "uuid": "9e5ada06-962a-4d7b-af21-0fd56a975f12",
+    "name": "WFSQ",
+    "url": "https://mp3stream.wfsu.org:8443/915hi",
+    "homepage": "https://wfsu.org",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "arts,cultural,classical",
+    "state": "Florida",
+    "bitrate": 128
+}

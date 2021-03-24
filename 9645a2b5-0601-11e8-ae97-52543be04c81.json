@@ -1,0 +1,14 @@
+{
+    "uuid": "9645a2b5-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - BoomFM Classics",
+    "url": "http://streams.fluxfm.de/boomfmclassics/mp3-128/audio/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2016/11/fluxfm_boomfm_classics_n1-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "hiphop,classic hip hop",
+    "state": "Berlin",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963b8f93-0601-11e8-ae97-52543be04c81",
+    "name": "KJEM 89.9 Northwest Public Radio Jazz - Pullman, WA",
+    "url": "http://streams.nwpr.org:8000/NWPRKJEM",
+    "homepage": "http://www.kjemjazz.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/nwpr/files/styles/large/public/201505/kjem_block.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pullman,jazz,public radio",
+    "state": "Washington",
+    "bitrate": 140
+}

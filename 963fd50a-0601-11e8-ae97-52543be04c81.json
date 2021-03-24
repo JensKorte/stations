@@ -1,0 +1,14 @@
+{
+    "uuid": "963fd50a-0601-11e8-ae97-52543be04c81",
+    "name": "Play Radio HitZ",
+    "url": "http://live.playradio.org:9090/PlayHitz.mp3",
+    "homepage": "https://www​.playradio.org/",
+    "favicon": "https://www.playradio.org/player/assets/img/favicon-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "hits",
+    "state": "",
+    "bitrate": 192
+}

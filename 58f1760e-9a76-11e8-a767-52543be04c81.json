@@ -1,0 +1,14 @@
+{
+    "uuid": "58f1760e-9a76-11e8-a767-52543be04c81",
+    "name": "Shine.FM",
+    "url": "http://mist.olivet.edu:8000/shine64",
+    "homepage": "http://shine.fm",
+    "favicon": "http://stations.shine.fm/wp-content/uploads/2016/11/512-x-512-300x300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "christian contemporary,christian",
+    "state": "Illinois",
+    "bitrate": 64
+}

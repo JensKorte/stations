@@ -1,0 +1,14 @@
+{
+    "uuid": "9639399b-0601-11e8-ae97-52543be04c81",
+    "name": "Bremen Next (56 kbit/s)",
+    "url": "http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/64/stream.mp3",
+    "homepage": "http://www.radiobremen.de/bremennext/",
+    "favicon": "http://www.radiobremen.de//logo-bremennext102_v-viertopteaser.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "electronic,hiphop,black,radio bremen,ard,public radio",
+    "state": "Bremen",
+    "bitrate": 0
+}

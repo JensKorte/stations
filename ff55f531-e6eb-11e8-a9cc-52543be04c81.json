@@ -1,0 +1,14 @@
+{
+    "uuid": "ff55f531-e6eb-11e8-a9cc-52543be04c81",
+    "name": "TSN 1050",
+    "url": "http://provisioning.streamtheworld.com/pls/CHUMAMAAC.pls",
+    "homepage": "https://www.tsn.ca/radio/toronto-1050",
+    "favicon": "https://www.tsn.ca//img/tsn/icons/apple-touch-icon-114x114.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "tsn,toronto,sports talk",
+    "state": "Ontario",
+    "bitrate": 40
+}

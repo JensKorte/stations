@@ -1,0 +1,14 @@
+{
+    "uuid": "960edb05-0601-11e8-ae97-52543be04c81",
+    "name": "WRUV 90.1 Burlington, VT",
+    "url": "http://icecast.uvm.edu:8005/wruv_fm_256",
+    "homepage": "http://wruv.org/",
+    "favicon": "http://wruv.org//wp-content/uploads/2015/01/wruv-logo-300-1-1.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "burlington,eclectic,freeform,university radio",
+    "state": "Vermont",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a83cd3c4-b4fa-11e9-acb2-52543be04c81",
+    "name": "Rock Antenne Heavy Metal",
+    "url": "http://www.rockantenne.de/webradio/channels/heavy-metal.m3u",
+    "homepage": "https://www.webradio.de/rock-antenne/heavy-metal",
+    "favicon": "https://cdn.antenne.de/rockantenne-de/uploads/images/opengraph/default-2017.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "de",
+    "tags": "heavy rock,heavy metal",
+    "state": "Bavaria",
+    "bitrate": 128
+}

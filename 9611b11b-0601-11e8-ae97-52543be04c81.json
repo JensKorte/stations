@@ -1,0 +1,14 @@
+{
+    "uuid": "9611b11b-0601-11e8-ae97-52543be04c81",
+    "name": "Warm FM 104.2",
+    "url": "http://stream05.warm.fm:9002/warm",
+    "homepage": "http://www.warm.fm/",
+    "favicon": "https://i3.radionomy.com/radios/400/0990ed5f-6121-4af2-be84-9827b8c1c4a4.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "electronic",
+    "state": "Liège",
+    "bitrate": 0
+}

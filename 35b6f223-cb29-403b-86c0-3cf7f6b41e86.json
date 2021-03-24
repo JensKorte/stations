@@ -1,0 +1,14 @@
+{
+    "uuid": "35b6f223-cb29-403b-86c0-3cf7f6b41e86",
+    "name": "FM La Uni 91.7",
+    "url": "http://cdn.instream.audio:9275/stream",
+    "homepage": "https://www.ungs.edu.ar/fmlauni/radio",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish,español",
+    "tags": "sarmiento,universidad",
+    "state": "Buenos Aires",
+    "bitrate": 48
+}

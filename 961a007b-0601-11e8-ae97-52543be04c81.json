@@ -1,0 +1,14 @@
+{
+    "uuid": "961a007b-0601-11e8-ae97-52543be04c81",
+    "name": "Ancient FM",
+    "url": "http://5.152.208.98:8058/",
+    "homepage": "http://www.ancientfm.com/",
+    "favicon": "http://static.radio.fr/images/broadcasts/ab/6b/6602/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english,french",
+    "tags": "classical,medieval,mittelalter,folk",
+    "state": "Ontario",
+    "bitrate": 64
+}

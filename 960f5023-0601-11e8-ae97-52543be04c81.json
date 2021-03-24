@@ -1,0 +1,14 @@
+{
+    "uuid": "960f5023-0601-11e8-ae97-52543be04c81",
+    "name": "Rai Friuli Venezia Giulia",
+    "url": "http://b2.httpstream2.rai.it/venezia1_audioH24.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8",
+    "homepage": "http://www.sedefvg.rai.it/dl/portali/site/guida/PublishingBlock-fefc6424-d1eb-4b9c-a2bc-404b36d014b7.html",
+    "favicon": "https://upload.wikimedia.org/wikipedia/it/3/31/Rai_FVG.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rai,public radio",
+    "state": "Friuli-Venezia Giulia",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c552e54c-5ca3-11e9-a622-52543be04c81",
+    "name": "Radio Platinum 90.9 FM (AAC)",
+    "url": "https://streamingecuador.net:8160/radioplatinum.m3u",
+    "homepage": "http://www.ecuadoradio.ec/",
+    "favicon": "https://streamingecuador.net/makrostreaming/radioplatinum/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "noticias,musica,news,music",
+    "state": "Pichincha",
+    "bitrate": 0
+}

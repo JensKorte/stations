@@ -1,0 +1,14 @@
+{
+    "uuid": "961779fd-0601-11e8-ae97-52543be04c81",
+    "name": "CIHO \"Charlevoix 96.3\" Saint-Hilarion, QC",
+    "url": "http://stream.cloudmjs.com:8000/ciho.mp3",
+    "homepage": "http://www.cihofm.com/",
+    "favicon": "http://www.cihofm.com//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "charlevoix,saint-hillarion,community radio",
+    "state": "Quebec",
+    "bitrate": 128
+}

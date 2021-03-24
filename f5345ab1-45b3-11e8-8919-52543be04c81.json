@@ -1,0 +1,14 @@
+{
+    "uuid": "f5345ab1-45b3-11e8-8919-52543be04c81",
+    "name": "Skala FM",
+    "url": "http://webradio.skala.fm/kolding",
+    "homepage": "http://www.skala.fm/",
+    "favicon": "http://www.skala.fm/wp-content/themes/skalafm/img/skala-logo2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "hits,music,local radio",
+    "state": "",
+    "bitrate": 192
+}

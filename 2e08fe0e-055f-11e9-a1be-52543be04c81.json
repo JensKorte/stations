@@ -1,0 +1,14 @@
+{
+    "uuid": "2e08fe0e-055f-11e9-a1be-52543be04c81",
+    "name": "Radio 2000",
+    "url": "http://159.69.217.78:8000/?radio=radio2000.mp3",
+    "homepage": "http://radio2000.it/",
+    "favicon": "https://www.radio2000.it/wp-content/uploads/2017/11/cropped-radio2000_logo-2-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "schlager",
+    "state": "",
+    "bitrate": 128
+}

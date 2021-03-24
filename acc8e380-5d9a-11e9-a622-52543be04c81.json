@@ -1,0 +1,14 @@
+{
+    "uuid": "acc8e380-5d9a-11e9-a622-52543be04c81",
+    "name": "Radio Aventura 107.1 FM",
+    "url": "http://streaming.hdserver.biz:9424/listen.pls",
+    "homepage": "https://twitter.com/radioaventurafm",
+    "favicon": "https://cdn-profiles.tunein.com/s142387/images/logoq.png?t=155248",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,music,musica",
+    "state": "Pastaza",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960c9fc0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio FFN",
+    "url": "http://player.ffn.de/ffn.aac",
+    "homepage": "http://www.ffn.de/",
+    "favicon": "https://www.ffn.de///typo3conf/ext/nidag_template/templates/default/public/img/ffn_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Lower Saxony",
+    "bitrate": 48
+}

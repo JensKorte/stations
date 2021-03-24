@@ -1,0 +1,14 @@
+{
+    "uuid": "076cbe50-64fd-432b-9327-8ec4102de279",
+    "name": "Bibel TV",
+    "url": "https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8",
+    "homepage": "https://www.bibeltv.de/livestreams/bibeltv/",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "bibel,tv,christian",
+    "state": "",
+    "bitrate": 2
+}

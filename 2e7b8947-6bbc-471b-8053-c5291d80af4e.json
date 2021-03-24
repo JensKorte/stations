@@ -1,0 +1,14 @@
+{
+    "uuid": "2e7b8947-6bbc-471b-8053-c5291d80af4e",
+    "name": "Radio Nostalgia",
+    "url": "https://fred.torontocast.com:1395/stream",
+    "homepage": "http://www.radionostalgia.nl/",
+    "favicon": "https://www.radionostalgia.nl/radionostalgialogo_100.gif",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "deutsch,français,nederlands,french,german,dutch",
+    "tags": "big band,chansons françaises,schlager,big band,jive,swing,jazz,50s,top 40,30s,1920s,oldies,78 rpm",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "b342d2e1-3e72-4502-8fae-7ed9cd71f845",
+    "name": "Radio 2 - FM 103.1 mhz",
+    "url": "https://audio.bustream.com:8004/stream",
+    "homepage": "http://www.radio2fm.com.ar/",
+    "favicon": "http://www.radio2fm.com.ar/images/marca_radio_2.png",
+    "creation": "2021-03-21 05:31:52",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish,español",
+    "tags": "godoy cruz,radio 2,rock",
+    "state": "Mendoza",
+    "bitrate": 0
+}

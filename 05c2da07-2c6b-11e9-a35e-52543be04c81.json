@@ -1,0 +1,14 @@
+{
+    "uuid": "05c2da07-2c6b-11e9-a35e-52543be04c81",
+    "name": "БИМ-радио",
+    "url": "http://av.bimradio.ru:8066/bim_mp3_128k",
+    "homepage": "http://www.bimradio.ru/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/f/f0/%D0%91%D0%98%D0%9C-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.jpeg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "",
+    "state": "Татарстан",
+    "bitrate": 128
+}

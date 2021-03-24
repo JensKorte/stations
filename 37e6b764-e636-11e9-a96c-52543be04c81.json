@@ -1,0 +1,14 @@
+{
+    "uuid": "37e6b764-e636-11e9-a96c-52543be04c81",
+    "name": "Fip",
+    "url": "http://icecast.radiofrance.fr/fip-midfi.mp3",
+    "homepage": "https://www.fip.fr/",
+    "favicon": "https://www.fip.fr//favicons/192-192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "french",
+    "tags": "radio france,radio public,eclectic,pop,jazz",
+    "state": "France",
+    "bitrate": 0
+}

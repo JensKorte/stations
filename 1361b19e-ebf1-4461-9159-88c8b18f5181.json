@@ -1,0 +1,14 @@
+{
+    "uuid": "1361b19e-ebf1-4461-9159-88c8b18f5181",
+    "name": "Radio Voice of Burma",
+    "url": "http://stream0.radiostyle.ru:8000/voiceofburma",
+    "homepage": "http://www.voiceofburma.ru",
+    "favicon": "https://cdn.raddio.net/storage/photos/260073/877dc817a112737958a17d709a527d45.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "language": "burmese",
+    "tags": "culture,business news,folk,talk,news,pop",
+    "state": "",
+    "bitrate": 128
+}

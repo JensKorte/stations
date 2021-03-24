@@ -1,0 +1,14 @@
+{
+    "uuid": "fecf5025-96de-11e8-a767-52543be04c81",
+    "name": "Radio Voima",
+    "url": "https://cast2.radiovoima.fi/voima.mp3",
+    "homepage": "https://www.radiovoima.fi/",
+    "favicon": "https://www.radiovoima.fi/sites/all/themes/radiovoima/images/rv-share-default.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

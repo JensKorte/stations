@@ -1,0 +1,14 @@
+{
+    "uuid": "f9dc40ac-1817-4949-80cc-060323e9392b",
+    "name": "BBC Parliament",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8",
+    "homepage": "https://www.bbc.co.uk/iplayer/live/bbcparliament",
+    "favicon": "https://www.google.com/search?q=bbc+favicon\u0026safe=strict\u0026client=ubuntu\u0026hs=BLZ\u0026channel=fs\u0026tbm=isch\u0026source=iu\u0026ictx=1\u0026fir=VtAIp1BBqAKnNM%252C8Sis6hdiQN4LfM%252C_\u0026vet=1\u0026usg=AI4_-kQLMvm9AJC_Zl59QRDVpBTnxaIjUw\u0026sa=X\u0026ved=2ahUKEwisz-vx_OjrAhX_RhUIHVKRD9kQ9QF6BAgKEDM#imgrc=VtAIp1BBqAKnNM",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "talk,news,parliament,uk",
+    "state": "",
+    "bitrate": 978
+}

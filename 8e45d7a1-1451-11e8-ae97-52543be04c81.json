@@ -1,0 +1,14 @@
+{
+    "uuid": "8e45d7a1-1451-11e8-ae97-52543be04c81",
+    "name": "Radio Vladimirci",
+    "url": "http://185.102.236.30:8050/listen.pls",
+    "homepage": "http://www.radiovladimirci.com",
+    "favicon": "http://www.radiovladimirci.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 96
+}

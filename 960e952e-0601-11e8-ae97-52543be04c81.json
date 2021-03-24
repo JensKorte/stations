@@ -1,0 +1,14 @@
+{
+    "uuid": "960e952e-0601-11e8-ae97-52543be04c81",
+    "name": "radio SAW",
+    "url": "http://saw-de-hz-fal-stream04-cluster01.radiohost.de:80/saw_128",
+    "homepage": "http://www.radiosaw.de",
+    "favicon": "http://www.radiosaw.de/sites/default/files/logo_0_1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "Saxony-Anhalt",
+    "bitrate": 128
+}

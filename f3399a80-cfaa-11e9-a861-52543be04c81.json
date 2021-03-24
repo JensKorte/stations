@@ -1,0 +1,14 @@
+{
+    "uuid": "f3399a80-cfaa-11e9-a861-52543be04c81",
+    "name": "Radyo Balkan",
+    "url": "http://sesle.radyobalkan.com:8050/stream",
+    "homepage": "https://www.radyobalkan.com/",
+    "favicon": "https://www.radyobalkan.com/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Turkmenistan",
+    "country_code": "TM",
+    "language": "yugoslavian,albanian,greek,bulgarian,turkish",
+    "tags": "folk music,balkan",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ecc988d8-94ff-11e8-a767-52543be04c81",
+    "name": "Dark Edge Radio",
+    "url": "http://stream.darkedge.ro:8000/",
+    "homepage": "http://darkedge.ro/",
+    "favicon": "http://darkedge.ro/images/logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "english",
+    "tags": "",
+    "state": "Bucharest",
+    "bitrate": 128
+}

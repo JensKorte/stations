@@ -1,0 +1,14 @@
+{
+    "uuid": "6346c8c8-61fa-11e9-a622-52543be04c81",
+    "name": "Radio Cenepa 100.3 FM",
+    "url": "http://compuhomeastream.ovh:8018/cenepa",
+    "homepage": "https://radiocenepafm.com/",
+    "favicon": "https://radiocenepafm.com/wp-content/uploads/2018/12/logo_2-300x100.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,music,musica",
+    "state": "Morona Santiago",
+    "bitrate": 64
+}

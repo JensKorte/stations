@@ -1,0 +1,14 @@
+{
+    "uuid": "960e6303-0601-11e8-ae97-52543be04c81",
+    "name": "BOIR - Bay of Islands Radio - Corner Brook, NL",
+    "url": "http://142.4.217.133:8458/stream",
+    "homepage": "http://boir.ca/",
+    "favicon": "http://boir.ca/wp-content/uploads/2015/04/boirprofile1-50x50.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "corner brook,community radio",
+    "state": "Newfoundland",
+    "bitrate": 192
+}

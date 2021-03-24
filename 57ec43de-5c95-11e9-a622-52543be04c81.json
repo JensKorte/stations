@@ -1,0 +1,14 @@
+{
+    "uuid": "57ec43de-5c95-11e9-a622-52543be04c81",
+    "name": "Radio La Voz de María 88.1 FM",
+    "url": "http://72.52.144.7:8011/listen.pls",
+    "homepage": "https://www.lavozdemaria.ec/es/",
+    "favicon": "https://www.lavozdemaria.ec/images/logo/logo-cuadrado.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "catolica,cristiana,catholic talk,catholic,christian praise\u0026worship,christian,talk,music",
+    "state": "Guayaquil",
+    "bitrate": 48
+}

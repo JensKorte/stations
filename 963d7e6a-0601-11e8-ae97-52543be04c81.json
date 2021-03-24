@@ -1,0 +1,14 @@
+{
+    "uuid": "963d7e6a-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Nova",
+    "url": "http://radio.08-produccions.cat:8000/rvilanova.mp3",
+    "homepage": "https://www.vilanovainformacio.cat/radio-nova/",
+    "favicon": "https://www.vilanovainformacio.cat/wp-content/uploads/2016/06/cropped-VI-logo-transparent-512-1-200x200.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "vilanova del camí",
+    "state": "Penedès",
+    "bitrate": 128
+}

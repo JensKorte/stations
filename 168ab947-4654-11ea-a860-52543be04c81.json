@@ -1,0 +1,14 @@
+{
+    "uuid": "168ab947-4654-11ea-a860-52543be04c81",
+    "name": "CBC Radio One Kitchener-Waterloo (CBLA-FM-2 89.1)",
+    "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ekw",
+    "homepage": "https://www.cbc.ca/listen/live-radio?radio_one=kitchener_waterloo",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Cbc_radio_one_paris.svg/640px-Cbc_radio_one_paris.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "cbc,public radio,news",
+    "state": "Ontario",
+    "bitrate": 0
+}

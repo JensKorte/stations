@@ -1,0 +1,14 @@
+{
+    "uuid": "9613cc24-0601-11e8-ae97-52543be04c81",
+    "name": "IB3 Ràdio Menorca",
+    "url": "http://streaming01.ib3radio.com:8000/ib3radio_menorca",
+    "homepage": "http://ib3tv.com/radio",
+    "favicon": "http://ib3tv.com/icon.114.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "talk,news",
+    "state": "Illes Balears",
+    "bitrate": 0
+}

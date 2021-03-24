@@ -1,0 +1,14 @@
+{
+    "uuid": "5c4f045c-200f-11e8-a334-52543be04c81",
+    "name": "RFT (Radio Flyweb Tropikal)",
+    "url": "http://streamantille.com:8002/;stream.mp3",
+    "homepage": "http://flywebtropikal.fr/",
+    "favicon": "http://flywebtropikal.fr/wp-content/uploads/2017/11/unnamed-150x150.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french,creole",
+    "tags": "zouk",
+    "state": "",
+    "bitrate": 128
+}

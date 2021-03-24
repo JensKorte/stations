@@ -1,0 +1,14 @@
+{
+    "uuid": "f3c1dec6-576b-11ea-be63-52543be04c81",
+    "name": "Radio Big FM",
+    "url": "http://46.252.33.58:9310/;stream.mp3?_=1",
+    "homepage": "http://bigfm.al/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Albania",
+    "country_code": "AL",
+    "language": "albanian,shqip",
+    "tags": "albania,tirane",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96378d71-0601-11e8-ae97-52543be04c81",
+    "name": "Radio MARŠ",
+    "url": "http://frekvenca.eu:8000/radiomars.mp3.m3u",
+    "homepage": "http://radiomars.si/",
+    "favicon": "http://www.radiomars.si/sites/default/files/logo_1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "student radio",
+    "state": "",
+    "bitrate": 320
+}

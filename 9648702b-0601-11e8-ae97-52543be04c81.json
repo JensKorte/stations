@@ -1,0 +1,14 @@
+{
+    "uuid": "9648702b-0601-11e8-ae97-52543be04c81",
+    "name": "NDR Info (Hamburg)",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u",
+    "homepage": "https://www.ndr.de/info/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/ndr_ndrinfo-10.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "regional,news,culture,kultur,local news,news,information",
+    "state": "Hamburg",
+    "bitrate": 0
+}

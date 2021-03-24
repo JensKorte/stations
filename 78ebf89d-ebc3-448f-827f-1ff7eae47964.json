@@ -1,0 +1,14 @@
+{
+    "uuid": "78ebf89d-ebc3-448f-827f-1ff7eae47964",
+    "name": "VIP-Radios - Relax Zone",
+    "url": "http://178.32.111.41:8045/stream-128kmp3-RelaxZone",
+    "homepage": "http://www.vip-radios.fm/station/relax-zone-2/",
+    "favicon": "http://www.vip-radios.fm/wp-content/uploads/fly-images/83/Logo-RelaxZone-582x582-c.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français,french",
+    "tags": "relaxing,chill,chillout,relax",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9baa9e63-acb8-414d-a833-74b2cbbd75e8",
+    "name": "Rovinj FM",
+    "url": "http://rovinj.fm:8000/",
+    "homepage": "https://rovinj.fm/",
+    "favicon": "https://rovinj.fm/images/rovinjfm_logo_transparent_white_border.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "information,folk,pop,local news",
+    "state": "",
+    "bitrate": 320
+}

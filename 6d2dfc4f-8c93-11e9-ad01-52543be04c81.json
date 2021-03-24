@@ -1,0 +1,14 @@
+{
+    "uuid": "6d2dfc4f-8c93-11e9-ad01-52543be04c81",
+    "name": "Beyzade FM",
+    "url": "http://sunucu.radyodinle.com:9900/;*.mp3",
+    "homepage": "http://www.beyzadefm.com.tr/",
+    "favicon": "http://www.beyzadefm.com.tr//Images/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "islamic",
+    "state": "Istanbul",
+    "bitrate": 96
+}

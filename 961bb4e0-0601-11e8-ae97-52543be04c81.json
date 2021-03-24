@@ -1,0 +1,14 @@
+{
+    "uuid": "961bb4e0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ramona",
+    "url": "http://185.123.117.122:8000/ramona.mp3",
+    "homepage": "http://www.radioramona.fi/",
+    "favicon": "http://www.radioramona.fi/sites/all/themes/custom/client/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "pop",
+    "state": "Satakunta",
+    "bitrate": 128
+}

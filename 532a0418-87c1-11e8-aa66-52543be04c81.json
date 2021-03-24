@@ -1,0 +1,14 @@
+{
+    "uuid": "532a0418-87c1-11e8-aa66-52543be04c81",
+    "name": "LFM",
+    "url": "http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3",
+    "homepage": "https://www.lfm.ch/",
+    "favicon": "https://www.lfm.ch/wp-content/uploads/2017/07/LFM_Allonge_Fond_Blanc_v01copie.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "français",
+    "tags": "suisse",
+    "state": "",
+    "bitrate": 128
+}

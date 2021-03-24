@@ -1,0 +1,14 @@
+{
+    "uuid": "cfd5a3c6-7bde-411e-bcdb-04a3a32f2897",
+    "name": "KMSC Fusion 93",
+    "url": "http://shoutcast.morningside.edu:8000/KMSC-Music.m3u",
+    "homepage": "https://my.morningside.edu/academics/mass_communication/kmsc/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kmsc_4.jpg/220px-Kmsc_4.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "alternative,college radio,sioux city",
+    "state": "Iowa",
+    "bitrate": 128
+}

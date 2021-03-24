@@ -1,0 +1,14 @@
+{
+    "uuid": "287dc1a6-02a8-4480-92eb-47260d7d8c4f",
+    "name": "Kaua‘i Community Radio",
+    "url": "https://s8.phx.icastcenter.com:9000/stream",
+    "homepage": "https://www.kkcr.org/onair/",
+    "favicon": "https://www.kkcr.org/favicon.ico",
+    "creation": "2021-03-06 10:59:09",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "hawaiian,english",
+    "tags": "community radio,hawaiian music",
+    "state": "Hawaii",
+    "bitrate": 128
+}

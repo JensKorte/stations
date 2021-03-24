@@ -1,0 +1,14 @@
+{
+    "uuid": "eb668901-6d33-11e8-b15b-52543be04c81",
+    "name": "MET107 (HLS)",
+    "url": "http://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/playlist.m3u8",
+    "homepage": "http://www.met107.fm",
+    "favicon": "http://www.met107.fm/static/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "world music",
+    "state": "Bangkok",
+    "bitrate": 128
+}

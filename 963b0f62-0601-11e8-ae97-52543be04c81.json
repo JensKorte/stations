@@ -1,0 +1,14 @@
+{
+    "uuid": "963b0f62-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Line 99.1 Bursa",
+    "url": "http://www.radioline.fm:8000/listen.pls",
+    "homepage": "http://radioline.fm/",
+    "favicon": "http://radioline.fm/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "chillout,european music",
+    "state": "Bursa",
+    "bitrate": 64
+}

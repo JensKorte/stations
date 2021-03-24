@@ -1,0 +1,14 @@
+{
+    "uuid": "961289fd-0601-11e8-ae97-52543be04c81",
+    "name": "Irish Pub Radio [Data Centre 1]",
+    "url": "http://178.32.219.72:8326/",
+    "homepage": "http://www.irishpubradio.com/",
+    "favicon": "http://www.liveradio.ie/files/images/110058/resized/140x134c/irish_pub_radio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "celtic,ballads,irish,traditional",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9646b5b2-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Cux-Radio",
+    "url": "http://5.189.171.251:23435/stream",
+    "homepage": "http://www.cux-radio.de/",
+    "favicon": "http://www.cux-radio.de/wp-content/uploads/2017/10/cropped-cuxradio-Logo-Player.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e49f02e1-6c04-11e9-af37-52543be04c81",
+    "name": "Radio Decibel Bretagne",
+    "url": "http://31.193.129.144:8000/decibel.mp3?_=1",
+    "homepage": "http://radio-decibel.fr/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "francais",
+    "tags": "radio-decibel",
+    "state": "",
+    "bitrate": 140
+}

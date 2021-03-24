@@ -1,0 +1,14 @@
+{
+    "uuid": "960ac308-0601-11e8-ae97-52543be04c81",
+    "name": "Venice Classic Radio",
+    "url": "http://174.36.206.197:8000/stream",
+    "homepage": "http://www.veniceclassicradio.eu/",
+    "favicon": "http://www.liveradio.ie/files/images/102069/resized/180x172c/venice_classic_radio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "venezia,opera,baroque,classical",
+    "state": "Veneto",
+    "bitrate": 128
+}

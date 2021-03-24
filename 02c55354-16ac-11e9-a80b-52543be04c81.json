@@ -1,0 +1,14 @@
+{
+    "uuid": "02c55354-16ac-11e9-a80b-52543be04c81",
+    "name": "Radio Record Remix",
+    "url": "http://air.radiorecord.ru:8102/rmx_320",
+    "homepage": "http://radiorecord.ru",
+    "favicon": "http://www.radiorecord.ru/logo300-300.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "house,dance,remixes",
+    "state": "Saint-Petersburg",
+    "bitrate": 320
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "b2f994ba-6a49-11e8-b15b-52543be04c81",
+    "name": "Szépvíz Rádió",
+    "url": "http://stream.szepvizradio.info:8000/stream#.mp3",
+    "homepage": "http://szepvizradio.info/",
+    "favicon": "https://myonlineradio.hu/public/uploads/radio_img/szepviz-radio/play_250_250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "hungarian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

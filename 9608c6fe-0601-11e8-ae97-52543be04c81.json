@@ -1,0 +1,14 @@
+{
+    "uuid": "9608c6fe-0601-11e8-ae97-52543be04c81",
+    "name": "IP music slow (96 kbps AAC)",
+    "url": "http://live7.avf.ch:8000/ipmusicslowaacp96",
+    "homepage": "http://www.ipmusicslow.ch/",
+    "favicon": "http://www.ipmusicslow.ch/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "pop",
+    "state": "Suisse Romande",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "2f7866a9-2d64-4687-a1d5-0ed7ad096383",
+    "name": "Hall of Fame Music Radio",
+    "url": "http://streamer.hofmradio.com:2199/tunein/halloffame.pls",
+    "homepage": "https://www.hofmradio.com",
+    "favicon": "https://hofmradio.com/images/logo/hofm-favicon.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "decades,oldies,golden oldies,classic rock",
+    "state": "Ontario",
+    "bitrate": 128
+}

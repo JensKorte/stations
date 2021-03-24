@@ -1,0 +1,14 @@
+{
+    "uuid": "c0f4d7fe-860d-4c58-bedb-55bdc4393cf0",
+    "name": "Rádio Uel Fm",
+    "url": "http://149.56.85.6:8128/listen.pls?sid=1",
+    "homepage": "http://www.uel.br/uelfm/index2.php",
+    "favicon": "http://www.uel.br/uelfm/images/logo_2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese,português",
+    "tags": "university radio,rádio universitária fm",
+    "state": "Paraná(Brazil)",
+    "bitrate": 96
+}

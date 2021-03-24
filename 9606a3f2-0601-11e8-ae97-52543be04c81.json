@@ -1,0 +1,14 @@
+{
+    "uuid": "9606a3f2-0601-11e8-ae97-52543be04c81",
+    "name": "Radio B138",
+    "url": "http://radiob138.out.airtime.pro:8000/radiob138_a",
+    "homepage": "http://www.radio-b138.at/",
+    "favicon": "http://www.radio-b138.at/images/logo_radiob138.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "free radio",
+    "state": "Upper Austria",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96261217-0601-11e8-ae97-52543be04c81",
+    "name": "SW-Radio Deutsch (32kbps)",
+    "url": "http://www.segenswelle.de:8000/deutsch-aac",
+    "homepage": "http://www.sw-radio.com/",
+    "favicon": "http://www.sw-radio.com///templates/yoo_katana/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "hörbuch 9 und 21 uhr,kinderprogramm 6 und 18 uhr,christian contemporary,christian",
+    "state": "",
+    "bitrate": 48
+}

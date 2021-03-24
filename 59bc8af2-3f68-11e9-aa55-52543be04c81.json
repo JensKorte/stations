@@ -1,0 +1,14 @@
+{
+    "uuid": "59bc8af2-3f68-11e9-aa55-52543be04c81",
+    "name": "Күңел радиосы",
+    "url": "http://live.kunelradio.ru:8000/128.mp3",
+    "homepage": "http://kunelradio.ru/",
+    "favicon": "http://kunelradio.ru/wp-content/uploads/2019/01/cropped-Logo7-192x192.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "tatar",
+    "tags": "talk,live,news,music,pop,folk,tatar",
+    "state": "Tatarstan",
+    "bitrate": 0
+}

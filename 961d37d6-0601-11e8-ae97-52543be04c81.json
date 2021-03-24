@@ -1,0 +1,14 @@
+{
+    "uuid": "961d37d6-0601-11e8-ae97-52543be04c81",
+    "name": "RTBF La Première",
+    "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+    "homepage": "https://www.rtbf.be/lapremiere/",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/10_300x170_2017-04-26-08-00-22-69.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf,variety,news",
+    "state": "",
+    "bitrate": 95
+}

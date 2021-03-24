@@ -1,0 +1,14 @@
+{
+    "uuid": "960e5aeb-0601-11e8-ae97-52543be04c81",
+    "name": "ERA Deftero Programma",
+    "url": "http://radiostreaming.ert.gr/ert-deftero",
+    "homepage": "http://webradio.ert.gr/deftero/",
+    "favicon": "http://webtv.ert.gr/wp-content/uploads/2015/05/EPT_favicon.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "ert,public radio",
+    "state": "",
+    "bitrate": 128
+}

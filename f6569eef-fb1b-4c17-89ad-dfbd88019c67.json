@@ -1,0 +1,14 @@
+{
+    "uuid": "f6569eef-fb1b-4c17-89ad-dfbd88019c67",
+    "name": "Rockfile Radio ICE",
+    "url": "http://radiobash.net:8120/stream",
+    "homepage": "http://rockfileradio.com/ice.html",
+    "favicon": "http://rockfileradio.com/images/ICE%20Logo1.png",
+    "creation": "2021-03-20 18:03:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "",
+    "tags": "progressive rock",
+    "state": "Florida",
+    "bitrate": 128
+}

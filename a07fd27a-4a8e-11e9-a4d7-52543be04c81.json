@@ -1,0 +1,14 @@
+{
+    "uuid": "a07fd27a-4a8e-11e9-a4d7-52543be04c81",
+    "name": "Subsonic Radio WEDWay",
+    "url": "http://horizons.subsonicradio.com:8000/wedway.mp3.m3u",
+    "homepage": "http://subsonicradio.com",
+    "favicon": "http://subsonicradio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "disneyland park",
+    "state": "",
+    "bitrate": 96
+}

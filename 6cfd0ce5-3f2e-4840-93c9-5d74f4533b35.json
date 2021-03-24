@@ -1,0 +1,14 @@
+{
+    "uuid": "6cfd0ce5-3f2e-4840-93c9-5d74f4533b35",
+    "name": "Orbit TV",
+    "url": "https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL",
+    "homepage": "http://orbittv.net/",
+    "favicon": "http://orbittv.net/images/orbit_logo4.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Dominican Republic",
+    "country_code": "DO",
+    "language": "spanish,castellano,español",
+    "tags": "cine",
+    "state": "Santo Domingo",
+    "bitrate": 1264
+}

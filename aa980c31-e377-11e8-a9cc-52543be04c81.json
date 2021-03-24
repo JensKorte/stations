@@ -1,0 +1,14 @@
+{
+    "uuid": "aa980c31-e377-11e8-a9cc-52543be04c81",
+    "name": "Cause Commune fm",
+    "url": "https://icecast.libre-a-toi.org:8444/voixdulat_mp3",
+    "homepage": "https://cause-commune.fm/",
+    "favicon": "https://cause-commune.fm/wp-content/uploads/2018/08/logo-cc-ico.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français",
+    "tags": "political talk",
+    "state": "France",
+    "bitrate": 320
+}

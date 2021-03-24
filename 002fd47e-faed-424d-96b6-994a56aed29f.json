@@ -1,0 +1,14 @@
+{
+    "uuid": "002fd47e-faed-424d-96b6-994a56aed29f",
+    "name": "24 h",
+    "url": "https://rtvelivestream-lvlt.rtve.es/24h_dvr.m3u8",
+    "homepage": "https://www.rtve.es/directo/canal-24h/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/188px-Logo_TVE-24h.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "castellano,español,spanish",
+    "tags": "news,noticias",
+    "state": "Madrid",
+    "bitrate": 5151
+}

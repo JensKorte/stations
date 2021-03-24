@@ -1,0 +1,14 @@
+{
+    "uuid": "9a60c78f-92fa-11e8-a767-52543be04c81",
+    "name": "Amica Radio Veneta",
+    "url": "http://37.187.114.62:8020/stream",
+    "homepage": "http://amicaradioveneta.it/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s254482q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "padova,pop,folk",
+    "state": "Veneto",
+    "bitrate": 128
+}

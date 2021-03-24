@@ -1,0 +1,14 @@
+{
+    "uuid": "506f3c30-2df6-11e8-91bf-52543be04c81",
+    "name": "2BOB FM",
+    "url": "http://eno.emit.com:8000/2bob_live_64.mp3",
+    "homepage": "http://www.2bobradio.org.au/",
+    "favicon": "http://www.2bobradio.org.au/uploads/5/1/7/2/5172313/6190232_1_orig.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "taree",
+    "state": "NSW",
+    "bitrate": 128
+}

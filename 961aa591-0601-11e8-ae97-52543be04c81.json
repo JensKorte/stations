@@ -1,0 +1,14 @@
+{
+    "uuid": "961aa591-0601-11e8-ae97-52543be04c81",
+    "name": "Fugi FM",
+    "url": "http://92.175.228.15:8000/stream.mp3.m3u",
+    "homepage": "http://www.fugifm.fr/",
+    "favicon": "http://www.fugifm.fr//theme/fugifm/images/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Grand Est",
+    "bitrate": 0
+}

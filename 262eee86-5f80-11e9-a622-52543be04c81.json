@@ -1,0 +1,14 @@
+{
+    "uuid": "262eee86-5f80-11e9-a622-52543be04c81",
+    "name": "Радио Фантастики",
+    "url": "http://fantasyradioru.no-ip.biz:8000/;stream",
+    "homepage": "http://www.fantasyradio.ru/",
+    "favicon": "http://www.fantasyradio.ru///templates/protostar/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский,russian",
+    "tags": "фантастика,аудиокниги,audiobooks",
+    "state": "Moscow",
+    "bitrate": 112
+}

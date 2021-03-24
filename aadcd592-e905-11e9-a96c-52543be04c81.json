@@ -1,0 +1,14 @@
+{
+    "uuid": "aadcd592-e905-11e9-a96c-52543be04c81",
+    "name": "Emisora HJUT | Universidad de Bogotá Jorge Tadeo Lozano",
+    "url": "http://hjut.utadeo.edu.co:8000/;emisora-hjut.mp3",
+    "homepage": "http://hjut.utadeo.edu.co:8000/;emisora-hjut.mp3",
+    "favicon": "https://www.utadeo.edu.co/sites/tadeo/files/favicon_utadeo.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish,español",
+    "tags": "bogota,cultural,culture,college radio,universitaria,university radio,classical,jazz",
+    "state": "Bogotá",
+    "bitrate": 128
+}

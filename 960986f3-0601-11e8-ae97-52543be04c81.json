@@ -1,0 +1,14 @@
+{
+    "uuid": "960986f3-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Country (MP3)",
+    "url": "http://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3",
+    "homepage": "https://radio.abc.net.au/stations/country/live",
+    "favicon": "https://resize.abcradio.net.au/n_2JDTl1oCc9OyIOFQwjlfVY4TM=/100x100/center/middle/http://www.abc.net.au/radio/images/service/country.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "public radio,abc,country",
+    "state": "",
+    "bitrate": 96
+}

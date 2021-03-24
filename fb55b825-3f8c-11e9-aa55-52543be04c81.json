@@ -1,0 +1,14 @@
+{
+    "uuid": "fb55b825-3f8c-11e9-aa55-52543be04c81",
+    "name": "RadioM",
+    "url": "http://stream.radiom.ua:8020/mp3_high",
+    "homepage": "https://radiom.ua",
+    "favicon": "https://radiom.ua/assets/templates/rmnew/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian,russian",
+    "tags": "",
+    "state": "Kyiv",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961326aa-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Trinitas",
+    "url": "http://81.196.25.70:8000/",
+    "homepage": "http://www.radiotrinitas.ro",
+    "favicon": "http://tvron.net/static/radio/radio-trinitas.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "classical,religion",
+    "state": "",
+    "bitrate": 64
+}

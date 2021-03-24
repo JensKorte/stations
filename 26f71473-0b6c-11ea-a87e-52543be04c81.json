@@ -1,0 +1,14 @@
+{
+    "uuid": "26f71473-0b6c-11ea-a87e-52543be04c81",
+    "name": "LRT Klasika",
+    "url": "http://lrt-cast.lrt.lt:8000/lrt_klasika.m3u",
+    "homepage": "https://www.lrt.lt/",
+    "favicon": "https://www.lrt.lt//images/favicons/mstile-144x144.png?v=200",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

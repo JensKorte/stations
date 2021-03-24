@@ -1,0 +1,14 @@
+{
+    "uuid": "0dc4e66c-0cd7-11e9-a80b-52543be04c81",
+    "name": "MDR tweens",
+    "url": "http://avw.mdr.de/streams/991101-0_aac_high.m3u",
+    "homepage": "https://www.mdr.de/tweens/index.html",
+    "favicon": "https://cdn.mdr.de/tweens/tweenie-100_v-variantBig16x9_wm-true_zc-ecbbafc6.png?version=33666",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "mdr,german,children",
+    "state": "Thuringia",
+    "bitrate": 0
+}

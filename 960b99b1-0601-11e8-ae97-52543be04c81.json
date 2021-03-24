@@ -1,0 +1,14 @@
+{
+    "uuid": "960b99b1-0601-11e8-ae97-52543be04c81",
+    "name": "WOW FM",
+    "url": "http://stream.wowfm.org:8000/wowfm1005",
+    "homepage": "http://www.wowfm.org/",
+    "favicon": "http://wowfm.org/wp-content/uploads/2015/12/cropped-wow_logo_512x512-300x300.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "",
+    "tags": "community radio",
+    "state": "South Australia",
+    "bitrate": 96
+}

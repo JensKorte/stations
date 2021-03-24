@@ -1,0 +1,14 @@
+{
+    "uuid": "5cb448f8-1f80-4d78-bc23-ef2394378708",
+    "name": "NPO Radio 5",
+    "url": "https://icecast.omroep.nl/radio5-sb-aac",
+    "homepage": "https://www.nporadio5.nl/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NPO_Radio_5_logo_2017.png/1200px-NPO_Radio_5_logo_2017.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "60's,70's,80's,news,evergreens,32 kbps",
+    "state": "",
+    "bitrate": 0
+}

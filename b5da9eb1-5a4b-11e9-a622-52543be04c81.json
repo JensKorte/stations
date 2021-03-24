@@ -1,0 +1,14 @@
+{
+    "uuid": "b5da9eb1-5a4b-11e9-a622-52543be04c81",
+    "name": "Nova Brasil FM 106.5 Fortaleza",
+    "url": "http://playerservices.streamtheworld.com/pls/NOVABRASIL_FORAAC.pls",
+    "homepage": "http://fortaleza.novabrasilfm.com.br/",
+    "favicon": "https://s3-us-west-1.amazonaws.com/nbfm/logos/logo_green_fo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "brazilian pop,mpb,fortaleza",
+    "state": "Ceará",
+    "bitrate": 64
+}

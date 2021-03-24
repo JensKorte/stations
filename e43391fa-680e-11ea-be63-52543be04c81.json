@@ -1,0 +1,14 @@
+{
+    "uuid": "e43391fa-680e-11ea-be63-52543be04c81",
+    "name": "Вести ФМ",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+    "homepage": "https://radiovesti.ru/",
+    "favicon": "https://radiovesti.ru/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "russian",
+    "tags": "talk",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960c7f4b-0601-11e8-ae97-52543be04c81",
+    "name": "UN Radio Medellín (HJG51 100.4 MHz FM) Universidad Nacional de Colombia",
+    "url": "http://streaming.unradio.unal.edu.co:8012/;",
+    "homepage": "http://unradio.unal.edu.co",
+    "favicon": "http://unimedios.medellin.unal.edu.co/bitacora/images/fotos/octubre_2017/un_radio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "college radio,medellin,cultural,radio universitaria,universitaria",
+    "state": "Antioquia",
+    "bitrate": 96
+}

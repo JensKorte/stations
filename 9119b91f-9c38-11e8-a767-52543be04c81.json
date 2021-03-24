@@ -1,0 +1,14 @@
+{
+    "uuid": "9119b91f-9c38-11e8-a767-52543be04c81",
+    "name": "A Rádio POP 90,9 FM",
+    "url": "http://caikron.com.br:7022/stream.aac",
+    "homepage": "http://www.a12.com/radio-pop",
+    "favicon": "http://s3.amazonaws.com/portala12/source/files/c/165758/474-248-0-0.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "top 40,pop",
+    "state": "São Paulo",
+    "bitrate": 128
+}

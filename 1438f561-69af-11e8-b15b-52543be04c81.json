@@ -1,0 +1,14 @@
+{
+    "uuid": "1438f561-69af-11e8-b15b-52543be04c81",
+    "name": "Panjab Radio",
+    "url": "http://radio3.citrus3.com:8584/listen.pls?sid=1",
+    "homepage": "http://panjabradio.co.uk/",
+    "favicon": "http://www.panjabradio.co.uk/assets/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "punjabi",
+    "tags": "music",
+    "state": "Hayes",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "dbdae111-2ceb-48e8-aa6b-cc544c57d043",
+    "name": "RFM POP-ROCK",
+    "url": "https://stream.rfm.fr/rfm-wr10.aac",
+    "homepage": "http://www.rfm.fr/programmes/les-webradios",
+    "favicon": "http://cdn-rfm.lanmedia.fr/bundles/rfmintegration/images/logoRFM.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français",
+    "tags": "chansons françaises,rock,pop rock,pop",
+    "state": "",
+    "bitrate": 133
+}

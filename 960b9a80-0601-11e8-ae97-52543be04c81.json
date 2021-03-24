@@ -1,0 +1,14 @@
+{
+    "uuid": "960b9a80-0601-11e8-ae97-52543be04c81",
+    "name": "Radio One 91FM in Dunedin",
+    "url": "http://stream.r1.co.nz:8090/r1-high.mp3",
+    "homepage": "http://www.r1.co.nz/",
+    "favicon": "http://www.r1.co.nz/images/favicons/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "",
+    "tags": "university radio",
+    "state": "",
+    "bitrate": 128
+}

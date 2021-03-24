@@ -1,0 +1,14 @@
+{
+    "uuid": "963c9e2a-0601-11e8-ae97-52543be04c81",
+    "name": "Tarragona Ràdio",
+    "url": "https://enacast.com/tarragonaradio/streams/SD",
+    "homepage": "http://www.tarragonaradio.cat/",
+    "favicon": "https://enacast.com/tarragonaradio/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "tarragona",
+    "state": "Camp de Tarragona",
+    "bitrate": 0
+}

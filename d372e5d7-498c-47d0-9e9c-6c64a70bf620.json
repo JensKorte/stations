@@ -1,0 +1,14 @@
+{
+    "uuid": "d372e5d7-498c-47d0-9e9c-6c64a70bf620",
+    "name": "Брежнев FM",
+    "url": "http://185.20.226.222:8000/brezhnev",
+    "homepage": "http://stv-media.ru/brezhnev/",
+    "favicon": "https://i.postimg.cc/yx9yZWS3/brezhnev.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "pop,news,90s",
+    "state": "Набережные Челны",
+    "bitrate": 256
+}

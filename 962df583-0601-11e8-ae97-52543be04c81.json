@@ -1,0 +1,14 @@
+{
+    "uuid": "962df583-0601-11e8-ae97-52543be04c81",
+    "name": "FM90 Campus Rádió",
+    "url": "http://stream.fm90.hu:8000/;",
+    "homepage": "http://www.fm90.hu/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "university radio,rock,alternative",
+    "state": "Hajdú-Bihar",
+    "bitrate": 128
+}

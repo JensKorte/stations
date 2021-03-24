@@ -1,0 +1,14 @@
+{
+    "uuid": "c06508f0-644e-11ea-be63-52543be04c81",
+    "name": "RBI Radio",
+    "url": "http://streamplus18.leonex.de:18576/listen.pls",
+    "homepage": "http://www.rbiradio.eu",
+    "favicon": "http://www.rbiradio.eu/rbilogo_neu_start.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "dutch,english,german",
+    "tags": "80s,70s,60s,oldies,classic rock oldies soul,classic rock,pop",
+    "state": "Bavaria",
+    "bitrate": 192
+}

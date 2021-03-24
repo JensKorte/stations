@@ -1,0 +1,14 @@
+{
+    "uuid": "961d3712-0601-11e8-ae97-52543be04c81",
+    "name": "ERT3 102 FM",
+    "url": "http://radiostreaming.ert.gr/ert-102fm",
+    "homepage": "http://webradio.ert.gr/102fm/",
+    "favicon": "http://webtv.ert.gr/wp-content/uploads/2015/05/EPT_favicon.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "ert,public radio",
+    "state": "",
+    "bitrate": 128
+}

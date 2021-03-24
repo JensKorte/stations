@@ -1,0 +1,14 @@
+{
+    "uuid": "0ef92b71-8fb1-43a6-ab68-c3bb6898229b",
+    "name": "CFUR 88.7 FM (Prince George)",
+    "url": "http://142.207.50.9:8000/live.mp3",
+    "homepage": "https://cfur.ca",
+    "favicon": "https://twitter.com/CFURadio/photo",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "prince george,community radio,university radio,college radio,campus radio",
+    "state": "British Columbia",
+    "bitrate": 256
+}

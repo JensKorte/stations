@@ -1,0 +1,14 @@
+{
+    "uuid": "e9f32eea-2f74-441c-80e1-09877a4f40c5",
+    "name": "Star Radio",
+    "url": "https://sp.streams.ovh/8026/;stream/1",
+    "homepage": "https://starradio.eu",
+    "favicon": "http://starradio.eu/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "classic rock,greece,greek pop,greek music,local radio,community radio",
+    "state": "Athens",
+    "bitrate": 320
+}

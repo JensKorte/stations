@@ -1,0 +1,14 @@
+{
+    "uuid": "1f900b9a-ea3b-4eac-9505-1df5bef175be",
+    "name": "Люкс FМ 103.1",
+    "url": "http://icecastdc.luxnet.ua/lux_mp3_128",
+    "homepage": "https://lux.fm/",
+    "favicon": "https://lux.fm/favicons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 128
+}

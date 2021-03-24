@@ -1,0 +1,14 @@
+{
+    "uuid": "a18ddd82-463b-11e9-aa55-52543be04c81",
+    "name": "egoSUN",
+    "url": "https://egofm-sun.cast.addradio.de/egofm/sun/mp3/high/stream.mp3?ar-distributor=f0a2",
+    "homepage": "https://www.egofm.de/streams/egosun",
+    "favicon": "https://www.egofm.de/content/images/stream/egofmsun/egofm-sun-og.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "alternative,rock,indie,reggae",
+    "state": "Bavaria",
+    "bitrate": 128
+}

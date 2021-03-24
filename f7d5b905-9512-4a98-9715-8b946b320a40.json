@@ -1,0 +1,14 @@
+{
+    "uuid": "f7d5b905-9512-4a98-9715-8b946b320a40",
+    "name": "PULS (AAC)",
+    "url": "http://br-puls-live.cast.addradio.de/br/puls/live/aac/low",
+    "homepage": "https://www.br.de/puls/index.html",
+    "favicon": "https://www.br.de/static/img/bereich/extra/puls/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "indie,rock,pop",
+    "state": "Bavaria",
+    "bitrate": 0
+}

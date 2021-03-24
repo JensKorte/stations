@@ -1,0 +1,14 @@
+{
+    "uuid": "2194ed9c-1b61-42db-bb48-a029c3f45e91",
+    "name": "Omroep Gelderland",
+    "url": "http://stream.omroepgelderland.nl/radiogelderland/pls.php",
+    "homepage": "https://www.omroepgelderland.nl/",
+    "favicon": "https://pbs.twimg.com/profile_images/3027845563/14be0a3f5e7be24cc88e6631c95486f8_400x400.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "local news,dutch",
+    "state": "Gelderland",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9618e3b0-0601-11e8-ae97-52543be04c81",
+    "name": "Kiss FM",
+    "url": "http://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+    "homepage": "http://www.kissfm.es/",
+    "favicon": "http://kissfm.es/player/img/logokiss.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "80s,90s,music",
+    "state": "Madrid",
+    "bitrate": 125
+}

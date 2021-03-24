@@ -1,0 +1,14 @@
+{
+    "uuid": "3dd8a40f-7b71-4794-b8a2-18175f3650b7",
+    "name": "Hakkeriradio",
+    "url": "https://hakkeriradio.fi:8443/stream.ogg",
+    "homepage": "https://hakkeriradio.fi",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "english,finnish",
+    "tags": "cybersec,esports,news,computer,retro games,electronic music",
+    "state": "",
+    "bitrate": 0
+}

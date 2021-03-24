@@ -1,0 +1,14 @@
+{
+    "uuid": "964755d5-0601-11e8-ae97-52543be04c81",
+    "name": "Hit FM Radio Beograd",
+    "url": "http://streaming.hitfm.rs:8000/hit",
+    "homepage": "http://hitfm.rs",
+    "favicon": "http://static.radio.it/images/broadcasts/b9/54/27658/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "serbian music",
+    "state": "",
+    "bitrate": 64
+}

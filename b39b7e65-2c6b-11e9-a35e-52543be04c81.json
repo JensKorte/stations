@@ -1,0 +1,14 @@
+{
+    "uuid": "b39b7e65-2c6b-11e9-a35e-52543be04c81",
+    "name": "Татар радиосы (Tatar Radiosi)",
+    "url": "http://stream.tatarradio.ru:2068/;stream/1",
+    "homepage": "http://www.tatarradio.ru/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_tatarradio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "",
+    "state": "Татарстан",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f3aa5d58-ae26-11e8-aa67-52543be04c81",
+    "name": "Radio Guijuelo",
+    "url": "http://radio.guijuelo.es/emision/directo.mp3",
+    "homepage": "http://radio.guijuelo.es/emision-directo/",
+    "favicon": "http://radio.guijuelo.es/imagenes/fotosweb/varios/logodirecto.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español,spanish",
+    "tags": "varios,various",
+    "state": "Salamanca",
+    "bitrate": 96
+}

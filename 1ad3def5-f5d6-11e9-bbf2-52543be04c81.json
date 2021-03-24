@@ -1,0 +1,14 @@
+{
+    "uuid": "1ad3def5-f5d6-11e9-bbf2-52543be04c81",
+    "name": "Radio Kielce",
+    "url": "http://gra.radio.kielce.pl:8000/rk2.m3u",
+    "homepage": "http://www.radio.kielce.pl/",
+    "favicon": "http://www.radio.kielce.pl///apple-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "kielce,local news,local news,regional radio",
+    "state": "Świętokrzyskie",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "334bac11-d245-11e9-a861-52543be04c81",
+    "name": "Radio Bonn / Rhein-Sieg",
+    "url": "https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high",
+    "homepage": "https://www.radiobonn.de/",
+    "favicon": "https://www.radiobonn.de/assets/images/senderlogos/radio_brs_webradio.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "regional",
+    "state": "",
+    "bitrate": 128
+}

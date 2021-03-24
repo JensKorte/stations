@@ -1,0 +1,14 @@
+{
+    "uuid": "871d49cd-8d7e-4956-85a5-20e0540512b1",
+    "name": "Країна FM 100.0",
+    "url": "http://live.radioec.com.ua:8000/kiev",
+    "homepage": "https://krainafm.com.ua/",
+    "favicon": "https://krainafm.com.ua/wp-content/themes/krainaFM/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 0
+}

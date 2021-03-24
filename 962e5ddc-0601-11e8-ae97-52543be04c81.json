@@ -1,0 +1,14 @@
+{
+    "uuid": "962e5ddc-0601-11e8-ae97-52543be04c81",
+    "name": "B5 aktuell",
+    "url": "http://streams.br.de/b5aktuell_2.m3u",
+    "homepage": "https://www.br.de/radio/b5-aktuell/service/programm/",
+    "favicon": "https://www.phonostar.de/images/auto_created/b5aktuell_2184x184.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "talk,news,information,bayerischer rundfunk,ard,public radio",
+    "state": "Bavaria",
+    "bitrate": 0
+}

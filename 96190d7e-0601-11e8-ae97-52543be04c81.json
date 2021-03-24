@@ -1,0 +1,14 @@
+{
+    "uuid": "96190d7e-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio MEO Music",
+    "url": "http://centova.radio.com.pt:8495/;",
+    "homepage": "http://radiomeomusic.meo.pt/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s81786q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "rock,pop,top 40,adult contemporary",
+    "state": "Lisbon",
+    "bitrate": 128
+}

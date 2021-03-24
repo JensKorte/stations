@@ -1,0 +1,14 @@
+{
+    "uuid": "960eef31-0601-11e8-ae97-52543be04c81",
+    "name": "RTBF La 1ère - La Vie en Rose",
+    "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+    "homepage": "http://www.rtbf.be/radio/liveradio/webradio-lavieenrose",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/24_300x170_2017-04-26-08-00-22-466.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf,chansons françaises",
+    "state": "",
+    "bitrate": 95
+}

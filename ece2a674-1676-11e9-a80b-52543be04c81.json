@@ -1,0 +1,14 @@
+{
+    "uuid": "ece2a674-1676-11e9-a80b-52543be04c81",
+    "name": "Arl Radio",
+    "url": "http://broadcast.infomaniak.ch/arlaquitaineradiolive-128.mp3",
+    "homepage": "https://arlfm.com/",
+    "favicon": "https://arlfm.com/img/logo_arl.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français",
+    "tags": "aquitaine,musique,info,région,sortie,locale,réginale,live,radio,bordeaux,gironde,lot-et-garonne",
+    "state": "Bordeaux",
+    "bitrate": 0
+}

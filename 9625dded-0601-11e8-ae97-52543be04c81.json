@@ -1,0 +1,14 @@
+{
+    "uuid": "9625dded-0601-11e8-ae97-52543be04c81",
+    "name": "WCMU 89.5",
+    "url": "http://playerservices.streamtheworld.com/m3u/WCMUFM.m3u",
+    "homepage": "http://www.wcmu.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wcmu/files/201707/wcmu_public_radio_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pri,npr,public radio",
+    "state": "Michigan",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "60d35723-71c7-11ea-b1cf-52543be04c81",
+    "name": "Radio Spore",
+    "url": "http://stream.radiospore.oziosi.org:8000/spore.ogg",
+    "homepage": "https://radiospore.oziosi.org/",
+    "favicon": "https://radiospore.oziosi.org/user/pages/01.home/radio-spore-logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "indipendent,bologna,politics",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "be1c2ca1-07d2-4a9a-86ce-1df1f1da22cd",
+    "name": "WHUP",
+    "url": "http://audio-ice2.ibiblio.org:8000/whup-128k.m3u",
+    "homepage": "https://whupfm.org/",
+    "favicon": "https://whupfm.org/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "community radio",
+    "state": "North Carolina",
+    "bitrate": 128
+}

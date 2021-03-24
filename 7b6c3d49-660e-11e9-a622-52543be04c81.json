@@ -1,0 +1,14 @@
+{
+    "uuid": "7b6c3d49-660e-11e9-a622-52543be04c81",
+    "name": "Radio Ö24",
+    "url": "http://streamplus14.leonex.de:24954/listen.pls",
+    "homepage": "http://www.xn--radio-24-s4a.oe24.at/",
+    "favicon": "https://static.radio.at/images/broadcasts/61/cd/32622/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "Vienna",
+    "bitrate": 128
+}

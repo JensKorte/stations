@@ -1,0 +1,14 @@
+{
+    "uuid": "0069e8f2-4fad-41e9-9006-0da84d3954d8",
+    "name": "Metropol FM",
+    "url": "https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac",
+    "homepage": "https://www.metropolfm.de/",
+    "favicon": "https://metropolfm.de/streams/tmp/images/default.png",
+    "creation": "2021-03-22 19:31:31",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "turkish",
+    "tags": "",
+    "state": "Berlin",
+    "bitrate": 64
+}

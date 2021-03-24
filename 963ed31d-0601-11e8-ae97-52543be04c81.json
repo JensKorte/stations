@@ -1,0 +1,14 @@
+{
+    "uuid": "963ed31d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Asso",
+    "url": "http://91.121.15.95:8000/stream.mp3",
+    "homepage": "http://www.radioassociation.net/",
+    "favicon": "http://www.radioassociation.net/files/developpement/logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Occitanie",
+    "bitrate": 160
+}

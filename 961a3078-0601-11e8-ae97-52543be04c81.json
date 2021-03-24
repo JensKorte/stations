@@ -1,0 +1,14 @@
+{
+    "uuid": "961a3078-0601-11e8-ae97-52543be04c81",
+    "name": "MyROCK",
+    "url": "http://stream.myrock.fm/myrock128",
+    "homepage": "http://5.20.223.18:80/crf128.mp3.m3u",
+    "favicon": "http://5.20.223.18:80/crf128.mp3.m3u",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "modern rock",
+    "state": "",
+    "bitrate": 128
+}

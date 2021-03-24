@@ -1,0 +1,14 @@
+{
+    "uuid": "55529014-b8c5-4c5c-bd97-b4686b696462",
+    "name": "France Culture",
+    "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+    "homepage": "https://www.franceculture.fr/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français",
+    "tags": "#radio france",
+    "state": "",
+    "bitrate": 0
+}

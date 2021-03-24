@@ -1,0 +1,14 @@
+{
+    "uuid": "9dee1a9c-23b4-11e9-a80b-52543be04c81",
+    "name": "ATR TV",
+    "url": "http://stream.atr.ua/atr/live/index.m3u8",
+    "homepage": "http://atr.ua/",
+    "favicon": "http://atr.ua/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "russian",
+    "tags": "",
+    "state": "Simferopol",
+    "bitrate": 0
+}

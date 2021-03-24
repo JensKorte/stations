@@ -1,0 +1,14 @@
+{
+    "uuid": "7820351e-7f52-49b2-98ff-93ac323323d6",
+    "name": "БНР – Детска програма (Детското.БНР)",
+    "url": "http://stream.bnr.bg:8013/detskoto-bnr.aac",
+    "homepage": "https://detskotobnr.binar.bg",
+    "favicon": "https://bnr.bg/img/logos/bnr.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian,български",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

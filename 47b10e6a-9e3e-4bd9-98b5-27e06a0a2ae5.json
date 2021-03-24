@@ -1,0 +1,14 @@
+{
+    "uuid": "47b10e6a-9e3e-4bd9-98b5-27e06a0a2ae5",
+    "name": "KWNO Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KWNOAMAAC.aac",
+    "homepage": "https://kwnoradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KWNO.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Winona MN",
+    "bitrate": 32
+}

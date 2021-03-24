@@ -1,0 +1,14 @@
+{
+    "uuid": "204ed5f5-0f29-11e9-a80b-52543be04c81",
+    "name": "Radio Luna Ser Los Pedroches",
+    "url": "http://srv0625.lcinternet.com:8003/stream",
+    "homepage": "https://www.radiolunaser.com/",
+    "favicon": "http://www.radiolunaser.com/images/sampledata/RADIO-LUNA-SER.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español",
+    "tags": "spanish,noticias,ser",
+    "state": "Córdoba (España)",
+    "bitrate": 64
+}

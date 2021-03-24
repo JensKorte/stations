@@ -1,0 +1,14 @@
+{
+    "uuid": "6a0c6617-25c9-4f00-81cc-947b1fc84279",
+    "name": "88.3FM WXOU Radio",
+    "url": "http://wxou.oakland.edu:8000/listen.m3u",
+    "homepage": "https://www.wxou.org",
+    "favicon": "https://www.wxou.org/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "college radio",
+    "state": "",
+    "bitrate": 96
+}

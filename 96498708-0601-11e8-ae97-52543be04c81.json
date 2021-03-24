@@ -1,0 +1,14 @@
+{
+    "uuid": "96498708-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio NY 910 AM",
+    "url": "http://198.105.216.204:8176/stream",
+    "homepage": "http://www.polskieradio.com/",
+    "favicon": "http://www.polskieradio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "polish",
+    "tags": "polska",
+    "state": "New York",
+    "bitrate": 128
+}

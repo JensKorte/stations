@@ -1,0 +1,14 @@
+{
+    "uuid": "6ff010d6-b6ea-11e9-acb2-52543be04c81",
+    "name": "Radio Marzahn",
+    "url": "https://stream.laut.fm/radio-marzahn",
+    "homepage": "https://radio-marzahn.sirrobo-media.de",
+    "favicon": "https://radio-marzahn.sirrobo-media.de/source/img/pb_500.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "sir.robo media,news,pop,oldies,mainstream",
+    "state": "Berlin",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8765bc45-2e1a-462c-ab5f-775fbd8c0da5",
+    "name": "Mилли радио Китап",
+    "url": "http://radio.tatmedia.com:8800/kitapfm",
+    "homepage": "http://kitap.fm/",
+    "favicon": "http://kitap.fm/images/template/logo.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "tatar",
+    "tags": "kazan,98.6,казан,kitap,literature,folk,music,tatar,radioplay",
+    "state": "Tatarstan",
+    "bitrate": 0
+}

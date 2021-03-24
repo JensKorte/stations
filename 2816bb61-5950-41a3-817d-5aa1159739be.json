@@ -1,0 +1,14 @@
+{
+    "uuid": "2816bb61-5950-41a3-817d-5aa1159739be",
+    "name": "BBC Radio 4 HD",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8",
+    "homepage": "http://www.bbc.co.uk/radio4/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s25419q.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 339
+}

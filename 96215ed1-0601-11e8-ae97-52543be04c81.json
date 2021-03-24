@@ -1,0 +1,14 @@
+{
+    "uuid": "96215ed1-0601-11e8-ae97-52543be04c81",
+    "name": "WYPR-HD3 Classical Stream - Baltimore, MD",
+    "url": "http://provisioning.streamtheworld.com/pls/WYPR_HD3AAC.pls",
+    "homepage": "http://wypr.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wyprmain/files/201710/WYPR2011HEADERTransparentII.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "baltimore,classical,npr,public radio",
+    "state": "Maryland",
+    "bitrate": 64
+}

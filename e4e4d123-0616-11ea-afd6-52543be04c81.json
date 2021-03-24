@@ -1,0 +1,14 @@
+{
+    "uuid": "e4e4d123-0616-11ea-afd6-52543be04c81",
+    "name": "Listen.Moe JPop Vorbis",
+    "url": "https://listen.moe/stream",
+    "homepage": "https://listen.moe/",
+    "favicon": "https://listen.moe//favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "english,japanese",
+    "tags": "jpop",
+    "state": "",
+    "bitrate": 256
+}

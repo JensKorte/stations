@@ -1,0 +1,14 @@
+{
+    "uuid": "96371db7-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Olomouc",
+    "url": "http://icecast2.play.cz/crool128.mp3",
+    "homepage": "http://www.rozhlas.cz/olomouc/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/crool.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,čro region,public radio,oldies,local news",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962b0ed0-0601-11e8-ae97-52543be04c81",
+    "name": "Studio 54 Network",
+    "url": "http://onair22.streaming.xdevel.com:10050/listen.pls",
+    "homepage": "http://www.studio54network.it/",
+    "favicon": "http://www.studio54network.it/logo.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "classic hits",
+    "state": "Calabria",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7e007c94-2bd2-47d6-a31f-513d10de23b4",
+    "name": "BBC Radio 6Music (Low Bitrate)",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_6music.m3u8",
+    "homepage": "http://www.bbc.co.uk/6Music",
+    "favicon": "https://pbs.twimg.com/profile_images/1300685032936308737/BxpAcWxo_400x400.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "low bitrate,low bandwidth,alt pop,classic rock,eclectic,alternative,alternative rock,art pop,indie rock,indie,6music,6 music,bbc",
+    "state": "England",
+    "bitrate": 50
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5f7c90af-32b5-4c04-8af9-d07642a73250",
+    "name": "Rádio Blaník",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
+    "homepage": "https://radioblanik.cz/",
+    "favicon": "https://radioblanik.cz/design/img/logo.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "cz",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

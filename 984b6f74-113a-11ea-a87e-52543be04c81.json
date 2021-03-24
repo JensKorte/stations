@@ -1,0 +1,14 @@
+{
+    "uuid": "984b6f74-113a-11ea-a87e-52543be04c81",
+    "name": "Radio Romania Targu Mures",
+    "url": "http://streaming.radiomures.ro:8302/listen.pls;/stream",
+    "homepage": "http://www.romaniaregional.ro/asculta-reteaua-radio-romania-regional/",
+    "favicon": "http://www.romaniaregional.ro/wp-content/uploads/2014/04/logo-romania-regional.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "news",
+    "state": "",
+    "bitrate": 128
+}

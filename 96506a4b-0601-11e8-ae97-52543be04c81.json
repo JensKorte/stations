@@ -1,0 +1,14 @@
+{
+    "uuid": "96506a4b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ognjišče - mp3 stream",
+    "url": "http://radio.ognjisce.si/ognjisce/iradio/ognjiscemp3.m3u",
+    "homepage": "http://radio.ognjisce.si/",
+    "favicon": "http://katoliska-cerkev.si/img/news/2012/03-mar/435cffab69540fe18ce272e553edec0ba57a89f5.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "public radio,radio,ognjišče,katoliški,slovenija",
+    "state": "Osrednjeslovenska",
+    "bitrate": 128
+}

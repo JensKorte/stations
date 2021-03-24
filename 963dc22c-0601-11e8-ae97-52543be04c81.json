@@ -1,0 +1,14 @@
+{
+    "uuid": "963dc22c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Piemonte Sound",
+    "url": "http://dreamsiteradiocp3.com:8054/stream",
+    "homepage": "https://www.radiopiemontesound.it/",
+    "favicon": "https://www.radiopiemontesound.it/radio/wp-content/images/yootheme/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cuneo,pop,hits",
+    "state": "Piemonte",
+    "bitrate": 192
+}

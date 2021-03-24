@@ -1,0 +1,14 @@
+{
+    "uuid": "81970119-b39c-4f13-bffa-14f06f06be95",
+    "name": "Sjeverni FM",
+    "url": "http://5.189.174.66:8000/stream2",
+    "homepage": "https://sjeverni.fm/",
+    "favicon": "https://sjeverni.fm/wp-content/uploads/2019/06/cropped-images-180x180.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk music,pop,local news",
+    "state": "",
+    "bitrate": 128
+}

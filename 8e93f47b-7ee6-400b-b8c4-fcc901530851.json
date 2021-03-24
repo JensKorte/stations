@@ -1,0 +1,14 @@
+{
+    "uuid": "8e93f47b-7ee6-400b-b8c4-fcc901530851",
+    "name": "Times Radio",
+    "url": "http://www.radiofeeds.co.uk/wgtimesradio.m3u",
+    "homepage": "https://www.thetimes.co.uk/radio",
+    "favicon": "https://pbs.twimg.com/profile_images/1268057666405961730/kKssG1ld_200x200.png",
+    "creation": "2021-03-22 20:11:28",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "talk",
+    "state": "",
+    "bitrate": 128
+}

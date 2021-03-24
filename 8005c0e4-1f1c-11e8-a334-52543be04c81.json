@@ -1,0 +1,14 @@
+{
+    "uuid": "8005c0e4-1f1c-11e8-a334-52543be04c81",
+    "name": "Radio Słubfurt",
+    "url": "http://streaming.fueralle.org:8000/slubfurt.m3u",
+    "homepage": "http://www.radio.slubfurt.net/",
+    "favicon": "http://www.radio.slubfurt.net/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "słubice,frankfurt,local radio,non-commercial,free radio,community radio",
+    "state": "Brandenburg",
+    "bitrate": 128
+}

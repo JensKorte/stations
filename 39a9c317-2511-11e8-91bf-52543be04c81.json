@@ -1,0 +1,14 @@
+{
+    "uuid": "39a9c317-2511-11e8-91bf-52543be04c81",
+    "name": "Nexus Radio",
+    "url": "http://stream1.nexusradio.fm/nexusdance.mp3",
+    "homepage": "https://nexusradio.fm/",
+    "favicon": "https://player.nexusradio.fm/images/nexus.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "nexus,hits,top 40,pop,electro,charts",
+    "state": "Chicago",
+    "bitrate": 128
+}

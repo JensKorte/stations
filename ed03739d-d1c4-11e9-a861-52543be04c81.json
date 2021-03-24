@@ -1,0 +1,14 @@
+{
+    "uuid": "ed03739d-d1c4-11e9-a861-52543be04c81",
+    "name": "CBC Music Eastern (formerly CBC Radio 2 Toronto)",
+    "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor",
+    "homepage": "https://www.cbc.ca/listen/live-radio?radio_one=toronto\u0026cbc_music=toronto",
+    "favicon": "https://i.cbc.ca/1.4481543.1557930358%21/fileImage/httpImage/cbc-music-logo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "toronto,eastern passage,public radio,cbc",
+    "state": "British Columbia",
+    "bitrate": 0
+}

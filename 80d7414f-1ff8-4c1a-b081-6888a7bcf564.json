@@ -1,0 +1,14 @@
+{
+    "uuid": "80d7414f-1ff8-4c1a-b081-6888a7bcf564",
+    "name": "הקצה - Hakatze",
+    "url": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+    "homepage": "https://kzradio.net",
+    "favicon": "https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Israel",
+    "country_code": "IL",
+    "language": "עברית,hebrew",
+    "tags": "ilstations",
+    "state": "",
+    "bitrate": 64
+}

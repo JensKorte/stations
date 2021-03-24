@@ -1,0 +1,14 @@
+{
+    "uuid": "cbbcc32d-7291-11ea-b1cf-52543be04c81",
+    "name": "Radio Provincia 100.1 Ushuaia",
+    "url": "http://servidor2.serviciostreaming.com:9574/stream",
+    "homepage": "https://radioprovinciatdf.com.ar/",
+    "favicon": "https://radioprovinciatdf.com.ar/wp-content/uploads/2020/03/cropped-circulo-270x270.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "tierradelfuego,tdf,ushuaia,argentina",
+    "state": "Tierra del Fuego",
+    "bitrate": 32
+}

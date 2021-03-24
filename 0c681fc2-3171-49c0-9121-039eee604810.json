@@ -1,0 +1,14 @@
+{
+    "uuid": "0c681fc2-3171-49c0-9121-039eee604810",
+    "name": "WSFM 101.7 Sydney",
+    "url": "https://ais-arn.streamguys1.com/au_002/playlist.m3u8",
+    "homepage": "https://www.wsfm.com.au/",
+    "favicon": "https://www.wsfm.com.au/wp-content/themes/arn/assets/favicons/favicon_wsfm/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "community radio,music,entertainment,news",
+    "state": "",
+    "bitrate": 49
+}

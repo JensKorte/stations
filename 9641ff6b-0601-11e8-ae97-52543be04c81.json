@@ -1,0 +1,14 @@
+{
+    "uuid": "9641ff6b-0601-11e8-ae97-52543be04c81",
+    "name": "WIBC 93.1 Indianapolis, IN",
+    "url": "http://provisioning.streamtheworld.com/pls/WIBCFMAAC.pls",
+    "homepage": "http://www.wibc.com/",
+    "favicon": "http://www.wibc.com//sites/all/themes/bootstrap_emmis/images/sites/wibc/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "indianapolis,news talk",
+    "state": "Indiana",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "66d917cd-2eeb-4c55-9e92-d64d30d42c36",
+    "name": "岳西人民广播电台",
+    "url": "http://58.243.4.22:1935/live/fm104/playlist.m3u8",
+    "homepage": "http://www.yuexitv.com/",
+    "favicon": "http://www.tvyan.com/uploads/dianshi/yuexitv.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "music,news",
+    "state": "Anhwei",
+    "bitrate": 66
+}

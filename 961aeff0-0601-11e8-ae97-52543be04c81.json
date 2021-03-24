@@ -1,0 +1,14 @@
+{
+    "uuid": "961aeff0-0601-11e8-ae97-52543be04c81",
+    "name": "Hotmix Radio 80",
+    "url": "http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3",
+    "homepage": "http://www.hotmixradio.fr/80s/",
+    "favicon": "http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-80s.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "80s",
+    "state": "",
+    "bitrate": 128
+}

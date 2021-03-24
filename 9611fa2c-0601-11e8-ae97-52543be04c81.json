@@ -1,0 +1,14 @@
+{
+    "uuid": "9611fa2c-0601-11e8-ae97-52543be04c81",
+    "name": "multicult.fm Weltkulturradio Berlin",
+    "url": "http://stream.multicult.fm:8000/hifi",
+    "homepage": "http://www.multicult.fm",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/1/1a/220_multicult.fm_logo2011.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "world music",
+    "state": "Berlin",
+    "bitrate": 160
+}

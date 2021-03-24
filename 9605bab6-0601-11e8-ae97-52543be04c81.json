@@ -1,0 +1,14 @@
+{
+    "uuid": "9605bab6-0601-11e8-ae97-52543be04c81",
+    "name": "Superfly FM",
+    "url": "http://stream01.superfly.fm:8080/live128",
+    "homepage": "http://www.superfly.fm",
+    "favicon": "http://www.superfly.fm/templates/superflyfm/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "Vienna",
+    "bitrate": 0
+}

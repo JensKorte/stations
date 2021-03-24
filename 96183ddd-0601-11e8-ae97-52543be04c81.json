@@ -1,0 +1,14 @@
+{
+    "uuid": "96183ddd-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Fóia",
+    "url": "http://centova.radios.pt:8559/listen.pls?sid=1",
+    "homepage": "http://radiofoia.pt/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s82363q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "local music,talkshow",
+    "state": "Faro",
+    "bitrate": 128
+}

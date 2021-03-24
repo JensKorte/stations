@@ -1,0 +1,14 @@
+{
+    "uuid": "96495429-0601-11e8-ae97-52543be04c81",
+    "name": "NOVA News",
+    "url": "http://149.13.0.80/novanews.mp3.m3u",
+    "homepage": "http://novanews.novatv.bg/radio",
+    "favicon": "https://static.nova.bg/files/nova/images/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "news",
+    "state": "",
+    "bitrate": 128
+}

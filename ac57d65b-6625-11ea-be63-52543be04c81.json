@@ -1,0 +1,14 @@
+{
+    "uuid": "ac57d65b-6625-11ea-be63-52543be04c81",
+    "name": "BN-Radio",
+    "url": "http://stream.bn-radio.de:8000/bn-radio.aacp",
+    "homepage": "http://www.bn-radio.de",
+    "favicon": "http://stream.bn-radio.de/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "eurodance,classic dance,dance",
+    "state": "",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "b0b7d5c4-29fc-4416-b482-689d37a040cf",
+    "name": "Hotmix Radio Platinum [AAC 64kbps]",
+    "url": "https://streamingp.shoutcast.com/hotmixradio-platinium-64.aac",
+    "homepage": "https://www.hotmixradio.fr/platinum",
+    "favicon": "https://static.hotmixradio.fr/wp-content/uploads/logo_hmr_platinum_1000x1000-460x460.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "english/french",
+    "tags": "64kbps,aac,adult hits,hits",
+    "state": "",
+    "bitrate": 64
+}

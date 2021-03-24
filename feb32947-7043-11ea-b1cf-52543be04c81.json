@@ -1,0 +1,14 @@
+{
+    "uuid": "feb32947-7043-11ea-b1cf-52543be04c81",
+    "name": "Radio Noticias 91.9",
+    "url": "http://centova.radiosnethosting.com:8065/;stream.mp3",
+    "homepage": "https://www.radiodenoticias.com.ar/",
+    "favicon": "https://www.ellitoral.com/radios/img/radio_noticias.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "",
+    "state": "Santa Fe",
+    "bitrate": 64
+}

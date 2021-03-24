@@ -1,0 +1,14 @@
+{
+    "uuid": "6be2b34c-5c16-11e9-a622-52543be04c81",
+    "name": "Radio Nova Sorso",
+    "url": "http://5.135.39.189:8000/;",
+    "homepage": "http://www.radionovasorso.it/",
+    "favicon": "http://www.radionovasorso.it/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "sorso,pop",
+    "state": "Sardegna",
+    "bitrate": 128
+}

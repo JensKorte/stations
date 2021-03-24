@@ -1,0 +1,14 @@
+{
+    "uuid": "96459efd-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Jazzradio Schwarzenstein",
+    "url": "http://streams.fluxfm.de/jazzschwarz/mp3-128/audio/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2016/11/jazzradio_schwarzenstein_gross-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "jazz",
+    "state": "Berlin",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1a03bd4b-9137-11ea-8564-52543be04c81",
+    "name": "Virgin Classics",
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr2.mp3",
+    "homepage": "www.virginradio.fr",
+    "favicon": "https://media.melty.fr/render/logo_virginradio_2019.svg?c1=e31d25",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "francais",
+    "tags": "virginclassics",
+    "state": "paris",
+    "bitrate": 128
+}

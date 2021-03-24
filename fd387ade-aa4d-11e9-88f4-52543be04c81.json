@@ -1,0 +1,14 @@
+{
+    "uuid": "fd387ade-aa4d-11e9-88f4-52543be04c81",
+    "name": "kzradio (aac)",
+    "url": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+    "homepage": "https://kzradio.net",
+    "favicon": "https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Israel",
+    "country_code": "IL",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "83c85d32-f7ee-11e8-a471-52543be04c81",
+    "name": "ERT Ioannina 88.2 100.3",
+    "url": "http://radiostreaming.ert.gr/ert-ioannina",
+    "homepage": "http://www.ert.gr/news/ioanina/",
+    "favicon": "http://webradio.ert.gr/wp-content/uploads/2015/07/ioannina-2-150x1401.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "public radio,ert",
+    "state": "",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "964a7ab6-0601-11e8-ae97-52543be04c81",
+    "name": "Nova News",
+    "url": "http://149.13.0.80/novanews.mp4",
+    "homepage": "https://nova.bg/radio",
+    "favicon": "https://static.nova.bg/files/nova/images/logo_big.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "nova news",
+    "state": "",
+    "bitrate": 48
+}

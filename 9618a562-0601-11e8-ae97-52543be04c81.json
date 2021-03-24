@@ -1,0 +1,14 @@
+{
+    "uuid": "9618a562-0601-11e8-ae97-52543be04c81",
+    "name": "Edenex Radio",
+    "url": "http://popov.eldialdigital.com:8056/stream;http://cervera.eldialdigital.com:8056/",
+    "homepage": "http://www.edenex.es/",
+    "favicon": "https://cdn-profiles.tunein.com/s140867/images/logoq.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "misterio,podcast,talking,music",
+    "state": "",
+    "bitrate": 128
+}

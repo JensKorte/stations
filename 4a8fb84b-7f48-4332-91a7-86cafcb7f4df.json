@@ -1,0 +1,14 @@
+{
+    "uuid": "4a8fb84b-7f48-4332-91a7-86cafcb7f4df",
+    "name": "Radio Roma Capitale",
+    "url": "http://nr8.newradio.it:9596/stream",
+    "homepage": "http://www.radioromacapitale.it/",
+    "favicon": "http://www.radioromacapitale.it/public/img/logo/logo_header.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,talk",
+    "state": "Lazio",
+    "bitrate": 96
+}

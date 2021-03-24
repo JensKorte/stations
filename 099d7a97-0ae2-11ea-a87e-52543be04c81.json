@@ -1,0 +1,14 @@
+{
+    "uuid": "099d7a97-0ae2-11ea-a87e-52543be04c81",
+    "name": "Solar de Radio",
+    "url": "http://184.107.35.153:9096/;stream/;stream.mp3",
+    "homepage": "https://www.solarderadio.com.ar",
+    "favicon": "https://www.solarderadio.com.ar/icono.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español,spanish",
+    "tags": "radio comunitaria,radio libre,libre,popular,autogestión,comunitaria",
+    "state": "Santa Fe",
+    "bitrate": 24
+}

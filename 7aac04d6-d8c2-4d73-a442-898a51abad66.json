@@ -1,0 +1,14 @@
+{
+    "uuid": "7aac04d6-d8c2-4d73-a442-898a51abad66",
+    "name": "U2 ZOO Station Radio",
+    "url": "http://stream.u2radio.com:9998/listen.pls",
+    "homepage": "https://www.u2radio.com/",
+    "favicon": "https://eu-u2radio.s3.amazonaws.com/wp-content/uploads/2019/11/09202422/wAn7gsKr_400x400.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "128kbit,pop rock,u2",
+    "state": "",
+    "bitrate": 128
+}

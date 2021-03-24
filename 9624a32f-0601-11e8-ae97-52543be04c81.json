@@ -1,0 +1,14 @@
+{
+    "uuid": "9624a32f-0601-11e8-ae97-52543be04c81",
+    "name": "XHPQ-FM 97.5 \"Radio Disney\" Leon, GJ",
+    "url": "http://provisioning.streamtheworld.com/pls/XHPQFMAAC.pls",
+    "homepage": "http://radio-la.azurewebsites.net/mx/",
+    "favicon": "http://radio-la.azurewebsites.net/mx/sites/all/themes/rd/apple-touch-icon-144x144-precomposed.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "leon,pop,rock,dance",
+    "state": "Guanajuato",
+    "bitrate": 56
+}

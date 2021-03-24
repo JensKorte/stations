@@ -1,0 +1,14 @@
+{
+    "uuid": "96122831-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Rebeca",
+    "url": "http://allnet.radionet.sk:8000/radiorebeca.mp3",
+    "homepage": "http://www.rebeca.sk",
+    "favicon": "http://rebeca.sk/wp-content/uploads/2015/04/logo_radio_rebeca.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "top 40,pop",
+    "state": "Slovakia",
+    "bitrate": 192
+}

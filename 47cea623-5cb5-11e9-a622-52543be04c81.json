@@ -1,0 +1,14 @@
+{
+    "uuid": "47cea623-5cb5-11e9-a622-52543be04c81",
+    "name": "Radio 11Q 104.9 FM",
+    "url": "https://streamingecuador.net:8012/radio11q.m3u",
+    "homepage": "https://radio11q.com/",
+    "favicon": "https://radio11q.com/wp-content/uploads/2017/10/11QHOME-1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "world music,90s,80s,pop,rock,musica,music",
+    "state": "Guayas",
+    "bitrate": 32
+}

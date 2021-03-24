@@ -1,0 +1,14 @@
+{
+    "uuid": "961f7d9b-0601-11e8-ae97-52543be04c81",
+    "name": "CKLB 101.9 Yellowknife, NT",
+    "url": "http://cklb.streamon.fm:8000/CKLB-24k.aac",
+    "homepage": "http://cklbradio.com/",
+    "favicon": "http://cklbradio.com/wp-content/uploads/2016/04/seo_CKLB_MAIN.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "community radio,folk,country,aboriginal",
+    "state": "Northwest Territories",
+    "bitrate": 23
+}

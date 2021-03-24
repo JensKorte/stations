@@ -1,0 +1,14 @@
+{
+    "uuid": "9bdc97a4-ff63-4e08-acf3-b20af9157e66",
+    "name": "La 1 TVE",
+    "url": "https://rtvelivestream-lvlt.rtve.es/la1_dvr.m3u8",
+    "homepage": "https://www.rtve.es/directo/la-1/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "castellano,spanish,español",
+    "tags": "",
+    "state": "Madrid",
+    "bitrate": 5151
+}

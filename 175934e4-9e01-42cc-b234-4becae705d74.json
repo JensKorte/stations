@@ -1,0 +1,14 @@
+{
+    "uuid": "175934e4-9e01-42cc-b234-4becae705d74",
+    "name": "Radio Lidingö",
+    "url": "http://radio-lidiingo.duckdns.org:9780",
+    "homepage": "https://www.radiolidingo.se/",
+    "favicon": "https://cdn.webrad.io/images/logos/radio-org-se/lidingo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish,svenska",
+    "tags": "lidingö,jazz,ballader,swing,klassiskt,schlager,evergreens,visor,nytt och gammalt,stockholm 97,8 fm",
+    "state": "",
+    "bitrate": 192
+}

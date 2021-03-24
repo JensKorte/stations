@@ -1,0 +1,14 @@
+{
+    "uuid": "b4901bdf-f1a6-46b8-a09d-dd1a7c662fae",
+    "name": "Echo FM",
+    "url": "http://91.121.77.43:9019/stream",
+    "homepage": "https://www.echo-fm.fr/",
+    "favicon": "http://www.echo-fm.fr/upload/54f46f2956d752.40262468.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french français",
+    "tags": "local radio,hits,french,france",
+    "state": "",
+    "bitrate": 128
+}

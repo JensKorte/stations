@@ -1,0 +1,14 @@
+{
+    "uuid": "c32430bd-dc90-4fcb-9350-0d48181c0bb8",
+    "name": "M1FM Chillout",
+    "url": "http://tuner.m1.fm:80/chillout.mp3",
+    "homepage": "https://m1.fm/",
+    "favicon": "https://m1.fm/images/cover-genre/chillout-cover.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Berlin",
+    "bitrate": 128
+}

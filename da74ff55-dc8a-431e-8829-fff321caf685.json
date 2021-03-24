@@ -1,0 +1,14 @@
+{
+    "uuid": "da74ff55-dc8a-431e-8829-fff321caf685",
+    "name": "Retro Rádió",
+    "url": "http://stream.retroradio.hu/high.mp3",
+    "homepage": "https://www.retroradio.hu/",
+    "favicon": "https://myonlineradio.hu/public/uploads/radio_img/retro-radio/play_250_250.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "retro,oldies,320kbps",
+    "state": "",
+    "bitrate": 320
+}

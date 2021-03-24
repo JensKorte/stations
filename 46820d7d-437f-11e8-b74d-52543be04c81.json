@@ -1,0 +1,14 @@
+{
+    "uuid": "46820d7d-437f-11e8-b74d-52543be04c81",
+    "name": "Nova FM Campinas, SP (ZYD810, 103,7 MHz FM) Nova Brasil",
+    "url": "http://20283.live.streamtheworld.com:3690/NOVA_CAMPINASAAC.aac?tdsdk=js-2.9\u0026pname=TDSdk\u0026pversion=2.9\u0026banners=none\u0026sbmid=b431ca9d-2606-4157-8797-b7ae79c4e179",
+    "homepage": "http://novafmcampinas.com.br/",
+    "favicon": "https://s3-us-west-1.amazonaws.com/nbfm/logos/logo_green_cp.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "music,brazilian pop,brazilian music,mpb",
+    "state": "São Paulo",
+    "bitrate": 48
+}

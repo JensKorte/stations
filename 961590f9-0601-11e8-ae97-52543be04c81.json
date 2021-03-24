@@ -1,0 +1,14 @@
+{
+    "uuid": "961590f9-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern - Oldies but Goldies",
+    "url": "http://mp3channels.webradio.antenne.de/oldies-but-goldies",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "https://www.antenne.de/assets/templates/antenne-de//img/logo-antenne-de-header-2.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "70s,oldies",
+    "state": "Bavaria",
+    "bitrate": 128
+}

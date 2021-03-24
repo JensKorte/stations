@@ -1,0 +1,14 @@
+{
+    "uuid": "6a893f37-f749-11e9-bbf2-52543be04c81",
+    "name": "RTL Radio Lëtzebuerg",
+    "url": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+    "homepage": "http://www.rtl.lu",
+    "favicon": "http://www.rtl.lu//assets/images/favicon-rtl/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "language": "lëtzebuergesch",
+    "tags": "",
+    "state": "",
+    "bitrate": 2647
+}

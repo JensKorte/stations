@@ -1,0 +1,14 @@
+{
+    "uuid": "96094bbb-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM",
+    "url": "http://broadcast.infomaniak.ch/rougefm-high.mp3",
+    "homepage": "http://www.rougefm.com",
+    "favicon": "http://www.rougefm.com/imgs/webradios/rougefmlive.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "top 40,pop,rock,electronica,soul,rnb",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

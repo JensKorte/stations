@@ -1,0 +1,14 @@
+{
+    "uuid": "4a0c4611-69ad-11e8-b15b-52543be04c81",
+    "name": "Radio Spice (Auckland, New Zealand)",
+    "url": "http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3",
+    "homepage": "http://radio.org.nz/spice",
+    "favicon": "https://cdn.webrad.io/images/logos/radio-org-nz/radio-spice-88-fm.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "punjabi",
+    "tags": "music",
+    "state": "Auckland",
+    "bitrate": 128
+}

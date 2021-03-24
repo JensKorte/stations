@@ -1,0 +1,14 @@
+{
+    "uuid": "96127f58-0601-11e8-ae97-52543be04c81",
+    "name": "RSI Rete Due",
+    "url": "http://stream.srg-ssr.ch/m/retedue/mp3_128",
+    "homepage": "http://www.rsi.ch/rete-due/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f4/RSI_Rete_Due_2013.svg/569px-RSI_Rete_Due_2013.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "italian",
+    "tags": "srg ssr,public radio,classical",
+    "state": "Ticino",
+    "bitrate": 0
+}

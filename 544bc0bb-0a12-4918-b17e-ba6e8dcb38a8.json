@@ -1,0 +1,14 @@
+{
+    "uuid": "544bc0bb-0a12-4918-b17e-ba6e8dcb38a8",
+    "name": "RADIOSATELLITE",
+    "url": "http://centova3.streamradio.fr:9000/stream",
+    "homepage": "https://radiosatellite.co",
+    "favicon": "https://imagizer.imageshack.com/img923/10/Ur21o2.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french,english",
+    "tags": "country music,smooth jazz,easy listening,instrumental",
+    "state": "Paris",
+    "bitrate": 320
+}

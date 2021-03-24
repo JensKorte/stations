@@ -1,0 +1,14 @@
+{
+    "uuid": "87d140d8-7d3c-493b-9eb8-9dcd74b7276d",
+    "name": "Rádio G6 (Gipsy Radio)",
+    "url": "http://mpc.mediacp.eu:8400/stream",
+    "homepage": "http://www.radiog6.cz/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "world,folk",
+    "state": "",
+    "bitrate": 128
+}

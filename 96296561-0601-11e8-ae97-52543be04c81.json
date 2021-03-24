@@ -1,0 +1,14 @@
+{
+    "uuid": "96296561-0601-11e8-ae97-52543be04c81",
+    "name": "Ketnet Hits",
+    "url": "http://icecast.vrtcdn.be/ketnetradio-high.mp3",
+    "homepage": "https://www.ketnet.be/wrap/luister-naar-ketnet-hits",
+    "favicon": "https://www.ketnet.be//sites/all/themes/ketnet/images/favicons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "vrt",
+    "state": "",
+    "bitrate": 0
+}

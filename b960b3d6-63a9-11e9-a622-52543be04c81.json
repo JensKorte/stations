@@ -1,0 +1,14 @@
+{
+    "uuid": "b960b3d6-63a9-11e9-a622-52543be04c81",
+    "name": "Radio Gaviota 105.1 FM",
+    "url": "https://streamingecuador.net:9000/radiogaviota.m3u",
+    "homepage": "https://radiogaviotafm.com/",
+    "favicon": "https://radiogaviotafm.com/wp-content/uploads/2017/05/logo-gaviota.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,music,musica",
+    "state": "El Oro",
+    "bitrate": 0
+}

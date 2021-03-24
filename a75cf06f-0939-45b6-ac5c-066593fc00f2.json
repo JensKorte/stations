@@ -1,0 +1,14 @@
+{
+    "uuid": "a75cf06f-0939-45b6-ac5c-066593fc00f2",
+    "name": "Bibel TV",
+    "url": "https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/bibeltv01/bibeltv01.stream_1/chunks.m3u8",
+    "homepage": "https://beta.bibeltv.de/livestreams/bibeltv/",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
+    "creation": "2021-02-09 08:23:37",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv,bibel,christian",
+    "state": "",
+    "bitrate": 0
+}

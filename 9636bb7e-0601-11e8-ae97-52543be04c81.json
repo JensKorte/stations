@@ -1,0 +1,14 @@
+{
+    "uuid": "9636bb7e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Modena 90",
+    "url": "http://onair15.xdevel.com:8502/;stream.mp3",
+    "homepage": "http://www.modena90.it/",
+    "favicon": "http://www.modena90.it/wp-content/uploads/2013/06/logo-modena90.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "carpi,italian pop",
+    "state": "Emilia-Romagna",
+    "bitrate": 128
+}

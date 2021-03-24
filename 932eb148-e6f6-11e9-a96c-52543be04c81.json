@@ -1,0 +1,14 @@
+{
+    "uuid": "932eb148-e6f6-11e9-a96c-52543be04c81",
+    "name": "FIP",
+    "url": "http://icecast.radiofrance.fr/fip-hifi.aac",
+    "homepage": "https://www.fip.fr/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,music,public radio,aac",
+    "state": "",
+    "bitrate": 0
+}

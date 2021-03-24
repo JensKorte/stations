@@ -1,0 +1,14 @@
+{
+    "uuid": "962d19f7-0601-11e8-ae97-52543be04c81",
+    "name": "DanceControl",
+    "url": "http://streaming.dancecontrol.net:8000/",
+    "homepage": "http://dancecontrol.net/",
+    "favicon": "http://www.dancecontrol.net/RADIO/PORTADAS/general.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "english",
+    "tags": "progressive house,house,electronic,dance",
+    "state": "",
+    "bitrate": 128
+}

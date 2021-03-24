@@ -1,0 +1,14 @@
+{
+    "uuid": "962140e7-0601-11e8-ae97-52543be04c81",
+    "name": "Rádió 1 Pécs",
+    "url": "http://stream.radio1pecs.hu:8200/pecs.mp3",
+    "homepage": "http://radio1pecs.hu/",
+    "favicon": "http://graph.facebook.com/radio1pecs/picture?type=large",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop",
+    "state": "Baranya",
+    "bitrate": 140
+}

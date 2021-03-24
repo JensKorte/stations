@@ -1,0 +1,14 @@
+{
+    "uuid": "960f2fd2-0601-11e8-ae97-52543be04c81",
+    "name": "WXRW-LP 104.1 \"Riverwest Radio\" Milwaukee, WI",
+    "url": "http://stream.riverwestradio.com:8000/riverwestradio",
+    "homepage": "http://www.riverwestradio.com/",
+    "favicon": "http://www.riverwestradio.com/wp-content/uploads/2015/11/RWR104.1_Oval-inverse-300x194.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "milwaukee,community radio",
+    "state": "Wisconsin",
+    "bitrate": 128
+}

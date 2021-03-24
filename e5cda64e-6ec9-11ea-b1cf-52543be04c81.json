@@ -1,0 +1,14 @@
+{
+    "uuid": "e5cda64e-6ec9-11ea-b1cf-52543be04c81",
+    "name": "Joe FM",
+    "url": "http://webstreams.joe.be/live_high.mp3",
+    "homepage": "https://joe.be/",
+    "favicon": "https://joe.be//favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "nedelands",
+    "tags": "oldies,dance,pop",
+    "state": "",
+    "bitrate": 128
+}

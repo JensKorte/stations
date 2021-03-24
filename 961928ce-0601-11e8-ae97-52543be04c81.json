@@ -1,0 +1,14 @@
+{
+    "uuid": "961928ce-0601-11e8-ae97-52543be04c81",
+    "name": "talkRADIO",
+    "url": "http://radio.talkradio.co.uk/stream-mobile?ref=rf",
+    "homepage": "http://talkradio.co.uk/",
+    "favicon": "http://talkradio.co.uk/sites/all/themes/talkGroup/img/talkRADIO_stacked.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "speech",
+    "state": "",
+    "bitrate": 32
+}

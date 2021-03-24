@@ -1,0 +1,14 @@
+{
+    "uuid": "9eb3a7b2-dba1-47f5-bd70-16444ceccbb5",
+    "name": "Radio Oro",
+    "url": "http://185.23.192.118:8002/;stream.mp3",
+    "homepage": "http://www.radiooro.es/",
+    "favicon": "https://pbs.twimg.com/profile_images/514804647828017152/ac9cYpha_400x400.jpeg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "oldies",
+    "state": "Málaga",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "20d179c5-5963-11e8-b0ce-52543be04c81",
+    "name": "Rádio Medianeira FM 102.7",
+    "url": "http://centova11.ciclanohost.com.br:2199/tunein/-stream/medianeiraam.pls",
+    "homepage": "http://102.7.radiomedianeira.com.br/",
+    "favicon": "http://102.7.radiomedianeira.com.br/wp-content/uploads/2018/01/radio-medianeira-fm-campanha-fms-13413-5x-perfil-1207-120x120.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "news talk,local news,news",
+    "state": "Rio Grande do Sul",
+    "bitrate": 96
+}

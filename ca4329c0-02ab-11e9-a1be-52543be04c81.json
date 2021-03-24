@@ -1,0 +1,14 @@
+{
+    "uuid": "ca4329c0-02ab-11e9-a1be-52543be04c81",
+    "name": "Правда Радио",
+    "url": "http://79.98.49.5:8132/pravda?type=.mp3",
+    "homepage": "http://pravdaradio.by/",
+    "favicon": "http://pravdaradio.by/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "local news,news,music",
+    "state": "Gomel",
+    "bitrate": 192
+}

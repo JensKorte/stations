@@ -1,0 +1,14 @@
+{
+    "uuid": "9623b030-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Grandstand (AAC)",
+    "url": "http://live-radio02.mediahubaustralia.com/GSDW/aac/;",
+    "homepage": "https://radio.abc.net.au/stations/grandstand/live",
+    "favicon": "https://resize.abcradio.net.au/tjTpSRqGEg3H-hQ1qsXnVLktPj4=/100x100/center/middle/http://www.abc.net.au/radio/images/service/grandstand.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "abc,public radio,sports news,sport",
+    "state": "",
+    "bitrate": 64
+}

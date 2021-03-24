@@ -1,0 +1,14 @@
+{
+    "uuid": "960a9be4-0601-11e8-ae97-52543be04c81",
+    "name": "CroRadio",
+    "url": "http://stream.swifthosting.com.au:8080/listen.pls",
+    "homepage": "http://www.croradio.net/",
+    "favicon": "http://www.croradio.net/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "",
+    "tags": "croatian programming",
+    "state": "Victoria",
+    "bitrate": 128
+}

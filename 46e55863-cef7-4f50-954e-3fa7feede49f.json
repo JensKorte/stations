@@ -1,0 +1,14 @@
+{
+    "uuid": "46e55863-cef7-4f50-954e-3fa7feede49f",
+    "name": "NPO Radio 5",
+    "url": "https://icecast.omroep.nl/radio5-bb-mp3",
+    "homepage": "https://www.nporadio5.nl/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NPO_Radio_5_logo_2017.png/1200px-NPO_Radio_5_logo_2017.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "80's,70's,60's,evergreens",
+    "state": "",
+    "bitrate": 0
+}

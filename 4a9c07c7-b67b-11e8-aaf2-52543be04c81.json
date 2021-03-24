@@ -1,0 +1,14 @@
+{
+    "uuid": "4a9c07c7-b67b-11e8-aaf2-52543be04c81",
+    "name": "Grunn.FM",
+    "url": "http://stream.gal.io/grunnfm",
+    "homepage": "https://www.grunn.fm/",
+    "favicon": "https://www.grunn.fm/wp-content/themes/grunn/images/logo2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "nederlands",
+    "tags": "regionaal",
+    "state": "Groningen",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7fffdb16-b838-11e8-aaf2-52543be04c81",
+    "name": "192 Radio (AAC stream)",
+    "url": "http://server-10.stream-server.nl:8030/listen.pls",
+    "homepage": "http://www.a92radio.nl",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "oldies",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a05252ce-a64b-11e9-a787-52543be04c81",
+    "name": "Magic FM",
+    "url": "http://live.magicfm.ro:9128/magicfm.aacp",
+    "homepage": "http://www.magicfm.ro/",
+    "favicon": "https://api.magicfm.ro/resized/emisiuni/thumb/alwaysgreat_1.jpg?w=120\u0026h=120\u0026c=1",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "",
+    "tags": "",
+    "state": "ROMANIA",
+    "bitrate": 64
+}

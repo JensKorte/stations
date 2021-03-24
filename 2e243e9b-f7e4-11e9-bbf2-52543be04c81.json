@@ -1,0 +1,14 @@
+{
+    "uuid": "2e243e9b-f7e4-11e9-bbf2-52543be04c81",
+    "name": "Radio Austria",
+    "url": "https://onair.securestream.radioaustria.at/radioaustria",
+    "homepage": "https://www.radioaustria.at/",
+    "favicon": "https://www.radioaustria.at/themes/main/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "oldies,adult contemporary",
+    "state": "Vienna",
+    "bitrate": 128
+}

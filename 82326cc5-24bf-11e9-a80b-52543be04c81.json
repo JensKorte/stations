@@ -1,0 +1,14 @@
+{
+    "uuid": "82326cc5-24bf-11e9-a80b-52543be04c81",
+    "name": "Dimensione Suono Roma",
+    "url": "http://stream1.rds.it:8000/dsr",
+    "homepage": "http://www.dimensionesuonoroma.it/",
+    "favicon": "https://www.dimensionesuonoroma.it/wp-content/themes/rds-dsr/icons/mstile-310x310.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,top 40,hits,90s,00s",
+    "state": "Lazio",
+    "bitrate": 0
+}

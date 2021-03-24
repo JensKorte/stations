@@ -1,0 +1,14 @@
+{
+    "uuid": "b1f5d9ce-d7ec-4055-9764-6c31c50bfccc",
+    "name": "Rádio Quântica",
+    "url": "http://stream2.radioquantica.com:8000/stream",
+    "homepage": "https://www.radioquantica.com/",
+    "favicon": "https://www.radioquantica.com/images/quantica-logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese,english",
+    "tags": "underground,urban",
+    "state": "",
+    "bitrate": 128
+}

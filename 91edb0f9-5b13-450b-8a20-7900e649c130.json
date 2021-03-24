@@ -1,0 +1,14 @@
+{
+    "uuid": "91edb0f9-5b13-450b-8a20-7900e649c130",
+    "name": "unchained-radio",
+    "url": "http://stream11.shoutcastsolutions.com:8368/;",
+    "homepage": "http://unchained-radio.com/live",
+    "favicon": "http://unchained-radio.com/download-logo-ur/",
+    "creation": "2021-02-25 10:53:44",
+    "country": "France",
+    "country_code": "FR",
+    "language": "english,french",
+    "tags": "",
+    "state": "PACA",
+    "bitrate": 192
+}

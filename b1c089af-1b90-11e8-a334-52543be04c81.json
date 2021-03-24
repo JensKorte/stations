@@ -1,0 +1,14 @@
+{
+    "uuid": "b1c089af-1b90-11e8-a334-52543be04c81",
+    "name": "Rádio Anténa HardRock (online)",
+    "url": "http://stream.radioservices.sk/hardrock.mp3",
+    "homepage": "http://antenarock.sk",
+    "favicon": "http://antenarock.sk/templates/img/logo-antena-rock-hard-bg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "classic rock,hard rock,metal",
+    "state": "Slovakia",
+    "bitrate": 0
+}

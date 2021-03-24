@@ -1,0 +1,14 @@
+{
+    "uuid": "94713734-6406-4bf8-a4fc-a34d926aae98",
+    "name": "Радио 40 Калуга",
+    "url": "http://195.112.119.187:8000/Radio40",
+    "homepage": "http://radio40.ru/",
+    "favicon": "http://radiogenerator.ru/upload/iblock/5f4/radio_40_kaluga.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "talk,rock",
+    "state": "Kaluga region",
+    "bitrate": 320
+}

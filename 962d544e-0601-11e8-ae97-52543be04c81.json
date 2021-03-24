@@ -1,0 +1,14 @@
+{
+    "uuid": "962d544e-0601-11e8-ae97-52543be04c81",
+    "name": "Promoradio Network",
+    "url": "http://nr11.newradio.it:9112/;stream.mp3",
+    "homepage": "https://www.promovideotv.com/radio/",
+    "favicon": "http://www.promovideotv.com/wp/app/uploads/2015/07/radio-300x300.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "reggio calabria,adult contemporary",
+    "state": "Calabria",
+    "bitrate": 128
+}

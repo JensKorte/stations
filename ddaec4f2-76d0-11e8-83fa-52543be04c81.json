@@ -1,0 +1,14 @@
+{
+    "uuid": "ddaec4f2-76d0-11e8-83fa-52543be04c81",
+    "name": "SWR 1",
+    "url": "http://mp3-live.swr.de/swr1bw_s.m3u",
+    "homepage": "http://mp3-live.swr.de/swr1bw_s.m3u",
+    "favicon": "http://mp3-live.swr.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "pop",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

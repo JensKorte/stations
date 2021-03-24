@@ -1,0 +1,14 @@
+{
+    "uuid": "c7df8c0b-143f-11e8-ae97-52543be04c81",
+    "name": "Radio VIP",
+    "url": "http://vip128.streaming.rs:8110/listen.pls",
+    "homepage": "http://www.radiovip.info",
+    "favicon": "http://radiovip.org/wp-content/uploads/2016/09/cropped-SquareLogo-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

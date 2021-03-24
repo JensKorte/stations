@@ -1,0 +1,14 @@
+{
+    "uuid": "961449d4-0601-11e8-ae97-52543be04c81",
+    "name": "harmony.fm",
+    "url": "http://streams.harmonyfm.de/harmonyfm/mp3/hqlivestream.m3u",
+    "homepage": "http://www.harmonyfm.de/",
+    "favicon": "https://static.harmonyfm.de/fileadmin/templates/www.harmonyfm.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classic hits",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "93cc00c9-66ca-4583-a4ec-bd7e802ed98b",
+    "name": "FitFamilyRádio",
+    "url": "https://radioserver.online:9803/ffr.mp3",
+    "homepage": "https://fitfamilyradio.com",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

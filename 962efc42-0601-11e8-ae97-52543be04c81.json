@@ -1,0 +1,14 @@
+{
+    "uuid": "962efc42-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Domusnovas",
+    "url": "http://91.121.38.216:8028/stream",
+    "homepage": "http://www.radiodomusnovas.it/",
+    "favicon": "http://play5.newradio.it/uploads/logo-5171.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "domusnovas,talk,pop,70s,80s",
+    "state": "Sardegna",
+    "bitrate": 128
+}

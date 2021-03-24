@@ -1,0 +1,14 @@
+{
+    "uuid": "f0f0eb3c-6d35-11e8-b15b-52543be04c81",
+    "name": "99 Active Radio (HLS)",
+    "url": "http://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/playlist.m3u8",
+    "homepage": "http://www.fm99activeradio.com",
+    "favicon": "http://www.fm99activeradio.com/static/img/logofm99.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "live sports,sports talk,sports news",
+    "state": "Bangkok",
+    "bitrate": 128
+}

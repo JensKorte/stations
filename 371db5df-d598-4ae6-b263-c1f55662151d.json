@@ -1,0 +1,14 @@
+{
+    "uuid": "371db5df-d598-4ae6-b263-c1f55662151d",
+    "name": "Radio Liechtenstein",
+    "url": "http://85.31.153.69:8000/live",
+    "homepage": "https://www.radio.li/",
+    "favicon": "https://www.radio.li/application/files/4815/6890/1203/logo.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Liechtenstein",
+    "country_code": "LI",
+    "language": "deutsch",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

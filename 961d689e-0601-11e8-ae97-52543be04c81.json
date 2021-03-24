@@ -1,0 +1,14 @@
+{
+    "uuid": "961d689e-0601-11e8-ae97-52543be04c81",
+    "name": "Radionorba",
+    "url": "http://onair11.xdevel.com:9990/;stream.mp3",
+    "homepage": "http://radionorba.it/",
+    "favicon": "http://radionorba.it/wp-content/uploads/2015/06/radionorba1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "conversano,pop",
+    "state": "Puglia",
+    "bitrate": 64
+}

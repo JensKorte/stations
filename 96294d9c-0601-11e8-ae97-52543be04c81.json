@@ -1,0 +1,14 @@
+{
+    "uuid": "96294d9c-0601-11e8-ae97-52543be04c81",
+    "name": "Vatican Radio Channel 2 (Asia, Africa)",
+    "url": "http://live.vaticanwebradio.org/channel2.mp3",
+    "homepage": "http://www.radiovaticana.va",
+    "favicon": "http://en.radiovaticana.va/Modules/Presentation/Styles/images-common/loghi-canali/RV02-channel.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Holy See",
+    "country_code": "VA",
+    "language": "multilingual",
+    "tags": "christian,religion,catholic",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e90b58ac-7976-427d-b5c3-bcccdae1cc7d",
+    "name": "Nationa FM",
+    "url": "http://www.nationalfm.ro/assets/national-fm.pls",
+    "homepage": "https://www.nationalfm.ro/",
+    "favicon": "https://www.nationalfm.ro/assets/img/logo-national-fm.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "romania,traditional,national",
+    "state": "Bucharest",
+    "bitrate": 64
+}

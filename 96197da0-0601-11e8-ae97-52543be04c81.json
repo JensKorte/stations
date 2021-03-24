@@ -1,0 +1,14 @@
+{
+    "uuid": "96197da0-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Voz de Alenquer",
+    "url": "http://centova.radio.com.pt:8479/;",
+    "homepage": "http://www.radioalenquer.pt/",
+    "favicon": "http://www.radios.pt/wp-content/uploads/2015/09/RVA-Logo-fundo-transparente-copy.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "news,local music,sport",
+    "state": "Lisbon",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960d9954-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Jasna Gora",
+    "url": "http://online.radiojasnagora.pl:8000/rjg",
+    "homepage": "http://www.radiojasnagora.pl/",
+    "favicon": "http://www.radiojasnagora.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "religion",
+    "state": "Czestochowa",
+    "bitrate": 192
+}

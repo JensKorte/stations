@@ -1,0 +1,14 @@
+{
+    "uuid": "557e14c8-512d-4f58-9e0a-d0c7edbdd31c",
+    "name": "CoSTa-Server - Ambient",
+    "url": "http://costa-server.info.pl:8010/radio.mp3",
+    "homepage": "https://costa-server.info.pl:33000/public/ambient",
+    "favicon": "https://costa-server.info.pl/radio-costa_server-ambient.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "chillout,psybient,electronic,ambient",
+    "state": "Wielkopolskie",
+    "bitrate": 192
+}

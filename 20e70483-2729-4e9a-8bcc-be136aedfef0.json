@@ -1,0 +1,14 @@
+{
+    "uuid": "20e70483-2729-4e9a-8bcc-be136aedfef0",
+    "name": "RNE - Galicia",
+    "url": "https://crtve-rne1-gal.cast.addradio.de/crtve/rne1/gal/mp3/high",
+    "homepage": "http://www.rtve.es/radio/",
+    "favicon": "https://img2.rtve.es/imagenes/radio1-galicia/1550566713183.png",
+    "creation": "2021-03-05 20:04:50",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "galician,galego,spanish,español",
+    "tags": "radio nacional de españa,rne,spanish public radio",
+    "state": "Galicia",
+    "bitrate": 0
+}

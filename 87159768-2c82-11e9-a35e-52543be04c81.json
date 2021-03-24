@@ -1,0 +1,14 @@
+{
+    "uuid": "87159768-2c82-11e9-a35e-52543be04c81",
+    "name": "Радио Книга (radiokniga)",
+    "url": "http://bookradio.hostingradio.ru:8069/fm",
+    "homepage": "http://radiokniga.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s272488d.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "talk",
+    "state": "",
+    "bitrate": 0
+}

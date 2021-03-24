@@ -1,0 +1,14 @@
+{
+    "uuid": "960b1670-0601-11e8-ae97-52543be04c81",
+    "name": "RNZ National",
+    "url": "http://radionz-ice.streamguys.com:80/national.mp3",
+    "homepage": "http://www.radionz.co.nz/national",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/RNZ_National_logo.svg/440px-RNZ_National_logo.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "english,aboriginal languages",
+    "tags": "national affairs,news,features",
+    "state": "Auckland",
+    "bitrate": 0
+}

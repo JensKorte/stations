@@ -1,0 +1,14 @@
+{
+    "uuid": "963490c6-0601-11e8-ae97-52543be04c81",
+    "name": "KRPG 89.3 FM Public Radio Guam",
+    "url": "http://peridot.streamguys.com:5090/live",
+    "homepage": "http://www.kprgfm.com/main/index.php",
+    "favicon": "http://www.kprgfm.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Guam",
+    "country_code": "GU",
+    "language": "english",
+    "tags": "news,public,community,npr",
+    "state": "Guam",
+    "bitrate": 75
+}

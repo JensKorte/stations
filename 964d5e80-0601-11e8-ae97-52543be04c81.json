@@ -1,0 +1,14 @@
+{
+    "uuid": "964d5e80-0601-11e8-ae97-52543be04c81",
+    "name": "Proradio",
+    "url": "http://radiointernetowe.net:7802/",
+    "homepage": "http://www.proradio.pl/",
+    "favicon": "http://www.proradio.pl/images/sampledata/icetheme/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Łódź",
+    "bitrate": 160
+}

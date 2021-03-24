@@ -1,0 +1,14 @@
+{
+    "uuid": "b90018fa-9659-4218-ac42-17ece7431f7e",
+    "name": "Украінське Радіо 105.0",
+    "url": "http://radio.ukr.radio:8000/ur1-mp3-m",
+    "homepage": "http://www.nrcu.gov.ua/",
+    "favicon": "http://www.nrcu.gov.ua/images/stat-page/big/sp_1550735946_5c6e5a4ae5db7.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "talk",
+    "state": "Kyiv",
+    "bitrate": 128
+}

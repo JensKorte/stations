@@ -1,0 +1,14 @@
+{
+    "uuid": "961ef35b-0601-11e8-ae97-52543be04c81",
+    "name": "Airplay Radio",
+    "url": "https://stream.and-stuff.nl:8443/live-airplay_320",
+    "homepage": "https://www.airplayradio.nl/",
+    "favicon": "https://www.airplayradio.nl/wp-content/uploads/2017/04/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "variety,local news",
+    "state": "Overijssel",
+    "bitrate": 0
+}

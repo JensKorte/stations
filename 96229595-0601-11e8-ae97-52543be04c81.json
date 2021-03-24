@@ -1,0 +1,14 @@
+{
+    "uuid": "96229595-0601-11e8-ae97-52543be04c81",
+    "name": "CHTD \"The Tide 98.1\"  - St. Stephen, NB",
+    "url": "http://chtd.streamon.fm:8000/CHTD-48k.aac",
+    "homepage": "http://www.thetide.ca/",
+    "favicon": "http://www.thetide.ca/sites/all/themes/thetide/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "st. stephen,country,commercial",
+    "state": "New Brunswick",
+    "bitrate": 48
+}

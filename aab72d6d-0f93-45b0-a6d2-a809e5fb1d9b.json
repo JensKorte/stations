@@ -1,0 +1,14 @@
+{
+    "uuid": "aab72d6d-0f93-45b0-a6d2-a809e5fb1d9b",
+    "name": "ESPN 630 DC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBNAMAAC.aac",
+    "homepage": "https://www.sportscapitoldc.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WSBN.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "sports",
+    "state": "Washington DC",
+    "bitrate": 48
+}

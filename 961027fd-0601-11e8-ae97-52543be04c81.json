@@ -1,0 +1,14 @@
+{
+    "uuid": "961027fd-0601-11e8-ae97-52543be04c81",
+    "name": "Bayerwaldradio",
+    "url": "http://www.bayerwaldradio.com/radiod/bayerwaldradio.m3u",
+    "homepage": "http://www.bayerwaldradio.de",
+    "favicon": "http://www.bayerwaldradio.com/templates/bwradio_gruen/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager,folklore",
+    "state": "Bavaria",
+    "bitrate": 128
+}

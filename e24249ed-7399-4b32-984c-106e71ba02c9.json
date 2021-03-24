@@ -1,0 +1,14 @@
+{
+    "uuid": "e24249ed-7399-4b32-984c-106e71ba02c9",
+    "name": "Radio Ilok",
+    "url": "http://178.32.146.187:5172/stream",
+    "homepage": "https://www.radio-ilok.hr/",
+    "favicon": "https://www.radio-ilok.hr/images/2016/favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 96
+}

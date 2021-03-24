@@ -1,0 +1,14 @@
+{
+    "uuid": "dd84557e-6654-45f9-91a8-6ebcd23442b0",
+    "name": "Klasu Pro – vaativalle musiikin kuuntelijalle (Classical)",
+    "url": "http://rondo.iradio.fi:8000/klasupro.flac",
+    "homepage": "https://rondolehti.fi/klasu-pro/",
+    "favicon": "https://rondolehti.fi/wp-content/uploads/2015/12/KlasuPro-logo-violetti-326x420.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "english,finnish",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961ab037-0601-11e8-ae97-52543be04c81",
+    "name": "RPL Radio",
+    "url": "http://91.121.62.121:9800/;",
+    "homepage": "http://www.rpl-radio.com/",
+    "favicon": "http://www.rpl-radio.fr/logo_rpl.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Grand Est",
+    "bitrate": 120
+}

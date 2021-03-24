@@ -1,0 +1,14 @@
+{
+    "uuid": "188c36ae-f1ef-4b5c-8587-f29c216bfaa2",
+    "name": "Sud Radio",
+    "url": "https://ice.creacast.com/sudradio",
+    "homepage": "https://www.sudradio.fr",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/8/80/Sud_Radio_2014_logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "mp3,conservative,info,news,talk",
+    "state": "",
+    "bitrate": 96
+}

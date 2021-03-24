@@ -1,0 +1,14 @@
+{
+    "uuid": "9605725e-0601-11e8-ae97-52543be04c81",
+    "name": "ByteFM",
+    "url": "https://www.byte.fm/stream/bytefm.m3u",
+    "homepage": "https://www.byte.fm/",
+    "favicon": "https://www.byte.fm/static/images/ByteFM_Logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "world music,rock,indie,pop",
+    "state": "Hamburg",
+    "bitrate": 128
+}

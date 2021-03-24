@@ -1,0 +1,14 @@
+{
+    "uuid": "bcc2363f-d35e-42cc-9437-68881134d908",
+    "name": "Radio ABC Cardinal 730 AM",
+    "url": "http://sc.abc.com.py:8000/stream",
+    "homepage": "https://www.abc.com.py/730am/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s17748q.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "language": "español",
+    "tags": "sports news,sports,news",
+    "state": "Asuncion",
+    "bitrate": 16
+}

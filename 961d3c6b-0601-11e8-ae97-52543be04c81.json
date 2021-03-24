@@ -1,0 +1,14 @@
+{
+    "uuid": "961d3c6b-0601-11e8-ae97-52543be04c81",
+    "name": "HRT Radio Dubrovnik",
+    "url": "http://playerservices.streamtheworld.com/m3u/DUBROVNIKAAC.m3u",
+    "homepage": "http://radio.hrt.hr/radio-dubrovnik/",
+    "favicon": "http://radio.hrt.hr/static/img/noimg/radio-dubrovnik.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "dubrovnik,hrt,public radio",
+    "state": "",
+    "bitrate": 64
+}

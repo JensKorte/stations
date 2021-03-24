@@ -1,0 +1,14 @@
+{
+    "uuid": "9632a2a6-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM 2000",
+    "url": "http://rouge-2000.ice.infomaniak.ch/rouge-2000-128.mp3",
+    "homepage": "http://www.rougefm.com/webradios-2000/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/2000.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "00s",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961bfbb8-0601-11e8-ae97-52543be04c81",
+    "name": "ClubFM",
+    "url": "http://www.clubfmserver.be:8000/clubfm.mp3",
+    "homepage": "http://www.radioclubfm.info/",
+    "favicon": "https://static.wixstatic.com/media/e4c753_ea1cba1d326b4681bbe275fe35e1af53.png/v1/fill/w_213,h_60,al_c/e4c753_ea1cba1d326b4681bbe275fe35e1af53.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "pop",
+    "state": "Eeklo",
+    "bitrate": 0
+}

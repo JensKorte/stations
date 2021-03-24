@@ -1,0 +1,14 @@
+{
+    "uuid": "5e498e8c-9025-4b6d-b49a-e0d5ed9285f2",
+    "name": "FinEst Radio",
+    "url": "https://shoutcast.finestfm.fi/stream/1/:80/;stream",
+    "homepage": "https://finestfm.fi/",
+    "favicon": "https://finestfm.fi/upload/5e10861c127007.32944399.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "05aa592e-a55e-11e8-abb8-52543be04c81",
+    "name": "Radio 957",
+    "url": "http://stream.bauermedia.fi/radio957/radio957_64.aac",
+    "homepage": "https://www.957.fi",
+    "favicon": "https://www.957.fi/files/meta_images/radio957-fb-cover.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "Pirkanmaa",
+    "bitrate": 64
+}

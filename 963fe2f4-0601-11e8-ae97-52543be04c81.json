@@ -1,0 +1,14 @@
+{
+    "uuid": "963fe2f4-0601-11e8-ae97-52543be04c81",
+    "name": "RadioSaurios New Age",
+    "url": "http://5.135.183.124:8430/stream",
+    "homepage": "http://radiotushurami.com/radiosaurios/radiosaurios.html",
+    "favicon": "http://5.135.183.124/player/radiosaurios/build/logoradio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "new age",
+    "state": "Lima",
+    "bitrate": 128
+}

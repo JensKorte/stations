@@ -1,0 +1,14 @@
+{
+    "uuid": "5a792307-6cad-4d44-9ff1-1ff12c5cce09",
+    "name": "Radio Fips 89.0 FM",
+    "url": "https://streams.radiofips.de/fipsmp3",
+    "homepage": "https://www.radiofips.de/",
+    "favicon": "https://www.radiofips.de/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "independent",
+    "state": "",
+    "bitrate": 192
+}

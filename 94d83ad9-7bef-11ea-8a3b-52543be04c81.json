@@ -1,0 +1,14 @@
+{
+    "uuid": "94d83ad9-7bef-11ea-8a3b-52543be04c81",
+    "name": "Радио BumbleBee",
+    "url": "http://live.bumblebeefm.ru:8000/radio",
+    "homepage": "https://bfm.net.ua/",
+    "favicon": "https://bfm.net.ua/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "только хиты",
+    "state": "",
+    "bitrate": 0
+}

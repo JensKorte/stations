@@ -1,0 +1,14 @@
+{
+    "uuid": "9619e2d1-0601-11e8-ae97-52543be04c81",
+    "name": "XHMO-FM 93.9 \"Radio Disney\" Morelia, MC",
+    "url": "http://provisioning.streamtheworld.com/pls/XHMOFMAAC.pls",
+    "homepage": "http://radio-la.azurewebsites.net/mx/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/d/dd/XHMO_RadioDisney93.9_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "morelia,pop",
+    "state": "Michoacán",
+    "bitrate": 56
+}

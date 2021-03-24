@@ -1,0 +1,14 @@
+{
+    "uuid": "96287b40-0601-11e8-ae97-52543be04c81",
+    "name": "DWG Radio German",
+    "url": "http://server23644.streamplus.de:80/;",
+    "homepage": "http://de.dwg-radio.net/",
+    "favicon": "http://static.radio.de/images/broadcasts/8b/5c/4150/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 128
+}

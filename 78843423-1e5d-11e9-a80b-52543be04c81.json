@@ -1,0 +1,14 @@
+{
+    "uuid": "78843423-1e5d-11e9-a80b-52543be04c81",
+    "name": "Radio Itaca",
+    "url": "http://164.132.178.50:8000/stream.mp3",
+    "homepage": "http://www.radioitaca.it/",
+    "favicon": "http://www.radioitaca.it/wp-content/uploads/2016/11/cropped-Itcaca_Icon-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "marsala,top 40,pop",
+    "state": "Sicilia",
+    "bitrate": 128
+}

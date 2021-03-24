@@ -1,0 +1,14 @@
+{
+    "uuid": "6d968ef2-f19a-4f1f-a21f-d226ffa72578",
+    "name": "SuperDj Radio",
+    "url": "http://stream.diazol.hu:35150/autodj",
+    "homepage": "https://superdjradio.hu/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "disco,dj",
+    "state": "",
+    "bitrate": 0
+}

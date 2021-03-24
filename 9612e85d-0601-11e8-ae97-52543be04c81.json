@@ -1,0 +1,14 @@
+{
+    "uuid": "9612e85d-0601-11e8-ae97-52543be04c81",
+    "name": "NPO Radio 4 - Concerten",
+    "url": "http://icecast.omroep.nl/radio4-eigentijds-mp3",
+    "homepage": "http://www.radio4.nl",
+    "favicon": "https://www.nporadio4.nl///templates/nporadio4default/images/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "opera,classic,classical",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f96674c8-26de-11e9-a80b-52543be04c81",
+    "name": "Khanh Hoa Radio",
+    "url": "http://210.245.20.94/hls/radio.m3u8",
+    "homepage": "http://ktv.org.vn/",
+    "favicon": "http://ktv.org.vn/wp-content/themes/ktv/assets/img/radio.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "language": "vietnamese",
+    "tags": "",
+    "state": "Khanh Hoa",
+    "bitrate": 0
+}

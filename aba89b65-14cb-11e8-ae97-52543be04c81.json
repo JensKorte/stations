@@ -1,0 +1,14 @@
+{
+    "uuid": "aba89b65-14cb-11e8-ae97-52543be04c81",
+    "name": "Tokyo Rose Radio",
+    "url": "http://agnes.torontocast.com:8055/stream",
+    "homepage": "http://www.tokyoroseradio.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s296524q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "montreal,20s,30s,40s,oldies,jazz,big band",
+    "state": "Quebec",
+    "bitrate": 128
+}

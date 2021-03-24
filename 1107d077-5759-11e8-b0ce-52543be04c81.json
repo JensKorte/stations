@@ -1,0 +1,14 @@
+{
+    "uuid": "1107d077-5759-11e8-b0ce-52543be04c81",
+    "name": "Radio Cooperativa",
+    "url": "http://redirector.dps.live/cooperativafm/aac/icecast.audio",
+    "homepage": "https://www.cooperativa.cl/",
+    "favicon": "https://www.cooperativa.cl/noticias/imag/fotos/logo-cooperativa-cl-facebook-1200x630.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "español",
+    "tags": "musica,noticias,deporte",
+    "state": "",
+    "bitrate": 64
+}

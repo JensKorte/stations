@@ -1,0 +1,14 @@
+{
+    "uuid": "96359eef-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Padania Libera",
+    "url": "http://onair15.xdevel.com:8258/;stream.aac",
+    "homepage": "http://www.radiopadania.org/",
+    "favicon": "https://d1bm3dmew779uf.cloudfront.net/large/4ce1faaa32271a23bacf7c947e526afe.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "news,free radio,italian,milano,talk,politics",
+    "state": "Lombardia",
+    "bitrate": 128
+}

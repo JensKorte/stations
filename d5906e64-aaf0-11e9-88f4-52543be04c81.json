@@ -1,0 +1,14 @@
+{
+    "uuid": "d5906e64-aaf0-11e9-88f4-52543be04c81",
+    "name": "RPR1. Top 50",
+    "url": "http://streams.rpr1.de/rpr-top40-128-mp3?usid=0-0-H-A-D-30",
+    "homepage": "https://www.rpr1.de/webradio/top-50",
+    "favicon": "https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,top 50,regional radio",
+    "state": "Rheinland-Pfalz",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d4b92df6-d911-11e8-a9cc-52543be04c81",
+    "name": "Sonica Club",
+    "url": "http://s3.sonicabroadcast.com:8032/;.m3u",
+    "homepage": "http://www.ibizasonica.com/",
+    "favicon": "https://i3.radionomy.com/radios/400/9ced11c8-1428-4bff-8b63-63e8be4c7f8d.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish/english",
+    "tags": "",
+    "state": "Illes Balears",
+    "bitrate": 128
+}

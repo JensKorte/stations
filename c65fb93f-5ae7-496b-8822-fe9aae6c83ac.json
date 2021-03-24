@@ -1,0 +1,14 @@
+{
+    "uuid": "c65fb93f-5ae7-496b-8822-fe9aae6c83ac",
+    "name": "News Talk 1230 KFJB",
+    "url": "http://173.193.205.96:8172/stream",
+    "homepage": "https://www.1230kfjb.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KFJB.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Marshalltown IA",
+    "bitrate": 64
+}

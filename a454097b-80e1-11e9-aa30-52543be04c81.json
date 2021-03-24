@@ -1,0 +1,14 @@
+{
+    "uuid": "a454097b-80e1-11e9-aa30-52543be04c81",
+    "name": "JOJ TV",
+    "url": "https://nn.geo.joj.sk/live/hls/joj-720.m3u8",
+    "homepage": "http://www.joj.sk/",
+    "favicon": "http://img.joj.sk/rx/logojoj.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "",
+    "state": "Bratislava",
+    "bitrate": 0
+}

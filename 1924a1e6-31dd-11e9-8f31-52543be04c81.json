@@ -1,0 +1,14 @@
+{
+    "uuid": "1924a1e6-31dd-11e9-8f31-52543be04c81",
+    "name": "Radio La Red AM 910",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1",
+    "homepage": "https://www.lared.am/",
+    "favicon": "https://static.lared.am/css/210/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español",
+    "tags": "",
+    "state": "Ciudad autonoma de Buenos Aires",
+    "bitrate": 0
+}

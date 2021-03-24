@@ -1,0 +1,14 @@
+{
+    "uuid": "96162fda-0601-11e8-ae97-52543be04c81",
+    "name": "laut.fm DarkClubRadio",
+    "url": "http://stream.laut.fm/darkclubradio",
+    "homepage": "http://laut.fm/darkclubradio",
+    "favicon": "http://assets.laut.fm/1ac2d8e0f0d8422f317c846320b26095?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "darkwave,alternative,synthpop,industrial,wave,gothic",
+    "state": "Hamburg",
+    "bitrate": 128
+}

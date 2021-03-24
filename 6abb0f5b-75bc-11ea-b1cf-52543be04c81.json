@@ -1,0 +1,14 @@
+{
+    "uuid": "6abb0f5b-75bc-11ea-b1cf-52543be04c81",
+    "name": "Radio 24",
+    "url": "https://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8",
+    "homepage": "https://www.radio24.ilsole24ore.com/",
+    "favicon": "https://www.radio24.ilsole24ore.com//static/images/favicon/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "talk radio,news,finance,economy",
+    "state": "Lombardia",
+    "bitrate": 64
+}

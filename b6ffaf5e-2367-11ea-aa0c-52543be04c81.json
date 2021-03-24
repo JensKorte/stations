@@ -1,0 +1,14 @@
+{
+    "uuid": "b6ffaf5e-2367-11ea-aa0c-52543be04c81",
+    "name": "CiaoComo Radio",
+    "url": "http://nr9.newradio.it:9383/stream",
+    "homepage": "http://www.ciaocomo.it/radio/",
+    "favicon": "https://www.ciaocomo.it/wp-content/themes/edidesk-child/img/favicon/mstile-144x144.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "",
+    "state": "Lombardia",
+    "bitrate": 128
+}

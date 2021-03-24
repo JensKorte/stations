@@ -1,0 +1,14 @@
+{
+    "uuid": "e44d76c9-6d50-4930-bbdc-d46eb7dbe3b6",
+    "name": "CJAM 99.1 FM",
+    "url": "http://stream.cjam.ca/CJAM-live-256k.mp3.m3u",
+    "homepage": "http://www.cjam.ca",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "afrikaans,français,ukrainian,slovak,english",
+    "tags": "community radio,college radio,campus radio",
+    "state": "Ontario",
+    "bitrate": 256
+}

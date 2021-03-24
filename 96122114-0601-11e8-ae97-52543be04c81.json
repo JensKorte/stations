@@ -1,0 +1,14 @@
+{
+    "uuid": "96122114-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Piešťany",
+    "url": "http://live.radiopiestany.sk:8000/live.mp3",
+    "homepage": "http://www.radiopiestany.sk",
+    "favicon": "http://www.radiopiestany.sk/gfx/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "local news,local radio",
+    "state": "Piešťany",
+    "bitrate": 0
+}

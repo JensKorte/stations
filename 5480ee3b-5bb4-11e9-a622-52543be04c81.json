@@ -1,0 +1,14 @@
+{
+    "uuid": "5480ee3b-5bb4-11e9-a622-52543be04c81",
+    "name": "Radio România Târgu Mureș - Marosvásárhelyi Rádió Románia",
+    "url": "http://streaming.radiomures.ro:8312/listen.pls?sid=1",
+    "homepage": "http://www.marosvasarhelyiradio.ro/",
+    "favicon": "http://www.radiocluj.ro/wp-content/uploads/sites/8/2014/07/unde-radio-romania.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "hungarian,romanian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

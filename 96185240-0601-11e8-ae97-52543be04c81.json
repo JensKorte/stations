@@ -1,0 +1,14 @@
+{
+    "uuid": "96185240-0601-11e8-ae97-52543be04c81",
+    "name": "Mais Oeste Rádio",
+    "url": "http://centova.radios.pt:8515/;listen.pls",
+    "homepage": "http://www.maisoeste.pt/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s170388q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "news,adult contemporary,top 40",
+    "state": "Lisbon",
+    "bitrate": 128
+}

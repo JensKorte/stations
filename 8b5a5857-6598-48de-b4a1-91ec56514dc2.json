@@ -1,0 +1,14 @@
+{
+    "uuid": "8b5a5857-6598-48de-b4a1-91ec56514dc2",
+    "name": "MIX Pachuca - 92.5 FM - XHPK-FM - Grupo ACIR - Pachuca, HG",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPKFMAAC.aac",
+    "homepage": "https://www.iheart.com/live/mix-925-8098/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/c5a4465f-68df-45ac-b8df-c385b53d729c?ops=fit(240%2C240)",
+    "creation": "2021-02-28 05:52:48",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "estación,mx,mex,hidalgo,pachuca,méxico,iheart radio,iheart,fm,92.5 fm,92.5,2010s,2000s,90s,80s,80s,90s y más,radio,acir,grupo acir,mix,mix fm",
+    "state": "Hidalgo",
+    "bitrate": 48
+}

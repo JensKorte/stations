@@ -1,0 +1,14 @@
+{
+    "uuid": "8567bace-666c-11e8-b15b-52543be04c81",
+    "name": "Pinguin Radio",
+    "url": "http://streams.pinguinradio.com:80/PinguinRadio320.mp3",
+    "homepage": "https://pinguinradio.com",
+    "favicon": "https://pinguinradio.com/dist/images/content/p-radio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "alternative,indie",
+    "state": "",
+    "bitrate": 0
+}

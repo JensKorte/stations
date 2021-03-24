@@ -1,0 +1,14 @@
+{
+    "uuid": "6125f06d-0349-4a24-8471-694f2f9b28bf",
+    "name": "RTL 102.5 DOC",
+    "url": "https://rtl-radio12-stream.thron.com/live/radio12/radio12/playlist.m3u8",
+    "homepage": "https://www.rtl.it/",
+    "favicon": "https://cdn.rtl.it/RTLFM/website/600eb21f/img/logo/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cologno monzese,easy listening,gruppo rtl",
+    "state": "Lombardia",
+    "bitrate": 117
+}

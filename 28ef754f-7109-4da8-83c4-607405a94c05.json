@@ -1,0 +1,14 @@
+{
+    "uuid": "28ef754f-7109-4da8-83c4-607405a94c05",
+    "name": "Радио России Калуга",
+    "url": "http://radio.gtrk-kaluga.ru/russiafm_kaluga",
+    "homepage": "https://www.radiorus.ru",
+    "favicon": "http://gtrk-kaluga.ru/public/user_upload/files/radiorossii-kaluga-logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "news talk,local news,talk",
+    "state": "Kaluga region",
+    "bitrate": 96
+}

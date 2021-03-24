@@ -1,0 +1,14 @@
+{
+    "uuid": "39cb093d-3922-4be4-ba18-b4bf819cf814",
+    "name": "Radio Tornagaleones Valdivia",
+    "url": "http://tornagaleones.ddns.net:9000/stream",
+    "homepage": "https://www.radiotornagaleones.cl/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "",
+    "state": "Valdivia",
+    "bitrate": 320
+}

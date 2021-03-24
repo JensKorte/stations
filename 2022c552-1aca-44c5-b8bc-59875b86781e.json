@@ -1,0 +1,14 @@
+{
+    "uuid": "2022c552-1aca-44c5-b8bc-59875b86781e",
+    "name": "Radio Kermés Comunitaria",
+    "url": "http://server.laradio.online:8599/;",
+    "homepage": "https://www.radiokermes.com/",
+    "favicon": "https://www.radiokermes.com/images/192.png",
+    "creation": "2021-03-08 16:36:21",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "community radio",
+    "state": "La Pampa",
+    "bitrate": 96
+}

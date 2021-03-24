@@ -1,0 +1,14 @@
+{
+    "uuid": "96167e34-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Campus Avignon",
+    "url": "http://airtime.radiocampusavignon.fr:8000/live",
+    "homepage": "http://radiocampusavignon.fr/",
+    "favicon": "http://radiocampusavignon.fr/wp-content/uploads/2016/01/logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "campus radio",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "bitrate": 128
+}

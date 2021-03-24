@@ -1,0 +1,14 @@
+{
+    "uuid": "47aa6e21-7933-4476-9c1d-f23fdb8b9e7a",
+    "name": "Наше Радіо 107.9",
+    "url": "http://online.nasheradio.ua/NasheRadio",
+    "homepage": "https://www.nasheradio.ua/",
+    "favicon": "https://www.nasheradio.ua/static/img/nashe_radio_1200x630.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9605edb3-0601-11e8-ae97-52543be04c81",
+    "name": "WDR 5",
+    "url": "http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+    "homepage": "https://www1.wdr.de/radio/wdr5/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/wdr_wdr5.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "news,information,political talk,talk,news talk",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

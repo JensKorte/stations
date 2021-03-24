@@ -1,0 +1,14 @@
+{
+    "uuid": "962688f4-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bergamo",
+    "url": "http://ice12.fluidstream.net/bergamo.aac",
+    "homepage": "http://www.radiobergamo.it/",
+    "favicon": "http://www.radiobergamo.it/image/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "bergamo,classic hits,top 40,pop",
+    "state": "Lombardia",
+    "bitrate": 256
+}

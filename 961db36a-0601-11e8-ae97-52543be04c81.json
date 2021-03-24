@@ -1,0 +1,14 @@
+{
+    "uuid": "961db36a-0601-11e8-ae97-52543be04c81",
+    "name": "WRCT 88.3 Pittsburgh, PA",
+    "url": "http://stream.wrct.org:8000/wrct-hi.mp3",
+    "homepage": "http://www.wrct.org/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/WRCT_88.3_Logo.jpg/220px-WRCT_88.3_Logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pacifica,community radio,pittsburgh",
+    "state": "Pennsylvania",
+    "bitrate": 128
+}

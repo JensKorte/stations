@@ -1,0 +1,14 @@
+{
+    "uuid": "9609ebda-0601-11e8-ae97-52543be04c81",
+    "name": "Antena Radio Kruševac",
+    "url": "http://antenaradio.org:4560/listen.pls",
+    "homepage": "http://www.antenaradio.rs/",
+    "favicon": "http://www.antenaradio.rs/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "",
+    "tags": "folk,local programming",
+    "state": "",
+    "bitrate": 320
+}

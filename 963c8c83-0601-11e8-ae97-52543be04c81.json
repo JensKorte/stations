@@ -1,0 +1,14 @@
+{
+    "uuid": "963c8c83-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Klassisk",
+    "url": "http://tx-bauerdk.sharp-stream.com/http_live.php?i=radioklassisk_dk_mp3",
+    "homepage": "http://www.radioplay.dk/radioklassisk",
+    "favicon": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/177.jpg?ver=1490630187",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9a546d09-e3d0-46c3-9775-2db988474946",
+    "name": "Schlager Radio",
+    "url": "https://schlagerradio.ice.infomaniak.ch/schlagerradio-high.mp3",
+    "homepage": "https://schlagerradio.ch/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "schweiz,schlager",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "69194e35-0e67-11e8-ae97-52543be04c81",
+    "name": "R.SA Weihnachtsradio",
+    "url": "http://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de/",
+    "homepage": "http://www.rsa-sachsen.de",
+    "favicon": "http://media.streamabc.com/livestream.rsa-sachsen.de/rsa-event01/RSA_Weihnachtsradio_600x600px_farbig.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "christmas music",
+    "state": "Saxony",
+    "bitrate": 192
+}

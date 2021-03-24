@@ -1,0 +1,14 @@
+{
+    "uuid": "961f9214-0601-11e8-ae97-52543be04c81",
+    "name": "Record Pirate Station",
+    "url": "http://air.radiorecord.ru:8102/ps_320",
+    "homepage": "https://www.radiorecord.ru/radio/stations/?st=ps",
+    "favicon": "http://static.radio.de/images/broadcasts/73/c7/10019/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "drum and bass",
+    "state": "Moscow",
+    "bitrate": 320
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9617ec63-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Danz",
+    "url": "http://server1.radiodanz.com:8020/",
+    "homepage": "https://www.radiodanz.com/",
+    "favicon": "https://www.radiodanz.com///templates/danz/images/favicon-96x96.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "edm",
+    "state": "Florida",
+    "bitrate": 80
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9605ced9-0601-11e8-ae97-52543be04c81",
+    "name": "WDR COSMO",
+    "url": "http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3",
+    "homepage": "http://www.cosmoradio.de/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/wdr_cosmo_1920.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,global,multicultural,world music,multikulti,world music",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96254c75-0601-11e8-ae97-52543be04c81",
+    "name": "High Plains Public Radio - 94.9 Connect (KANZ)",
+    "url": "http://playerservices.streamtheworld.com/m3u/KANZFM_HPPR2.m3u",
+    "homepage": "http://hppr.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/hppr/files/styles/medium/public/201607/hppr_logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "npr,public radio",
+    "state": "Kansas",
+    "bitrate": 64
+}

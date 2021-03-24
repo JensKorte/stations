@@ -1,0 +1,14 @@
+{
+    "uuid": "bdc1e08f-1a45-11e8-a334-52543be04c81",
+    "name": "NPO 3FM",
+    "url": "http://icecast.omroep.nl/3fm-bb-aac",
+    "homepage": "https://www.npo3fm.nl/",
+    "favicon": "https://www.npo3fm.nl//templates/npo3fm/images/xtouch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

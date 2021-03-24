@@ -1,0 +1,14 @@
+{
+    "uuid": "96372cbf-0601-11e8-ae97-52543be04c81",
+    "name": "Rádió 1 Eger",
+    "url": "http://stream.radioeger.hu:18000/;stream.mp3",
+    "homepage": "http://www.radioeger.hu/",
+    "favicon": "https://yt3.ggpht.com/a-/AK162_7joMYUkuj1h4z93eJOGT_bancFtJ7j7AA8VA=s900-mo-c-c0xffffffff-rj-k-no",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop",
+    "state": "Heves",
+    "bitrate": 192
+}

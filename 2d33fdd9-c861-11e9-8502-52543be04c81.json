@@ -1,0 +1,14 @@
+{
+    "uuid": "2d33fdd9-c861-11e9-8502-52543be04c81",
+    "name": "Radio Superstar",
+    "url": "http://178.32.62.163:8411/stream",
+    "homepage": "http://www.radiosuperstar.be",
+    "favicon": "http://www.radiosuperstar.be/wp-content/uploads/2015/03/cropped-START-FRIDAY-2-128-mp3-image-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "gent,belgium,internetradio,superstar",
+    "state": "Oost-Vlaanderen",
+    "bitrate": 128
+}

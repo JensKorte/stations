@@ -1,0 +1,14 @@
+{
+    "uuid": "a2546d60-7d86-11ea-8a3b-52543be04c81",
+    "name": "Deutschlandfunk Kultur [AAC 96 kbit/s]",
+    "url": "https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac",
+    "homepage": "https://www.deutschlandfunkkultur.de/",
+    "favicon": "https://www.deutschlandfunkkultur.de/themes/dradio/dkultur/img/logo.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "public radio,cultur,news,talk,politics \u0026 current affairs,literature,music,science,radio play \u0026 feature",
+    "state": "",
+    "bitrate": 0
+}

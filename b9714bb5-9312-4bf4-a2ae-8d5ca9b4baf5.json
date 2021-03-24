@@ -1,0 +1,14 @@
+{
+    "uuid": "b9714bb5-9312-4bf4-a2ae-8d5ca9b4baf5",
+    "name": "101radio",
+    "url": "http://pub0201.101.ru:8000/stream/trust/mp3/128/18",
+    "homepage": "https://101.ru/radio/channel/18",
+    "favicon": "https://cdn.webrad.io/images/countries/india-logo_1200x630.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "tansen,miraj,jafri",
+    "tags": "tansen,miraj,jafri",
+    "state": "New York",
+    "bitrate": 0
+}

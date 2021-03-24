@@ -1,0 +1,14 @@
+{
+    "uuid": "59cc99c4-e4ba-11e9-a8ba-52543be04c81",
+    "name": "Point Blank FM",
+    "url": "http://pointblankradio.co.uk:9002/stream",
+    "homepage": "https://pointblank.fm",
+    "favicon": "https://pointblank.fm/images/pb_logo_660.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "house,funk,soul,dance,techno",
+    "state": "London",
+    "bitrate": 320
+}

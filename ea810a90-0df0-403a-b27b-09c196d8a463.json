@@ -1,0 +1,14 @@
+{
+    "uuid": "ea810a90-0df0-403a-b27b-09c196d8a463",
+    "name": "PHTV",
+    "url": "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8",
+    "homepage": "https://phtv.com.do/",
+    "favicon": "https://phtv.com.do/wp-content/uploads/2020/10/cropped-logo_ph.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Dominican Republic",
+    "country_code": "DO",
+    "language": "spanish,español latino",
+    "tags": "varios,cine,documentales,entretenimiento",
+    "state": "Santo Domingo",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "964fbe6f-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Hot R’n’B",
+    "url": "http://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/",
+    "homepage": "http://www.fluxfm.de/",
+    "favicon": "http://fluxmusic.io/wp-content/uploads/2017/11/Hot-RnB-1-150x150.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rnb",
+    "state": "",
+    "bitrate": 320
+}

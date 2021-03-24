@@ -1,0 +1,14 @@
+{
+    "uuid": "960885ac-0601-11e8-ae97-52543be04c81",
+    "name": "Easy Radio",
+    "url": "http://37.187.79.93:8640/;stream.mp3",
+    "homepage": "https://www.easyradio.ie",
+    "favicon": "https://irp-cdn.multiscreensite.com/77cee23f/dms3rep/multi/easy_blue6.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "dublin,radio show,news,talk,free charity promotion,interviews,80s,70s,60s,oldies,pop,community",
+    "state": "Dublin",
+    "bitrate": 128
+}

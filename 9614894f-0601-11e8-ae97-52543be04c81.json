@@ -1,0 +1,14 @@
+{
+    "uuid": "9614894f-0601-11e8-ae97-52543be04c81",
+    "name": "Energy German",
+    "url": "http://energygerman.ice.infomaniak.ch:80/energygerman-high",
+    "homepage": "https://energy.ch/play/german",
+    "favicon": "https://cdn.energy.ch/energy-web/assets/favicons/favicon-128.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962eb93b-0601-11e8-ae97-52543be04c81",
+    "name": "Web Radio Viva o Samba",
+    "url": "http://74.63.237.84:8020/live",
+    "homepage": "http://radiovivaosamba.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s158750q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "",
+    "state": "Rio de Janeiro",
+    "bitrate": 64
+}

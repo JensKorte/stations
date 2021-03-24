@@ -1,0 +1,14 @@
+{
+    "uuid": "bad410e0-6e67-4097-83a6-1d40dfec4868",
+    "name": "Avtoradio 105.5 FM Serpukhov",
+    "url": "http://77.73.90.46:1055/avtoradio",
+    "homepage": "https://radioserpukhov.ru/",
+    "favicon": "https://radioserpukhov.ru/wp-content/uploads/2019/02/34534242.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "local news,traffic,pop music,russian pop,russian,pop",
+    "state": "Serpukhov",
+    "bitrate": 128
+}

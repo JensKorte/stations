@@ -1,0 +1,14 @@
+{
+    "uuid": "b0988aab-6e92-11ea-b1cf-52543be04c81",
+    "name": "Onda Cero Alzira",
+    "url": "https://icecast-streaming.nice264.com/alzira",
+    "homepage": "https://www.ondacero.es/emisoras/comunidad-valenciana/alzira/",
+    "favicon": "https://static.ondacero.es/img/plantilla_png_grande.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "talk radio,local news,news",
+    "state": "Valencia",
+    "bitrate": 0
+}

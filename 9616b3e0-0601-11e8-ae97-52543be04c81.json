@@ -1,0 +1,14 @@
+{
+    "uuid": "9616b3e0-0601-11e8-ae97-52543be04c81",
+    "name": "Радио \"Мир\" Беларусь",
+    "url": "http://217.23.126.106:8002/radio2.mir",
+    "homepage": "http://radiomir.by/",
+    "favicon": "https://radiomir.by/templates/radiomirby/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "80s,contemporary hits,rock,pop,news",
+    "state": "Minsk",
+    "bitrate": 256
+}

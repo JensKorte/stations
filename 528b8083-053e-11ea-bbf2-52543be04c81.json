@@ -1,0 +1,14 @@
+{
+    "uuid": "528b8083-053e-11ea-bbf2-52543be04c81",
+    "name": "Радио Семь на семи холмах",
+    "url": "http://radio7server.streamr.ru:8040/radio7256.mp3",
+    "homepage": "https://radio7.ru/",
+    "favicon": "https://radio7.ru/media/default/images/new_logo/logo_social.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "english,russian",
+    "tags": "pop",
+    "state": "Moscow",
+    "bitrate": 0
+}

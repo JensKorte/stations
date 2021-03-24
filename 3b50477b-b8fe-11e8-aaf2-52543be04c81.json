@@ -1,0 +1,14 @@
+{
+    "uuid": "3b50477b-b8fe-11e8-aaf2-52543be04c81",
+    "name": "WGBH Celtic Sojourn",
+    "url": "https://streams.audio.wgbh.org:8200/celtic-sojourn.mp3",
+    "homepage": "https://www.wgbh.org/music/celtic",
+    "favicon": "https://wgbh.brightspotcdn.com/dims4/default/92b520b/2147483647/strip/true/crop/153x153+8+0/resize/65x65!/quality/90/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2Ff1%2F8f%2F938f75de4a8295f0868a114ad9a7%2Fsojourn.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "npr,celtic,boston",
+    "state": "Massachusetts",
+    "bitrate": 0
+}

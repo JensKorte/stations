@@ -1,0 +1,14 @@
+{
+    "uuid": "96151576-0601-11e8-ae97-52543be04c81",
+    "name": "Beatles Radio",
+    "url": "http://www.beatlesradio.com:8000/stream/1/",
+    "homepage": "http://www.beatlesradio.com/",
+    "favicon": "http://www.beatlesradio.com/content/images/thumbs/0000587.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "breakbeat,60s,oldies,rock,pop",
+    "state": "California",
+    "bitrate": 128
+}

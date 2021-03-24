@@ -1,0 +1,14 @@
+{
+    "uuid": "db478c9f-36c9-11ea-8dd7-52543be04c81",
+    "name": "ČRo Radio Junior Pisnicky",
+    "url": "http://icecast7.play.cz:8000/crojuniormini32.mp3",
+    "homepage": "https://www.rozhlas.cz/radiojunior/",
+    "favicon": "https://api.play.cz/static/radio_logo/t200/crojuniormini.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,public radio,children,32k,mp3",
+    "state": "",
+    "bitrate": 0
+}

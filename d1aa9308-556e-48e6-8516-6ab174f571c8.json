@@ -1,0 +1,14 @@
+{
+    "uuid": "d1aa9308-556e-48e6-8516-6ab174f571c8",
+    "name": "NCPR - North Country Public Radio",
+    "url": "https://ncpr-ice.streamguys1.com/ncpr-96k.mp3",
+    "homepage": "https://www.northcountrypublicradio.org",
+    "favicon": "https://www.northcountrypublicradio.org/css/images/ncpr-logo_2019_100h.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "public radio,npr",
+    "state": "New York",
+    "bitrate": 96
+}

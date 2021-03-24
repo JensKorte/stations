@@ -1,0 +1,14 @@
+{
+    "uuid": "9631d4e3-0601-11e8-ae97-52543be04c81",
+    "name": "Viva La Radio! Emozioni Italiane",
+    "url": "http://91.226.88.219:8080/;stream.aac",
+    "homepage": "http://www.vivalaradio.fm/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s98774q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "italian pop",
+    "state": "Lazio",
+    "bitrate": 64
+}

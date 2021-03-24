@@ -1,0 +1,14 @@
+{
+    "uuid": "7a9d1e93-4da4-11ea-b877-52543be04c81",
+    "name": "Rádio Blatná 89,7 FM",
+    "url": "http://vserver.sporknet.cz:8889/test.mp3",
+    "homepage": "https://www.radioblatna.cz/",
+    "favicon": "https://www.radioblatna.cz/images/icons/ico.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "",
+    "state": "Czech Republic",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "668b50b7-a805-11e9-88f4-52543be04c81",
+    "name": "RockTV",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83",
+    "homepage": "https://www.rockfm.ro/rocktv",
+    "favicon": "https://www.rockfm.ro/app/assets/layout/logoweb-rocktv.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "",
+    "state": "Suceavabucuresti",
+    "bitrate": 1600
+}

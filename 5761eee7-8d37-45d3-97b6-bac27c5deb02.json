@@ -1,0 +1,14 @@
+{
+    "uuid": "5761eee7-8d37-45d3-97b6-bac27c5deb02",
+    "name": "Super Radio",
+    "url": "https://mcp1.mydataknox.com:2000/tunein/stream_4/stream/pls",
+    "homepage": "https://superradio.hr/",
+    "favicon": "https://mcp1.mydataknox.com:2000/system/theme/Material/images/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk music,pop,local news",
+    "state": "",
+    "bitrate": 128
+}

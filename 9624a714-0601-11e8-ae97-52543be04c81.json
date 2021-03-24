@@ -1,0 +1,14 @@
+{
+    "uuid": "9624a714-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ambiental FM 102.5 San Pedro Sula",
+    "url": "http://96.31.90.115:8226/;",
+    "homepage": "http://www.radioambientalfm.com/",
+    "favicon": "http://www.radioambientalfm.com/wp-content/uploads/2016/01/cropped-purple-270x270.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Honduras",
+    "country_code": "HN",
+    "language": "spanish",
+    "tags": "pop,top 40",
+    "state": "San Pedro Sula",
+    "bitrate": 96
+}

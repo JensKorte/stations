@@ -1,0 +1,14 @@
+{
+    "uuid": "82b16073-0133-4893-882c-39b4834380eb",
+    "name": "Ретро FM 80e (64 kbps, m3u8)",
+    "url": "http://hls-01-retro80.emgsound.ru/2/64/playlist.m3u8",
+    "homepage": "https://retrofm.ru/online/player.php?type=80",
+    "favicon": "https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_80.png?v=2",
+    "creation": "2021-03-23 09:37:33",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "rock,retro,disco,pop,80s",
+    "state": "Moscow",
+    "bitrate": 0
+}

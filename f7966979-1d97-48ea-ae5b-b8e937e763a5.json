@@ -1,0 +1,14 @@
+{
+    "uuid": "f7966979-1d97-48ea-ae5b-b8e937e763a5",
+    "name": "Gardarica FM",
+    "url": "https://stream.gardaricafm.ru:8443/stream.mp3",
+    "homepage": "http://gardaricafm.ru/",
+    "favicon": "http://gardaricafm.ru/favicon.ico",
+    "creation": "2021-02-25 09:18:15",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russia,russian,english",
+    "tags": "",
+    "state": "Saint-Petersburg",
+    "bitrate": 128
+}

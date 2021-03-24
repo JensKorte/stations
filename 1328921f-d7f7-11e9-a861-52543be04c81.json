@@ -1,0 +1,14 @@
+{
+    "uuid": "1328921f-d7f7-11e9-a861-52543be04c81",
+    "name": "Nea Radio",
+    "url": "http://nettradio.nearadio.no:8000/stream.m3u",
+    "homepage": "https://nearadio.no/",
+    "favicon": "https://nearadio.no/filarkiv/system/fallbackimg_NR_logo_tekst_under.gif",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

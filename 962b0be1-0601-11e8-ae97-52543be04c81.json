@@ -1,0 +1,14 @@
+{
+    "uuid": "962b0be1-0601-11e8-ae97-52543be04c81",
+    "name": "Delta Radio",
+    "url": "http://arus18.planetdance.it:7061/radio_6.aac",
+    "homepage": "http://www.deltaradio.it/",
+    "favicon": "http://www.deltaradio.it/images/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40,pop",
+    "state": "Veneto",
+    "bitrate": 64
+}

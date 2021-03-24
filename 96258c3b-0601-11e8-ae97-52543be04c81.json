@@ -1,0 +1,14 @@
+{
+    "uuid": "96258c3b-0601-11e8-ae97-52543be04c81",
+    "name": "Onda Cero San Sebastian",
+    "url": "http://icecast-streaming.nice264.com/sansebastian",
+    "homepage": "http://www.ondacero.es/emisoras/pais-vasco/san-sebastian",
+    "favicon": "http://static.ondacero.es/img/logo-ondacero.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "basque,spanish",
+    "tags": "local news",
+    "state": "Gipuzcoa",
+    "bitrate": 0
+}

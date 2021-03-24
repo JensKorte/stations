@@ -1,0 +1,14 @@
+{
+    "uuid": "e86ccea2-8106-4988-987c-7df056b397b5",
+    "name": "Радио Столица (Донецк)",
+    "url": "http://eu2.radioboss.fm:8080/stream.m3u",
+    "homepage": "https://vk.com/radio100lica",
+    "favicon": "https://sun9-38.userapi.com/c857136/v857136595/120958/pzdhn_09P8k.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "russian",
+    "tags": "news,pop",
+    "state": "Donetsk",
+    "bitrate": 256
+}

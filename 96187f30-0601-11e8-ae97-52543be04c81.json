@@ -1,0 +1,14 @@
+{
+    "uuid": "96187f30-0601-11e8-ae97-52543be04c81",
+    "name": "Nõmmeraadio",
+    "url": "http://149.210.138.12:8000/nommeraadio",
+    "homepage": "http://www.nommeraadio.ee/",
+    "favicon": "http://www.nommeraadio.ee/images/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

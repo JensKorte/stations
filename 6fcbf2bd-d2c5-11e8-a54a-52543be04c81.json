@@ -1,0 +1,14 @@
+{
+    "uuid": "6fcbf2bd-d2c5-11e8-a54a-52543be04c81",
+    "name": "RPR1. Volksmusik",
+    "url": "http://streams.rpr1.de/rpr-volksmusik-128-mp3?usid=0-0-H-M-D-50",
+    "homepage": "http://www.rpr1.de",
+    "favicon": "https://cdn.rpr1.de/sites/default/files/thumbnails/image/volksmusik_agg_300x300.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager,volksmusik",
+    "state": "Rhineland-Palatinate",
+    "bitrate": 128
+}

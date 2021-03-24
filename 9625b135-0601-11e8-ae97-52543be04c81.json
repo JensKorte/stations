@@ -1,0 +1,14 @@
+{
+    "uuid": "9625b135-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Mela",
+    "url": "http://www.shoutcastitalia.com:8016/listen.pls",
+    "homepage": "http://www.radiomela.it/",
+    "favicon": "http://lnx.radiomela.it/tunein-logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "80s,90s,italo disco,pop,new wave",
+    "state": "Sardegna",
+    "bitrate": 128
+}

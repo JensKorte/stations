@@ -1,0 +1,14 @@
+{
+    "uuid": "33d17eaf-e6c9-426c-99ae-48bec1671b99",
+    "name": "RADIO 7",
+    "url": "https://frontend01.lb.streamonkey.net/radio7-dab/stream/mp3",
+    "homepage": "https://www.radio7.de/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Radio-7neu-web.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,german",
+    "tags": "news,music",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

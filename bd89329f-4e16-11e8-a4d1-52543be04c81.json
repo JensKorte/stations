@@ -1,0 +1,14 @@
+{
+    "uuid": "bd89329f-4e16-11e8-a4d1-52543be04c81",
+    "name": "Polskie Radio - Czwórka",
+    "url": "http://stream3.polskieradio.pl:8906/;stream",
+    "homepage": "http://www.polskieradio.pl/10,Czworka",
+    "favicon": "http://moje.polskieradio.pl/_img/kanaly/pr4.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "poli",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

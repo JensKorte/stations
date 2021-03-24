@@ -1,0 +1,14 @@
+{
+    "uuid": "9617ffae-0601-11e8-ae97-52543be04c81",
+    "name": "Ü30-Partyradio Schlager",
+    "url": "http://stream.ue30partyradio.de:18000/;",
+    "homepage": "http://ü30partyradio.de/",
+    "favicon": "http://www.ü30partyradio.de/images/ue30logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "party,schlager",
+    "state": "",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "aed90d76-548c-4916-800b-e8b50f0dbf6f",
+    "name": "DirtyBass.FM",
+    "url": "http://dirtybass.fm:8000/dirtybass.mp3",
+    "homepage": "http://dirtybass.fm",
+    "favicon": "https://static.radio.de/images/broadcasts/50/3e/8794/c300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "language": "",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 192
+}

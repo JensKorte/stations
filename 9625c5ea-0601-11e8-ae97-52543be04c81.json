@@ -1,0 +1,14 @@
+{
+    "uuid": "9625c5ea-0601-11e8-ae97-52543be04c81",
+    "name": "Guardian FM 96.9 Nassau",
+    "url": "http://tngrgroup.streamcomedia.com:8788/guardianradio",
+    "homepage": "http://guardiantalkradio.com/",
+    "favicon": "http://guardiantalkradio.com/wp-content/themes/guardianradio/images/logo_site1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Bahamas",
+    "country_code": "BS",
+    "language": "english",
+    "tags": "news,talk,nassau",
+    "state": "",
+    "bitrate": 64
+}

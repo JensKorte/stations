@@ -1,0 +1,14 @@
+{
+    "uuid": "963d8505-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Capital",
+    "url": "http://streaming.martiproduccions.com:8000/capitalhd",
+    "homepage": "http://www.radiocapital.cat/",
+    "favicon": "http://www.radiocapital.cat/wp-content/uploads/2014/09/logo_tune_in.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "pals",
+    "state": "Girona",
+    "bitrate": 192
+}

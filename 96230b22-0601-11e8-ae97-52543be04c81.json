@@ -1,0 +1,14 @@
+{
+    "uuid": "96230b22-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Radius (AAC)",
+    "url": "http://relay.radio.ethz.ch/sender.aac.m3u",
+    "homepage": "http://radioradius.ch/",
+    "favicon": "http://radioradius.ch/wp-content/themes/twentytwelve-child/bilder/radioradius_logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "campus radio,alternative",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9640dcb1-0601-11e8-ae97-52543be04c81",
+    "name": "XEBA \"Ke Buena\" 97.1 FM Guadalajara, JA",
+    "url": "http://provisioning.streamtheworld.com/pls/KEBUENA_GDLAAC.pls",
+    "homepage": "http://escucha.kebuena.com.mx/emisora/ke_buena_guadalajara/",
+    "favicon": "http://escucha.kebuena.com.mx/assets/kebuenamx/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "guadalajara,grupera",
+    "state": "Jalisco",
+    "bitrate": 56
+}

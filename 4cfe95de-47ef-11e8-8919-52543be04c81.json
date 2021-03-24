@@ -1,0 +1,14 @@
+{
+    "uuid": "4cfe95de-47ef-11e8-8919-52543be04c81",
+    "name": "hr.TV",
+    "url": "http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8",
+    "homepage": "https://www.hr-fernsehen.de/index.html",
+    "favicon": "https://www.hr-fernsehen.de/assets_2.48.4/base/icons/favicon/favicon-144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 184
+}

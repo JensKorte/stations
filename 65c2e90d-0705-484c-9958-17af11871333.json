@@ -1,0 +1,14 @@
+{
+    "uuid": "65c2e90d-0705-484c-9958-17af11871333",
+    "name": "Rádio Lisboa",
+    "url": "http://radiolisboa.ddns.net:8080/stream/1/",
+    "homepage": "https://radiolisboa.pt/",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/42/78/103539/1/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "dj,podcasts,community radio",
+    "state": "Lisbon",
+    "bitrate": 192
+}

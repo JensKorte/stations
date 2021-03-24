@@ -1,0 +1,14 @@
+{
+    "uuid": "9611c54b-0601-11e8-ae97-52543be04c81",
+    "name": "Hitradio RT1 Südschwaben Memmingen",
+    "url": "http://mp3.hitradiort1.c.nmdn.net/rt1suedschwabenhp/livestream.mp3?rpempv=3.1.101;",
+    "homepage": "http://www.rt1-suedschwaben.de/",
+    "favicon": "https://www.rt1-suedschwaben.de/wp-content/themes/rt1_de/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "mainstream,hits,pop",
+    "state": "Bavaria",
+    "bitrate": 128
+}

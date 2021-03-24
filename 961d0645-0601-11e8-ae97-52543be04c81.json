@@ -1,0 +1,14 @@
+{
+    "uuid": "961d0645-0601-11e8-ae97-52543be04c81",
+    "name": "KXCI 93.1 Tucson, AZ",
+    "url": "http://kxci.streamon.fm:8000/KXCI-48k.aac",
+    "homepage": "https://kxci.org/",
+    "favicon": "https://kxci.org/wp-content/uploads/2014/05/kxci_emblem.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "tucson,community radio",
+    "state": "Arizona",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "cfd2f233-6653-4ba1-beb5-7168d51ea795",
+    "name": "Radio Đakovo",
+    "url": "http://s8.iqstreaming.com:9004/listen.pls",
+    "homepage": "https://www.radio-djakovo.hr/",
+    "favicon": "https://www.radio-djakovo.hr/wp-content/uploads/2018/07/RADIO-DJAKOVO-2-150x150.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 64
+}

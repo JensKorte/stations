@@ -1,0 +1,14 @@
+{
+    "uuid": "8b841573-a030-4bfb-9caf-14c205ed91bc",
+    "name": "Mouv' Rap Français",
+    "url": "https://icecast.radiofrance.fr/mouvrapfr-hifi.aac",
+    "homepage": "https://www.mouv.fr/stream-radios/rap-francais",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/3c4dc967-ed2c-4ce5-a998-9437a64e05d5/300x300_rapfr.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "aac,webradio,public radio,french rap,radio france",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "344762a7-3461-41a6-91f9-8ca4639b810a",
+    "name": "Atlantis FM",
+    "url": "http://85.10.206.222:8012/stream.mp3",
+    "homepage": "https://www.atlantisfm.gr/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/el/0/05/Atlantis_FM_logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "",
+    "country_code": "",
+    "language": "greek",
+    "tags": "athens,rock,atlantis fm,atlantis",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96383f2f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Manila",
+    "url": "http://stream15.top-ix.org:8000/radiomanila",
+    "homepage": "http://www.radiomanilafm.it/",
+    "favicon": "http://www.radiomanilafm.it/wp-content/uploads/2017/03/cropped-cropped-1432734751_98500_radio_manila_piemonte.jpg-593147-270x270.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "alpignano,pop",
+    "state": "Piemonte",
+    "bitrate": 256
+}

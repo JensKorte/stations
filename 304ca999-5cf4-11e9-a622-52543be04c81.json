@@ -1,0 +1,14 @@
+{
+    "uuid": "304ca999-5cf4-11e9-a622-52543be04c81",
+    "name": "Cyberspazio Radio",
+    "url": "http://radio.cyberspazio.tv:2199/tunein/cyberspazio.pls",
+    "homepage": "http://www.cyberspazio.tv/",
+    "favicon": "https://www.cyberspazio.tv/images/robotica.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "vercelli,baroque,chamber,opera,classical",
+    "state": "Piemonte",
+    "bitrate": 192
+}

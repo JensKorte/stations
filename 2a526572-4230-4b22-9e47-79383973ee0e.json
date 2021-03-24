@@ -1,0 +1,14 @@
+{
+    "uuid": "2a526572-4230-4b22-9e47-79383973ee0e",
+    "name": "Radio RMF24.pl",
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false\u0026aw_0_req.userConsentV2=\u0026aw_0_1st.playerid=RMF_Player_JS_P\u0026aw_0_1st.rmf_disable_preroll=true",
+    "homepage": "https://radio.rmf24.pl",
+    "favicon": "https://radio.rmf24.pl/assets/img/logo-radio-rmf24.png",
+    "creation": "2021-03-22 08:37:51",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "poland,poland,poland,polski,polish",
+    "tags": "news,information,classic rock,rock,pop,pop rock",
+    "state": "",
+    "bitrate": 48
+}

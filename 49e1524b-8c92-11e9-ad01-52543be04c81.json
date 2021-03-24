@@ -1,0 +1,14 @@
+{
+    "uuid": "49e1524b-8c92-11e9-ad01-52543be04c81",
+    "name": "Bingöl FM",
+    "url": "http://yayin1.canliyayin.org:8844/;*.mp3",
+    "homepage": "http://bingolfm.com/",
+    "favicon": "http://bingolfm.com/medya/icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "islamic",
+    "state": "Istanbul",
+    "bitrate": 112
+}

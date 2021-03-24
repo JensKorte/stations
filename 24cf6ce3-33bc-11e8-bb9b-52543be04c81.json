@@ -1,0 +1,14 @@
+{
+    "uuid": "24cf6ce3-33bc-11e8-bb9b-52543be04c81",
+    "name": "Hot FM",
+    "url": "http://mediaprima.rastream.com/mediaprima-hotfm",
+    "homepage": "https://www.hotfm.com.my",
+    "favicon": "https://s3-ap-southeast-1.amazonaws.com/dev-assets.hotfm.com.my/wp-content/uploads/2017/08/16123324/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "language": "malay",
+    "tags": "music,malaysian pop,classic hits,hot adult contemporary",
+    "state": "",
+    "bitrate": 48
+}

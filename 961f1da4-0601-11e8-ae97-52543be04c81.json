@@ -1,0 +1,14 @@
+{
+    "uuid": "961f1da4-0601-11e8-ae97-52543be04c81",
+    "name": "SRF 3",
+    "url": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
+    "homepage": "http://www.srf.ch/radio-srf-3",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "srg ssr,public radio,pop",
+    "state": "",
+    "bitrate": 0
+}

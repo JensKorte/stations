@@ -1,0 +1,14 @@
+{
+    "uuid": "80847cab-988a-11e8-a767-52543be04c81",
+    "name": "Radio Vest aac",
+    "url": "http://radiovest.cast.addradio.de/radiovest/simulcast/low/stream.aac?ar-purpose=mobile\u0026ar-distributor=f0d1",
+    "homepage": "https://www.radiovest.de",
+    "favicon": "https://www.radiovest.de//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 48
+}

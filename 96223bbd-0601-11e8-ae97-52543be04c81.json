@@ -1,0 +1,14 @@
+{
+    "uuid": "96223bbd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Regenbogen - Kinderlieder",
+    "url": "http://streams.regenbogen.de/rr-kinderlieder-128-mp3",
+    "homepage": "http://www.regenbogen.de/radioplayer/kinderlieder",
+    "favicon": "http://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/RRKinderlieder-1024x1024.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "kinderlieder",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

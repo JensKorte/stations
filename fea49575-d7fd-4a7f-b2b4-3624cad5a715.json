@@ -1,0 +1,14 @@
+{
+    "uuid": "fea49575-d7fd-4a7f-b2b4-3624cad5a715",
+    "name": "NU Radio",
+    "url": "https://stream.nuradio.gr/stream",
+    "homepage": "https://www.nuradio.gr",
+    "favicon": "https://www.nuradio.gr/images_nuradio/favicon.ico",
+    "creation": "2021-02-12 11:52:25",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek,english",
+    "tags": "electronic",
+    "state": "Attiki",
+    "bitrate": 64
+}

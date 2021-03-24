@@ -1,0 +1,14 @@
+{
+    "uuid": "e20a6262-d905-11e8-a9cc-52543be04c81",
+    "name": "Rocky FM",
+    "url": "http://tuner.rockyfm.com:80",
+    "homepage": "http://www.rockyfm.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s80466q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "germany",
+    "tags": "indie,rock",
+    "state": "",
+    "bitrate": 128
+}

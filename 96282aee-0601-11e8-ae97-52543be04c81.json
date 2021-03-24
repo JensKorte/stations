@@ -1,0 +1,14 @@
+{
+    "uuid": "96282aee-0601-11e8-ae97-52543be04c81",
+    "name": "EPER97 - Első Pesti Egyetemi Rádió",
+    "url": "http://radio.elte.hu:8000/eper2",
+    "homepage": "https://egyetemiradio.wordpress.com/",
+    "favicon": "https://secure.gravatar.com/blavatar/9d6c7bdbf60228062b8699492d26a453?s=200\u0026ts=1495733400",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "university radio,educational",
+    "state": "Budapest",
+    "bitrate": 0
+}

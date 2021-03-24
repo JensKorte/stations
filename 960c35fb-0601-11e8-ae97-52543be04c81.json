@@ -1,0 +1,14 @@
+{
+    "uuid": "960c35fb-0601-11e8-ae97-52543be04c81",
+    "name": "Cooperativa",
+    "url": "https://www.cooperativa.cl/noticias/prontus/player_streaming/chile.m3u",
+    "homepage": "http://www.cooperativa.cl/",
+    "favicon": "http://www.cooperativa.cl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "talk,news,music",
+    "state": "Santiago",
+    "bitrate": 48
+}

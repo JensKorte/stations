@@ -1,0 +1,14 @@
+{
+    "uuid": "da0ea43a-e38b-11e9-a8ba-52543be04c81",
+    "name": "Rockland Trier",
+    "url": "https://stream.rockland.de/rockland_trier.mp3",
+    "homepage": "https://www.rockland.de/",
+    "favicon": "https://www.rockland.de/typo3conf/ext/ch_radio21/Resources/Public/icons/rockland/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch,deutsch german",
+    "tags": "german,deutschland,deutsch,german,rheinland-pfalz,trier,pop,rock",
+    "state": "Rhineland-Palatinate",
+    "bitrate": 192
+}

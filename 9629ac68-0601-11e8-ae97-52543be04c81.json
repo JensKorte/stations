@@ -1,0 +1,14 @@
+{
+    "uuid": "9629ac68-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Milano",
+    "url": "http://sr6.inmystream.info:8175/listen.pls",
+    "homepage": "http://www.radiomilano.net/",
+    "favicon": "http://www.radiomilano.net/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop rock",
+    "state": "Lombardia",
+    "bitrate": 128
+}

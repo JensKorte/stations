@@ -1,0 +1,14 @@
+{
+    "uuid": "96501d41-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - 70s – Der 70er Channel",
+    "url": "http://streams.fluxfm.de/70er/mp3-128/audio/",
+    "homepage": "http://www.fluxfm.de/",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2014/02/Top-of-the-70s-150x150.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "70s",
+    "state": "",
+    "bitrate": 128
+}

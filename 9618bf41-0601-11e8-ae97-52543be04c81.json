@@ -1,0 +1,14 @@
+{
+    "uuid": "9618bf41-0601-11e8-ae97-52543be04c81",
+    "name": "Metro FM 95.1",
+    "url": "http://mp3.metroaudio1.stream.avstreaming.net:7200/metro",
+    "homepage": "http://www.metro951.com",
+    "favicon": "https://static-media.streema.com/media/object-images/08f43b6b9b5d89ea4d3f0e929a602f36.jpeg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "talk,entertainment,dance,electronic",
+    "state": "Buenos Aires",
+    "bitrate": 128
+}

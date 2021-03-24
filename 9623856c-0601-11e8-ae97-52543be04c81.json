@@ -1,0 +1,14 @@
+{
+    "uuid": "9623856c-0601-11e8-ae97-52543be04c81",
+    "name": "Tamworth Community Radio 106.8",
+    "url": "http://streaming.tcrfm.co.uk:8080/live.m3u",
+    "homepage": "http://www.tcrfm.co.uk/",
+    "favicon": "http://www.tcrfm.co.uk////favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "tamworth,variety,community radio",
+    "state": "Staffordshire",
+    "bitrate": 128
+}

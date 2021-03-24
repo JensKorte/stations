@@ -1,0 +1,14 @@
+{
+    "uuid": "960721fe-0601-11e8-ae97-52543be04c81",
+    "name": "Raadio Tre.ee",
+    "url": "http://sc1.treraadio.ee:8002/listen.pls?sid=1",
+    "homepage": "http://raadio.tre.ee/",
+    "favicon": "http://raadio.tre.ee/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "indie,pop,local music",
+    "state": "Raplamaa",
+    "bitrate": 128
+}

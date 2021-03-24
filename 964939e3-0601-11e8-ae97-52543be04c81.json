@@ -1,0 +1,14 @@
+{
+    "uuid": "964939e3-0601-11e8-ae97-52543be04c81",
+    "name": "HRT HR 1 - Prvi program",
+    "url": "http://provisioning.streamtheworld.com/pls/PROGRAM1.pls",
+    "homepage": "http://radio.hrt.hr/stream/6/",
+    "favicon": "http://radio.hrt.hr/static/images/hrt-ra-logo-white.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "",
+    "state": "Zagreb",
+    "bitrate": 64
+}

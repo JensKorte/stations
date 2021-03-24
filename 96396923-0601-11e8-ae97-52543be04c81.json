@@ -1,0 +1,14 @@
+{
+    "uuid": "96396923-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Moldova",
+    "url": "http://radiolive.trm.md:8000/PGM1_128kb.m3u",
+    "homepage": "http://www.trm.md/",
+    "favicon": "http://trm.md/img/site/trm.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Republic Of Moldova",
+    "country_code": "MD",
+    "language": "romanian",
+    "tags": "public radio,full service",
+    "state": "Chișinău",
+    "bitrate": 0
+}

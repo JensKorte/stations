@@ -1,0 +1,14 @@
+{
+    "uuid": "0c3270e5-2990-4fb3-9dc2-12cfb65b13ab",
+    "name": "Holos.FM",
+    "url": "http://holos.fm:8000/holos",
+    "homepage": "http://holos.fm",
+    "favicon": "http://holos.fm/webplayer/img/coverart.png",
+    "creation": "2021-03-08 04:00:35",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukraine,ukrainian,ukr,ukrainian",
+    "tags": "нація,національне,народне,україна,україномовне,свобода,голос,голос свободи,holos svobody,svoboda,holos",
+    "state": "Kharkiv",
+    "bitrate": 128
+}

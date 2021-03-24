@@ -1,0 +1,14 @@
+{
+    "uuid": "b29aa53e-b95d-11e9-acb2-52543be04c81",
+    "name": "LifeGate Radio HD",
+    "url": "http://onair15.xdevel.com:8214/;stream.mp3",
+    "homepage": "https://www.lifegate.it/persone/player-radio",
+    "favicon": "https://www.lifegate.it/app/uploads/share1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "music",
+    "state": "Lombardia",
+    "bitrate": 0
+}

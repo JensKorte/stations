@@ -1,0 +1,14 @@
+{
+    "uuid": "961634ec-0601-11e8-ae97-52543be04c81",
+    "name": "BNR Sofia (high)",
+    "url": "http://stream.bnr.bg:8030/radio-sofia.aac",
+    "homepage": "http://bnr.bg/sofia",
+    "favicon": "http://bnr.bg/img/logos/radio_sofia.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "sofia,bnr,public radio",
+    "state": "Sofia",
+    "bitrate": 36
+}

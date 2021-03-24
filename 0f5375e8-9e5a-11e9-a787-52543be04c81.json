@@ -1,0 +1,14 @@
+{
+    "uuid": "0f5375e8-9e5a-11e9-a787-52543be04c81",
+    "name": "RadioQ",
+    "url": "https://rqstream.radioq.de/stream/160.ogg",
+    "homepage": "https://www.radioq.de",
+    "favicon": "https://www.radioq.de/faviqon.gif",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 160
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c956de79-b2ce-4b4c-abe1-414db17fca98",
+    "name": "Radio Imperium",
+    "url": "https://stream.radioimperium.pl:8443/stream",
+    "homepage": "https://www.radioimperium.pl/",
+    "favicon": "",
+    "creation": "2021-02-19 21:23:05",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polski,pl,polski,pl,polski",
+    "tags": "gliwice",
+    "state": "",
+    "bitrate": 192
+}

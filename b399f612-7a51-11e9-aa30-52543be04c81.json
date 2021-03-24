@@ -1,0 +1,14 @@
+{
+    "uuid": "b399f612-7a51-11e9-aa30-52543be04c81",
+    "name": "Marneuli FM",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "homepage": "https://www.marneulifm.ge",
+    "favicon": "https://www.marneulifm.ge//images/temp/2017/06/14/91d0264419f7bc69b396106ffac4345e.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Georgia",
+    "country_code": "GE",
+    "language": "georgian",
+    "tags": "radio,fm,georgia,azeri,marneuli,radiomarneuli,marneulifm",
+    "state": "Marneuli",
+    "bitrate": 128
+}

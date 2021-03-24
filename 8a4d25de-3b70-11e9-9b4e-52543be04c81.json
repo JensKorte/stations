@@ -1,0 +1,14 @@
+{
+    "uuid": "8a4d25de-3b70-11e9-9b4e-52543be04c81",
+    "name": "Record Gastarbaiter FM",
+    "url": "http://air.radiorecord.ru:8102/gast_320.m3u",
+    "homepage": "http://www.radiorecord.ru",
+    "favicon": "http://www.radiorecord.ru//touch-icon-ipad-retina.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "gastarbeiter,radiorecord",
+    "state": "",
+    "bitrate": 320
+}

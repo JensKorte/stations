@@ -1,0 +1,14 @@
+{
+    "uuid": "962b5a95-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Musica",
+    "url": "http://nr8.newradio.it:9020/stream",
+    "homepage": "http://www.radio-musica.net/",
+    "favicon": "http://www.radio-musica.net/images/header1.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Lombardia",
+    "bitrate": 128
+}

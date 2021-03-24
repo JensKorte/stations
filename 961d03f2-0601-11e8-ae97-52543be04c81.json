@@ -1,0 +1,14 @@
+{
+    "uuid": "961d03f2-0601-11e8-ae97-52543be04c81",
+    "name": "HRT Radio Rijeka",
+    "url": "http://playerservices.streamtheworld.com/m3u/RIJEKAAAC.m3u",
+    "homepage": "http://radio.hrt.hr/radio-rijeka/",
+    "favicon": "http://radio.hrt.hr/static/img/noimg/radio-rijeka.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "rijeka,hrt,public radio",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fe7ccee5-d122-11e8-a54a-52543be04c81",
+    "name": "planet radio the club",
+    "url": "http://streams.planetradio.de/plrchannels/mp3/hqtheclub.m3u",
+    "homepage": "https://www.%20planetradio.de",
+    "favicon": "https://static.planetradio.de/fileadmin/templates/www.planetradio.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "techno,club",
+    "state": "Hessen",
+    "bitrate": 128
+}

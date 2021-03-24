@@ -1,0 +1,14 @@
+{
+    "uuid": "f445170a-f4a5-480a-bc0b-753fcec13ae5",
+    "name": "egoFM Jazz",
+    "url": "https://cast.egofm.de/egofmjazz.mp3",
+    "homepage": "https://www.egofm.de",
+    "favicon": "https://www.egofm.de//templates/main/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classic rock",
+    "state": "Bavaria",
+    "bitrate": 128
+}

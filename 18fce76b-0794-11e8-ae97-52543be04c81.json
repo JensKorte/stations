@@ -1,0 +1,14 @@
+{
+    "uuid": "18fce76b-0794-11e8-ae97-52543be04c81",
+    "name": "WKSU-FM 89.7 [aac+]",
+    "url": "http://stream.wksu.org:80/wksu1-64.aac",
+    "homepage": "http://www.wksu.org",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wksu/files/201602/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pri,npr,public",
+    "state": "Ohio",
+    "bitrate": 64
+}

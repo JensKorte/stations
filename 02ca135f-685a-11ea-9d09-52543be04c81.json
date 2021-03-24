@@ -1,0 +1,14 @@
+{
+    "uuid": "02ca135f-685a-11ea-9d09-52543be04c81",
+    "name": "Radio Reporter",
+    "url": "https://mediahit.inmystream.it:9005/stream2",
+    "homepage": "https://www.radioreporter.it/",
+    "favicon": "https://www.radioreporter.it/foto/grandi/logo-reporter.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "various,talk,news",
+    "state": "Toscana",
+    "bitrate": 128
+}

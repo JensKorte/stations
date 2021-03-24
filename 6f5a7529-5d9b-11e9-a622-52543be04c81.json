@@ -1,0 +1,14 @@
+{
+    "uuid": "6f5a7529-5d9b-11e9-a622-52543be04c81",
+    "name": "Radio Olímpica 96.3 FM",
+    "url": "http://stream.hdserver.biz:9320/stream",
+    "homepage": "https://olimpicafmradio.com/",
+    "favicon": "https://files.catbox.moe/xn4p62.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,musica,music",
+    "state": "Pastaza",
+    "bitrate": 64
+}

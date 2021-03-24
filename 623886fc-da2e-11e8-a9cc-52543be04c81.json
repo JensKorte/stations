@@ -1,0 +1,14 @@
+{
+    "uuid": "623886fc-da2e-11e8-a9cc-52543be04c81",
+    "name": "Radio Sunrise",
+    "url": "http://streams.radiosunrise.de:8006/aac",
+    "homepage": "https://radiosunrise.de/",
+    "favicon": "https://radiosunrise.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "progressive rock,krautrock",
+    "state": "",
+    "bitrate": 32
+}

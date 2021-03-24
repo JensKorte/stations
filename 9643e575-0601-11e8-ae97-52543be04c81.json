@@ -1,0 +1,14 @@
+{
+    "uuid": "9643e575-0601-11e8-ae97-52543be04c81",
+    "name": "Nova Brasil FM Recife (ZYD241, 94,3 MHz FM)",
+    "url": "http://provisioning.streamtheworld.com/pls/NOVABRASIL_RECAAC.pls",
+    "homepage": "http://recife.novabrasilfm.com.br/",
+    "favicon": "https://s3-us-west-1.amazonaws.com/nbfm/logos/logo_green_re.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "local news,news,mpb,brazilian music,recife",
+    "state": "Pernambuco",
+    "bitrate": 48
+}

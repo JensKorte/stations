@@ -1,0 +1,14 @@
+{
+    "uuid": "0cfaad7e-2521-11e8-91bf-52543be04c81",
+    "name": "Radio 24 - Countdown",
+    "url": "http://icecast.radio24.ch/24ctd-mp3-srp",
+    "homepage": "http://www.radio24.ch/",
+    "favicon": "https://static.a-z.ch/__ip/23RBW9BQeY3F0N74x4WjjZyIpw0/20dce66623ccffe6cfaecbee0aaede6f5be4b23e/remote.adjust.rotate=0\u0026remote.size.w=450\u0026remote.size.h=450\u0026local.crop.h=450\u0026local.crop.w=450\u0026local.crop.x=0\u0026local.crop.y=0\u0026r=2,radio-162x162",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "",
+    "tags": "trap,ballads,rock,pop,hits,hot hits,charts,countdown",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9612bd79-0601-11e8-ae97-52543be04c81",
+    "name": "WEDG-FM 103.3 Buffalo, NY",
+    "url": "http://provisioning.streamtheworld.com/pls/WEDGFM.pls",
+    "homepage": "http://www.wedg.com/",
+    "favicon": "http://www.wedg.com/wp-content/uploads/sites/365/2015/11/Edge-Logo-2004.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "commercial,buffalo,rock",
+    "state": "New York",
+    "bitrate": 80
+}

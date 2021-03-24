@@ -1,0 +1,14 @@
+{
+    "uuid": "eb946c69-1a57-11e9-a80b-52543be04c81",
+    "name": "Gorenjska TV",
+    "url": "http://91.220.221.60/gtv_hls/gtv.m3u8",
+    "homepage": "http://www.gtv.si/",
+    "favicon": "http://www.gtv.si/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovene",
+    "tags": "",
+    "state": "Upper Carniola",
+    "bitrate": 1500
+}

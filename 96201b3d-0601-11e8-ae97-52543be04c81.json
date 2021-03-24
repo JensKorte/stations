@@ -1,0 +1,14 @@
+{
+    "uuid": "96201b3d-0601-11e8-ae97-52543be04c81",
+    "name": "Arabesk FM",
+    "url": "http://yayin.arabeskfm.biz:8042",
+    "homepage": "http://www.arabeskfm.biz",
+    "favicon": "http://www.arabeskfm.biz/images/logomobil.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "müzik,türkçe",
+    "state": "",
+    "bitrate": 128
+}

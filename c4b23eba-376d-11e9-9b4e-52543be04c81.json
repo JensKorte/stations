@@ -1,0 +1,14 @@
+{
+    "uuid": "c4b23eba-376d-11e9-9b4e-52543be04c81",
+    "name": "UA: Українське радіо. Голос Донбасу",
+    "url": "http://radio.nrcu.gov.ua:8000/golosdonbasu-aacplus",
+    "homepage": "http://www.nrcu.gov.ua/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "talk,news",
+    "state": "Sievierodonetsk",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "edf8fc0e-c67e-11e8-a498-52543be04c81",
+    "name": "Traditional - Muzica Populara",
+    "url": "http://populara.radiotraditional.ro:7600/;stream.nsv",
+    "homepage": "https://www.radiotraditional.ro/",
+    "favicon": "https://www.radiotraditional.ro/images/logo23.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

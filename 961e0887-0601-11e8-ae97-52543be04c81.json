@@ -1,0 +1,14 @@
+{
+    "uuid": "961e0887-0601-11e8-ae97-52543be04c81",
+    "name": "Digital Impulse - Country Music",
+    "url": "http://5.39.71.159:8110/stream",
+    "homepage": "http://www.di-radio.com",
+    "favicon": "http://www.di-radio.com/dimp.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "english",
+    "tags": "country",
+    "state": "Zagreb",
+    "bitrate": 320
+}

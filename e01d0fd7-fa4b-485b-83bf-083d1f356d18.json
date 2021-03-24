@@ -1,0 +1,14 @@
+{
+    "uuid": "e01d0fd7-fa4b-485b-83bf-083d1f356d18",
+    "name": "Всесвітня служба радіомовлення України. (128 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur4-mp3-m",
+    "homepage": "http://ukr.radio/RUI_about",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Kyiv",
+    "bitrate": 128
+}

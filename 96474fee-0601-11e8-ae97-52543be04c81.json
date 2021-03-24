@@ -1,0 +1,14 @@
+{
+    "uuid": "96474fee-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Corazón (OCR-4M, 94.3 MHz FM, Lima)",
+    "url": "http://playerservices.streamtheworld.com/pls/RADIO_CORAZON.pls",
+    "homepage": "http://corazon.pe/",
+    "favicon": "http://s.corazon.pe/images/favicons/apple-touch-icon-180x180.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "baladas,musica romantica,love songs",
+    "state": "Lima",
+    "bitrate": 64
+}

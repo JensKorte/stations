@@ -1,0 +1,14 @@
+{
+    "uuid": "9620bc13-0601-11e8-ae97-52543be04c81",
+    "name": "101FM - Main",
+    "url": "http://stream.laut.fm/101fm",
+    "homepage": "http://www.101fm.de",
+    "favicon": "http://is4.mzstatic.com/image/thumb/Purple5/v4/37/65/d4/3765d408-7cb4-477d-9332-4be06cf86310/source/1200x630bb.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40,pop,rock",
+    "state": "",
+    "bitrate": 128
+}

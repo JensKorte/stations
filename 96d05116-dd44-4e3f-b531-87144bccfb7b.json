@@ -1,0 +1,14 @@
+{
+    "uuid": "96d05116-dd44-4e3f-b531-87144bccfb7b",
+    "name": "NPO Radio 4",
+    "url": "http://icecast.omroep.nl/radio4-sb-aac",
+    "homepage": "https://www.nporadio4.nl/",
+    "favicon": "https://www.nporadio4.nl/templates/nporadio4default/images/logo-radio4.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "32 kbps,classical",
+    "state": "",
+    "bitrate": 0
+}

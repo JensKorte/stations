@@ -1,0 +1,14 @@
+{
+    "uuid": "9609d503-0601-11e8-ae97-52543be04c81",
+    "name": "Radio NABA",
+    "url": "http://nabamp0.latvijasradio.lv:8016/;",
+    "homepage": "http://www.naba.lv/",
+    "favicon": "http://www.naba.lv/fileadmin/templates/radio_naba/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "avant-garde,latvijas radio,university radio,experimental,electronic,classic rock,alternative rock,alternative,student",
+    "state": "",
+    "bitrate": 128
+}

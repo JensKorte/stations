@@ -1,0 +1,14 @@
+{
+    "uuid": "963ec647-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Silenci",
+    "url": "http://streaming.enacast.com:8000/radiosilenci56.mp3",
+    "homepage": "http://www.radiosilenci.cat/",
+    "favicon": "http://www.radiosilenci.cat//radiosilenci/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "la garriga",
+    "state": "Barcelona",
+    "bitrate": 56
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "cb235fac-021d-4f8a-b9ae-2754d0b512f5",
+    "name": "FOX Sports 98.9FM / 1340AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLVAMAAC.aac",
+    "homepage": "https://www.lvsportsnetwork.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KRLV.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "sports",
+    "state": "Las Vegas NV",
+    "bitrate": 32
+}

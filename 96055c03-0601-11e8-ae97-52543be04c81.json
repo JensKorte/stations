@@ -1,0 +1,14 @@
+{
+    "uuid": "96055c03-0601-11e8-ae97-52543be04c81",
+    "name": "Rhône FM",
+    "url": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3",
+    "homepage": "http://www.rhonefm.ch",
+    "favicon": "http://www.rhonefm.ch/js/html5player/player_item/img/no_cover.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

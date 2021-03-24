@@ -1,0 +1,14 @@
+{
+    "uuid": "d82ce5dd-2f23-40a7-9ea2-12758c0081f0",
+    "name": "AM1230 WRBS",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRBSAMAAC.aac",
+    "homepage": "https://wrbsam.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WRBSAM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "christian contemporary",
+    "state": "Baltimore MD",
+    "bitrate": 64
+}

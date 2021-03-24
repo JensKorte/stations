@@ -1,0 +1,14 @@
+{
+    "uuid": "96466371-0601-11e8-ae97-52543be04c81",
+    "name": "AllesBlasmusik",
+    "url": "http://www.allesblasmusik.de/radiod/allesblasmusik.m3u",
+    "homepage": "http://www.allesblasmusik.de",
+    "favicon": "http://www.allesblasmusik.de///templates/bwradio_gruen/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "blasmusik",
+    "state": "Bavaria",
+    "bitrate": 128
+}

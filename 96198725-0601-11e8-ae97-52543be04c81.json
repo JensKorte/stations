@@ -1,0 +1,14 @@
+{
+    "uuid": "96198725-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Onda Viva",
+    "url": "http://centova.radio.com.pt:9524/;",
+    "homepage": "http://radioondaviva.pt/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s84142q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "talk,local music,news",
+    "state": "Porto",
+    "bitrate": 128
+}

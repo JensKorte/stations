@@ -1,0 +1,14 @@
+{
+    "uuid": "96237d0a-0601-11e8-ae97-52543be04c81",
+    "name": "Vertical Radio",
+    "url": "http://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3",
+    "homepage": "http://www.verticalradio.ch/fr",
+    "favicon": "http://www.verticalradio.ch//images/apple-touch-icon-144x144-vertical.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "rock",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

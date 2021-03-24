@@ -1,0 +1,14 @@
+{
+    "uuid": "3b9ea753-1779-4437-b87e-ca2c2ce7c224",
+    "name": "16Bit.FM Cafe",
+    "url": "http://16bitfm.com:8000/cafe_mp3_128",
+    "homepage": "http://www.16bitfm.com/",
+    "favicon": "http://www.16bitfm.com/images/fav/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "english",
+    "tags": "relaxation,chillout",
+    "state": "Moscow",
+    "bitrate": 128
+}

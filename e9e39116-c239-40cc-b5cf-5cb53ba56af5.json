@@ -1,0 +1,14 @@
+{
+    "uuid": "e9e39116-c239-40cc-b5cf-5cb53ba56af5",
+    "name": "Radio bob",
+    "url": "http://streams.radiobob.de/bob-national/aac-64/mediaplayer",
+    "homepage": "http://streams.radiobob.de/bob-national/aac-64/mediaplayer",
+    "favicon": "https://www.radiobob.de/radiobob/empfang/livestream",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

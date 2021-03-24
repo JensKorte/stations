@@ -1,0 +1,14 @@
+{
+    "uuid": "960dd937-0601-11e8-ae97-52543be04c81",
+    "name": "WREK 91.1 Atlanta, GA  -24 kbps MP3",
+    "url": "http://streaming.wrek.org:8000/wrek_live-24kb-mono.m3u",
+    "homepage": "http://www.wrek.org/",
+    "favicon": "https://www.wrek.org/wp-content/themes/wrek/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "low bandwidth,college radio,atlanta",
+    "state": "Georgia",
+    "bitrate": 24
+}

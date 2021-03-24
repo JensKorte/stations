@@ -1,0 +1,14 @@
+{
+    "uuid": "5c1ed474-d1c6-4b4d-8e4e-4991d633d68d",
+    "name": "Bibel TV Musik",
+    "url": "http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+    "homepage": "https://beta.bibeltv.de/livestreams/musik/",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
+    "creation": "2021-02-09 07:02:34",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "gospel,christian,musik,tv,bibel",
+    "state": "",
+    "bitrate": 2556
+}

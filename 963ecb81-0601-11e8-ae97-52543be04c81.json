@@ -1,0 +1,14 @@
+{
+    "uuid": "963ecb81-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Santvi",
+    "url": "http://streaming.enantena.com:8000/radiosantvi128.mp3",
+    "homepage": "http://www.radiosantvi.cat/",
+    "favicon": "https://enacast.com/media/cache/1f/1d/1f1df79b31b2c2bf76f91fc5df3d0835.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "sant vicenç de montalt",
+    "state": "Barcelona",
+    "bitrate": 0
+}

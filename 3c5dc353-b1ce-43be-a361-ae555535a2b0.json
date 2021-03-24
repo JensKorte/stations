@@ -1,0 +1,14 @@
+{
+    "uuid": "3c5dc353-b1ce-43be-a361-ae555535a2b0",
+    "name": "J1 Hits (HTTP)",
+    "url": "http://jenny.torontocast.com:8056/",
+    "homepage": "https://en.j1fm.tokyo/",
+    "favicon": "https://j1fm.tokyo/images/button-j1.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "japanese",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

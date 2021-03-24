@@ -1,0 +1,14 @@
+{
+    "uuid": "ef226a75-05b4-4e6a-aa11-d79f8ee20dc5",
+    "name": "play",
+    "url": "https://stream.playradio.rs:8443/play.mp3",
+    "homepage": "https://stream.playradio.rs:8443/play.mp3",
+    "favicon": "https://www.playradio.rs/images/playlogo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "serbian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

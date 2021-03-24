@@ -1,0 +1,14 @@
+{
+    "uuid": "a7683a1d-462c-4fa8-8ea1-e61c597371ed",
+    "name": "Phever Dublin",
+    "url": "http://uk1.internet-radio.com:8200/live.m3u",
+    "homepage": "https://www.phever.ie/",
+    "favicon": "https://www.phever.ie/wp-content/uploads/2019/11/Mix-Cover-Techno-150x150.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "dance,house,techno",
+    "state": "Dublin",
+    "bitrate": 192
+}

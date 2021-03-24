@@ -1,0 +1,14 @@
+{
+    "uuid": "9610b074-0601-11e8-ae97-52543be04c81",
+    "name": "SATzentrale - Das Radio",
+    "url": "http://stream.laut.fm/satzentrale",
+    "homepage": "http://www.satzentrale.de/szradio",
+    "favicon": "http://www.satzentrale.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "information,80s,world music",
+    "state": "",
+    "bitrate": 128
+}

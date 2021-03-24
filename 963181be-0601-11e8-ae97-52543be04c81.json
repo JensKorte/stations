@@ -1,0 +1,14 @@
+{
+    "uuid": "963181be-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 4 RP (LQ)",
+    "url": "http://mp3-live.swr.de/swr4rp_s.m3u",
+    "homepage": "http://www.swr.de/swr4/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swr4-logo.svg/320px-Swr4-logo.svg.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "",
+    "bitrate": 0
+}

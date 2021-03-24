@@ -1,0 +1,14 @@
+{
+    "uuid": "96144665-0601-11e8-ae97-52543be04c81",
+    "name": "KUAZ 89.1 \"Arizona Public Media\" Tucson, AZ",
+    "url": "http://streaming.azpm.org:80/kuaz192.mp3",
+    "homepage": "https://radio.azpm.org",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s35847d.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "public radio,npr,tucson",
+    "state": "Arizona",
+    "bitrate": 0
+}

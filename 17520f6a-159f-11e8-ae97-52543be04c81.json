@@ -1,0 +1,14 @@
+{
+    "uuid": "17520f6a-159f-11e8-ae97-52543be04c81",
+    "name": "Plus 93.1 FM",
+    "url": "http://fmplus.radio.rosario3.com:8006/fmplus",
+    "homepage": "https://www.rosario3.com",
+    "favicon": "http://www.fmvida.com.ar/FMPlus/images/FMPlus-Logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "90s,pop,spanish pop,classic hits,rosario",
+    "state": "Rosario",
+    "bitrate": 32
+}

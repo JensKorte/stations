@@ -1,0 +1,14 @@
+{
+    "uuid": "a373c438-9c5e-11e9-a787-52543be04c81",
+    "name": "Radio InBlu",
+    "url": "http://cldwz.tv2000.it:8080/HLS/RadioInBlu/live.php",
+    "homepage": "https://www.radioinblu.it",
+    "favicon": "https://www.radioinblu.it/wp-content/themes/radioinblu/img/logo_radioinblu.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "ecclesial events,social,religion,culture,music,news",
+    "state": "Lazio",
+    "bitrate": 0
+}

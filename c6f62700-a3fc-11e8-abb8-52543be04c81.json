@@ -1,0 +1,14 @@
+{
+    "uuid": "c6f62700-a3fc-11e8-abb8-52543be04c81",
+    "name": "GigantFM",
+    "url": "http://178.19.116.253:7204/;",
+    "homepage": "https://www.gigantfm.nl/",
+    "favicon": "https://www.gigantfm.nl/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 192
+}

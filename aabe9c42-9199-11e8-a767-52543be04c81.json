@@ -1,0 +1,14 @@
+{
+    "uuid": "aabe9c42-9199-11e8-a767-52543be04c81",
+    "name": "Radio Babboleo News",
+    "url": "http://156.54.151.180/babboleo_news/live/playlist.m3u8",
+    "homepage": "http://www.babboleo.it/",
+    "favicon": "http://www.babboleo.it/wp-content/uploads/2018/01/babboleo-news-logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "genova,talk,news",
+    "state": "Liguria",
+    "bitrate": 76
+}

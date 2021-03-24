@@ -1,0 +1,14 @@
+{
+    "uuid": "8c83958f-63ee-11e9-a622-52543be04c81",
+    "name": "KiSS 105.3 Ottawa - 90's to NOW! (Working station)",
+    "url": "http://rogers-hls.leanstream.co:8000/rogers/ott1053.stream/48k/playlist.m3u8",
+    "homepage": "https://kissottawa.com",
+    "favicon": "https://www.kissottawa.com/wp-content/uploads/sites/9/2016/05/cropped-KiSS1053_Logo-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "20s,90s",
+    "state": "Ontario",
+    "bitrate": 48
+}

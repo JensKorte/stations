@@ -1,0 +1,14 @@
+{
+    "uuid": "db09935d-ce3f-4a2b-bd01-d19bc7ac7ae6",
+    "name": "Radio Leverkusen",
+    "url": "http://radioleverkusen-ais-edge-4007-fra-dtag-cdn.cast.addradio.de/radioleverkusen/live/mp3/high",
+    "homepage": "http://www.radioleverkusen.de/",
+    "favicon": "https://www.radioleverkusen.de/assets/images/favicons/radioleverkusen/favicon_x96.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

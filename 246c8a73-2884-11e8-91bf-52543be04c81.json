@@ -1,0 +1,14 @@
+{
+    "uuid": "246c8a73-2884-11e8-91bf-52543be04c81",
+    "name": "Danmarks Radio P3",
+    "url": "http://live-icy.gss.dr.dk:80/A/A05H.mp3.m3u",
+    "homepage": "https://www.dr.dk/radio/oversigt",
+    "favicon": "https://www.dr.dk//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "music,danish",
+    "state": "Denmark",
+    "bitrate": 0
+}

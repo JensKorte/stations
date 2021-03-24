@@ -1,0 +1,14 @@
+{
+    "uuid": "9030f5b1-f58a-11e8-a471-52543be04c81",
+    "name": "Girona TV",
+    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
+    "homepage": "http://www.tvgirona.tv/",
+    "favicon": "http://nettv.live/uploads/18/1-1Q201220329630.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "",
+    "state": "Girona",
+    "bitrate": 0
+}

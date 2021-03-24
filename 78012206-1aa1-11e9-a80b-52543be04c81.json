@@ -1,0 +1,14 @@
+{
+    "uuid": "78012206-1aa1-11e9-a80b-52543be04c81",
+    "name": "MANGORADIO",
+    "url": "http://stream.mangoradio.de",
+    "homepage": "https://mangoradio.de",
+    "favicon": "https://mangoradio.de//android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "webradio,public radio,mongoradio,mangoradio,mongo,mango",
+    "state": "",
+    "bitrate": 128
+}

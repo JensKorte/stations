@@ -1,0 +1,14 @@
+{
+    "uuid": "07d7b900-f346-11e9-a96c-52543be04c81",
+    "name": "Onda Cero Almeria",
+    "url": "http://icecast-streaming.nice264.com/almeria",
+    "homepage": "https://www.ondacero.es/emisoras/andalucia/almeria/",
+    "favicon": "http://static.ondacero.es/img/logo-ondacero.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,español",
+    "tags": "deportes,sport,noticias,local news,información,information,news",
+    "state": "Almería",
+    "bitrate": 0
+}

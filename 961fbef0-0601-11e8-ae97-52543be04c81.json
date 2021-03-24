@@ -1,0 +1,14 @@
+{
+    "uuid": "961fbef0-0601-11e8-ae97-52543be04c81",
+    "name": "Maasland Radio",
+    "url": "http://panel.beheerstream.com:2199/tunein/maaslandradio.pls",
+    "homepage": "http://www.maaslandradio.nl/",
+    "favicon": "http://www.maaslandradio.nl/wp-content/uploads/2016/11/MAASLAND-400.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "limburg",
+    "state": "Limburg",
+    "bitrate": 192
+}

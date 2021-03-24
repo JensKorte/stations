@@ -1,0 +1,14 @@
+{
+    "uuid": "960d588c-0601-11e8-ae97-52543be04c81",
+    "name": "laut.fm Fantasyradio",
+    "url": "http://stream.laut.fm/fantasyradio",
+    "homepage": "http://laut.fm/fantasyradio",
+    "favicon": "http://assets.laut.fm/26658c4323c63e005dc7cf360b0c4bb4?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "epic,mittelalter,folk,metal,symphonic,gothic,fantasy,electro",
+    "state": "Bavaria",
+    "bitrate": 128
+}

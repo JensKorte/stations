@@ -1,0 +1,14 @@
+{
+    "uuid": "c7659255-3ca2-11ea-8dd7-52543be04c81",
+    "name": "Hitradio center top 100",
+    "url": "http://stream3.radiocenter.si:9020/;stream/1",
+    "homepage": "http://radiocenter.si/",
+    "favicon": "http://radiocenter.si//Public/assets/dist/img/150_center.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

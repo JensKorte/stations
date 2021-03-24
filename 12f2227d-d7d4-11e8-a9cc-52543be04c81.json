@@ -1,0 +1,14 @@
+{
+    "uuid": "12f2227d-d7d4-11e8-a9cc-52543be04c81",
+    "name": "Klubradio",
+    "url": "http://fluxfm.hoerradar.de/flux-klubradio-mp3-hq",
+    "homepage": "http://www.fluxfm.de/stream/#klubradio/play",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2014/02/klubradio_NEU_klein.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "techno,berlin",
+    "state": "Berlin",
+    "bitrate": 320
+}

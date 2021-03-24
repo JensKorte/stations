@@ -1,0 +1,14 @@
+{
+    "uuid": "9605d2f1-0601-11e8-ae97-52543be04c81",
+    "name": "HoRadS",
+    "url": "http://realserver3.hdm-stuttgart.de:8080/horads.m3u",
+    "homepage": "http://www.horads.de/",
+    "favicon": "http://www.horads.de/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "college radio",
+    "state": "",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ae7cd38c-9341-4352-a5f7-797f55e4489b",
+    "name": "Blue Marlin Ibiza Radio",
+    "url": "http://ice1.viastreaming.net:8635/live",
+    "homepage": "https://www.bluemarlinibiza.com/",
+    "favicon": "https://www.bluemarlinibiza.com/wp-content/themes/bluemarlinibiza/favicon.ico",
+    "creation": "2021-03-15 17:24:51",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "english,spanish",
+    "tags": "house",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96323ce9-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Show",
+    "url": "http://sh1.inmystream.it:8064/;stream.mp3",
+    "homepage": "http://www.radioshow.it/",
+    "favicon": "http://www.radioshow.it/logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "palermo,hits,70s,80s,00s",
+    "state": "Sicilia",
+    "bitrate": 128
+}

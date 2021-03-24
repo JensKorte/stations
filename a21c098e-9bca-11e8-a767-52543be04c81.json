@@ -1,0 +1,14 @@
+{
+    "uuid": "a21c098e-9bca-11e8-a767-52543be04c81",
+    "name": "Эхо Москвы",
+    "url": "http://ice912.echo.msk.ru:9120/stream",
+    "homepage": "echo.msk.ru",
+    "favicon": "http://top-radio.ru/assets/image/radio/180/echo-moscow.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "информационный",
+    "state": "Москва",
+    "bitrate": 32
+}

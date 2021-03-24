@@ -1,0 +1,14 @@
+{
+    "uuid": "6b4459eb-a696-45d9-a044-0655190d4adc",
+    "name": "Compass FM",
+    "url": "http://stream.compassfm.org.nz:8000/Compass_FM_104.9",
+    "homepage": "http://compassfm.org.nz/",
+    "favicon": "http://compassfm.org.nz/wp-content/uploads/2019/09/cropped-image001-2-e1573418300769-1.png",
+    "creation": "2021-03-02 17:53:13",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "english",
+    "tags": "community radio,local news",
+    "state": "",
+    "bitrate": 128
+}

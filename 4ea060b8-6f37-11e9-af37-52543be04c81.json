@@ -1,0 +1,14 @@
+{
+    "uuid": "4ea060b8-6f37-11e9-af37-52543be04c81",
+    "name": "TLIG Radio Romanian",
+    "url": "http://46.28.49.164:7773/stream",
+    "homepage": "https://tligradio.org/ro/",
+    "favicon": "https://tligradio.org/wp-content/uploads/2014/07/slider.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "romanian",
+    "tags": "talk,religion,catholic,christian",
+    "state": "",
+    "bitrate": 128
+}

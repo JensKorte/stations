@@ -1,0 +1,14 @@
+{
+    "uuid": "edbef334-5430-4f1d-a673-5e43d77bd6ac",
+    "name": "University Radio UGD FM",
+    "url": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
+    "homepage": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
+    "favicon": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
+    "creation": "2021-03-10 13:00:50",
+    "country": "Republic Of North Macedonia",
+    "country_code": "MK",
+    "language": "macedonian",
+    "tags": "unvierzitet,gocedelcev,macedonia,university radio",
+    "state": "",
+    "bitrate": 320
+}

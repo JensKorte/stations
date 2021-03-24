@@ -1,0 +1,14 @@
+{
+    "uuid": "f0469974-c4b6-44a8-bf90-afca4f07447c",
+    "name": "Radio21 Bremen",
+    "url": "https://stream.radio21.de/radio21_bremen.mp3",
+    "homepage": "https://radio21.de",
+    "favicon": "https://www.radio21.de/typo3conf/ext/ch_radio21/Resources/Public/Assets/radio21_logo.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Bremen",
+    "bitrate": 192
+}

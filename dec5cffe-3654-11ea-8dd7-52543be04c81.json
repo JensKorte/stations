@@ -1,0 +1,14 @@
+{
+    "uuid": "dec5cffe-3654-11ea-8dd7-52543be04c81",
+    "name": "Impuls Raaaadio 32k aac",
+    "url": "http://icecast1.play.cz:8000/impuls32aac",
+    "homepage": "http://www.impuls.cz",
+    "favicon": "https://api.play.cz/static/radio_logo/t200/impuls.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "czech",
+    "tags": "aac,32k",
+    "state": "",
+    "bitrate": 0
+}

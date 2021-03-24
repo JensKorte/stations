@@ -1,0 +1,14 @@
+{
+    "uuid": "9605f6c7-0601-11e8-ae97-52543be04c81",
+    "name": "Radio StHörfunk",
+    "url": "http://stream.sthoerfunk.de:7000/sthoerfunk.ogg.m3u",
+    "homepage": "http://www.sthoerfunk.de/",
+    "favicon": "http://www.sthoerfunk.de/images/icons/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

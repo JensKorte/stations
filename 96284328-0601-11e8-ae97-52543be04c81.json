@@ -1,0 +1,14 @@
+{
+    "uuid": "96284328-0601-11e8-ae97-52543be04c81",
+    "name": "Radio We",
+    "url": "http://onair20.xdevel.com:7096/;stream.mp3",
+    "homepage": "http://www.radiowe.it/",
+    "favicon": "http://www.radiowe.it/wp-content/uploads/2016/07/cropped-radio-we-logo-1x1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "classic hits,milano",
+    "state": "Lombardia",
+    "bitrate": 128
+}

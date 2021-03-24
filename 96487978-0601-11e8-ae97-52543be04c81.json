@@ -1,0 +1,14 @@
+{
+    "uuid": "96487978-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bizzzzz",
+    "url": "http://91.121.162.224:9012/stream",
+    "homepage": "http://www.radioquebec.biz/",
+    "favicon": "http://www.radioquebec.biz/logo-rq-reduit.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "black metal,talk,hard rock,metal",
+    "state": "Quebec",
+    "bitrate": 128
+}

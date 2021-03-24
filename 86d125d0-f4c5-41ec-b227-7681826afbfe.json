@@ -1,0 +1,14 @@
+{
+    "uuid": "86d125d0-f4c5-41ec-b227-7681826afbfe",
+    "name": "Mephisto 96.7",
+    "url": "http://radiostream.radio.uni-leipzig.de:8000/mephisto976_livestream.mp3.m3u",
+    "homepage": "http://radiomephisto.de",
+    "favicon": "https://radiomephisto.de/sites/default/files/favicon32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "kopfhörer,mephisto,uni,leipzig",
+    "state": "sachsen",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fc04dd5c-e2c9-11e9-a8ba-52543be04c81",
+    "name": "Lépés Rádió",
+    "url": "http://stream.lepesradio.hu:4000/live.mp3",
+    "homepage": "https://lepesradio.hu/",
+    "favicon": "https://lepesradio.hu/images/logo_jsn_neon_2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

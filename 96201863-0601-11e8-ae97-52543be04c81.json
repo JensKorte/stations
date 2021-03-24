@@ -1,0 +1,14 @@
+{
+    "uuid": "96201863-0601-11e8-ae97-52543be04c81",
+    "name": "UN Radio Bogotá (HJUN 98.5 MHz FM) Universidad Nacional de Colombia",
+    "url": "http://streaming.unradio.unal.edu.co:8010/listen.pls",
+    "homepage": "http://unradio.unal.edu.co/",
+    "favicon": "http://www.pactoglobal-colombia.org/images/Logo-UNRadio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "news,classical,jazz,college radio,bogota,radio universidad,university radio",
+    "state": "Bogotá",
+    "bitrate": 96
+}

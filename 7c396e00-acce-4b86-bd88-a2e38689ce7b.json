@@ -1,0 +1,14 @@
+{
+    "uuid": "7c396e00-acce-4b86-bd88-a2e38689ce7b",
+    "name": "Radio Lublin",
+    "url": "https://streaming.radio.lublin.pl:8843/128k",
+    "homepage": "https://radio.lublin.pl/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "music,talk,news,adult contemporary",
+    "state": "",
+    "bitrate": 128
+}

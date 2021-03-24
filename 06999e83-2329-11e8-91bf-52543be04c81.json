@@ -1,0 +1,14 @@
+{
+    "uuid": "06999e83-2329-11e8-91bf-52543be04c81",
+    "name": "Radio Aparat",
+    "url": "http://ca3.rcast.net:8060/;stream.mp3;",
+    "homepage": "http://www.radioaparat.com",
+    "favicon": "https://static.parastorage.com/client/pfavico.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "chill,pop",
+    "state": "Belgrade",
+    "bitrate": 128
+}

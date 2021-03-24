@@ -1,0 +1,14 @@
+{
+    "uuid": "274b773a-6cc2-11e8-b15b-52543be04c81",
+    "name": "PRD Radio Thailand (Foreign Program)",
+    "url": "http://prdonline.prd.go.th:8200/;stream.mp3",
+    "homepage": "http://nbt.prd.go.th/liveradio/live-fm88.html",
+    "favicon": "http://nbt.prd.go.th/../images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "news,foreign program",
+    "state": "Bangkok",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9635d89e-0601-11e8-ae97-52543be04c81",
+    "name": "NDR 1 Radio MV (HGW)",
+    "url": "http://www.ndr.de/resources/metadaten/audio/aac/ndr1radiomv_hgw.m3u",
+    "homepage": "https://www.ndr.de/radiomv/",
+    "favicon": "http://static.radio.de/images/broadcasts/81/b0/2345/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "bitrate": 0
+}

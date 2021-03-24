@@ -1,0 +1,14 @@
+{
+    "uuid": "5d6c1e00-66c3-11ea-be63-52543be04c81",
+    "name": "Rádio Universitária FM 107.9",
+    "url": "http://200.129.35.230:8081/stream",
+    "homepage": "https://www.radiouniversitariafm.com.br",
+    "favicon": "https://www.radiouniversitariafm.com.br/wp-content/uploads/2014/07/logonew.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português do brasil",
+    "tags": "culture",
+    "state": "Ceara",
+    "bitrate": 256
+}

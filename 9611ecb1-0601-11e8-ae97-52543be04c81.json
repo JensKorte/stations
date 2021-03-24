@@ -1,0 +1,14 @@
+{
+    "uuid": "9611ecb1-0601-11e8-ae97-52543be04c81",
+    "name": "esRadio",
+    "url": "http://livestreaming.esradio.fm/stream64.mp3",
+    "homepage": "http://esradio.libertaddigital.com/",
+    "favicon": "http://s.esradio.fm/f/logo-grande.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "news,talk",
+    "state": "Madrid",
+    "bitrate": 56
+}

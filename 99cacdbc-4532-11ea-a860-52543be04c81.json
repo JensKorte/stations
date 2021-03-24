@@ -1,0 +1,14 @@
+{
+    "uuid": "99cacdbc-4532-11ea-a860-52543be04c81",
+    "name": "Radio Rekord Mazowsze",
+    "url": "http://stream6.nadaje.com:8086/ciechanow.m3u",
+    "homepage": "https://www.radiorekord.pl/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "ciechanów,,rekord",
+    "state": "Ciechanów",
+    "bitrate": 128
+}

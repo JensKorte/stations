@@ -1,0 +1,14 @@
+{
+    "uuid": "be46e388-77d3-11ea-b1cf-52543be04c81",
+    "name": "Rádio Valec",
+    "url": "http://radiovalec.out.airtime.pro:8000/radiovalec_a",
+    "homepage": "https://www.radiovalec.sk/",
+    "favicon": "https://www.radiovalec.sk/wp-content/uploads/2018/12/radio-valec-favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

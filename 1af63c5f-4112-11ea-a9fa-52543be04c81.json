@@ -1,0 +1,14 @@
+{
+    "uuid": "1af63c5f-4112-11ea-a9fa-52543be04c81",
+    "name": "Lahmacun Radio",
+    "url": "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
+    "homepage": "https://www.lahmacun.hu/",
+    "favicon": "https://www.lahmacun.hu/wp-content/uploads/lahmalogo-1024x1024.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "english,hungarian",
+    "tags": "electronic",
+    "state": "",
+    "bitrate": 128
+}

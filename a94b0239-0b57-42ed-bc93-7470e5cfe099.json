@@ -1,0 +1,14 @@
+{
+    "uuid": "a94b0239-0b57-42ed-bc93-7470e5cfe099",
+    "name": "KNCY 1600 AM, 105.5 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KNCYAMAAC.aac",
+    "homepage": "https://rivercountry.newschannelnebraska.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KNCY.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Nebraska City NE",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960f2a8b-0601-11e8-ae97-52543be04c81",
+    "name": "Celtic Music Radio",
+    "url": "http://stream.celticmusicradio.net:8000/celticmusic.mp3",
+    "homepage": "http://www.celticmusicradio.net/",
+    "favicon": "http://www.celticmusicradio.net/wp-content/uploads/2017/03/official-logo-March-2017-150x150.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "multilingual",
+    "tags": "folk,celtic",
+    "state": "",
+    "bitrate": 0
+}

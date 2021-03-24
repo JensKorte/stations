@@ -1,0 +1,14 @@
+{
+    "uuid": "962c5202-0601-11e8-ae97-52543be04c81",
+    "name": "IB3 Ràdio de les Illes Balears",
+    "url": "http://streaming01.ib3radio.com:8000/ib3radio.mp3",
+    "homepage": "http://ib3tv.com/radio",
+    "favicon": "http://ib3img.s3.amazonaws.com/apple-touch-icon-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "palma",
+    "state": "Illes Balears",
+    "bitrate": 128
+}

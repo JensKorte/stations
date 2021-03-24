@@ -1,0 +1,14 @@
+{
+    "uuid": "961ddd7c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Greek",
+    "url": "http://radiogreek.out.airtime.pro:8000/radiogreek_a",
+    "homepage": "http://radiogreek.de/",
+    "favicon": "http://radiogreek.airtime.pro/api/show-logo?id=102",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "greek",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

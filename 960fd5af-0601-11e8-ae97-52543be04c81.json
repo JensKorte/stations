@@ -1,0 +1,14 @@
+{
+    "uuid": "960fd5af-0601-11e8-ae97-52543be04c81",
+    "name": "ZET Hits",
+    "url": "http://zethit-02.cdn.eurozet.pl:8428/",
+    "homepage": "http://www.radiozet.pl/sluchaj/online/ZET-Hits.html",
+    "favicon": "http://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicons/apple-touch-icon.png?n=1",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "top 40",
+    "state": "Warszawa",
+    "bitrate": 128
+}

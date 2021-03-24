@@ -1,0 +1,14 @@
+{
+    "uuid": "c49a71a5-42be-11e9-aa55-52543be04c81",
+    "name": "Cityradio Saarlouis",
+    "url": "http://radiosaarlouis-live.cast.addradio.de/radiosaarlouis/live/mp3/high/stream.mp3",
+    "homepage": "https://www.cityradio-saarland.de/cityradiosaarlouis",
+    "favicon": "https://static.wixstatic.com/media/351acf_ec7c05de7df44812a365429a2876b50d~mv2.png/v1/crop/x_0,y_1,w_338,h_121/fill/w_95,h_34,al_c,q_80,usm_0.66_1.00_0.01/Radio%20SLS%20Logo%20bunt.webp",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "saarlouis,saarland",
+    "state": "Saarland",
+    "bitrate": 128
+}

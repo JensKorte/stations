@@ -1,0 +1,14 @@
+{
+    "uuid": "962263bc-0601-11e8-ae97-52543be04c81",
+    "name": "WCSP 90.1 \"C-SPAN Radio\" Washington, DC",
+    "url": "http://provisioning.streamtheworld.com/pls/CSPANRADIO.pls",
+    "homepage": "https://www.c-span.org/networks/?channel=radio",
+    "favicon": "http://freevector.co/wp-content/uploads/2013/03/c-span-radio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "national news,current affairs,politics,news",
+    "state": "Washington, DC",
+    "bitrate": 40
+}

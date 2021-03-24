@@ -1,0 +1,14 @@
+{
+    "uuid": "96121667-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Košice",
+    "url": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
+    "homepage": "http://www.radiokosice.sk",
+    "favicon": "https://www.radiokosice.sk/assets/radio-ke.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "local,news,pop,rock,košice",
+    "state": "Slovakia",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5d6dc3c1-17dc-11e9-a80b-52543be04c81",
+    "name": "Radio Fryksdalen",
+    "url": "http://webradio.radiofryksdalen.se:8000/RF_Live.m3u",
+    "homepage": "http://www.radiofryksdalen.se",
+    "favicon": "http://www.radiofryksdalen.se/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "pop,local radio,various,fryksdalen,104,1",
+    "state": "Värmland",
+    "bitrate": 128
+}

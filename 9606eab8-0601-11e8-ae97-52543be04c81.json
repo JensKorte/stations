@@ -1,0 +1,14 @@
+{
+    "uuid": "9606eab8-0601-11e8-ae97-52543be04c81",
+    "name": "Néo",
+    "url": "http://stream.radioneo.org:8000/;chat.mp3",
+    "homepage": "http://www.radioneo.org/",
+    "favicon": "http://www.radioneo.org//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

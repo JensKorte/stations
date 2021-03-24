@@ -1,0 +1,14 @@
+{
+    "uuid": "112582bf-f9de-46e5-95c2-a0ecdb17e58a",
+    "name": "Aljazeera English",
+    "url": "http://live-hls-web-aje.getaj.net/AJE/06.m3u8",
+    "homepage": "https://www.aljazeera.com/",
+    "favicon": "https://cdn.sat.tv/wp-content/uploads/2016/05/AlJazeeraEng.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Qatar",
+    "country_code": "QA",
+    "language": "english",
+    "tags": "talk,news",
+    "state": "",
+    "bitrate": 0
+}

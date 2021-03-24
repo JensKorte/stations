@@ -1,0 +1,14 @@
+{
+    "uuid": "962037d3-0601-11e8-ae97-52543be04c81",
+    "name": "Sooviraadio",
+    "url": "http://media.uunox.net:8888/listen.pls",
+    "homepage": "http://sooviraadio.net/raadio/",
+    "favicon": "http://sooviraadio.net/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "sparse info,80s",
+    "state": "",
+    "bitrate": 128
+}

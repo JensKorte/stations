@@ -1,0 +1,14 @@
+{
+    "uuid": "9636876a-0601-11e8-ae97-52543be04c81",
+    "name": "Nostalgia",
+    "url": "http://194.213.4.197:8000/listen.pls?sid=1",
+    "homepage": "http://www.nostal.co.il/",
+    "favicon": "http://www.fm1.co.il/images/stations/nostal.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Israel",
+    "country_code": "IL",
+    "language": "hebrew",
+    "tags": "israeli pop oldies",
+    "state": "",
+    "bitrate": 128
+}

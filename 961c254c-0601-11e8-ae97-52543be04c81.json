@@ -1,0 +1,14 @@
+{
+    "uuid": "961c254c-0601-11e8-ae97-52543be04c81",
+    "name": "KKFI 90.1 Kansas City, MO",
+    "url": "http://pacificaservice.org:8000/kkfi_64?type=.mp3",
+    "homepage": "http://www.kkfi.org/",
+    "favicon": "http://www.kkfi.org/wp-content/uploads/kkfi_newLogo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "eclectic,kansas city,community radio",
+    "state": "Missouri",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9645eb1a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sanremo",
+    "url": "http://199.195.194.92:8055/;stream.mp3",
+    "homepage": "http://www.radiosanremo.it/",
+    "favicon": "http://www.radiosanremo.it/wp-content/uploads/2017/07/cropped-RADIO_SANREMO-LOGO-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "sanremo,pop",
+    "state": "Liguria",
+    "bitrate": 128
+}

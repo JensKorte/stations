@@ -1,0 +1,14 @@
+{
+    "uuid": "9611af5d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Pogoda",
+    "url": "http://stream5.radioagora.pl/tuba38-1.mp3",
+    "homepage": "http://www.radiopogoda.pl/",
+    "favicon": "http://www.radiopogoda.pl/images/radio-pogoda-fb.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Warszawa",
+    "bitrate": 0
+}

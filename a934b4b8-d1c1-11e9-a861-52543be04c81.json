@@ -1,0 +1,14 @@
+{
+    "uuid": "a934b4b8-d1c1-11e9-a861-52543be04c81",
+    "name": "CBC Music Pacific (Vancouver, BC, CBU-FM, 105.7 MHz, formerly CBC Radio 2)",
+    "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr",
+    "homepage": "https://www.cbc.ca/listen/live-radio?radio_one=vancouver\u0026cbc_music=vancouver",
+    "favicon": "http://www.cbc.ca/mediacentre/content/images/CBC_Music_press_release.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "public radio,pacific,vancouver,cbc",
+    "state": "British Columbia",
+    "bitrate": 0
+}

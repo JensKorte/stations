@@ -1,0 +1,14 @@
+{
+    "uuid": "9631d353-0601-11e8-ae97-52543be04c81",
+    "name": "SER Castellón",
+    "url": "http://stream.radiocastellon.com/ser",
+    "homepage": "http://www.radiocastellon.com",
+    "favicon": "http://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_castellon.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "talk,news talk",
+    "state": "Castellón",
+    "bitrate": 0
+}

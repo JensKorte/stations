@@ -1,0 +1,14 @@
+{
+    "uuid": "06e62074-f347-11e9-a96c-52543be04c81",
+    "name": "Onda Cero Malaga",
+    "url": "http://icecast-streaming.nice264.com/malaga",
+    "homepage": "https://www.ondacero.es/emisoras/andalucia/malaga/",
+    "favicon": "https://static.ondacero.es/img/logo-ondacero.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,español",
+    "tags": "talk radio,talk,local news,news,information,noticias,información,sport,deportes",
+    "state": "Málaga",
+    "bitrate": 0
+}

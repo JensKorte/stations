@@ -1,0 +1,14 @@
+{
+    "uuid": "8beba9fc-4ed3-4e5d-91d5-4d7732130435",
+    "name": "4ZZZ Community Radio",
+    "url": "https://stream.4zzz.org.au:9200/4zzz",
+    "homepage": "https://www.4zzzfm.org.au/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "coolest",
+    "state": "QLD",
+    "bitrate": 128
+}

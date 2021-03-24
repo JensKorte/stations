@@ -1,0 +1,14 @@
+{
+    "uuid": "2e95a4e8-c239-11e8-aaf2-52543be04c81",
+    "name": "College Radio Banja Luka",
+    "url": "http://198.178.123.8:8600/;*.mp3",
+    "homepage": "http://radio.blc.edu.ba/",
+    "favicon": "http://radio.blc.edu.ba/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bosnia And Herzegovina",
+    "country_code": "BA",
+    "language": "bosnian",
+    "tags": "",
+    "state": "",
+    "bitrate": 32
+}

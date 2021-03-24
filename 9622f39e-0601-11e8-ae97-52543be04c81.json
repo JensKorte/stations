@@ -1,0 +1,14 @@
+{
+    "uuid": "9622f39e-0601-11e8-ae97-52543be04c81",
+    "name": "Soundart Radio 102.5  Dartington, Devon",
+    "url": "http://live.canstream.co.uk:8000/soundart.mp3?.mp3",
+    "homepage": "http://www.soundartradio.org.uk/",
+    "favicon": "http://www.soundartradio.org.uk/uploads/soundartradio/img/soundart_radio_logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "dartington,experimental,audio art",
+    "state": "Devon",
+    "bitrate": 320
+}

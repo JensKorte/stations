@@ -1,0 +1,14 @@
+{
+    "uuid": "962536e3-0601-11e8-ae97-52543be04c81",
+    "name": "KUFM 89.1 \"Montana Public Radio\" Missoula, MT",
+    "url": "http://provisioning.streamtheworld.com/pls/KUFMFMAAC.pls",
+    "homepage": "http://mtpr.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kufm/files/201503/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "missoula,pri,apm,npr,public radio",
+    "state": "Montana",
+    "bitrate": 32
+}

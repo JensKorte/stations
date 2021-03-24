@@ -1,0 +1,14 @@
+{
+    "uuid": "cf11fdab-e7f9-4c0d-ac09-b55743510978",
+    "name": "Rádio 80FM",
+    "url": "http://104.247.221.130:9020/stream1",
+    "homepage": "https://www.radio80fm.com.br/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "",
+    "state": "São Paulo",
+    "bitrate": 128
+}

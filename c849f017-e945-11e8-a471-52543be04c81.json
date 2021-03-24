@@ -1,0 +1,14 @@
+{
+    "uuid": "c849f017-e945-11e8-a471-52543be04c81",
+    "name": "Union Jack AAC+ (320kbps)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JACK_DAB_HIAAC.aac",
+    "homepage": "https://www.unionjack.co.uk/",
+    "favicon": "https://mm.aiircdn.com/292/57b710e4eb069.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "jack radio",
+    "state": "",
+    "bitrate": 320
+}

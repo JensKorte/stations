@@ -1,0 +1,14 @@
+{
+    "uuid": "c39ee6bf-d126-11e8-a54a-52543be04c81",
+    "name": "Hitrádio FM Crystal",
+    "url": "http://ice.abradio.cz/crystal128.mp3",
+    "homepage": "https://hitradiofm.cz",
+    "favicon": "https://hitradiofm.cz//design/favicons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "pop,local",
+    "state": "",
+    "bitrate": 128
+}

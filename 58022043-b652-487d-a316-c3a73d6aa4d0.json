@@ -1,0 +1,14 @@
+{
+    "uuid": "58022043-b652-487d-a316-c3a73d6aa4d0",
+    "name": "Antena 1",
+    "url": "http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
+    "homepage": "https://www.rtp.pt/antena1/",
+    "favicon": "https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/antena1-small.png?w=260\u0026q=100\u0026v=2",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "portuguese",
+    "tags": "",
+    "state": "",
+    "bitrate": 193
+}

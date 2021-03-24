@@ -1,0 +1,14 @@
+{
+    "uuid": "2edb15f2-59b6-11ea-be63-52543be04c81",
+    "name": "Radio Transilvania - Cluj Napoca",
+    "url": "http://stream-rt.davacloud.ro:8000/Cluj.mp3",
+    "homepage": "http://radiotransilvania.ro/",
+    "favicon": "http://radiotransilvania.ro/images/transi/logo-green-large3.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "adult contemporary,pop,hits,top 40",
+    "state": "Cluj",
+    "bitrate": 160
+}

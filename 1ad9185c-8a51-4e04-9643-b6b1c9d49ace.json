@@ -1,0 +1,14 @@
+{
+    "uuid": "1ad9185c-8a51-4e04-9643-b6b1c9d49ace",
+    "name": "Technikum Rock",
+    "url": "https://stream.radiotechnikum.at/TECHROCK",
+    "homepage": "https://radiotechnikum.at/",
+    "favicon": "https://radiotechnikum.at/img/icon_rock.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "rock,dab+",
+    "state": "Vienna",
+    "bitrate": 128
+}

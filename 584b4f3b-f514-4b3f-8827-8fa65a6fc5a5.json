@@ -1,0 +1,14 @@
+{
+    "uuid": "584b4f3b-f514-4b3f-8827-8fa65a6fc5a5",
+    "name": "Radio Pakistan",
+    "url": "http://203.124.35.147:8008/relay?type=http\u0026nocache=9",
+    "homepage": "http://www.radio.gov.pk/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "language": "",
+    "tags": "news",
+    "state": "",
+    "bitrate": 64
+}

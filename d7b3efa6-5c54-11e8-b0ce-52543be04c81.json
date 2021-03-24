@@ -1,0 +1,14 @@
+{
+    "uuid": "d7b3efa6-5c54-11e8-b0ce-52543be04c81",
+    "name": "Yinchuan Life TV",
+    "url": "http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8",
+    "homepage": "http://www.ycgbtv.com.cn/",
+    "favicon": "http://www.haoqu.net/d/file/2014/0713/20140713052933611.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,ningsia",
+    "state": "Ningsia",
+    "bitrate": 0
+}

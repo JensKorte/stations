@@ -1,0 +1,14 @@
+{
+    "uuid": "632ca123-17d6-11e8-ae97-52543be04c81",
+    "name": "Sola Rádió",
+    "url": "http://188.165.11.30:7000/live.mp3",
+    "homepage": "https://solaradio.hu/",
+    "favicon": "http://lutheran.hu/sites/default/files/styles/article_large/public/SOLA%20logoCMYK%20%286%29.png?itok=qOFbJGta",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "evangelical,christian,religion",
+    "state": "Budapest",
+    "bitrate": 192
+}

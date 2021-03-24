@@ -1,0 +1,14 @@
+{
+    "uuid": "9631411b-0601-11e8-ae97-52543be04c81",
+    "name": "RPGamers Network",
+    "url": "http://stream.rpgamers.net:8000/rpgn",
+    "homepage": "http://www.rpgamers.net/",
+    "favicon": "http://www.rpgamers.net/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "video game,soundtracks",
+    "state": "Ontario",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "964c7b76-0601-11e8-ae97-52543be04c81",
+    "name": "Cadena SER Radio Menorca",
+    "url": "http://server10.emitironline.com:8040/",
+    "homepage": "http://cadenaser.com/emisora/radio_menorca",
+    "favicon": "https://pbs.twimg.com/profile_images/2668728954/3c93e84cacb716da1e5557d670258e1e_400x400.jpeg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,catalan",
+    "tags": "information,news,local news,menorca",
+    "state": "Menorca",
+    "bitrate": 64
+}

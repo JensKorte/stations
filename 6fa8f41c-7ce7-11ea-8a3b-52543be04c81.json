@@ -1,0 +1,14 @@
+{
+    "uuid": "6fa8f41c-7ce7-11ea-8a3b-52543be04c81",
+    "name": "Radio Nova CR",
+    "url": "http://centova.hostingtico.com:8016/stream",
+    "homepage": "http://radionovacronline.com",
+    "favicon": "https://www.radionovacronline.com/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "language": "español",
+    "tags": "",
+    "state": "San José",
+    "bitrate": 128
+}

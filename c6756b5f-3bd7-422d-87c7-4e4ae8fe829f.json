@@ -1,0 +1,14 @@
+{
+    "uuid": "c6756b5f-3bd7-422d-87c7-4e4ae8fe829f",
+    "name": "Express FM",
+    "url": "http://icecast8.play.cz/expres128mp3",
+    "homepage": "https://www.expresfm.cz",
+    "favicon": "https://www.expresfm.cz/static/images/mobile-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "dance,pop,alternative,rock,czech folk music,prague",
+    "state": "",
+    "bitrate": 0
+}

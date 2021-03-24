@@ -1,0 +1,14 @@
+{
+    "uuid": "4e8fbccb-479c-46d7-a28c-e941eac966a1",
+    "name": "Laut.fm alive",
+    "url": "http://stream.laut.fm/alive.m3u",
+    "homepage": "https://laut.fm/alive",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english,deutsch german,undefined",
+    "tags": "live,blues,blues rock,rock,pop,metal",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d6541c71-4da1-46a7-95bd-0121a38498d3",
+    "name": "Hitz.FM Singapore",
+    "url": "http://91.121.121.25:8260/stream",
+    "homepage": "https://onlineradiobox.com/",
+    "favicon": "http://cdn.onlineradiobox.com/img/logo/8/88298.v1.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Singapore",
+    "country_code": "SG",
+    "language": "english",
+    "tags": "retro,dance",
+    "state": "",
+    "bitrate": 128
+}

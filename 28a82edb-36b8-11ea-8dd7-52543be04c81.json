@@ -1,0 +1,14 @@
+{
+    "uuid": "28a82edb-36b8-11ea-8dd7-52543be04c81",
+    "name": "ČRo Radiožurnál",
+    "url": "http://icecast1.play.cz:8000/cro132aac",
+    "homepage": "https://www.rozhlas.cz/radiozurnal/",
+    "favicon": "https://api.play.cz/static/radio_logo/t200/cro1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,news,public radio",
+    "state": "",
+    "bitrate": 0
+}

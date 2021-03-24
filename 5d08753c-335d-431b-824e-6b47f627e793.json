@@ -1,0 +1,14 @@
+{
+    "uuid": "5d08753c-335d-431b-824e-6b47f627e793",
+    "name": "БНР – Радио Бургас",
+    "url": "http://stream.bnr.bg:8037/radio-burgas.aac",
+    "homepage": "https://bnr.bg/burgas",
+    "favicon": "https://bnr.bg/img/logos/burgas.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian,български",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

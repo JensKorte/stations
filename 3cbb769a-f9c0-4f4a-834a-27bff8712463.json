@@ -1,0 +1,14 @@
+{
+    "uuid": "3cbb769a-f9c0-4f4a-834a-27bff8712463",
+    "name": "WZXI 1280 AM",
+    "url": "http://stream.wzxiradio.com:8000/wzxi-ch1.mp3",
+    "homepage": "https://wzxiradio.com/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk,news",
+    "state": "Kentucky",
+    "bitrate": 96
+}

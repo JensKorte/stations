@@ -1,0 +1,14 @@
+{
+    "uuid": "a89dd3b6-576e-11e8-b0ce-52543be04c81",
+    "name": "Kiangsu Satellite TV",
+    "url": "http://ivi.bupt.edu.cn/hls/jshd.m3u8",
+    "homepage": "http://www.jstv.com/",
+    "favicon": "http://t11.baidu.com/it/u=3599508391,1066823811\u0026fm=58\u0026bpow=400\u0026bpoh=406",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,kiangsu",
+    "state": "Kiangsu",
+    "bitrate": 0
+}

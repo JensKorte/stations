@@ -1,0 +1,14 @@
+{
+    "uuid": "1d6f81b2-fa6f-41f1-964f-7ecbf1cec38c",
+    "name": "Радіо Житомирська хвиля (24 год/добу) (192 кбітс/с)",
+    "url": "http://radio.ukr.radio:8000/zwave-mp3",
+    "homepage": "http://ukr.radio/radio-zt",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Zhytomyr",
+    "bitrate": 192
+}

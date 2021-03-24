@@ -1,0 +1,14 @@
+{
+    "uuid": "96094a59-0601-11e8-ae97-52543be04c81",
+    "name": "RTN",
+    "url": "https://rtn.ice.infomaniak.ch/rtn-high.mp3",
+    "homepage": "http://www.rtn.ch/",
+    "favicon": "https://bnj.blob.core.windows.net/assets/Covers/GRP0RTN.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "regional",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

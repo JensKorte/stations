@@ -1,0 +1,14 @@
+{
+    "uuid": "5ec4a7d8-9fdc-4a3d-9ba8-62ec60c97353",
+    "name": "BBC Radio 4 Extra",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra",
+    "homepage": "https://www.bbc.co.uk/radio4extra",
+    "favicon": "https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_four_extra_colour.svg",
+    "creation": "2021-03-23 16:01:55",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "bbc",
+    "state": "",
+    "bitrate": 0
+}

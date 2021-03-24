@@ -1,0 +1,14 @@
+{
+    "uuid": "961fb272-0601-11e8-ae97-52543be04c81",
+    "name": "Apple FM 97.3 Taunton",
+    "url": "http://radio.canstream.co.uk:8031/live.mp3",
+    "homepage": "http://www.applefm.co.uk/",
+    "favicon": "http://www.applefm.co.uk/wp-content/uploads/2016/04/cropped-AppleOnlySmall-270x270.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "taunton,community radio",
+    "state": "",
+    "bitrate": 120
+}

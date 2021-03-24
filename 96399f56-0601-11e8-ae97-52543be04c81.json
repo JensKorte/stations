@@ -1,0 +1,14 @@
+{
+    "uuid": "96399f56-0601-11e8-ae97-52543be04c81",
+    "name": "MDR Aktuell (low)",
+    "url": "http://avw.mdr.de/streams/284340-0_mp3_low.m3u",
+    "homepage": "http://mdraktuell.de",
+    "favicon": "http://www.mdr.de/presse/logos/bild166686-resimage_v-variantSmall1x1_w-512.png?version=2122",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "news,information",
+    "state": "",
+    "bitrate": 0
+}

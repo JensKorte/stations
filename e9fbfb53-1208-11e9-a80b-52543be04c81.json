@@ -1,0 +1,14 @@
+{
+    "uuid": "e9fbfb53-1208-11e9-a80b-52543be04c81",
+    "name": "NOAA Weather Radio - WNG736 - District of Columbia - 162.450MHz",
+    "url": "http://ca.radioboss.fm:8149/stream",
+    "homepage": "http://www.nws.noaa.gov/nwr/coverage/site2.php?State=DC\u0026Site=WNG736",
+    "favicon": "http://www.nws.noaa.gov/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "weather radio,noaa",
+    "state": "Washington, DC",
+    "bitrate": 42
+}

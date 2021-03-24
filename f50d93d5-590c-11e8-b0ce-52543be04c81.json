@@ -1,0 +1,14 @@
+{
+    "uuid": "f50d93d5-590c-11e8-b0ce-52543be04c81",
+    "name": "Rádio Batuta MPB - A webradio do Instituto Moreira Salles",
+    "url": "http://radioims.out.airtime.pro:8000/radioims_a",
+    "homepage": "http://radiobatuta.com.br/",
+    "favicon": "http://radiobatuta.com.br/wp-content/uploads/2017/12/favicon-144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "brazilian music,samba,mpb",
+    "state": "",
+    "bitrate": 128
+}

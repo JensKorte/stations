@@ -1,0 +1,14 @@
+{
+    "uuid": "961b33c0-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio Koszalin",
+    "url": "http://91.232.4.33:9680",
+    "homepage": "http://www.prk24.pl/",
+    "favicon": "http://s.tvp.pl/files/radio-koszalin/gfx/logo.png?v=1",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polskieradio,public radio",
+    "state": "Koszalin",
+    "bitrate": 128
+}

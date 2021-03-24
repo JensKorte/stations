@@ -1,0 +1,14 @@
+{
+    "uuid": "b3149442-6669-11e9-af37-52543be04c81",
+    "name": "BBC URDU NEWS",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-urdua_backup",
+    "homepage": "http://www.bbcurdu.com",
+    "favicon": "https://news.files.bbci.co.uk/ws/img/logos/og/urdu.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "language": "urdu",
+    "tags": "news in urdu,bbcurdu,news,urdu news bbcurdu",
+    "state": "",
+    "bitrate": 0
+}

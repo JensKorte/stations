@@ -1,0 +1,14 @@
+{
+    "uuid": "96484eec-0601-11e8-ae97-52543be04c81",
+    "name": "Conga FM 103.7 San Pedro Sula",
+    "url": "http://tupropiaradio.net:8002/;",
+    "homepage": "http://congafm.com/",
+    "favicon": "http://congafm.com/img/logos/conga_logo_small.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Honduras",
+    "country_code": "HN",
+    "language": "spanish",
+    "tags": "ranchera,san pedro sula",
+    "state": "",
+    "bitrate": 24
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a0c194cf-9b2a-4d7a-a00a-601b273f8b87",
+    "name": "Classical KDFC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac",
+    "homepage": "https://www.kdfc.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/kdfc-logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical",
+    "state": "Sunnyvale CA",
+    "bitrate": 128
+}

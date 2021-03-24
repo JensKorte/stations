@@ -1,0 +1,14 @@
+{
+    "uuid": "be995ed1-bada-11e9-acb2-52543be04c81",
+    "name": "Orgelradio",
+    "url": "http://radio.organroxx.com:8000/freestream.mp3",
+    "homepage": "https://www.organroxx.com",
+    "favicon": "https://www.organroxx.com//web/image/website/1/favicon/",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "",
+    "tags": "orgel",
+    "state": "",
+    "bitrate": 320
+}

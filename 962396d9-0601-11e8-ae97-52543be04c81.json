@@ -1,0 +1,14 @@
+{
+    "uuid": "962396d9-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Napoli",
+    "url": "http://players.fluidstream.net/radionapoli.pls",
+    "homepage": "https://www.radionapoli.it/",
+    "favicon": "https://www.radionapoli.it/wp-content/uploads/2017/02/icona_radionapoli.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "napoli,folk music,local music",
+    "state": "Campania",
+    "bitrate": 128
+}

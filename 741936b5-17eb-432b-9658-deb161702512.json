@@ -1,0 +1,14 @@
+{
+    "uuid": "741936b5-17eb-432b-9658-deb161702512",
+    "name": "Radio FAMA Tomaszów",
+    "url": "http://stream2.nadaje.com:8078/listen.pls",
+    "homepage": "https://radiofama.com.pl",
+    "favicon": "",
+    "creation": "2021-03-06 23:49:55",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polski,polish",
+    "tags": "news,music",
+    "state": "",
+    "bitrate": 128
+}

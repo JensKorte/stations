@@ -1,0 +1,14 @@
+{
+    "uuid": "962cc608-0601-11e8-ae97-52543be04c81",
+    "name": "Rádió Antritt",
+    "url": "http://stream.radioantritt.hu:8000/Antritt",
+    "homepage": "http://www.radioantritt.hu/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/befkzjuwpcsw.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "00s,90s,80s,adult contemporary,top 40",
+    "state": "Tolna",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961b4e82-0601-11e8-ae97-52543be04c81",
+    "name": "Emotion",
+    "url": "http://stream.radioemotion.be:80/;stream.mp3",
+    "homepage": "http://www.radioemotion.be",
+    "favicon": "http://live2.radioemotion.be/emotion.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "",
+    "state": "Braine-l'Alleud",
+    "bitrate": 160
+}

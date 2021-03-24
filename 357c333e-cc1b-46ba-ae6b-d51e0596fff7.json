@@ -1,0 +1,14 @@
+{
+    "uuid": "357c333e-cc1b-46ba-ae6b-d51e0596fff7",
+    "name": "Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)",
+    "url": "http://c22.radioboss.fm:8100/stream",
+    "homepage": "http://www.filarmonia.org/",
+    "favicon": "http://www.filarmonia.org/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish,english",
+    "tags": "",
+    "state": "Lima",
+    "bitrate": 256
+}

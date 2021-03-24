@@ -1,0 +1,14 @@
+{
+    "uuid": "0fc4a565-7909-11ea-8a3b-52543be04c81",
+    "name": "Zakarpattya FM 101.9",
+    "url": "http://195.234.148.51:8000/stream",
+    "homepage": "http://zakarpattyafm.com.ua/",
+    "favicon": "http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96451466-0601-11e8-ae97-52543be04c81",
+    "name": "AlternativeFM",
+    "url": "http://www.alternativefm.de/afm_128.m3u",
+    "homepage": "http://www.alternativefm.de",
+    "favicon": "http://www.alternativefm.de/images/logo/afm-logo-rgb.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "alternative rock",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

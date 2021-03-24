@@ -1,0 +1,14 @@
+{
+    "uuid": "9624075b-0601-11e8-ae97-52543be04c81",
+    "name": "Trolli FM 103.7 Siglufjordu",
+    "url": "http://live.trolli.is:8200/;",
+    "homepage": "http://fm.trolli.is/",
+    "favicon": "http://spilarinn.is/uploads/1486999431932.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Iceland",
+    "country_code": "IS",
+    "language": "icelandic",
+    "tags": "siglufjordu,top 40,adult contemporary",
+    "state": "",
+    "bitrate": 160
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "86dd724b-72a1-11e9-af37-52543be04c81",
+    "name": "Crystal Radio",
+    "url": "http://206.72.196.133:8000/stream",
+    "homepage": "https://crystalradio.ca/",
+    "favicon": "https://crystalradio.ca/wp-content/uploads/cropped-crystal_400-192x192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "instrumental,easy listening,ambient,lounge",
+    "state": "Ontario",
+    "bitrate": 128
+}

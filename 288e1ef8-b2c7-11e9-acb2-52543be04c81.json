@@ -1,0 +1,14 @@
+{
+    "uuid": "288e1ef8-b2c7-11e9-acb2-52543be04c81",
+    "name": "YLE Radio Suomi - Jyväskylä",
+    "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8",
+    "homepage": "https://areena.yle.fi/radio/ohjelmat/yle-radio-suomi?_c=yle-radio-suomi-jyvaskyla",
+    "favicon": "https://yle.fi/favicon.ico?v=2012",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 62
+}

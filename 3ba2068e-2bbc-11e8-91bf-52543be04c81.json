@@ -1,0 +1,14 @@
+{
+    "uuid": "3ba2068e-2bbc-11e8-91bf-52543be04c81",
+    "name": "Radio Tiempo Cali (HJB52, 89.5 MHz FM)",
+    "url": "http://master.letio.com/getMD.aspx?gs=9164\u0026streamType=iceDirectAAC\u0026redir=1",
+    "homepage": "http://www.radiotiempo.com.co/",
+    "favicon": "http://d3ec3nb3a53hqf.cloudfront.net/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "musica romantica,latin music,love songs",
+    "state": "Valle del Cauca",
+    "bitrate": 48
+}

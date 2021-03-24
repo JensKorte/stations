@@ -1,0 +1,14 @@
+{
+    "uuid": "961ab4e7-0601-11e8-ae97-52543be04c81",
+    "name": "Radio FAJET",
+    "url": "http://ecoutez.fajet.net:16700/;",
+    "homepage": "http://www.fajet.net/",
+    "favicon": "http://www.fajet.net/newlogo/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Grand Est",
+    "bitrate": 80
+}

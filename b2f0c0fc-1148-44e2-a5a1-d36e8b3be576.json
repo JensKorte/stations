@@ -1,0 +1,14 @@
+{
+    "uuid": "b2f0c0fc-1148-44e2-a5a1-d36e8b3be576",
+    "name": "Radio Punto radio dell'altomilane",
+    "url": "http://94.23.247.18:8062/stream",
+    "homepage": "https://www.radiopunto.it/",
+    "favicon": "http://cdn-profiles.tunein.com/s94335/images/logoq.png?t=158445",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "lombardy",
+    "state": "",
+    "bitrate": 128
+}

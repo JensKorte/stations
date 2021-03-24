@@ -1,0 +1,14 @@
+{
+    "uuid": "96108cb0-0601-11e8-ae97-52543be04c81",
+    "name": "Kiss FM 104.5 Reykjavik",
+    "url": "http://stream.radio.is:443/kiss",
+    "homepage": "http://www.kissfm.is/",
+    "favicon": "http://kissfm.is/img/favicon/kissfm.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Iceland",
+    "country_code": "IS",
+    "language": "icelandic",
+    "tags": "reykjavik,pop",
+    "state": "",
+    "bitrate": 170
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "4a4ac2f1-36bb-11ea-8dd7-52543be04c81",
+    "name": "ČRo Dvojka",
+    "url": "http://icecast1.play.cz:8000/cro2-32aac",
+    "homepage": "https://www.rozhlas.cz/dvojka/",
+    "favicon": "https://api.play.cz/static/radio_logo/t200/cro2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,public radio,talk,32k,aac+",
+    "state": "",
+    "bitrate": 0
+}

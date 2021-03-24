@@ -1,0 +1,14 @@
+{
+    "uuid": "960dd86c-0601-11e8-ae97-52543be04c81",
+    "name": "WREK 91.1 Atlanta, GA",
+    "url": "http://streaming.wrek.org:8000/main/128kb.mp3",
+    "homepage": "http://www.wrek.org/",
+    "favicon": "https://www.wrek.org/wp-content/themes/wrek/images/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "jazz,georgia,college radio,georgia tech,atlanta",
+    "state": "Georgia",
+    "bitrate": 128
+}

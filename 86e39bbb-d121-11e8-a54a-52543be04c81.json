@@ -1,0 +1,14 @@
+{
+    "uuid": "86e39bbb-d121-11e8-a54a-52543be04c81",
+    "name": "Радио Минск",
+    "url": "http://93.84.113.142:8000/ogg",
+    "homepage": "http://www.radiominsk.by/",
+    "favicon": "http://www.radiominsk.by/image/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "blues rock,blues,classic rock,rock",
+    "state": "Minsk",
+    "bitrate": 0
+}

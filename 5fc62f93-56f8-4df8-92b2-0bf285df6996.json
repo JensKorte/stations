@@ -1,0 +1,14 @@
+{
+    "uuid": "5fc62f93-56f8-4df8-92b2-0bf285df6996",
+    "name": "Radio Voz (A Coruña)",
+    "url": "https://live.radiovoz.es/mp3/stream_coruna.mp3",
+    "homepage": "http://www.radiovoz.com/",
+    "favicon": "http://www.radiovoz.com/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "galician,spanish",
+    "tags": "spain,la voz de galicia,galiza,galicia",
+    "state": "",
+    "bitrate": 64
+}

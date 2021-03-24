@@ -1,0 +1,14 @@
+{
+    "uuid": "1e1ac564-abf7-11e9-88f4-52543be04c81",
+    "name": "Traffic Music Radio",
+    "url": "http://162.244.80.106:8091/stream",
+    "homepage": "http://www.trafficmusicradio.co.uk/",
+    "favicon": "http://www.trafficmusicradio.co.uk/wp-content/themes/campus/images/ukmap.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "information,news,uk,traffic",
+    "state": "",
+    "bitrate": 128
+}

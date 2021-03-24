@@ -1,0 +1,14 @@
+{
+    "uuid": "9613e975-0601-11e8-ae97-52543be04c81",
+    "name": "WDR 1Live - Fiehe",
+    "url": "http://wdr-1live-fiehe.icecast.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3",
+    "homepage": "https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/189px-WDR_1LIVE_Logo_2016.svg.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "breakbeat,alternative,pop",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

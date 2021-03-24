@@ -1,0 +1,14 @@
+{
+    "uuid": "9635484e-0601-11e8-ae97-52543be04c81",
+    "name": "Scan 96.1",
+    "url": "http://158.69.200.1:8022/stream",
+    "homepage": "http://www.miradio.com.sv/",
+    "favicon": "http://www.miradio.com.sv/assets/xradio-scan-62c107edcc7829ff3455e91086bc571319da48a6dfe3eca10aad8343952c4971.png.pagespeed.ic.xLhDC8CWMk.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "language": "spanish",
+    "tags": "spanish pop",
+    "state": "San Salvador",
+    "bitrate": 64
+}

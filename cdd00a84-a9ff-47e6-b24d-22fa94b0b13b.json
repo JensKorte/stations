@@ -1,0 +1,14 @@
+{
+    "uuid": "cdd00a84-a9ff-47e6-b24d-22fa94b0b13b",
+    "name": "KBFG 107.3",
+    "url": "http://192.81.134.38:8001/kbfg-1",
+    "homepage": "https://fulcrumcc.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KBFG107.3.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Seattle WA",
+    "bitrate": 128
+}

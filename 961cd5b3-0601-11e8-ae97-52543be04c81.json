@@ -1,0 +1,14 @@
+{
+    "uuid": "961cd5b3-0601-11e8-ae97-52543be04c81",
+    "name": "KUNM 89.9 \"New Mexico Public Radio\" Albuquerque, NM",
+    "url": "http://playerservices.streamtheworld.com/pls/KUNMFM_128.pls",
+    "homepage": "http://kunm.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kunm/files/201608/AndroidIcon72.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pacifica,apm,pri,npr,community radio,albuquerque",
+    "state": "New Mexico",
+    "bitrate": 128
+}

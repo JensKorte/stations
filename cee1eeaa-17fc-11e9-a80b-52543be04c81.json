@@ -1,0 +1,14 @@
+{
+    "uuid": "cee1eeaa-17fc-11e9-a80b-52543be04c81",
+    "name": "Select Radio App",
+    "url": "http://server2.unitystreams.com:8800/select.mp3",
+    "homepage": "http://www.selectradioapp.com/",
+    "favicon": "http://www.selectradioapp.com//assets/img/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "london,house,techno,electronica",
+    "state": "London",
+    "bitrate": 128
+}

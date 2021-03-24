@@ -1,0 +1,14 @@
+{
+    "uuid": "532506fc-b9d3-11e9-acb2-52543be04c81",
+    "name": "Radio Comunitaria FM Punta del Indio",
+    "url": "http://streaming.conexionproductora.com.ar:9650/",
+    "homepage": "http://www.fmpuntadelindio.com.ar/",
+    "favicon": "http://www.fmpuntadelindio.com.ar/proyecto%20web%20fm%20100.3/logo%20de%20la%20radio.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "argentina,español,comunitaria,radio comunitaria",
+    "state": "Buenos Aires",
+    "bitrate": 80
+}

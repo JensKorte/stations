@@ -1,0 +1,14 @@
+{
+    "uuid": "961f3711-0601-11e8-ae97-52543be04c81",
+    "name": "Громадське радіо / Hromadske radio",
+    "url": "http://91.218.212.67:8000/stream",
+    "homepage": "https://hromadskeradio.org",
+    "favicon": "https://hromadskeradio.org/sites/all/themes/karelia/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian,russian",
+    "tags": "news",
+    "state": "",
+    "bitrate": 160
+}

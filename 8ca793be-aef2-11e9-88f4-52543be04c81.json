@@ -1,0 +1,14 @@
+{
+    "uuid": "8ca793be-aef2-11e9-88f4-52543be04c81",
+    "name": "Radio Bochum - Oldies",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0140/deinoldieradio/mp3/high/stream.mp3",
+    "homepage": "https://www.radiobochum.de/",
+    "favicon": "https://www.radiobochum.de/assets/images/favicons/radiobochum/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies,regional radio",
+    "state": "Nordrhein-Westfalen - Bochum",
+    "bitrate": 128
+}

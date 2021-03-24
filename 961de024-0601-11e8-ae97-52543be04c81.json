@@ -1,0 +1,14 @@
+{
+    "uuid": "961de024-0601-11e8-ae97-52543be04c81",
+    "name": "Sky Radio 80's Hits",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
+    "homepage": "http://www.skyradio.nl/player/sky-radio-80s",
+    "favicon": "http://www.skyradio.nl/img/player/logo_sky-radio.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "80s",
+    "state": "",
+    "bitrate": 128
+}

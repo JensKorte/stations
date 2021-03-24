@@ -1,0 +1,14 @@
+{
+    "uuid": "07a857f3-c6f5-11e9-8502-52543be04c81",
+    "name": "NSL Radio Tv",
+    "url": "http://onair20.xdevel.com:8342/;",
+    "homepage": "https://www.nslradiotv.it/",
+    "favicon": "https://www.nslradiotv.it/wp-content/uploads/2019/01/cropped-logo-nsl-radio-tv-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,pop,talk",
+    "state": "Lazio",
+    "bitrate": 128
+}

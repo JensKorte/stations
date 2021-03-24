@@ -1,0 +1,14 @@
+{
+    "uuid": "964fa0ed-0601-11e8-ae97-52543be04c81",
+    "name": "Crooner radio To Sinatra",
+    "url": "http://stream.crooner.fr/crooner_sinatra",
+    "homepage": "http://www.crooner.fr/player/#_crooner_sinatra",
+    "favicon": "http://crooner.radio/wp-content/uploads/2017/12/LOGO-CR-WR-FRANK-SINATRA.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "",
+    "tags": "sinatra,crooner",
+    "state": "",
+    "bitrate": 128
+}

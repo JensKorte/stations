@@ -1,0 +1,14 @@
+{
+    "uuid": "bba028b6-06cd-4fa0-bbe3-ae5961761800",
+    "name": "RTL 102.5 Guardia Costiera",
+    "url": "https://rtl-radio5-stream.thron.com/live/radio5/radio5/playlist.m3u8",
+    "homepage": "https://www.rtl.it/",
+    "favicon": "https://cdn.rtl.it/RTLFM/website/600eb21f/img/logo/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cologno monzese,talk,news,information,gruppo rtl",
+    "state": "Lombardia",
+    "bitrate": 117
+}

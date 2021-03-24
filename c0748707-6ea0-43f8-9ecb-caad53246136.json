@@ -1,0 +1,14 @@
+{
+    "uuid": "c0748707-6ea0-43f8-9ecb-caad53246136",
+    "name": "FM Pozuelo Radio",
+    "url": "http://stream.dar.fm/39797",
+    "homepage": "https://www.pozueloradio.es/",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/85/1d/19162/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "castellano,spanish,español",
+    "tags": "music,música",
+    "state": "Madrid",
+    "bitrate": 128
+}

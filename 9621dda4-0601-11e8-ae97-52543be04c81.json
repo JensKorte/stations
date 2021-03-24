@@ -1,0 +1,14 @@
+{
+    "uuid": "9621dda4-0601-11e8-ae97-52543be04c81",
+    "name": "CIHR 104.7 \"Heart FM\" Woodstock, ON",
+    "url": "http://cihrfm.streamon.fm:8000/CIHRFM-48k.aac",
+    "homepage": "http://www.heartfm.ca/",
+    "favicon": "http://mm.aiircdn.com/122/318909.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "woodstock,adult contemporary,commercial",
+    "state": "Ontario",
+    "bitrate": 48
+}

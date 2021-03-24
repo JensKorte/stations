@@ -1,0 +1,14 @@
+{
+    "uuid": "384009b7-b4e9-4c27-bf6d-51e90ba3da4c",
+    "name": "LOS40 Mexicali - 90.7 FM - XHMOE-FM - Radiópolis - Mexicali, BC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC.aac",
+    "homepage": "https://escucha.los40.com.mx/emisora/los40_mexicali/",
+    "favicon": "http://cdn-profiles.tunein.com/s43948/images/logoq.png?t=155906",
+    "creation": "2021-03-01 06:16:33",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "entretenimiento,juvenil,pop music,música pop,música,estación,radio,fm,90.7,90.7 fm,mex,mx,music,méxico,baja california,mexicali,los40",
+    "state": "Baja California",
+    "bitrate": 56
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1ebc84e4-337b-11e9-8f31-52543be04c81",
+    "name": "Sweet FM Guinée",
+    "url": "http://stream1.broadcast-associes.com:8000/sweet_guinee.m3u",
+    "homepage": "http://www.sweetfmguinee.com/",
+    "favicon": "https://i1.wp.com/www.sweetfmguinee.com/wp-content/uploads/2017/10/cropped-logosweet1.jpg?fit=512%2C512",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Guinea",
+    "country_code": "GN",
+    "language": "french",
+    "tags": "",
+    "state": "Conakry",
+    "bitrate": 128
+}

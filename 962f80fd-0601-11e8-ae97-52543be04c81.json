@@ -1,0 +1,14 @@
+{
+    "uuid": "962f80fd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio City Trieste",
+    "url": "http://178.32.138.88:8084/stream",
+    "homepage": "http://www.radiocitytrieste.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s157545q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "trieste,adult contemporary",
+    "state": "Friuli-Venezia Giulia",
+    "bitrate": 128
+}

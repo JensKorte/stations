@@ -1,0 +1,14 @@
+{
+    "uuid": "61773c70-d0f5-11e8-a54a-52543be04c81",
+    "name": "Montana Public Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3",
+    "homepage": "http://mtpr.org",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kufm/files/201503/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "public radio,montana,npr",
+    "state": "Montana",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96275e39-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Salü Mallorca-Style",
+    "url": "http://internetradio.salue.de:8000/schlagerparty",
+    "homepage": "http://www.salue.de",
+    "favicon": "http://www.salue.de/musik/webradio/mallorca500.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "Saarland",
+    "bitrate": 0
+}

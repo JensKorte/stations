@@ -1,0 +1,14 @@
+{
+    "uuid": "7a8640b5-05e2-11e9-a3cd-52543be04c81",
+    "name": "FluxFM - DubRadio",
+    "url": "http://streams.fluxfm.de/dubradio/mp3-320/streams.fluxfm.de/",
+    "homepage": "https://www.fluxfm.de/",
+    "favicon": "https://www.fluxfm.de//wp-content/uploads/2013/11/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "dub",
+    "state": "",
+    "bitrate": 0
+}

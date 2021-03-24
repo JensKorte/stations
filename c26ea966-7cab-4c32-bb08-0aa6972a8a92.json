@@ -1,0 +1,14 @@
+{
+    "uuid": "c26ea966-7cab-4c32-bb08-0aa6972a8a92",
+    "name": "Maxi rádió",
+    "url": "http://46.107.212.101:9240/live",
+    "homepage": "http://www.maxiradio.hu/",
+    "favicon": "https://myonlineradio.hu/public/uploads/radio_img/maxiradio/play_250_250.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "magyar",
+    "tags": "pop",
+    "state": "Heves",
+    "bitrate": 0
+}

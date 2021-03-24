@@ -1,0 +1,14 @@
+{
+    "uuid": "960f0a94-0601-11e8-ae97-52543be04c81",
+    "name": "Classic Rock Radio",
+    "url": "http://internetradio.salue.de:8000/classicrock.mp3",
+    "homepage": "http://www.classicrock-radio.de",
+    "favicon": "http://www.classicrock-radio.de/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classic rock",
+    "state": "Saarland",
+    "bitrate": 128
+}

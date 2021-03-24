@@ -1,0 +1,14 @@
+{
+    "uuid": "95720ba5-e036-11e8-a9cc-52543be04c81",
+    "name": "Shaa FM",
+    "url": "http://209.133.216.3:7073/;stream.mp3",
+    "homepage": "http://www.shaafm.lk/",
+    "favicon": "http://www.shaafm.lk/images/logo_large.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "language": "sinhala",
+    "tags": "entertainment,news,music",
+    "state": "",
+    "bitrate": 48
+}

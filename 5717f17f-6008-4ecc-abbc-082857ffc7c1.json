@@ -1,0 +1,14 @@
+{
+    "uuid": "5717f17f-6008-4ecc-abbc-082857ffc7c1",
+    "name": "Enying FM Hungary",
+    "url": "http://radioe.net:8080/efm_hd",
+    "homepage": "http://www.enyingfm.com/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "variety",
+    "state": "",
+    "bitrate": 320
+}

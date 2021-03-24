@@ -1,0 +1,14 @@
+{
+    "uuid": "8ac7b61d-d5d4-4aeb-8c1e-b657b81ae417",
+    "name": "Donau Radio Musikwelle",
+    "url": "http://musikwelle.com:8000/stream.mp3",
+    "homepage": "http://musikwelle.com",
+    "favicon": "https://www.musikwelle.com/wp-content/uploads/2020/02/Musikwelle_logo_slogan2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "german",
+    "tags": "schlager,classic hits,oldies",
+    "state": "Lower Austria",
+    "bitrate": 0
+}

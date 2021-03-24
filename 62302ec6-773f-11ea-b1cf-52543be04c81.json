@@ -1,0 +1,14 @@
+{
+    "uuid": "62302ec6-773f-11ea-b1cf-52543be04c81",
+    "name": "Rádio Aetter",
+    "url": "http://stream.aetter.sk:8000/aetter",
+    "homepage": "http://www.aetter.sk/",
+    "favicon": "http://aetter.sk/wp-content/uploads/2020/03/cropped-aetter_favicon_new-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

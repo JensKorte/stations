@@ -1,0 +1,14 @@
+{
+    "uuid": "a3f9e03a-5e8b-4999-a690-80bcf9bf0074",
+    "name": "Radio Centro Web",
+    "url": "http://nr4.newradio.it:9484/stream",
+    "homepage": "http://www.radiocentroweb.it/",
+    "favicon": "http://www.radiocentroweb.it/img/logo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "informazione",
+    "state": "Toscana",
+    "bitrate": 192
+}

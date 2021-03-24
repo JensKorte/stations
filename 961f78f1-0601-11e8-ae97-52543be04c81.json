@@ -1,0 +1,14 @@
+{
+    "uuid": "961f78f1-0601-11e8-ae97-52543be04c81",
+    "name": "KQED 88.5 San Francisco, CA",
+    "url": "http://streams.kqed.org/kqedradio.m3u",
+    "homepage": "http://www.kqed.org/",
+    "favicon": "http://a.s.kqed.net/img/nav/og-home.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "san francisco,public radio,npr",
+    "state": "California",
+    "bitrate": 32
+}

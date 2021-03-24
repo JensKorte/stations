@@ -1,0 +1,14 @@
+{
+    "uuid": "2935d92b-712c-4273-8d27-abfd3e40dac7",
+    "name": "Unistar",
+    "url": "https://stream.hoster.by/unistar/unistar-128kb/icecast.audio",
+    "homepage": "https://unistar.by",
+    "favicon": "https://unistar.by/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian,русский",
+    "tags": "minsk,pop,беларусь,минск,эфир,unistar",
+    "state": "Minsk",
+    "bitrate": 128
+}

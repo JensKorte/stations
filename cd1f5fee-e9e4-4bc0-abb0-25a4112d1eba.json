@@ -1,0 +1,14 @@
+{
+    "uuid": "cd1f5fee-e9e4-4bc0-abb0-25a4112d1eba",
+    "name": "Radio Shanson 101.5 FM Serpukhov",
+    "url": "http://185.6.124.103:8000/example1.ogg",
+    "homepage": "http://101-5.ru/",
+    "favicon": "http://101-5.ru/images/on-line.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "russian,russian shanson,shanson,pop,russian",
+    "state": "Serpukhov",
+    "bitrate": 0
+}

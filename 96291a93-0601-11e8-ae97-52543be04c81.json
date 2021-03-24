@@ -1,0 +1,14 @@
+{
+    "uuid": "96291a93-0601-11e8-ae97-52543be04c81",
+    "name": "Rete Kappa Top 100",
+    "url": "http://94.23.67.172:9375/stream",
+    "homepage": "http://www.retekappa.it/",
+    "favicon": "http://www.retekappa.it/images/rete_kappa_2.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40",
+    "state": "Lombardia",
+    "bitrate": 128
+}

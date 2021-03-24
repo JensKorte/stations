@@ -1,0 +1,14 @@
+{
+    "uuid": "3ab00dd1-e787-4664-b557-08c085e55eec",
+    "name": "Radio România Muzical",
+    "url": "http://stream2.srr.ro:8026",
+    "homepage": "https://www.romania-muzical.ro/",
+    "favicon": "https://static.srr.ro/images/articles/49/art-img1-1420861-radio_muzical_mare.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "classical",
+    "state": "Bucharest",
+    "bitrate": 128
+}

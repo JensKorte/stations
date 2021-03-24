@@ -1,0 +1,14 @@
+{
+    "uuid": "870d54cf-d706-11e8-a2a6-52543be04c81",
+    "name": "USMARADIO",
+    "url": "http://usmaradio.out.airtime.pro:8000/usmaradio_a",
+    "homepage": "http://www.usmaradio.org/",
+    "favicon": "http://www.usmaradio.org/wp-content/uploads/2016/09/usma_logo_new_alpha_h100.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "San Marino",
+    "country_code": "SM",
+    "language": "italian",
+    "tags": "città di san marino,university radio",
+    "state": "Città di San Marino",
+    "bitrate": 192
+}

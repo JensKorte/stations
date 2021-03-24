@@ -1,0 +1,14 @@
+{
+    "uuid": "964f33f9-0601-11e8-ae97-52543be04c81",
+    "name": "Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)",
+    "url": "http://m.mediastream.pe/av_filarmonia/livestream/playlist.m3u8",
+    "homepage": "http://www.filarmonia.org/",
+    "favicon": "http://www.filarmonia.org/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish,english",
+    "tags": "multicultural,experimental,classical",
+    "state": "Lima",
+    "bitrate": 250
+}

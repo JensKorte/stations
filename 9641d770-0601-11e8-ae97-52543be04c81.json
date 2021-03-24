@@ -1,0 +1,14 @@
+{
+    "uuid": "9641d770-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Čas Rock",
+    "url": "http://icecast6.play.cz:80/casrock128.mp3",
+    "homepage": "https://www.casrock.cz/",
+    "favicon": "https://www.casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-180x180.png?v002=",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 0
+}

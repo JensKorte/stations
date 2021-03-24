@@ -1,0 +1,14 @@
+{
+    "uuid": "9637e758-0601-11e8-ae97-52543be04c81",
+    "name": "BBN Chinese",
+    "url": "http://stream2.bbnradio.org:8000/chinese.aac",
+    "homepage": "http://www.bbnradio.org/WCM4/Default.aspx?alias=www.bbnradio.org/wcm4/tchinese",
+    "favicon": "http://bbnradio.org.edgesuite.net/BBNOnDemand/wordpress/bbn1/wp-content/uploads/sites/9/2016/02/BBN-Welcome-300x157.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "mandarin",
+    "tags": "charlotte,bible,christian",
+    "state": "North Carolina",
+    "bitrate": 48
+}

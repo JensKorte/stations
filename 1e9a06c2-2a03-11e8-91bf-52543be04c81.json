@@ -1,0 +1,14 @@
+{
+    "uuid": "1e9a06c2-2a03-11e8-91bf-52543be04c81",
+    "name": "radio vest",
+    "url": "http://radiovest.cast.addradio.de/radiovest/simulcast/high/stream.mp3",
+    "homepage": "http://radiovest.de/",
+    "favicon": "http://www.radiovest.de//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "re,ostvest",
+    "state": "",
+    "bitrate": 192
+}

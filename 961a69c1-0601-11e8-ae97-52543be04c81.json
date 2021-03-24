@@ -1,0 +1,14 @@
+{
+    "uuid": "961a69c1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 538 Party",
+    "url": "http://playerservices.streamtheworld.com/m3u/TLPSTR16.m3u",
+    "homepage": "https://www.538.nl/",
+    "favicon": "https://static.538.nl/img/lg-logo-538-party-7232-original.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "party",
+    "state": "",
+    "bitrate": 128
+}

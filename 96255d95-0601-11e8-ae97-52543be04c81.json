@@ -1,0 +1,14 @@
+{
+    "uuid": "96255d95-0601-11e8-ae97-52543be04c81",
+    "name": "KUSD 89.7 \"South Dakota Public Broadcasting\" Vermillion, SD",
+    "url": "http://provisioning.streamtheworld.com/pls/KUSDFM.pls",
+    "homepage": "http://www.sdpb.org/home/",
+    "favicon": "http://pbs.bento.storage.s3.amazonaws.com/hostedbento-prod/filer_public/masterPageImages/mobileFavicon-144.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "vermillion,apm,pri,npr,public radio",
+    "state": "South Dakota",
+    "bitrate": 96
+}

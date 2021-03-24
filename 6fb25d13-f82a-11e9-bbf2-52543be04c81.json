@@ -1,0 +1,14 @@
+{
+    "uuid": "6fb25d13-f82a-11e9-bbf2-52543be04c81",
+    "name": "Popradio",
+    "url": "http://stream1.popradio.pl:9000/listen.pls",
+    "homepage": "https://popradio.pl/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "hits 90's,dance,pop,polish,poland,pruszków,local news,local radio",
+    "state": "Pruszków",
+    "bitrate": 160
+}

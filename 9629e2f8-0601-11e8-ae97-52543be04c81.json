@@ -1,0 +1,14 @@
+{
+    "uuid": "9629e2f8-0601-11e8-ae97-52543be04c81",
+    "name": "WebRadioNetwork",
+    "url": "http://sr2.webradionetwork.eu:8000/listen.pls",
+    "homepage": "http://webradionetwork.eu/",
+    "favicon": "http://webradionetwork.eu/wp-content/uploads/2014/10/logo_alta500x370.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "adult contemporary",
+    "state": "Lombardia",
+    "bitrate": 192
+}

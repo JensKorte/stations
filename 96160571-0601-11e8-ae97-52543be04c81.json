@@ -1,0 +1,14 @@
+{
+    "uuid": "96160571-0601-11e8-ae97-52543be04c81",
+    "name": "Powerradio4u",
+    "url": "http://stream.powerradio4u.de:8000/p4u.mp3",
+    "homepage": "http://www.powerradio4u.de",
+    "favicon": "http://www.powerradio4u.de//media/themes/icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "chillout,creative commons",
+    "state": "Brandenburg",
+    "bitrate": 192
+}

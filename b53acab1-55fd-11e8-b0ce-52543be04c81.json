@@ -1,0 +1,14 @@
+{
+    "uuid": "b53acab1-55fd-11e8-b0ce-52543be04c81",
+    "name": "Antenne AC",
+    "url": "http://mp3.antenneac.c.nmdn.net/ps-antenneac/livestream.mp3",
+    "homepage": "https://www.antenne-ac.de/",
+    "favicon": "https://www.antenne-ac.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "pop,variety",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

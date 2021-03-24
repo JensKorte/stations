@@ -1,0 +1,14 @@
+{
+    "uuid": "5465b14f-abdc-41e7-b79f-2c20841403dd",
+    "name": "Radio Roma",
+    "url": "https://nr9.newradio.it:19371/stream",
+    "homepage": "https://www.radioroma.it/",
+    "favicon": "https://play5.newradio.it/contents/uploads/logo-31961.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,dance,pop,top 40,news",
+    "state": "Lazio",
+    "bitrate": 128
+}

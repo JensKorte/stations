@@ -1,0 +1,14 @@
+{
+    "uuid": "96137e2a-0601-11e8-ae97-52543be04c81",
+    "name": "Asterisco Radio",
+    "url": "http://sr2.inmystream.info:8588/;stream.mp3",
+    "homepage": "http://www.asteriscoradio.com/",
+    "favicon": "http://www.asteriscoradio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "electronic,world music,jazz,talk,bologna",
+    "state": "Emilia-Romagna",
+    "bitrate": 128
+}

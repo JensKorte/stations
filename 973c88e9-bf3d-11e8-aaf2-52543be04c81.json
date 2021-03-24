@@ -1,0 +1,14 @@
+{
+    "uuid": "973c88e9-bf3d-11e8-aaf2-52543be04c81",
+    "name": "LBC London News",
+    "url": "http://media-ice.musicradio.com/LBC1152.m3u",
+    "homepage": "http://lbc.co.uk",
+    "favicon": "https://static.lbc.co.uk/assets_v4r/lbc/img/favicon-16x16.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "news",
+    "state": "London",
+    "bitrate": 48
+}

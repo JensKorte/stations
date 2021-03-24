@@ -1,0 +1,14 @@
+{
+    "uuid": "96114e22-0601-11e8-ae97-52543be04c81",
+    "name": "WPTS 92.1 University of Pittsburgh, PA",
+    "url": "http://audio.wpts.pitt.edu:8000/wpts_live_256s.mp3",
+    "homepage": "http://wptsradio.org/",
+    "favicon": "http://wptsradio.org/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pittsburgh,student radio,university radio",
+    "state": "Pennsylvania",
+    "bitrate": 256
+}

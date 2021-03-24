@@ -1,0 +1,14 @@
+{
+    "uuid": "f5cdb1ae-fd6d-11e8-a1be-52543be04c81",
+    "name": "Rádio Melodia FM 97.5",
+    "url": "http://radio.server6.com.br:9998/stream",
+    "homepage": "http://www.melodia.com.br",
+    "favicon": "http://www.melodia.com.br/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português brasil",
+    "tags": "",
+    "state": "Rio de Janeiro",
+    "bitrate": 64
+}

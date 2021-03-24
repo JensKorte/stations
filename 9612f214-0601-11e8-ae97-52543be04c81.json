@@ -1,0 +1,14 @@
+{
+    "uuid": "9612f214-0601-11e8-ae97-52543be04c81",
+    "name": "Ouest FM Guyane",
+    "url": "http://srv2.streaming-ingenierie.fr:8162/;",
+    "homepage": "http://www.ouestfm.net/",
+    "favicon": "http://www.ouestfm.net/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "",
+    "tags": "outre-mer",
+    "state": "Guyane",
+    "bitrate": 128
+}

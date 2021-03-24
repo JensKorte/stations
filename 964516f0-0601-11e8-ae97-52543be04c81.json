@@ -1,0 +1,14 @@
+{
+    "uuid": "964516f0-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - BoomFM",
+    "url": "http://streams.fluxfm.de/boomfm/mp3-128/audio/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2015/10/BoomFM-250x250.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rap,hiphop",
+    "state": "Berlin",
+    "bitrate": 128
+}

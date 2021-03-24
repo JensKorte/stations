@@ -1,0 +1,14 @@
+{
+    "uuid": "f5984f88-605a-11e8-b15b-52543be04c81",
+    "name": "Jovem Pam FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac",
+    "homepage": "https://jovempan.uol.com.br",
+    "favicon": "https://jovempan.uol.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpfm.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português",
+    "tags": "news",
+    "state": "São Paulo",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963a16b7-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 1 BW (64 kbit/s)",
+    "url": "http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/64/stream.mp3",
+    "homepage": "https://www.swr.de/swr1/-/id=266634/1kqaztk/index.html",
+    "favicon": "http://static.radio.net/images/broadcasts/07/41/2273/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

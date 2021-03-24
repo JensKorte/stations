@@ -1,0 +1,14 @@
+{
+    "uuid": "960d8955-0601-11e8-ae97-52543be04c81",
+    "name": "TSF Rádio Notícias",
+    "url": "http://tsfdirecto.tsf.pt/tsfdirecto.mp3",
+    "homepage": "http://www.tsf.pt",
+    "favicon": "http://www.tsf.pt/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "talk,news",
+    "state": "Lisbon",
+    "bitrate": 0
+}

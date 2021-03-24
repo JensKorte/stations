@@ -1,0 +1,14 @@
+{
+    "uuid": "d6f8b238-db34-491a-b8a2-d5b879bd498d",
+    "name": "Laganini FM",
+    "url": "http://194.145.208.251:8000/start/lfmzg",
+    "homepage": "https://laganini.fm/",
+    "favicon": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Laganini-FM.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "trsat,soundset,laganini,rijeka,hrvatska",
+    "state": "",
+    "bitrate": 128
+}

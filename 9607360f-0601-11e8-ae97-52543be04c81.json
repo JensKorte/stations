@@ -1,0 +1,14 @@
+{
+    "uuid": "9607360f-0601-11e8-ae97-52543be04c81",
+    "name": "Freies Radio für Stuttgart",
+    "url": "http://streaming.fueralle.org:8000/frs-hi.mp3.m3u",
+    "homepage": "http://www.freies-radio.de/",
+    "favicon": "http://www.freies-radio.de/sites/default/files/radio_logo.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

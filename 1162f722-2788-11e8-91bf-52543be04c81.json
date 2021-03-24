@@ -1,0 +1,14 @@
+{
+    "uuid": "1162f722-2788-11e8-91bf-52543be04c81",
+    "name": "Gensokyo Radio",
+    "url": "http://stream.gensokyoradio.net:8000/stream/1/",
+    "homepage": "https://gensokyoradio.net/",
+    "favicon": "https://gensokyoradio.net//apple-touch-icon.png?v=XBzvL6wJk4",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "japanese",
+    "tags": "touhou,mix,japanese",
+    "state": "",
+    "bitrate": 128
+}

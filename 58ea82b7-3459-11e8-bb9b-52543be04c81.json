@@ -1,0 +1,14 @@
+{
+    "uuid": "58ea82b7-3459-11e8-bb9b-52543be04c81",
+    "name": "Super FM (101.9 MHz FM, Maputo)",
+    "url": "http://41.223.153.14:8000/;stream/1",
+    "homepage": "http://superfm.folhademaputo.co.mz/",
+    "favicon": "http://static.folhademaputo.co.mz/images_sfm/logo_superfm_108.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mozambique",
+    "country_code": "MZ",
+    "language": "portuguese",
+    "tags": "mozambican music,brazilian pop,afropop,music,top 40",
+    "state": "Maputo (capital)",
+    "bitrate": 96
+}

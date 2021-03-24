@@ -1,0 +1,14 @@
+{
+    "uuid": "6f64bc5a-df28-41de-bad0-ea986e3efd4b",
+    "name": "CNR-15 中国交通广播（河南版）",
+    "url": "http://cnlive.cnr.cn/hls/zgjtgbhn.m3u8",
+    "homepage": "http://www.cnr.cn/gsgb/",
+    "favicon": "http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200917/1600338213809.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "traffic",
+    "state": "Honan",
+    "bitrate": 0
+}

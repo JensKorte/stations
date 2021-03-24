@@ -1,0 +1,14 @@
+{
+    "uuid": "4689d53b-4cda-11ea-b877-52543be04c81",
+    "name": "urgent.fm",
+    "url": "http://urgentstream.radiostudio.be:8000/live",
+    "homepage": "https://urgent.fm/",
+    "favicon": "https://urgent.fm/sites/default/files/favicon_1.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "nederlands",
+    "tags": "",
+    "state": "",
+    "bitrate": 320
+}

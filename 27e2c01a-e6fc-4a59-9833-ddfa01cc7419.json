@@ -1,0 +1,14 @@
+{
+    "uuid": "27e2c01a-e6fc-4a59-9833-ddfa01cc7419",
+    "name": "Exa FM Tijuana - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, BC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLX_SC",
+    "homepage": "https://www.exafm.com/sdtj/",
+    "favicon": "http://cdn-profiles.tunein.com/s50017/images/logoq.png?t=155752",
+    "creation": "2021-02-28 04:25:03",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish,español",
+    "tags": "san diego,91.7,91.7 fm,top 40,pop,juvenil,fm,radio,mvs,mvs radio,en todas partes,ponte exa,exa,exa fm",
+    "state": "Baja California",
+    "bitrate": 128
+}

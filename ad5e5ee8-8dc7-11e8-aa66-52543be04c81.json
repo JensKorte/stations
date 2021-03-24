@@ -1,0 +1,14 @@
+{
+    "uuid": "ad5e5ee8-8dc7-11e8-aa66-52543be04c81",
+    "name": "Český rozhlas Plus",
+    "url": "http://icecast1.play.cz/croplus128.mp3",
+    "homepage": "https://plus.rozhlas.cz/",
+    "favicon": "https://plus.rozhlas.cz/sites/default/files/favicon_plus.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

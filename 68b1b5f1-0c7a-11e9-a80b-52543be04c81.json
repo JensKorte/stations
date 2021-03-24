@@ -1,0 +1,14 @@
+{
+    "uuid": "68b1b5f1-0c7a-11e9-a80b-52543be04c81",
+    "name": "Freies Radio Wiesental",
+    "url": "http://88.99.63.244:8000/;stream.mp3",
+    "homepage": "https://www.freies-radio-wiesental.de/",
+    "favicon": "https://www.freies-radio-wiesental.de/fileadmin/system/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "for and from fugitives,initiatives,media discussion,newspapers,rock,music,regional programs",
+    "state": "Baden-Württemberg",
+    "bitrate": 256
+}

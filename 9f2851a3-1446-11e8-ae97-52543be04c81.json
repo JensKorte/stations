@@ -1,0 +1,14 @@
+{
+    "uuid": "9f2851a3-1446-11e8-ae97-52543be04c81",
+    "name": "Radio Stara Čaršija",
+    "url": "http://46.4.76.142:8026/listen.pls",
+    "homepage": "http://www.radiostaracarsija.com",
+    "favicon": "http://www.radiostaracarsija.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 128
+}

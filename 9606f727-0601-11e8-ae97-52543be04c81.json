@@ -1,0 +1,14 @@
+{
+    "uuid": "9606f727-0601-11e8-ae97-52543be04c81",
+    "name": "1LIVE",
+    "url": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+    "homepage": "https://einslive.de/",
+    "favicon": "https://www1.wdr.de/radio/1live/1live-logo-schwarz-100~_v-gseagaleriexl.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40,rock,wdr,ard,public radio",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7ba6bc05-aa42-4b57-bcd0-0b89fb80be40",
+    "name": "БНР – Радио София",
+    "url": "http://stream.bnr.bg:8030/radio-sofia.aac",
+    "homepage": "https://bnr.bg/sofia",
+    "favicon": "https://bnr.bg/img/logos/radio_sofia.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "български,bulgarian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

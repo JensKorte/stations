@@ -1,0 +1,14 @@
+{
+    "uuid": "8aa3298e-6ae3-11e9-af37-52543be04c81",
+    "name": "CKAJ 92.5 \u0026 99.7 Saguenay, QC",
+    "url": "http://stream.statsradio.com:8060/stream",
+    "homepage": "http://ckaj.org/",
+    "favicon": "http://ckaj.org/wp-content/uploads/2019/03/CKAJ-ECR-BLANC-PNG-300x213.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "saguenay,community radio,radio communitaire",
+    "state": "Quebec",
+    "bitrate": 128
+}

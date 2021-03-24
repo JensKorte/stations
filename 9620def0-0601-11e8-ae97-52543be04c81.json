@@ -1,0 +1,14 @@
+{
+    "uuid": "9620def0-0601-11e8-ae97-52543be04c81",
+    "name": "Pure FM",
+    "url": "http://radionetz.de:8000/purefm-bln.mp3",
+    "homepage": "http://www.pure-fm.de/",
+    "favicon": "http://www.pure-fm.de/wp-content/uploads/favicon.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "club,dance",
+    "state": "Berlin",
+    "bitrate": 128
+}

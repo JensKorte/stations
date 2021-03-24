@@ -1,0 +1,14 @@
+{
+    "uuid": "434e9abb-9a3b-11e8-a767-52543be04c81",
+    "name": "KSPN - ESPN 710 AM",
+    "url": "http://edge.espn.cdn.abacast.net/espn-kspnmp3-48?",
+    "homepage": "http://kspn.radio.net/",
+    "favicon": "http://static.radio.net/images/broadcasts/fc/5b/28816/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "los angeles,espn,sports talk,sports news,sport",
+    "state": "California",
+    "bitrate": 48
+}

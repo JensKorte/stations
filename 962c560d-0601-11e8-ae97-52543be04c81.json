@@ -1,0 +1,14 @@
+{
+    "uuid": "962c560d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Suisse Classique",
+    "url": "http://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+    "homepage": "http://www.radioswissclassic.ch/fr",
+    "favicon": "http://www.radioswissclassic.ch//assets/logos/favicons/rsc-favicon-c18b65b6a116a4d6d56bbd9673fa31f9.ico?v=2",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "public radio,srg ssr,classical",
+    "state": "Bern",
+    "bitrate": 0
+}

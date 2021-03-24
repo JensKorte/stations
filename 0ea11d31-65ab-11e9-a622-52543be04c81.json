@@ -1,0 +1,14 @@
+{
+    "uuid": "0ea11d31-65ab-11e9-a622-52543be04c81",
+    "name": "esRadio_AAC",
+    "url": "http://livestreaming9.esradio.fm/aaclive32",
+    "homepage": "https://esradio.libertaddigital.com/",
+    "favicon": "https://s.libertaddigital.com/esradio/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "talk,news",
+    "state": "Madrid",
+    "bitrate": 56
+}

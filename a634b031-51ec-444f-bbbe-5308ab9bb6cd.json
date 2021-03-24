@@ -1,0 +1,14 @@
+{
+    "uuid": "a634b031-51ec-444f-bbbe-5308ab9bb6cd",
+    "name": "Eiropas Hītu Radio",
+    "url": "http://stream.europeanhitradio.com:8000/ehr.mp3",
+    "homepage": "https://www.ehrhiti.lv/",
+    "favicon": "https://www.ehrhiti.lv/files/ehr_logo_1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latviešu",
+    "tags": "top 100,pop",
+    "state": "",
+    "bitrate": 0
+}

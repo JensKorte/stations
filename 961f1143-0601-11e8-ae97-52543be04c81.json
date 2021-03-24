@@ -1,0 +1,14 @@
+{
+    "uuid": "961f1143-0601-11e8-ae97-52543be04c81",
+    "name": "FunX Slow Jamz",
+    "url": "http://icecast.omroep.nl/funx-slowjamzfb-bb-mp3.m3u",
+    "homepage": "https://www.funx.nl",
+    "favicon": "http://www.funx.nl///templates/funx/img/xtouch-icon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "slow jamz",
+    "state": "",
+    "bitrate": 0
+}

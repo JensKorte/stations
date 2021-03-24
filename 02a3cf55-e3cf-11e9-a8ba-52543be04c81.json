@@ -1,0 +1,14 @@
+{
+    "uuid": "02a3cf55-e3cf-11e9-a8ba-52543be04c81",
+    "name": "Rádio Top 104.9 FM",
+    "url": "http://audio01.viaflux.com.br:5500/live",
+    "homepage": "http://www.peperi.com.br",
+    "favicon": "https://www.peperi.com.br/image/logopeperi-58ec0ae34a255.jpg\u0026w=400\u0026h=400\u0026fill-to-fit=ffffff\u0026q=90",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português do brasil",
+    "tags": "top40",
+    "state": "Santa Catarina",
+    "bitrate": 64
+}

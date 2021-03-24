@@ -1,0 +1,14 @@
+{
+    "uuid": "20f7728c-1d68-47ba-8f5a-b3627f8354b7",
+    "name": "Antena 2 (AAC)",
+    "url": "http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8",
+    "homepage": "https://www.rtp.pt/antena2/",
+    "favicon": "https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena2_negativo_vert_RGB.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 178
+}

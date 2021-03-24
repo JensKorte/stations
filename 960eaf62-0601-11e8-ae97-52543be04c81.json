@@ -1,0 +1,14 @@
+{
+    "uuid": "960eaf62-0601-11e8-ae97-52543be04c81",
+    "name": "RTI Saksesch Radio",
+    "url": "http://rti-radio.de:8092",
+    "homepage": "http://radio-transsylvania.de/",
+    "favicon": "http://radio-transsylvania.de//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

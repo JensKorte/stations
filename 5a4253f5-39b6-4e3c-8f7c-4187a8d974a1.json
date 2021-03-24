@@ -1,0 +1,14 @@
+{
+    "uuid": "5a4253f5-39b6-4e3c-8f7c-4187a8d974a1",
+    "name": "Radio Voz (Compostela)",
+    "url": "https://live.radiovoz.es/mp3/stream_santiago.mp3?source=web\u0026JSESSIONID=B2F48ECDF937FC52DF9C6620C5562234\u0026station=7\u0026dial=Santiago_de_Compostela",
+    "homepage": "https://radiovoz.com",
+    "favicon": "http://www.radiovoz.com/img/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español,galego,spanish,galician",
+    "tags": "la voz de galicia,galicia,radio voz",
+    "state": "Galicia",
+    "bitrate": 64
+}

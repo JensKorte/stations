@@ -1,0 +1,14 @@
+{
+    "uuid": "9648fd95-0601-11e8-ae97-52543be04c81",
+    "name": "HRYW 95.9 Radio Panamericana - Tegucigalpa",
+    "url": "http://online.radiodifusion.net:1935/panam-hn/panam.stream/master.m3u8",
+    "homepage": "http://www.panamericanafm.com/",
+    "favicon": "http://www.panamericanafm.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Honduras",
+    "country_code": "HN",
+    "language": "spanish",
+    "tags": "noticias,tegucigalpa",
+    "state": "",
+    "bitrate": 32
+}

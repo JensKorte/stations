@@ -1,0 +1,14 @@
+{
+    "uuid": "0d97f59f-af60-4283-a537-e7a3c4364047",
+    "name": "Radio Santa Rosa",
+    "url": "https://securestream.conectarhosting.com:8136/live",
+    "homepage": "https://radiosantarosa.com.pe/",
+    "favicon": "https://radiosantarosa.com.pe/wp-content/uploads/2019/02/c52.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "religious,news",
+    "state": "Lima",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9b6565e2-2045-11e8-a334-52543be04c81",
+    "name": "bigFM Worldbeats",
+    "url": "http://streams.bigfm.de/bigfm-worldbeats-128-aac",
+    "homepage": "http://www.bigfm.de/webradio/world-beats",
+    "favicon": "http://cdn.bigfm.de/sites/all/themes/bigfm/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "worldbeat,world music,ethnic",
+    "state": "",
+    "bitrate": 128
+}

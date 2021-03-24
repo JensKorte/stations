@@ -1,0 +1,14 @@
+{
+    "uuid": "43db9e9e-5730-42dc-9c94-8b1622c7d353",
+    "name": "Etoile TV",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
+    "homepage": "http://www.estrellatv.com/",
+    "favicon": "https://cdn.tvpassport.com/image/station/240x135/estrella.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "español latino,spanish",
+    "tags": "news,noticias",
+    "state": "",
+    "bitrate": 1478
+}

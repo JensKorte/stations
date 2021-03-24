@@ -1,0 +1,14 @@
+{
+    "uuid": "96420a70-0601-11e8-ae97-52543be04c81",
+    "name": "ERF Plus Oesterreich 192k",
+    "url": "http://stream.erf.at/erfplus_192",
+    "homepage": "http://www.erf.at/radio/empfang/",
+    "favicon": "http://www.erf.at/wp-content/uploads/2016/06/cropped-erf_logo-e1465488646667-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "contemporay christian,christian",
+    "state": "",
+    "bitrate": 192
+}

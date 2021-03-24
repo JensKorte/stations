@@ -1,0 +1,14 @@
+{
+    "uuid": "960a8dd2-0601-11e8-ae97-52543be04c81",
+    "name": "ATOS Theatre Organ Radio",
+    "url": "http://atosradio.com:8001/ATOSRadio",
+    "homepage": "http://www.atos.org/",
+    "favicon": "http://www.atos.org/sites/default/files/ATOS_favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "theatre,instrumental,organ",
+    "state": "",
+    "bitrate": 128
+}

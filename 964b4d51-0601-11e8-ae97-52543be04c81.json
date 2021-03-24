@@ -1,0 +1,14 @@
+{
+    "uuid": "964b4d51-0601-11e8-ae97-52543be04c81",
+    "name": "Active Radio Bečej",
+    "url": "http://active96-naxinacional.streaming.rs:8555",
+    "homepage": "http://www.radioactive.rs/",
+    "favicon": "http://www.radioactive.rs/img/facebook.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "local programming",
+    "state": "",
+    "bitrate": 96
+}

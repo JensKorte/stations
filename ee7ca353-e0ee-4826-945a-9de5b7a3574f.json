@@ -1,0 +1,14 @@
+{
+    "uuid": "ee7ca353-e0ee-4826-945a-9de5b7a3574f",
+    "name": "I-92 Country",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIFMAAC.aac",
+    "homepage": "https://www.wlwi.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WLWI-FM.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Montgomery AL",
+    "bitrate": 48
+}

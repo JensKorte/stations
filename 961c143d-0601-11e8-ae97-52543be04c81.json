@@ -1,0 +1,14 @@
+{
+    "uuid": "961c143d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Universitaire Namuroise (RUN)",
+    "url": "http://stream.run.be:8000/run128.mp3",
+    "homepage": "http://www.run.be/",
+    "favicon": "http://www.run.be/wp-content/themes/runradio/img/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "",
+    "state": "",
+    "bitrate": 256
+}

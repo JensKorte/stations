@@ -1,0 +1,14 @@
+{
+    "uuid": "45fb942f-aafe-4eb8-af62-c4d677ec3919",
+    "name": "Retro FM 105.0 Serpukhov",
+    "url": "http://188.164.138.46:8010/retrofm.m3u",
+    "homepage": "http://serpuhov.retrofm.ru/",
+    "favicon": "https://serpuhov.retrofm.ru/template/Retro-2012/img/siteimage/logo_og.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "soviet,russian pop,pop,70s,80s,retro,russian",
+    "state": "Serpukhov",
+    "bitrate": 256
+}

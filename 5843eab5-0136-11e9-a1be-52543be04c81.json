@@ -1,0 +1,14 @@
+{
+    "uuid": "5843eab5-0136-11e9-a1be-52543be04c81",
+    "name": "Best FM Radio",
+    "url": "http://stream.bestfm.sk/128.mp3.m3u",
+    "homepage": "https://www.bestfm.sk/",
+    "favicon": "https://www.bestfm.sk/wp-content/themes/bestfm/img/logo-bestfm-top.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

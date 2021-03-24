@@ -1,0 +1,14 @@
+{
+    "uuid": "415d13ca-3411-11e9-8f31-52543be04c81",
+    "name": "Santa Cruz FM - Pará de Minas 100.3 FM",
+    "url": "http://r13.ciclano.io:8858/stream",
+    "homepage": "http://www.santacruzam.com/",
+    "favicon": "http://www.santacruzam.com/publica/imgs/radio-santa-cruz-sociais.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "brazil,brazilian music,gerais,minas,brazilian music,christian,sertanejo",
+    "state": "Minas Gerais",
+    "bitrate": 64
+}

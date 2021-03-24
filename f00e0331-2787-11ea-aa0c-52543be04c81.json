@@ -1,0 +1,14 @@
+{
+    "uuid": "f00e0331-2787-11ea-aa0c-52543be04c81",
+    "name": "Rádio UNESP 105.7 FM",
+    "url": "http://200.145.152.130:8060/unespfm.mp3",
+    "homepage": "https://radio.unesp.br/",
+    "favicon": "https://img.radios.com.br/radio/lg/radio14994_1551112308.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "english,portuguese",
+    "tags": "jazz,mpb",
+    "state": "São Paulo",
+    "bitrate": 0
+}

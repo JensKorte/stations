@@ -1,0 +1,14 @@
+{
+    "uuid": "daf1ed55-62c7-11e9-a622-52543be04c81",
+    "name": "France Musique",
+    "url": "http://direct.francemusique.fr/live/francemusique-hifi.aac?ID=radiofrance",
+    "homepage": "http://www.francemusique.fr/",
+    "favicon": "https://www.francemusique.fr/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,jazz,music,classical,public radio",
+    "state": "",
+    "bitrate": 0
+}

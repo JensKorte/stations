@@ -1,0 +1,14 @@
+{
+    "uuid": "960fff6f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Park FM",
+    "url": "http://sluchaj.radiopark.com.pl:8048/",
+    "homepage": "http://www.radiopark.com.pl/",
+    "favicon": "http://www.radiopark.com.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "pop",
+    "state": "Kedzierzyn Kozle",
+    "bitrate": 128
+}

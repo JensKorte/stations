@@ -1,0 +1,14 @@
+{
+    "uuid": "96077d10-0601-11e8-ae97-52543be04c81",
+    "name": "WBFO-FM 88.7 Buffalo, NY",
+    "url": "http://playerservices.streamtheworld.com/m3u/WBFOFM.m3u",
+    "homepage": "http://wned.org/radio",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wbfo/files/201505/logo_fid_0.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "public radio,buffalo,news,npr",
+    "state": "New York",
+    "bitrate": 64
+}

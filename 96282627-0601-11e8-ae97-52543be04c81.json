@@ -1,0 +1,14 @@
+{
+    "uuid": "96282627-0601-11e8-ae97-52543be04c81",
+    "name": "Rádió Smile",
+    "url": "http://radiosmile.hu:8010/stream",
+    "homepage": "http://www.radiosmile.hu/",
+    "favicon": "http://www.radiosmile.hu/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "",
+    "state": "Bács-Kiskun",
+    "bitrate": 192
+}

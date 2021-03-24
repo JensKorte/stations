@@ -1,0 +1,14 @@
+{
+    "uuid": "96dd7b83-6fdc-11e9-af37-52543be04c81",
+    "name": "Radio Avalos",
+    "url": "http://nr6.newradio.it:9243/stream",
+    "homepage": "https://www.radioavalos.it/",
+    "favicon": "https://play5.newradio.it/contents/uploads/logo-2967.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "augusta,top 40,pop,news,sport",
+    "state": "Sicilia",
+    "bitrate": 128
+}

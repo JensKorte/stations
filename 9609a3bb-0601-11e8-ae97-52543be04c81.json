@@ -1,0 +1,14 @@
+{
+    "uuid": "9609a3bb-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Manbassa",
+    "url": "http://91.121.90.186:8000/radiomanbassa",
+    "homepage": "http://www.manbassa.fm/",
+    "favicon": "http://www.manbassa.fm/wp/wp-content/uploads/2016/04/cropped-manbassa_radio_tunein-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "lecce,adult contemporary",
+    "state": "Puglia",
+    "bitrate": 128
+}

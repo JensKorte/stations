@@ -1,0 +1,14 @@
+{
+    "uuid": "960bb078-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Novosti",
+    "url": "http://www.radionovosti.rs:443/radionovosti56s.mp3.m3u",
+    "homepage": "http://www.radionovosti.rs/",
+    "favicon": "http://radionovosti.com/wp-content/uploads/2013/04/cd_music2.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "",
+    "tags": "news,music",
+    "state": "",
+    "bitrate": 56
+}

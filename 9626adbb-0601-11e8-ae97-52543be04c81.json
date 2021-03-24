@@ -1,0 +1,14 @@
+{
+    "uuid": "9626adbb-0601-11e8-ae97-52543be04c81",
+    "name": "WUAL-HD3 Alabama Public Radio - BBC World Service - Tuscaloosa, AL",
+    "url": "http://playerservices.streamtheworld.com/m3u/WUAL_HD3.m3u",
+    "homepage": "http://apr.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wual/files/201508/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "bbc,public radio",
+    "state": "Alabama",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "be9ebef8-a1cc-410f-a715-db72f10787ef",
+    "name": "NHK World TV",
+    "url": "http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8",
+    "homepage": "http://www.nhk.or.jp/nhkworld/",
+    "favicon": "http://www.nettvplus.live/uploads/18/1-1P630223SJ31.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "english",
+    "tags": "",
+    "state": "Tokyo",
+    "bitrate": 0
+}

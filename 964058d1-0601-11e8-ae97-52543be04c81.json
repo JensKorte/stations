@@ -1,0 +1,14 @@
+{
+    "uuid": "964058d1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Algérienne Mostaganem",
+    "url": "http://mostaganem.ice.infomaniak.ch/27.aac",
+    "homepage": "http://www.radioalgerie.dz/player/fr/live/27-Mostaganem",
+    "favicon": "https://www.algerie360.com/wp-content/uploads/2012/05/la-radio-algerienne-organise-samedi-la-8eme-edition-de-loperation-eboueurs-de-la-mer.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "language": "arabic",
+    "tags": "local radio",
+    "state": "Mostaganem",
+    "bitrate": 0
+}

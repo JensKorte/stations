@@ -1,0 +1,14 @@
+{
+    "uuid": "963733ac-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Nord Castrovillari",
+    "url": "http://178.32.138.88:8063/stream",
+    "homepage": "http://www.radionordcastrovillari.com/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s63853q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "castrovillari,top 40,pop,news",
+    "state": "Calabria",
+    "bitrate": 128
+}

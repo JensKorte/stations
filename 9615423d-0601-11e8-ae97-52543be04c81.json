@@ -1,0 +1,14 @@
+{
+    "uuid": "9615423d-0601-11e8-ae97-52543be04c81",
+    "name": "WDR VERA (Verkehrsfunk)",
+    "url": "http://wdr-vera-live.icecast.wdr.de/wdr/vera/live/mp3/128/stream.mp3",
+    "homepage": "https://www1.wdr.de/verkehr/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Vera_Logo.svg/320px-WDR_Vera_Logo.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "traffic",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

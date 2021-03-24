@@ -1,0 +1,14 @@
+{
+    "uuid": "c784b062-1255-11e9-a80b-52543be04c81",
+    "name": "Radio onda d'urto",
+    "url": "http://www.urtostream.org:8000/radiondadurto.mp3.xspf",
+    "homepage": "http://www.radiondadurto.org",
+    "favicon": "http://www.radiondadurto.org/wp-content/themes/radio/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "politica",
+    "state": "",
+    "bitrate": 64
+}

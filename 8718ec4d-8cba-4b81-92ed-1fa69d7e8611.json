@@ -1,0 +1,14 @@
+{
+    "uuid": "8718ec4d-8cba-4b81-92ed-1fa69d7e8611",
+    "name": "Radio DeeJay 92.5",
+    "url": "http://streaming.radiosenlinea.com.ar:9640/",
+    "homepage": "https://www.fmlatina925.com.ar/",
+    "favicon": "https://www.fmlatina925.com.ar/imagenes/emax.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español,spanish",
+    "tags": "salta,dj,variado,cumbia",
+    "state": "Salta",
+    "bitrate": 96
+}

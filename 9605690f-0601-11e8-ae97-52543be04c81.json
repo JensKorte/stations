@@ -1,0 +1,14 @@
+{
+    "uuid": "9605690f-0601-11e8-ae97-52543be04c81",
+    "name": "Monster Radio BT 105.9 Cebu",
+    "url": "http://icecast.eradioportal.com:8000/rxcebu",
+    "homepage": "http://www.monsterradiocebu.com/",
+    "favicon": "http://www.monsterradiocebu.com/images/Header/header_01.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Philippines",
+    "country_code": "PH",
+    "language": "english",
+    "tags": "current hits",
+    "state": "Cebu",
+    "bitrate": 96
+}

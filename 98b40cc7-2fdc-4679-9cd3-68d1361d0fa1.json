@@ -1,0 +1,14 @@
+{
+    "uuid": "98b40cc7-2fdc-4679-9cd3-68d1361d0fa1",
+    "name": "Mouv' 100% Mix",
+    "url": "https://icecast.radiofrance.fr/mouv100p100mix-hifi.aac",
+    "homepage": "https://www.mouv.fr/stream-radios/100-mix",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/689453b1-de6c-4c9e-9ebd-de70d0220e69/300x300_mouv-100mix-final.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "aac,webradio,public radio,mixes,radio france",
+    "state": "",
+    "bitrate": 0
+}

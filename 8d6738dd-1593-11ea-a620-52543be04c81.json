@@ -1,0 +1,14 @@
+{
+    "uuid": "8d6738dd-1593-11ea-a620-52543be04c81",
+    "name": "Europe 1",
+    "url": "http://ais-live.cloud-services.paris:8000/europe1.mp3",
+    "homepage": "http://www.europe1.fr",
+    "favicon": "https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "talk,news",
+    "state": "",
+    "bitrate": 128
+}

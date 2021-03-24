@@ -1,0 +1,14 @@
+{
+    "uuid": "1d3db7aa-1ded-4026-b413-47cac7968e1a",
+    "name": "Radio Catedral RJ FM 106.7",
+    "url": "http://149.56.85.6:8217/;stream.mp3",
+    "homepage": "https://radiocatedral.com.br/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "catholic radio",
+    "state": "Rio de Janeiro",
+    "bitrate": 32
+}

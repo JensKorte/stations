@@ -1,0 +1,14 @@
+{
+    "uuid": "9626c282-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Zürisee",
+    "url": "http://mp3.radio.ch/radiozuerisee128k",
+    "homepage": "https://www.radio.ch/",
+    "favicon": "https://ch-radio-live.s3-eu-central-1.amazonaws.com/public-media/filer_public/86/7c/867c8fef-ef48-490f-b9be-96ae736a54fe/farbig.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "pop",
+    "state": "Zürich",
+    "bitrate": 128
+}

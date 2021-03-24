@@ -1,0 +1,14 @@
+{
+    "uuid": "961dcb9f-0601-11e8-ae97-52543be04c81",
+    "name": "WRRS-LP 104.3 Pittsfield, MA",
+    "url": "http://198.20.181.100:8000/;stream.nsv",
+    "homepage": "http://ucpberkshire.org/",
+    "favicon": "http://ucpberkshire.org/wp-content/uploads/2014/08/berkshire-talking-chronicle-logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "community radio,pittsfield",
+    "state": "Massachusetts",
+    "bitrate": 39
+}

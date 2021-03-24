@@ -1,0 +1,14 @@
+{
+    "uuid": "9619fa2d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Regenbogen Deutsch Pop",
+    "url": "http://scast.regenbogen.de/dpop-128-mp3",
+    "homepage": "http://www.regenbogen.de/webradio/deutsch-pop",
+    "favicon": "http://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/Deutschpop.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "german pop,deutschrock",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

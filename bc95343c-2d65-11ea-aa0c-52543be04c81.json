@@ -1,0 +1,14 @@
+{
+    "uuid": "bc95343c-2d65-11ea-aa0c-52543be04c81",
+    "name": "Signál Rádio",
+    "url": "http://icecast1.play.cz/signal128.mp3",
+    "homepage": "http://www.signalradio.cz/",
+    "favicon": "http://www.signalradio.cz/assets/images/_layout/logo-signal-radio.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "pop,oldies",
+    "state": "",
+    "bitrate": 0
+}

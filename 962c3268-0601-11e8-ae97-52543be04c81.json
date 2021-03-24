@@ -1,0 +1,14 @@
+{
+    "uuid": "962c3268-0601-11e8-ae97-52543be04c81",
+    "name": "SRo2 Rádio Regina Stred",
+    "url": "http://icecast.stv.livebox.sk/regina-bb_128.mp3",
+    "homepage": "https://reginastred.rtvs.sk/",
+    "favicon": "https://www.rtvs.sk/media/images/radiostations/radio_regina.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "rtvs,public radio,regional radio",
+    "state": "Banská Bystrica",
+    "bitrate": 0
+}

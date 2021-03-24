@@ -1,0 +1,14 @@
+{
+    "uuid": "be3b0860-9224-479a-b0d1-74485bece1ac",
+    "name": "Weather Office Honolulu",
+    "url": "http://wxradio.dyndns.org:8000/Maui.mp3",
+    "homepage": "https://www.weather.gov/nwr/coverage/site2.php?State=HI\u0026Site=WWG75",
+    "favicon": "",
+    "creation": "2021-03-06 10:50:08",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "weather",
+    "state": "Hawaii",
+    "bitrate": 32
+}

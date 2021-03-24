@@ -1,0 +1,14 @@
+{
+    "uuid": "960b6d95-0601-11e8-ae97-52543be04c81",
+    "name": "Radio X Basel (MP3 Stream)",
+    "url": "http://mp3.radiox.ch:8000/standard.mp3.m3u",
+    "homepage": "http://www.radiox.ch/",
+    "favicon": "https://www.radiox.ch/wp-content/uploads/cropped-RadioX2-32x32.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "",
+    "tags": "indie,reggae,hiphop,electronica,drum and bass,house,trance",
+    "state": "Basel",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "6bfbed11-0c1d-4efc-9124-a66ae24322de",
+    "name": "Jazzy Rádió 90.9FM",
+    "url": "https://s04.diazol.hu:9502/live.mp3",
+    "homepage": "https://jazzy.hu/",
+    "favicon": "https://jazzy.hu/wp-content/uploads/2020/06/logo-jazzy.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "jazz",
+    "state": "Budapest",
+    "bitrate": 192
+}

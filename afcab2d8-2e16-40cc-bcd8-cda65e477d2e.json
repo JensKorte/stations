@@ -1,0 +1,14 @@
+{
+    "uuid": "afcab2d8-2e16-40cc-bcd8-cda65e477d2e",
+    "name": "CMM Castilla La Mancha",
+    "url": "https://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8",
+    "homepage": "https://www.cmmedia.es/en-directo/tv/",
+    "favicon": "https://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español,spanish,castellano",
+    "tags": "news,noticias,series tv,entretenimiento,cine",
+    "state": "Madrid",
+    "bitrate": 746
+}

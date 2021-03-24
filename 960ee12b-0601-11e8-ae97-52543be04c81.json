@@ -1,0 +1,14 @@
+{
+    "uuid": "960ee12b-0601-11e8-ae97-52543be04c81",
+    "name": "RTBF VivaCité Hainaut",
+    "url": "https://radios.rtbf.be/vivahainaut-64.aac",
+    "homepage": "https://www.rtbf.be/vivacite/",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/13_300x170_2016-02-04-12-30-30-635.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf",
+    "state": "",
+    "bitrate": 95
+}

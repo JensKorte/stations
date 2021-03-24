@@ -1,0 +1,14 @@
+{
+    "uuid": "961b1e19-0601-11e8-ae97-52543be04c81",
+    "name": "KTOO-FM 104.3 Juneau, AK",
+    "url": "http://provisioning.streamtheworld.com/pls/KTOOFMAAC.pls",
+    "homepage": "http://www.ktoo.org/",
+    "favicon": "http://s3-us-west-2.amazonaws.com/ktoo/2015/04/click_to_listen_ktoo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "alaska public radio,juneau,pri,npr",
+    "state": "Alaska",
+    "bitrate": 32
+}

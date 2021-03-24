@@ -1,0 +1,14 @@
+{
+    "uuid": "961a579e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Disney México",
+    "url": "http://disneymxradio-lh.akamaihd.net/i/MXDisneyRADIO_1@147029/master.m3u8",
+    "homepage": "http://radiodisney.disneylatino.com/mexico",
+    "favicon": "https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png?region=0%2C0%2C860%2C860",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "m3u8,mexico city,teen pop",
+    "state": "Ciudad de México",
+    "bitrate": 192
+}

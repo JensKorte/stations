@@ -1,0 +1,14 @@
+{
+    "uuid": "9615e443-0601-11e8-ae97-52543be04c81",
+    "name": "RauteMusik Top 40",
+    "url": "http://de-hz-fal-stream08.rautemusik.fm:80/top40",
+    "homepage": "http://rautemusik.fm/top40",
+    "favicon": "http://www.rautemusik.fm/bundles/rmpage/images/main/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "charts,top 40",
+    "state": "",
+    "bitrate": 192
+}

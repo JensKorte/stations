@@ -1,0 +1,14 @@
+{
+    "uuid": "45cda230-6f7b-4b36-9b67-5c2e298dd283",
+    "name": "MIX Puebla - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, PU",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC.aac",
+    "homepage": "https://www.iheart.com/live/mix-917-6571/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5bd34da7b81494900fc9e152?ops=fit(240%2C240)",
+    "creation": "2021-02-28 05:35:31",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "estación,iheart radio,iheart,mx,mex,méxico,puebla,91.7,91.7 fm,radio,fm,2010s,2000s,90s,80s,acir,grupo acir,mix,mix fm",
+    "state": "Puebla",
+    "bitrate": 48
+}

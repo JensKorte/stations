@@ -1,0 +1,14 @@
+{
+    "uuid": "64aa5e7a-39b2-483a-8c2e-8e2a07c72116",
+    "name": "Українське радіо. Перший канал. (16 кбіт.с)",
+    "url": "http://radio.ukr.radio:8000/ur1-aacp-ulow",
+    "homepage": "http://www.nrcu.gov.ua/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "news",
+    "state": "Kyiv",
+    "bitrate": 16
+}

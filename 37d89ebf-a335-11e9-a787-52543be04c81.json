@@ -1,0 +1,14 @@
+{
+    "uuid": "37d89ebf-a335-11e9-a787-52543be04c81",
+    "name": "Ernst.FM",
+    "url": "http://85.25.217.22:8040/ernstfm.m3u",
+    "homepage": "http://http://ernst.fm/",
+    "favicon": "http://ernst.fm/wordpress/wp-content/themes/ernst.fm/images/other/apple-touch-icon.png?v=2",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "university radio",
+    "state": "Niedersachsen",
+    "bitrate": 128
+}

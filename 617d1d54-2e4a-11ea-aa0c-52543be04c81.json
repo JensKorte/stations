@@ -1,0 +1,14 @@
+{
+    "uuid": "617d1d54-2e4a-11ea-aa0c-52543be04c81",
+    "name": "TSN 1050 CHUM AM  Toronto",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8",
+    "homepage": "https://www.tsn.ca/radio/toronto-1050",
+    "favicon": "https://www.tsn.ca//img/tsn/icons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "toronto,sports talk,live sports,sport",
+    "state": "Ontario",
+    "bitrate": 128
+}

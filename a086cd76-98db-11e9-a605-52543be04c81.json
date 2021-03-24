@@ -1,0 +1,14 @@
+{
+    "uuid": "a086cd76-98db-11e9-a605-52543be04c81",
+    "name": "Radio Kaakko",
+    "url": "http://wr2.downtime.fi/kaakko.aac",
+    "homepage": "https://www.radiokaakko.fi/",
+    "favicon": "https://www.radiokaakko.fi/radiokaakko/img/nuppilogo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 80
+}

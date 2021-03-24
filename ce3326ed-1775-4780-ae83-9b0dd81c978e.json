@@ -1,0 +1,14 @@
+{
+    "uuid": "ce3326ed-1775-4780-ae83-9b0dd81c978e",
+    "name": "coloRadio",
+    "url": "http://streaming.fueralle.org:8000/coloradio_160.mp3.m3u",
+    "homepage": "https://coloradio.org",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "freies radio,dresden,community radio",
+    "state": "Saxony",
+    "bitrate": 0
+}

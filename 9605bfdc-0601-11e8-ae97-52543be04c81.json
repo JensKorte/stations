@@ -1,0 +1,14 @@
+{
+    "uuid": "9605bfdc-0601-11e8-ae97-52543be04c81",
+    "name": "CampusFM Essen",
+    "url": "http://stream.campusfm.info:8000/campusfm-hd",
+    "homepage": "http://www.campusfm.info/",
+    "favicon": "http://www.campusfm.info/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "student radio",
+    "state": "",
+    "bitrate": 256
+}

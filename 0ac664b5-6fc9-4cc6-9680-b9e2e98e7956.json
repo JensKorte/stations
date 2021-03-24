@@ -1,0 +1,14 @@
+{
+    "uuid": "0ac664b5-6fc9-4cc6-9680-b9e2e98e7956",
+    "name": "WWUC-LP",
+    "url": "http://192.111.140.11:8124/stream",
+    "homepage": "http://radio.ucfsc.org/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "community,mix",
+    "state": "",
+    "bitrate": 128
+}

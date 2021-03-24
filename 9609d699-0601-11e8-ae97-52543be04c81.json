@@ -1,0 +1,14 @@
+{
+    "uuid": "9609d699-0601-11e8-ae97-52543be04c81",
+    "name": "Bibelradio",
+    "url": "http://rs1.stream24.org:8690/stream",
+    "homepage": "http://www.bibelradio.ch/",
+    "favicon": "http://static.radio.de/images/broadcasts/19/ae/10954/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "bible,christian",
+    "state": "",
+    "bitrate": 128
+}

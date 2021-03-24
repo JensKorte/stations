@@ -1,0 +1,14 @@
+{
+    "uuid": "406e7ef3-9e0d-4325-9714-e8a858637d94",
+    "name": "WFIL 560 AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFILAMAAC.aac",
+    "homepage": "https://wfil.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WFIL_AM_560.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "religious",
+    "state": "Philadelphia PA",
+    "bitrate": 48
+}

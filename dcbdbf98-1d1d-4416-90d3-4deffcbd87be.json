@@ -1,0 +1,14 @@
+{
+    "uuid": "dcbdbf98-1d1d-4416-90d3-4deffcbd87be",
+    "name": "Museumsradio",
+    "url": "http://museum.streamserver24.com:8000/stream",
+    "homepage": "https://www.plattenkiste.radio/",
+    "favicon": "",
+    "creation": "2021-03-02 21:44:38",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "ballroom",
+    "state": "",
+    "bitrate": 256
+}

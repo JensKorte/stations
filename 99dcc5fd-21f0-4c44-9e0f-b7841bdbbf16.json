@@ -1,0 +1,14 @@
+{
+    "uuid": "99dcc5fd-21f0-4c44-9e0f-b7841bdbbf16",
+    "name": "Українське радіо. Суми. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-sm-aacplus",
+    "homepage": "http://ukr.radio/radio-sm",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Sumy",
+    "bitrate": 48
+}

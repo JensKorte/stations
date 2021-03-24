@@ -1,0 +1,14 @@
+{
+    "uuid": "00b73e70-f83b-11e9-bbf2-52543be04c81",
+    "name": "Radio Gniezno",
+    "url": "http://stream3.nadaje.com:8012/listen.pls",
+    "homepage": "http://radio.gniezno.pl",
+    "favicon": "http://radio.gniezno.pl/wp-content/themes/chords/panel/img/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polish,poland,top 40,rock,pop,local news,local radio",
+    "state": "Gniezno",
+    "bitrate": 128
+}

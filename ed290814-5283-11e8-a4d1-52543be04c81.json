@@ -1,0 +1,14 @@
+{
+    "uuid": "ed290814-5283-11e8-a4d1-52543be04c81",
+    "name": "Chilltrax (AAC+ 80kbps)",
+    "url": "http://station.chilltrax.com:8000",
+    "homepage": "https://www.chilltrax.com",
+    "favicon": "https://www.chilltrax.com/playlist/nocover.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "chill,chillout",
+    "state": "Florida",
+    "bitrate": 80
+}

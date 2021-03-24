@@ -1,0 +1,14 @@
+{
+    "uuid": "96128ca6-0601-11e8-ae97-52543be04c81",
+    "name": "L'Autre Radio",
+    "url": "http://80.82.229.202:8000/lautredirect.mp3",
+    "homepage": "http://www.lautreradio.fr/",
+    "favicon": "http://www.lautreradio.fr/sites/all/themes/lautreradio/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Pays de la Loire",
+    "bitrate": 128
+}

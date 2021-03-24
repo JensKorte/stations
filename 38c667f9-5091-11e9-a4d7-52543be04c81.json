@@ -1,0 +1,14 @@
+{
+    "uuid": "38c667f9-5091-11e9-a4d7-52543be04c81",
+    "name": "Skylab Radio",
+    "url": "http://stream.skylab-radio.com:8000/live",
+    "homepage": "http://skylab-radio.com",
+    "favicon": "http://skylab-radio.com/images/ba174bd0da1efd13ce41afccf5a9e063.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "experimental,rock,techno,hip-hop,house,ambient,eclectic",
+    "state": "Melbourne",
+    "bitrate": 128
+}

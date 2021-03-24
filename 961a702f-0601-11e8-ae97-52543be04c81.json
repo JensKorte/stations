@@ -1,0 +1,14 @@
+{
+    "uuid": "961a702f-0601-11e8-ae97-52543be04c81",
+    "name": "Musica Jazz Radio",
+    "url": "http://ice03.fluidstream.net/mjr.aac",
+    "homepage": "https://www.musicajazz.it/",
+    "favicon": "https://www.musicajazz.it/wp-content/uploads/mj.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "milano,jazz,blues",
+    "state": "Lombardia",
+    "bitrate": 128
+}

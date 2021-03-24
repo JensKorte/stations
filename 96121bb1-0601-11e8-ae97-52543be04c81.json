@@ -1,0 +1,14 @@
+{
+    "uuid": "96121bb1-0601-11e8-ae97-52543be04c81",
+    "name": "Záhorácke Rádio",
+    "url": "http://live.zahorackeradio.sk:8080/zr128.mp3",
+    "homepage": "http://www.zahorackeradio.sk",
+    "favicon": "https://www.zahorackeradio.sk/apps/zahorrad/templates/zahorrad/img/zahoracke_radio_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "local news,local radio",
+    "state": "Záhorie",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963d622d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Stad Harlingen",
+    "url": "http://server-09.stream-server.nl:8516/",
+    "homepage": "http://www.radiostadharlingen.nl/",
+    "favicon": "http://www.radiostadharlingen.nl/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

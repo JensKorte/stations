@@ -1,0 +1,14 @@
+{
+    "uuid": "e9f70516-8a20-11e9-ad01-52543be04c81",
+    "name": "KFGM Missoula Freeform Radio",
+    "url": "http://stream.1055kfgm.org:8000/stream",
+    "homepage": "http://1055kfgm.org/",
+    "favicon": "http://1055kfgm.org/wp-content/uploads/2015/05/favicon-32x321.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "local radio,freeform music,freeform music,freeform,freeform",
+    "state": "Montana",
+    "bitrate": 128
+}

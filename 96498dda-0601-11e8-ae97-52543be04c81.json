@@ -1,0 +1,14 @@
+{
+    "uuid": "96498dda-0601-11e8-ae97-52543be04c81",
+    "name": "Radio ViennaPLus Polskie Radio Wieden",
+    "url": "http://radio.viennaplus.at:8000",
+    "homepage": "http://www.viennaplus.at/",
+    "favicon": "http://www.viennaplus.at/userfiles/images/template/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "polish",
+    "tags": "polska",
+    "state": "Wien",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "0b312368-dc4f-11e8-a9cc-52543be04c81",
+    "name": "Classic Rock Radio",
+    "url": "http://internetradio.salue.de:8000/classicrock.aac",
+    "homepage": "https://www.classicrock-radio.de/",
+    "favicon": "https://www.classicrock-radio.de//assets/img/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "radio sarrebruck,classic rock",
+    "state": "Saarland",
+    "bitrate": 64
+}

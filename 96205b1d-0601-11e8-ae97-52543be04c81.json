@@ -1,0 +1,14 @@
+{
+    "uuid": "96205b1d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Capital Classic Rock",
+    "url": "http://capital-webradio-02-hds.akamai.media.kataweb.it/i/WebRadio2_1@117624/master.m3u8",
+    "homepage": "https://www.capital.it/webradio/02/",
+    "favicon": "https://www.capital.it/wp-content/themes/network-capital/img/logo_capital.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "m3u8,l'espresso,classic rock",
+    "state": "Lazio",
+    "bitrate": 46
+}

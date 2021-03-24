@@ -1,0 +1,14 @@
+{
+    "uuid": "352e8751-e922-428c-8e76-89a623e44ad0",
+    "name": "Radio Líder",
+    "url": "http://server9.emitironline.com:8200/stream",
+    "homepage": "http://www.radiolider.com/inicio",
+    "favicon": "http://www.radiolider.com/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "latin music,music",
+    "state": "Galicia",
+    "bitrate": 0
+}

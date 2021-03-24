@@ -1,0 +1,14 @@
+{
+    "uuid": "18b51dd3-3a14-4eef-83e6-b516ee20996a",
+    "name": "Ràdio País",
+    "url": "https://stunnel2.cyber-streaming.com:9272/stream",
+    "homepage": "https://www.radiopais.fr/",
+    "favicon": "https://image.jimcdn.com/app/cms/image/transf/dimension=172x10000:format=jpg/path/sd96377f7b4dbab39/image/ifa473acdc9641105/version/1544116462/image.jpg",
+    "creation": "2021-03-09 13:17:54",
+    "country": "France",
+    "country_code": "FR",
+    "language": "bearnese,gascon,occitan",
+    "tags": "traditional,folk,music,news,talk,regional,occitania,gascony,bearn",
+    "state": "Béarn",
+    "bitrate": 0
+}

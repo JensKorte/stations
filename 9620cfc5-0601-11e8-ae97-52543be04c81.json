@@ -1,0 +1,14 @@
+{
+    "uuid": "9620cfc5-0601-11e8-ae97-52543be04c81",
+    "name": "Radino - Mein Kinderradio Wien 103,2",
+    "url": "http://stream01.zogl.net:8906/stream",
+    "homepage": "http://www.meinkinderradio.at",
+    "favicon": "http://meinkinderradio.at/cms_files/siteadmin/site-design/header.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "dab+,kids,children",
+    "state": "Vienna",
+    "bitrate": 123
+}

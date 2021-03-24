@@ -1,0 +1,14 @@
+{
+    "uuid": "961b5317-0601-11e8-ae97-52543be04c81",
+    "name": "RFC (Radio Fréquence Caraïbes)",
+    "url": "http://163.172.59.44:8000/stream.mp3;",
+    "homepage": "http://www.rfc.com.fr/",
+    "favicon": "http://www.acicrfcorangefr-60.webself.net/file/si137566/Radio%20Frequence%20Caraibes-fi2443778.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "outre-mer",
+    "state": "Martinique",
+    "bitrate": 128
+}

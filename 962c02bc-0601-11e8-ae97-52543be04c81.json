@@ -1,0 +1,14 @@
+{
+    "uuid": "962c02bc-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ibiza",
+    "url": "http://wma08.fluidstream.net:5010/;stream.aac",
+    "homepage": "http://www.radioibiza.it/",
+    "favicon": "http://www.radioibiza.it/images/asset/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "napoli,dance,electronica",
+    "state": "Campania",
+    "bitrate": 64
+}

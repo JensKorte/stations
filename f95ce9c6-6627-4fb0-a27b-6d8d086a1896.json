@@ -1,0 +1,14 @@
+{
+    "uuid": "f95ce9c6-6627-4fb0-a27b-6d8d086a1896",
+    "name": "WSJC 810 AM",
+    "url": "http://67.212.165.106:8004/stream",
+    "homepage": "https://wsjcradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WSJC.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "religious",
+    "state": "Magee MS",
+    "bitrate": 64
+}

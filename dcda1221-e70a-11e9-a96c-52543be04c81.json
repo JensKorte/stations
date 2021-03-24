@@ -1,0 +1,14 @@
+{
+    "uuid": "dcda1221-e70a-11e9-a96c-52543be04c81",
+    "name": "RFI Musique",
+    "url": "http://live02.rfi.fr/rfimusiquemonde-96k.mp3",
+    "homepage": "https://musique.rfi.fr/",
+    "favicon": "https://musique.rfi.fr//mstile-144x144.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "france médias monde,world music,public radio",
+    "state": "",
+    "bitrate": 0
+}

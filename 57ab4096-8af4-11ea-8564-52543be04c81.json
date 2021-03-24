@@ -1,0 +1,14 @@
+{
+    "uuid": "57ab4096-8af4-11ea-8564-52543be04c81",
+    "name": "tequila fm",
+    "url": "http://necenzurat.radiotequila.ro:7000/stream",
+    "homepage": "https://www.radiotequila.ro/",
+    "favicon": "https://www.radiotequila.ro/",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "romanian",
+    "tags": "hip hop romanian",
+    "state": "",
+    "bitrate": 128
+}

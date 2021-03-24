@@ -1,0 +1,14 @@
+{
+    "uuid": "290e9bfa-3001-48d5-b3bd-d0cb8be36d50",
+    "name": "墨尔本3CW澳大利亚中文广播电台",
+    "url": "http://streamer2.rightclickitservices.com:7210/stream",
+    "homepage": "https://www.3cw.com.au",
+    "favicon": "https://bkimg.cdn.bcebos.com/pic/0eb30f2442a7d933c895642bb602c61373f08202ab18?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "chinese",
+    "tags": "news",
+    "state": "",
+    "bitrate": 32
+}

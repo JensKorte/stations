@@ -1,0 +1,14 @@
+{
+    "uuid": "7becaf60-365b-11ea-8dd7-52543be04c81",
+    "name": "Radio Formula 104.1",
+    "url": "http://107.155.72.152/radiofaudio/RF.FM104.1/icecast.audio",
+    "homepage": "https://www.radioformula.com.mx/",
+    "favicon": "https://www.radioformula.com.mx/wp-content/uploads/2018/08/cropped-favicon_530x530-192x192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "",
+    "state": "CDMX",
+    "bitrate": 192
+}

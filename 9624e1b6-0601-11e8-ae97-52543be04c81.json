@@ -1,0 +1,14 @@
+{
+    "uuid": "9624e1b6-0601-11e8-ae97-52543be04c81",
+    "name": "WRUR 88.5 \"Different Radio\" Rochester, NY (MP3)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WRURFM.mp3",
+    "homepage": "http://thesting.wrur.org/",
+    "favicon": "http://interactive.wxxi.org/sites/default/files/inserts/listen-wrur.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "rochester,adult album alternative,npr,public radio",
+    "state": "New York",
+    "bitrate": 64
+}

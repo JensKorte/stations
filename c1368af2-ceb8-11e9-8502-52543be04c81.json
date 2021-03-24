@@ -1,0 +1,14 @@
+{
+    "uuid": "c1368af2-ceb8-11e9-8502-52543be04c81",
+    "name": "Radio Nova",
+    "url": "http://stream.radionova.no/mp3",
+    "homepage": "https://radionova.no/",
+    "favicon": "https://radionova.no/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "",
+    "state": "Oslo",
+    "bitrate": 0
+}

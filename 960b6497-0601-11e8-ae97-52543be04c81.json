@@ -1,0 +1,14 @@
+{
+    "uuid": "960b6497-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Active",
+    "url": "http://radio-active.net:8000/active",
+    "homepage": "http://www.radio-active.net/",
+    "favicon": "http://www.radio-active.net/squelettes/logos/active.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "320kbps",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "bitrate": 320
+}

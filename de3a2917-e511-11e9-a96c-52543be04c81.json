@@ -1,0 +1,14 @@
+{
+    "uuid": "de3a2917-e511-11e9-a96c-52543be04c81",
+    "name": "UdeC Radio (HJA97, 99.5 MHz FM, Cartagena de Indias) Universidad de Cartagena",
+    "url": "http://190.242.62.236:8000/;stream.nsv",
+    "homepage": "https://udecradio.unicartagena.edu.co/",
+    "favicon": "https://udecradio.unicartagena.edu.co/images/logo-udec-radio.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "soukuss,champeta,pop,rock,colombian music,cuban music,tropical music,music,news,full service,eclectic,public radio,college radio,university radio",
+    "state": "Bolivar",
+    "bitrate": 256
+}

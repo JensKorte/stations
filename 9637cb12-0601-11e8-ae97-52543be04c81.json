@@ -1,0 +1,14 @@
+{
+    "uuid": "9637cb12-0601-11e8-ae97-52543be04c81",
+    "name": "Mustár Rádió",
+    "url": "http://193.138.125.14:8500/;",
+    "homepage": "http://www.mustarhaz.hu/mustarhaz/mustar-fm/",
+    "favicon": "http://mustarhaz.hu/wp-content/uploads/8766.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "local radio,non-profit",
+    "state": "Szabolcs-Szatmár-Bereg",
+    "bitrate": 128
+}

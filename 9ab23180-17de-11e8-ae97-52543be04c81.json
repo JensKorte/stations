@@ -1,0 +1,14 @@
+{
+    "uuid": "9ab23180-17de-11e8-ae97-52543be04c81",
+    "name": "Rádio Cidade",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
+    "homepage": "https://radiocidade.fm/",
+    "favicon": "https://radiocidade.fm/wp-content/uploads/2017/05/LogoRC-Site-1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "brazilian music,pop,contemporary,rock",
+    "state": "Rio de Janeiro",
+    "bitrate": 48
+}

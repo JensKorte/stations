@@ -1,0 +1,14 @@
+{
+    "uuid": "962af4ae-0601-11e8-ae97-52543be04c81",
+    "name": "Perú Folk Radio",
+    "url": "http://gnstreammedia.net:8020/;stream.aac",
+    "homepage": "http://www.perufolkradio.com/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s84116q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "folk music,andean music",
+    "state": "Trujillo",
+    "bitrate": 64
+}

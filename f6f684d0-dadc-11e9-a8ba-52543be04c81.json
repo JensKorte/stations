@@ -1,0 +1,14 @@
+{
+    "uuid": "f6f684d0-dadc-11e9-a8ba-52543be04c81",
+    "name": "NRK mP3",
+    "url": "http://lyd.nrk.no/nrk_radio_mp3_aac_h.m3u",
+    "homepage": "http://nrk.no",
+    "favicon": "http://nrk.no//assets/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

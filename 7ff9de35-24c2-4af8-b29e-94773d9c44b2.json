@@ -1,0 +1,14 @@
+{
+    "uuid": "7ff9de35-24c2-4af8-b29e-94773d9c44b2",
+    "name": "Radio 92 FM",
+    "url": "https://onlineradiobox.com/json/hr/92fm/play?platform=web",
+    "homepage": "https://www.facebook.com/radio92eu/",
+    "favicon": "https://cdn.onlineradiobox.com/img/logo/7/47297.v2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 192
+}

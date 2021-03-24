@@ -1,0 +1,14 @@
+{
+    "uuid": "7cd80d5a-54d4-4597-9e27-f82ece194e06",
+    "name": "92 PRO-FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WPROFMAAC.aac",
+    "homepage": "https://www.92profm.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WPRO-FM.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "top 40,pop",
+    "state": "Brookline MA",
+    "bitrate": 48
+}

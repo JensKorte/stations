@@ -1,0 +1,14 @@
+{
+    "uuid": "962cafaa-0601-11e8-ae97-52543be04c81",
+    "name": "Studio Tre Radio",
+    "url": "http://stream1.coolnetwork.it:8006/stream",
+    "homepage": "http://www.studiotreradio.net/",
+    "favicon": "http://www.studiotreradio.net/images/studio3-logo-ocra.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "caltagirone,top 40,pop",
+    "state": "Sicilia",
+    "bitrate": 128
+}

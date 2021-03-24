@@ -1,0 +1,14 @@
+{
+    "uuid": "67cc2316-5ca5-46e9-b8e9-b374210cef0d",
+    "name": "Radio van de Lach",
+    "url": "http://45.155.156.199:8000/live.mp3",
+    "homepage": "http://www.radiovandelach.nl",
+    "favicon": "",
+    "creation": "2021-03-03 14:10:25",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "comedy",
+    "state": "",
+    "bitrate": 320
+}

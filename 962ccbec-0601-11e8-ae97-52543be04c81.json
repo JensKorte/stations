@@ -1,0 +1,14 @@
+{
+    "uuid": "962ccbec-0601-11e8-ae97-52543be04c81",
+    "name": "Radio SWH Rock",
+    "url": "http://80.232.162.149:8000/rock96mp3.m3u",
+    "homepage": "http://www.radioswhrock.lv/",
+    "favicon": "http://www.radioswhrock.lv/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "classic rock,modern rock",
+    "state": "",
+    "bitrate": 192
+}

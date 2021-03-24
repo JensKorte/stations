@@ -1,0 +1,14 @@
+{
+    "uuid": "961fbbec-0601-11e8-ae97-52543be04c81",
+    "name": "Puls FM",
+    "url": "http://www.pulsfm.de/listen.asx",
+    "homepage": "http://www.pulsfm.de",
+    "favicon": "http://www.pulsfm.de/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "dance",
+    "state": "Berlin",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963b4a23-0601-11e8-ae97-52543be04c81",
+    "name": "Homeboyz Radio",
+    "url": "http://91.121.165.88:8116/stream",
+    "homepage": "http://hbr.co.ke/",
+    "favicon": "http://cdn-profiles.tunein.com/s78058/images/logoq.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Kenya",
+    "country_code": "KE",
+    "language": "english",
+    "tags": "hiphop,soul,rnb,dancehall",
+    "state": "Nairobi",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e99b28c8-b937-11e9-acb2-52543be04c81",
+    "name": "Radio Cantilo",
+    "url": "http://radio.solumedia.com.ar:7231/stream",
+    "homepage": "https://www.radiocantilo.com/",
+    "favicon": "https://www.radiocantilo.com/live/radio-cantilo-com-live.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "castellano",
+    "tags": "",
+    "state": "La Plata",
+    "bitrate": 64
+}

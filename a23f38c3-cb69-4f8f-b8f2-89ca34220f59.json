@@ -1,0 +1,14 @@
+{
+    "uuid": "a23f38c3-cb69-4f8f-b8f2-89ca34220f59",
+    "name": "Radio ECHOPLUS",
+    "url": "http://radio2.stream24.net:9120/live.mp3",
+    "homepage": "https://www.radio-echoplus.at/",
+    "favicon": "https://www.radio-echoplus.at/gallery_gen/48e1debb49a168a454c4cabbc3b70d2f_860x280_-0x-0_860x282.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 320
+}

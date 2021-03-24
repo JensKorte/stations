@@ -1,0 +1,14 @@
+{
+    "uuid": "96107161-0601-11e8-ae97-52543be04c81",
+    "name": "NRK Klassisk (Høy Kvalitet)",
+    "url": "http://nrk-mms-live.telenorcdn.net:80/nrk_radio_klassisk_mp3_h",
+    "homepage": "https://radio.nrk.no/direkte/klassisk",
+    "favicon": "http://static.mytuner.mobi/media/tvos_radios/Nr8a4pN7rZ.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "music,classical",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963d153d-0601-11e8-ae97-52543be04c81",
+    "name": "M-1 [AAC]",
+    "url": "http://stream.m-1.fm/M-1aacp",
+    "homepage": "http://www.m-1.fm/",
+    "favicon": "http://www.m-1.fm/bitrix/templates/m1/images/500x500.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "uab m-1",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "23a0a3b5-b271-4bdf-bd11-36662a480a92",
+    "name": "Teledeporte TV 1",
+    "url": "https://rtvelivestream.akamaized.net/tdp_dvr.m3u8",
+    "homepage": "https://www.rtve.es/directo/teledeporte/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjzsvTbwBbMrxZd6Dpfxxe4Vf_s57y9F97Uw\u0026usqp=CAU",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,castellano,español",
+    "tags": "deportes",
+    "state": "Madrid",
+    "bitrate": 5151
+}

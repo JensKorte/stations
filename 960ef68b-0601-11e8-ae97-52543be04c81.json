@@ -1,0 +1,14 @@
+{
+    "uuid": "960ef68b-0601-11e8-ae97-52543be04c81",
+    "name": "Sunshine FM",
+    "url": "http://195.56.193.129:8100/;stream/1",
+    "homepage": "http://www.sunshinefm.hu/",
+    "favicon": "http://www.sunshineradio.hu/placeholders/2016_minilogo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "",
+    "state": "Szabolcs-Szatmár-Bereg",
+    "bitrate": 128
+}

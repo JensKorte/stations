@@ -1,0 +1,14 @@
+{
+    "uuid": "962efd8a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bologna Uno",
+    "url": "http://web.bolognauno.it:9944/stream",
+    "homepage": "http://www.radiobolognauno.it/",
+    "favicon": "http://www.radiobolognauno.it/images/logo_small.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "bologna,adult contemporary,talk,sport",
+    "state": "Emilia-Romagna",
+    "bitrate": 128
+}

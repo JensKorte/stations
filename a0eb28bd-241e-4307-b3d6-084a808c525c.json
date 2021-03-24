@@ -1,0 +1,14 @@
+{
+    "uuid": "a0eb28bd-241e-4307-b3d6-084a808c525c",
+    "name": "Radio City - Oulu",
+    "url": "http://stream.bauermedia.fi/radiocity/oul_64.aac",
+    "homepage": "https://www.radiocity.fi/",
+    "favicon": "https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "Pohjois-Pohjamaa",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "11aa1bdd-2d3c-11e9-a35e-52543be04c81",
+    "name": "Novoe TV",
+    "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
+    "homepage": "http://novoetv.kz/",
+    "favicon": "http://novoetv.kz/wp-content/uploads/2017/04/cropped-IMG_6373-192x192.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "language": "russian",
+    "tags": "",
+    "state": "Karaganda",
+    "bitrate": 1160
+}

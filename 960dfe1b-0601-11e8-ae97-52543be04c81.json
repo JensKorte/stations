@@ -1,0 +1,14 @@
+{
+    "uuid": "960dfe1b-0601-11e8-ae97-52543be04c81",
+    "name": "ADN",
+    "url": "http://provisioning.streamtheworld.com/pls/ADNAAC.pls",
+    "homepage": "http://www.adnradio.cl/",
+    "favicon": "http://www.adnradio.cl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "news,sport",
+    "state": "Santiago",
+    "bitrate": 56
+}

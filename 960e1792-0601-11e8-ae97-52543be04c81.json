@@ -1,0 +1,14 @@
+{
+    "uuid": "960e1792-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bonn/Rhein-Sieg",
+    "url": "http://stream.lokalradio.nrw/rbrs",
+    "homepage": "http://www.radiobonn.de/",
+    "favicon": "http://www.radiobonn.de//img/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40,regional radio,regional service (german",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

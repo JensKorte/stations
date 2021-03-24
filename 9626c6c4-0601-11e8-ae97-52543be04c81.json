@@ -1,0 +1,14 @@
+{
+    "uuid": "9626c6c4-0601-11e8-ae97-52543be04c81",
+    "name": "Exa FM 92.5 Ecuador",
+    "url": "http://playerservices.streamtheworld.com/pls/ECUADORAAC.pls",
+    "homepage": "http://www.exafm.com/#!/ecuador/home",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s95322q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "latin pop,top 40,pop,electronica",
+    "state": "Quito",
+    "bitrate": 48
+}

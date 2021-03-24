@@ -1,0 +1,14 @@
+{
+    "uuid": "1b73d269-1e00-48c3-a84c-bbffeded9de0",
+    "name": "YourTime-FM",
+    "url": "https://stream.laut.fm/yourtime-fm",
+    "homepage": "https://www.yourtimefm.de",
+    "favicon": "https://assets.laut.fm/ddacd0e84c6bc3fa2e3f52218dd51107?t=_640x640",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "englisch,deutsch",
+    "tags": "young adults,electronic,dance,pop,top100,mainstream",
+    "state": "Lower Saxony",
+    "bitrate": 128
+}

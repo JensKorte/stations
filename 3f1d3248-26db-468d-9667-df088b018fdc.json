@@ -1,0 +1,14 @@
+{
+    "uuid": "3f1d3248-26db-468d-9667-df088b018fdc",
+    "name": "radio campus",
+    "url": "http://streamer.radiocampus.be/stream.mp3",
+    "homepage": "http://www.radiocampus.be/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "farsi,francais",
+    "tags": "free radio,alternative,university radio,community radio",
+    "state": "Brussels",
+    "bitrate": 128
+}

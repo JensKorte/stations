@@ -1,0 +1,14 @@
+{
+    "uuid": "962039d2-0601-11e8-ae97-52543be04c81",
+    "name": "ERR Raadio 2",
+    "url": "http://icecast.err.ee:80/raadio2.mp3",
+    "homepage": "https://r2.err.ee/",
+    "favicon": "https://r2.err.ee//Content/favicon/favikon-raadio2.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "tallinn,err,public radio",
+    "state": "Harjumaa",
+    "bitrate": 0
+}

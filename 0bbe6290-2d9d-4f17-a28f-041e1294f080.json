@@ -1,0 +1,14 @@
+{
+    "uuid": "0bbe6290-2d9d-4f17-a28f-041e1294f080",
+    "name": "EUROSPORT 2",
+    "url": "http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8?mvk",
+    "homepage": "https://www.eurosport.es/",
+    "favicon": "https://satcesc.com/wp-content/uploads/2016/01/eurosport_2.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,castellano,español",
+    "tags": "sports,deportes",
+    "state": "Madrid",
+    "bitrate": 0
+}

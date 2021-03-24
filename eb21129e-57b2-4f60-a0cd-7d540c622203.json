@@ -1,0 +1,14 @@
+{
+    "uuid": "eb21129e-57b2-4f60-a0cd-7d540c622203",
+    "name": "WUSF 89.7 University of South Florida NPR",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WUSFFM.mp3",
+    "homepage": "https://wusfnews.wusf.usf.edu/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "tampa,npr,jazz,news",
+    "state": "Florida",
+    "bitrate": 64
+}

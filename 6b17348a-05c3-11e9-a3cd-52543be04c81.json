@@ -1,0 +1,14 @@
+{
+    "uuid": "6b17348a-05c3-11e9-a3cd-52543be04c81",
+    "name": "Polskie Radio Trojka AAC",
+    "url": "http://stream3.polskieradio.pl:8954/;.mp3",
+    "homepage": "https://www.polskieradio.pl/9,Trojka",
+    "favicon": "https://www.polskieradio.pl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "",
+    "tags": "polskieradio",
+    "state": "",
+    "bitrate": 128
+}

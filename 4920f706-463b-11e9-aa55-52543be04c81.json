@@ -1,0 +1,14 @@
+{
+    "uuid": "4920f706-463b-11e9-aa55-52543be04c81",
+    "name": "egoSNOW",
+    "url": "https://egofm-snow.cast.addradio.de/egofm/snow/mp3/high/stream.mp3?ar-distributor=f0a2",
+    "homepage": "https://www.egofm.de/streams/egosnow",
+    "favicon": "https://www.egofm.de/content/images/stream/egosnow/egofm-snow-og.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "alternative,rock,indie",
+    "state": "Bavaria",
+    "bitrate": 128
+}

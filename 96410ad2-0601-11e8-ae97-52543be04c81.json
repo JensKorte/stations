@@ -1,0 +1,14 @@
+{
+    "uuid": "96410ad2-0601-11e8-ae97-52543be04c81",
+    "name": "iWebRadio",
+    "url": "http://nr4.newradio.it:9400/;stream.mp3",
+    "homepage": "https://www.iwebradio.fm/",
+    "favicon": "https://www.iwebradio.fm/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "reggio calabria,adult contemporary",
+    "state": "Calabria",
+    "bitrate": 128
+}

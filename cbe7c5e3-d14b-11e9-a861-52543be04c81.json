@@ -1,0 +1,14 @@
+{
+    "uuid": "cbe7c5e3-d14b-11e9-a861-52543be04c81",
+    "name": "Méz Rádió - Veszprém FM 103,1 MHz",
+    "url": "http://stream.mezradio.hu:7812/mezfm128.mp3",
+    "homepage": "http://www.mezradio.hu/",
+    "favicon": "http://www.mezradio.hu/assets/images/mr.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

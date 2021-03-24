@@ -1,0 +1,14 @@
+{
+    "uuid": "962c397e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Pescara",
+    "url": "http://173.193.205.96:9088/;stream.mp3",
+    "homepage": "http://www.radiopescara.it/",
+    "favicon": "http://173.193.205.96:2197/static/radiopescara/covers/nocover.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pescara,top 40,pop",
+    "state": "Abruzzo",
+    "bitrate": 128
+}

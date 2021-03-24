@@ -1,0 +1,14 @@
+{
+    "uuid": "2d499a4d-81fd-4423-902d-481746d13c5d",
+    "name": "Franken Fernsehen TV",
+    "url": "https://stream03.stream.welocal.world/stream/frf/ngrp:frf.stream_all/chunklist_w1673655060_b946000.m3u8",
+    "homepage": "https://www.frankenfernsehen.tv/",
+    "favicon": "https://s3.welocal.world/frankenfernsehen/sources/5d3addbec969b.svg",
+    "creation": "2021-02-13 21:45:20",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv,franken",
+    "state": "",
+    "bitrate": 0
+}

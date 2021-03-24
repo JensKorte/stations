@@ -1,0 +1,14 @@
+{
+    "uuid": "960bfc04-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 2",
+    "url": "http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3",
+    "homepage": "http://swr.de/swr2/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/swr_swr2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classical,drama,jazz,culture",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

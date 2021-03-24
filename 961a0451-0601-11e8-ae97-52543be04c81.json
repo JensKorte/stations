@@ -1,0 +1,14 @@
+{
+    "uuid": "961a0451-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 702 Sydney (AAC)",
+    "url": "http://live-radio01.mediahubaustralia.com/2LRW/aac/",
+    "homepage": "http://www.abc.net.au/sydney/",
+    "favicon": "http://www.abc.net.au/cm/rimage/7893524-1x1-large.png?v=6",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "public radio,sydney,abc,local news,information,news",
+    "state": "New South Wales",
+    "bitrate": 48
+}

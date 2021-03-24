@@ -1,0 +1,14 @@
+{
+    "uuid": "c76f4d02-6c15-46ea-8094-72ca70c936be",
+    "name": "ZoneRadio - Top 100",
+    "url": "https://stream01.zoneradio.de/top-100_hq",
+    "homepage": "https://zoneradio.de/top100",
+    "favicon": "https://zoneradio.de/dist/assets/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "aktuell,charts,non-stop,non-stop music,aktuelle deutsche charts non-stop",
+    "state": "",
+    "bitrate": 128
+}

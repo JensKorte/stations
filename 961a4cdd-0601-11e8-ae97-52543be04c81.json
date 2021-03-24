@@ -1,0 +1,14 @@
+{
+    "uuid": "961a4cdd-0601-11e8-ae97-52543be04c81",
+    "name": "Infowars",
+    "url": "http://stream-mp3.infowars.com:80/",
+    "homepage": "http://www.infowars.com",
+    "favicon": "https://www.infowars.com/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "survivalism,conspiracies,conspiracy theories,talk,news,information",
+    "state": "Texas",
+    "bitrate": 32
+}

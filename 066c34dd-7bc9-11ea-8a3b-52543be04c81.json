@@ -1,0 +1,14 @@
+{
+    "uuid": "066c34dd-7bc9-11ea-8a3b-52543be04c81",
+    "name": "Radio XO FM",
+    "url": "http://159.148.11.137:8000/xofm256aac",
+    "homepage": "https://xo.fm/",
+    "favicon": "https://xo.fm//view/site/favicons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "english",
+    "tags": "jazz",
+    "state": "",
+    "bitrate": 256
+}

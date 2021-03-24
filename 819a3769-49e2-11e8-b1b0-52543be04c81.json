@@ -1,0 +1,14 @@
+{
+    "uuid": "819a3769-49e2-11e8-b1b0-52543be04c81",
+    "name": "health.tv",
+    "url": "http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8",
+    "homepage": "http://www.healthtv.de/",
+    "favicon": "http://www.healthtv.de///",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 2345
+}

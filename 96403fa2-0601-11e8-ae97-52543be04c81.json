@@ -1,0 +1,14 @@
+{
+    "uuid": "96403fa2-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Westerwald",
+    "url": "http://radiowesterwald.de:8000/live",
+    "homepage": "http://www.radiowesterwald.de",
+    "favicon": "http://www.radiowesterwald.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

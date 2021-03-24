@@ -1,0 +1,14 @@
+{
+    "uuid": "96117fec-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio Program 1",
+    "url": "http://mp3.polskieradio.pl:8900",
+    "homepage": "http://www.polskieradio.pl/jedynka/",
+    "favicon": "http://moje.polskieradio.pl/_img/kanaly/pr1.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polskieradio,public radio",
+    "state": "Warszawa",
+    "bitrate": 192
+}

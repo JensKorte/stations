@@ -1,0 +1,14 @@
+{
+    "uuid": "06da0d92-28c2-11e9-a80b-52543be04c81",
+    "name": "Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
+    "homepage": "https://radiocidade.fm/",
+    "favicon": "https://radiocidade.fm/wp-content/uploads/2019/01/cropped-radiocidade-favicon-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "soft rock,classic rock,brazilian rock,hot adult contemporary",
+    "state": "Rio de Janeiro",
+    "bitrate": 48
+}

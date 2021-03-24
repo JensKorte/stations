@@ -1,0 +1,14 @@
+{
+    "uuid": "3be96d4f-6f36-11e9-af37-52543be04c81",
+    "name": "TLIG Radio German",
+    "url": "http://46.28.49.164:7819/stream",
+    "homepage": "https://tligradio.org/de/",
+    "favicon": "https://tligradio.org/wp-content/uploads/2014/07/slider.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "talk,religion,catholic,christian",
+    "state": "",
+    "bitrate": 128
+}

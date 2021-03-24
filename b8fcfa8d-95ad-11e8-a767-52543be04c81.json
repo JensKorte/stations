@@ -1,0 +1,14 @@
+{
+    "uuid": "b8fcfa8d-95ad-11e8-a767-52543be04c81",
+    "name": "Lincs FM",
+    "url": "http://lincs.planetwideradio.com:8000/lincsfm",
+    "homepage": "http://www.lincsfm.co.uk/",
+    "favicon": "https://mm.aiircdn.com/50/828250.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "local,pop",
+    "state": "Lincolnshire",
+    "bitrate": 0
+}

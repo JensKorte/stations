@@ -1,0 +1,14 @@
+{
+    "uuid": "963e79e2-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Arenys",
+    "url": "http://streaming.enantena.com:8000/radioarenysdemar128.mp3",
+    "homepage": "http://www.radioarenys.cat/",
+    "favicon": "https://enacast.com/media/cache/d2/4a/d24aff9311c7ffc66a142b6106620839.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "arenys de mar",
+    "state": "Barcelona",
+    "bitrate": 0
+}

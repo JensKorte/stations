@@ -1,0 +1,14 @@
+{
+    "uuid": "e8e9db52-4018-4d94-a5cc-5bacdb402fbe",
+    "name": "MUSIC FM",
+    "url": "https://music-fm.stream.laut.fm/music-fm-",
+    "homepage": "https://music-fm.de/",
+    "favicon": "https://assets.laut.fm/cd661ca78b4b4f89e21a76cf4cb54236?t=_120x120",
+    "creation": "2021-02-12 20:09:34",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top charts,charts,dance,pop",
+    "state": "munich",
+    "bitrate": 128
+}

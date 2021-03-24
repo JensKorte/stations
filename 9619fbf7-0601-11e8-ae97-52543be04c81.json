@@ -1,0 +1,14 @@
+{
+    "uuid": "9619fbf7-0601-11e8-ae97-52543be04c81",
+    "name": "SABC 5fm",
+    "url": "http://capeant.antfarm.co.za:8000/5fm",
+    "homepage": "http://www.5fm.co.za/",
+    "favicon": "http://www.5fm.co.za/sabc/contenthandler/!ut/p/digest!vR64Cz2E1qEj4XQyBKvQ2w/war/CustomTheme8Static/themes/Portal8.0/pivot/5fm/images/facebook/default.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "language": "english",
+    "tags": "sabc,public radio,top 40,contemporary hits",
+    "state": "Gauteng",
+    "bitrate": 0
+}

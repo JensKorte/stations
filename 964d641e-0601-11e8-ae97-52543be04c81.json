@@ -1,0 +1,14 @@
+{
+    "uuid": "964d641e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Exitosa (OCW-4Z, 95.5 MHz, Lima)",
+    "url": "http://167.114.118.120:7444/;",
+    "homepage": "http://exitosanoticias.pe/",
+    "favicon": "http://www.radioexitosa.pe/archivo/112e88_logoexitosa.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "politics,local news",
+    "state": "Lima",
+    "bitrate": 48
+}

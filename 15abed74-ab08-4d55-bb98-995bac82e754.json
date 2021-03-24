@@ -1,0 +1,14 @@
+{
+    "uuid": "15abed74-ab08-4d55-bb98-995bac82e754",
+    "name": "Radio Opatów",
+    "url": "http://stream2.nadaje.com:11144/;stream",
+    "homepage": "http://www.ook.internetdsl.pl/radioprzeboje.html",
+    "favicon": "http://www.ook.internetdsl.pl/radio/radio_logo2016.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "regional,regional radio,disco polo,dance,pop",
+    "state": "",
+    "bitrate": 128
+}

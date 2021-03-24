@@ -1,0 +1,14 @@
+{
+    "uuid": "773bbd5a-41fe-11e8-b74d-52543be04c81",
+    "name": "Tau",
+    "url": "http://radijas.tau.lt:8000/stream",
+    "homepage": "http://www.tau.lt/",
+    "favicon": "http://www.tau.lt/site/img/logo.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "uab artvydas",
+    "state": "",
+    "bitrate": 0
+}

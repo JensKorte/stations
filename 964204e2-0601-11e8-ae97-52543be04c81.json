@@ -1,0 +1,14 @@
+{
+    "uuid": "964204e2-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Studio 56",
+    "url": "http://streams.fluxfm.de/studio56/mp3-320/audio/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "http://www.fluxfm.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Berlin",
+    "bitrate": 320
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a5caf95e-51e3-48ea-9617-76c047e5c68d",
+    "name": "FM Esperanza 107.1 - Maquinista Savio",
+    "url": "https://streaming.evolucionstreaming.com:10966/stream?icy=http",
+    "homepage": "https://www.radiofmesperanza.com",
+    "favicon": "https://www.radiofmesperanza.com/imagenes/banner.png",
+    "creation": "2021-02-22 02:36:52",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "guarani,spanish,español,español latino",
+    "tags": "conurbano,cumbia,chamame,fm",
+    "state": "Provincia de Buenos Aires",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96151623-0601-11e8-ae97-52543be04c81",
+    "name": "KOPB 91.5 Oregon Public Broadcasting - Portland, OR",
+    "url": "http://stream1.opb.org/radio.mp3",
+    "homepage": "http://www.opb.org/",
+    "favicon": "http://www.opb.org/s/chrome/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "portland,apm,pri,opb,politics,culture,news,talk,npr,public",
+    "state": "Oregon",
+    "bitrate": 128
+}

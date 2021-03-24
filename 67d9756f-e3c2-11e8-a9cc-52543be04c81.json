@@ -1,0 +1,14 @@
+{
+    "uuid": "67d9756f-e3c2-11e8-a9cc-52543be04c81",
+    "name": "HardSoundRadio",
+    "url": "http://198.27.66.225:9170/stream",
+    "homepage": "http://www.hardersound.net",
+    "favicon": "http://www.hardersound.net/wp-content/uploads/2018/01/HardSoundRadio-HSR-hard-sound-radio-300x300.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "hardcore,gabber,techno,breakcore,speedcore,darkcore",
+    "state": "",
+    "bitrate": 256
+}

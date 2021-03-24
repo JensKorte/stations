@@ -1,0 +1,14 @@
+{
+    "uuid": "ed91f5bf-70fa-11ea-b1cf-52543be04c81",
+    "name": "QUB Radio",
+    "url": "http://playerservices.streamtheworld.com/pls/QUB_RADIOAAC.pls",
+    "homepage": "https://www.qub.radio/",
+    "favicon": "https://www.qub.radio/images/IMG_FB.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "français",
+    "tags": "political talk,talk,news,canada,montreal,quebec city",
+    "state": "",
+    "bitrate": 64
+}

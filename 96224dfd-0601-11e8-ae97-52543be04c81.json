@@ -1,0 +1,14 @@
+{
+    "uuid": "96224dfd-0601-11e8-ae97-52543be04c81",
+    "name": "CHOA 96.5, 103.5 \u0026 103.9 \"WOW Abitibi\" Rouyn-Noranda, QC",
+    "url": "http://icecast-chlx.rncm.ca/chlx.mp3",
+    "homepage": "http://www.wowabitibi.ca/",
+    "favicon": "https://s3choi.rncm.ca/rncmedia/logo_de_station/wow_965.png?mtime=20170821133407",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "adult contemporary,abitibi,rouyn-noranda",
+    "state": "Quebec",
+    "bitrate": 128
+}

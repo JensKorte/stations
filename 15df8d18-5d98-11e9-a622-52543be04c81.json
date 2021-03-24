@@ -1,0 +1,14 @@
+{
+    "uuid": "15df8d18-5d98-11e9-a622-52543be04c81",
+    "name": "Radio Mokawa 93.9 FM",
+    "url": "http://stream.hdserver.biz:9474/listen.pls",
+    "homepage": "https://radiomokawafm.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s242653/images/logoq.png?t=154773",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "folk,news,noticias,musica,music",
+    "state": "Pastaza",
+    "bitrate": 64
+}

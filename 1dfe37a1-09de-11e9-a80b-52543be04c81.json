@@ -1,0 +1,14 @@
+{
+    "uuid": "1dfe37a1-09de-11e9-a80b-52543be04c81",
+    "name": "Radio 4G",
+    "url": "http://sergiobastida.es:8000/radio4gmurcia",
+    "homepage": "http://sergiobastida.es:8000/radio4gmurcia",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español",
+    "tags": "",
+    "state": "Murcia",
+    "bitrate": 96
+}

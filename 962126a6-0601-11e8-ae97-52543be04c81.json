@@ -1,0 +1,14 @@
+{
+    "uuid": "962126a6-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Jazz",
+    "url": "http://icecast1.play.cz/crojazz128.mp3",
+    "homepage": "http://www.rozhlas.cz/jazz/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/crojazz.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,public radio,jazz",
+    "state": "",
+    "bitrate": 0
+}

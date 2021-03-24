@@ -1,0 +1,14 @@
+{
+    "uuid": "96251dc8-0601-11e8-ae97-52543be04c81",
+    "name": "WLTR 91.3 \"South Carolina Public Radio Classical\" Columbia, SC",
+    "url": "http://provisioning.streamtheworld.com/pls/WLTRFMAAC.pls",
+    "homepage": "http://scpublicradio.org/",
+    "favicon": "http://scpublicradio.org//sites/all/themes/pilot/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "columbia,classical,npr,public radio",
+    "state": "South Carolina",
+    "bitrate": 128
+}

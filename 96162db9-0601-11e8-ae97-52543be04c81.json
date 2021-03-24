@@ -1,0 +1,14 @@
+{
+    "uuid": "96162db9-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Marseillette",
+    "url": "http://151.80.42.124:8000/marseillette.mp3",
+    "homepage": "http://www.radiomarseillette.fr/",
+    "favicon": "http://marseillettefm.com/wp-content/uploads/2016/12/favicon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Occitanie",
+    "bitrate": 0
+}

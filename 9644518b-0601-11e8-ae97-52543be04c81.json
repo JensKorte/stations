@@ -1,0 +1,14 @@
+{
+    "uuid": "9644518b-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Сектор / Sector NEXT (flac)",
+    "url": "http://89.223.45.5:8000/next-flac",
+    "homepage": "http://sectorradio.ru/",
+    "favicon": "http://sectorradio.ru//icons/apple-touch-icon-144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian,english",
+    "tags": "retro,music,90s",
+    "state": "",
+    "bitrate": 128
+}

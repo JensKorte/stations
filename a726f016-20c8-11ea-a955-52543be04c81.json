@@ -1,0 +1,14 @@
+{
+    "uuid": "a726f016-20c8-11ea-a955-52543be04c81",
+    "name": "#80s Radio - Icecast 2",
+    "url": "https://samcloud.spacial.com/api/listen?sid=111415\u0026rid=194935\u0026f=mp3,any\u0026br=320000,any\u0026m=pls",
+    "homepage": "http://www.80sradio.co.uk/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/cjqfbpl6lyyn.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "spanish,italian,german,french,english",
+    "tags": "commercial-free,commercial-free,non-commercial,no ads,no advertising,non-stop music,non-stop music,hit music,80s hits,best of 80s,decades,eighties,rock pop,goldies,golden oldies,oldies,new wave,rock,pop,classic rock,classic pop,vintage,retro,1980s,80s",
+    "state": "Southampton",
+    "bitrate": 128
+}

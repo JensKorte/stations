@@ -1,0 +1,14 @@
+{
+    "uuid": "0aeabbc9-3eb0-11e9-aa55-52543be04c81",
+    "name": "Radyo Fenomen",
+    "url": "https://listen.radyofenomen.com/fenomen/256/icecast.audio",
+    "homepage": "http://www.radyofenomen.com",
+    "favicon": "https://cdn.radyofenomen.com/artwork/logo20.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "euro hits,top 40,pop,hits",
+    "state": "Istanbul",
+    "bitrate": 56
+}

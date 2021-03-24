@@ -1,0 +1,14 @@
+{
+    "uuid": "894cf983-43d8-4473-afd4-fd1ddd746be4",
+    "name": "Radio Italo4you 64kbps",
+    "url": "http://s0.radiohost.pl:8018/Italo4you",
+    "homepage": "https://www.radioitalo4you.net/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s98663q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

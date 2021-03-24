@@ -1,0 +1,14 @@
+{
+    "uuid": "44313e8b-8999-4e00-ac9d-3d59c62c3a50",
+    "name": "Liberal FM 97.5MHz",
+    "url": "http://177.105.192.70:9750/liberalfm.mp3",
+    "homepage": "https://www.oliberal.com/radioliberal/",
+    "favicon": "http://fm.radioliberal.com.br/logo_liberal_fm.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "local music",
+    "state": "Para",
+    "bitrate": 64
+}

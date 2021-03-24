@@ -1,0 +1,14 @@
+{
+    "uuid": "97a9533e-362f-11ea-8dd7-52543be04c81",
+    "name": "Miled Music Classic Rock",
+    "url": "http://192.99.34.205:8127/stream",
+    "homepage": "http://www.milednusic.com",
+    "favicon": "http://www.miledmusic.com/wp-content/uploads/2014/11/11-300x300.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "classic rock",
+    "state": "",
+    "bitrate": 256
+}

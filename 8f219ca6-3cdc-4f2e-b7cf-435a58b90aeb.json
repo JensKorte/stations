@@ -1,0 +1,14 @@
+{
+    "uuid": "8f219ca6-3cdc-4f2e-b7cf-435a58b90aeb",
+    "name": "Grand Prix Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3",
+    "homepage": "https://www.grandprixradio.nl",
+    "favicon": "https://www.grandprixradio.nl/wp-content/uploads/2017/03/cropped-GrandPrixRadio-medium.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "classics,danceable hits,autosport",
+    "state": "",
+    "bitrate": 192
+}

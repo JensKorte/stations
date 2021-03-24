@@ -1,0 +1,14 @@
+{
+    "uuid": "a048edf4-f332-11e9-a96c-52543be04c81",
+    "name": "Canal 3 [DE]",
+    "url": "http://av03.upstream-media.ch/canal3allemand-128.mp3",
+    "homepage": "https://www.canal3.ch/",
+    "favicon": "https://www.canal3.ch//de/sites/all/themes/canal3_theme_v2/images/iphone_retina_icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "deutsch,allemand,german",
+    "tags": "pop music,adult hits,contemporary hits,hits,pop",
+    "state": "",
+    "bitrate": 128
+}

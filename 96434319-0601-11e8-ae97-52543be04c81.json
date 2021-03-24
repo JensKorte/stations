@@ -1,0 +1,14 @@
+{
+    "uuid": "96434319-0601-11e8-ae97-52543be04c81",
+    "name": "Lite FM 101.1",
+    "url": "http://live.litefm.se:8000/stream_mp3",
+    "homepage": "http://www.litefm.se/",
+    "favicon": "http://www.litefm.se/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

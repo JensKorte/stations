@@ -1,0 +1,14 @@
+{
+    "uuid": "961e70ca-0601-11e8-ae97-52543be04c81",
+    "name": "WRVO-3 BBC World Service Stream - Oswego, NY",
+    "url": "http://playerservices.streamtheworld.com/m3u/WRVOHD3.m3u",
+    "homepage": "http://wrvo.org/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xTkGGUewgQ.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "low bandwidth,oswego,bbc,world news,news",
+    "state": "New York",
+    "bitrate": 24
+}

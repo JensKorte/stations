@@ -1,0 +1,14 @@
+{
+    "uuid": "c981ced1-5a9a-49e6-808b-f5a105015c31",
+    "name": "Radio Waatea",
+    "url": "http://apple.irirangi.net:8000/I_Waatea.aac",
+    "homepage": "https://www.waateanews.com/",
+    "favicon": "http://irirangi.net/media/18414/waatea%20logo%20p.jpg",
+    "creation": "2021-03-02 17:58:43",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "te reo maori",
+    "tags": "news",
+    "state": "",
+    "bitrate": 28
+}

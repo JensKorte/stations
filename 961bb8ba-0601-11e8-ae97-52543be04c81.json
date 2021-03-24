@@ -1,0 +1,14 @@
+{
+    "uuid": "961bb8ba-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Holiday",
+    "url": "http://stream.radioholiday.it:8000",
+    "homepage": "http://www.radioholiday.it",
+    "favicon": "http://www.radioholiday.it/webradio/logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "german",
+    "tags": "top 40",
+    "state": "Trentino-Alto Adige/Südtirol",
+    "bitrate": 192
+}

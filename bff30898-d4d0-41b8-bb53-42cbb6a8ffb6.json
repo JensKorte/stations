@@ -1,0 +1,14 @@
+{
+    "uuid": "bff30898-d4d0-41b8-bb53-42cbb6a8ffb6",
+    "name": "KSFP 102.5 FM",
+    "url": "http://stream03.grunch.org:8080/stream",
+    "homepage": "https://sfpublicpress.org/ksfp",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KSFP.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "",
+    "state": "San Francisco CA",
+    "bitrate": 0
+}

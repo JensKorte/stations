@@ -1,0 +1,14 @@
+{
+    "uuid": "963149df-0601-11e8-ae97-52543be04c81",
+    "name": "UndeRadio",
+    "url": "http://nr5.newradio.it:8524/stream",
+    "homepage": "http://www.underadio.it/",
+    "favicon": "http://www.underadio.it/sites/all/themes/ur/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,student radio,multicultural,save the children,onlus",
+    "state": "Lazio",
+    "bitrate": 128
+}

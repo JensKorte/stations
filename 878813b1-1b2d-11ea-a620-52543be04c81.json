@@ -1,0 +1,14 @@
+{
+    "uuid": "878813b1-1b2d-11ea-a620-52543be04c81",
+    "name": "Rock FM Romania",
+    "url": "http://live.rockfm.ro:9128/rockfm.aacp",
+    "homepage": "https://www.rockfm.ro/",
+    "favicon": "https://www.rockfm.ro///app/assets/rockfm/favicon/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romana,romanian",
+    "tags": "",
+    "state": "Bucharest",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "6ee0cdcf-5d4c-4c29-9372-94a853110dec",
+    "name": "Antena 3 (AAC)",
+    "url": "http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
+    "homepage": "https://media.rtp.pt/antena3/",
+    "favicon": "https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_negativo_vert_RGB.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "pop,alternative",
+    "state": "",
+    "bitrate": 168
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "af34b7b2-2d58-11ea-aa0c-52543be04c81",
+    "name": "Delta Piraat",
+    "url": "http://stream.deltafm.nl:8125/listen.pls",
+    "homepage": "http://deltafm.nl/deltapiraat/",
+    "favicon": "http://deltafm.nl/assets/images/social/social-logo-dfm-300x300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "piraat,delta fm",
+    "state": "",
+    "bitrate": 192
+}

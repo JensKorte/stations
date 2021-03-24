@@ -1,0 +1,14 @@
+{
+    "uuid": "962b5c68-0601-11e8-ae97-52543be04c81",
+    "name": "Umbria Radio",
+    "url": "http://213.136.90.169:8065/",
+    "homepage": "http://www.umbriaradio.it/",
+    "favicon": "http://www.umbriaradio.it/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "music,news,sport",
+    "state": "Umbria",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96255a0e-0601-11e8-ae97-52543be04c81",
+    "name": "WTSU 89.9 Troy Public Radio - Troy, AL",
+    "url": "http://live.str3am.com:2380/troy1",
+    "homepage": "http://www.troypublicradio.org/",
+    "favicon": "http://www.troypublicradio.org/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "troy,pri,npr,apm,public radio",
+    "state": "Alabama",
+    "bitrate": 256
+}

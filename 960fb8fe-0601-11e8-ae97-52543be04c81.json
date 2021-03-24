@@ -1,0 +1,14 @@
+{
+    "uuid": "960fb8fe-0601-11e8-ae97-52543be04c81",
+    "name": "Radio OKO",
+    "url": "http://stream2.nadaje.com:8094/",
+    "homepage": "http://www.radiooko.pl/",
+    "favicon": "http://www.radiooko.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "pop",
+    "state": "Ostroleka",
+    "bitrate": 64
+}

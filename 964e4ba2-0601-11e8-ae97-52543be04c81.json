@@ -1,0 +1,14 @@
+{
+    "uuid": "964e4ba2-0601-11e8-ae97-52543be04c81",
+    "name": "Dublin Digital Radio",
+    "url": "http://dublindigitalradio.out.airtime.pro:8000/dublindigitalradio_a",
+    "homepage": "http://listen.dublindigitalradio.com",
+    "favicon": "http://listen.dublindigitalradio.com/static/defaultArtistImage.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "non-profit,independent,dj sets,community radio",
+    "state": "",
+    "bitrate": 192
+}

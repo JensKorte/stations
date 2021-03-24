@@ -1,0 +1,14 @@
+{
+    "uuid": "a98cb212-249d-11e8-91bf-52543be04c81",
+    "name": "Radio Nuova Trieste",
+    "url": "http://s6.mediastreaming.it:9020/;stream.mp3",
+    "homepage": "http://www.radionuovatrieste.it/",
+    "favicon": "http://www.radionuovatrieste.it/wp-content/uploads/2015/09/logo_rnts2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "trieste,talk,catholic,christian",
+    "state": "Friuli-Venezia Giulia",
+    "bitrate": 64
+}

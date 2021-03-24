@@ -1,0 +1,14 @@
+{
+    "uuid": "804fbdcc-c8a9-11e9-8502-52543be04c81",
+    "name": "Rai Radio3",
+    "url": "http://icestreaming.rai.it/3.mp3",
+    "homepage": "https://www.raiplayradio.it/radio3/",
+    "favicon": "https://www.raiplayradio.it/dl/components/img/radio/loghi/radio3.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

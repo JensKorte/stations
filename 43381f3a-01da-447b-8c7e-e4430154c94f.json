@@ -1,0 +1,14 @@
+{
+    "uuid": "43381f3a-01da-447b-8c7e-e4430154c94f",
+    "name": "Nostalgia FM",
+    "url": "https://server.spainbroadcast.net/8028/stream?ver=717184",
+    "homepage": "https://nostalgiafm.es/",
+    "favicon": "https://nostalgiafm.es/wp-content/uploads/2018/08/LOGO-VINILO-1024.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español,spanish",
+    "tags": "oldies,80s,rock,pop,spain",
+    "state": "Málaga",
+    "bitrate": 128
+}

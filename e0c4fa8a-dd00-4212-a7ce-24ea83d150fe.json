@@ -1,0 +1,14 @@
+{
+    "uuid": "e0c4fa8a-dd00-4212-a7ce-24ea83d150fe",
+    "name": "BBC Radio 6 Music",
+    "url": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_6music/format/pls.pls",
+    "homepage": "https://www.bbc.co.uk/6music",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s44491q.png",
+    "creation": "2021-03-22 20:00:17",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "indie,alternative",
+    "state": "",
+    "bitrate": 0
+}

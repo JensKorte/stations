@@ -1,0 +1,14 @@
+{
+    "uuid": "9615bd4a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 2 West-Vlaanderen",
+    "url": "http://icecast.vrtcdn.be/ra2wvl-high.mp3",
+    "homepage": "http://www.radio2.be/",
+    "favicon": "http://be.radioonline.fm/images/Radio-2-West-Vlaanderen.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "vrt,pop",
+    "state": "",
+    "bitrate": 0
+}

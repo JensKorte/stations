@@ -1,0 +1,14 @@
+{
+    "uuid": "9628beca-0601-11e8-ae97-52543be04c81",
+    "name": "NBC Milano",
+    "url": "http://91.121.104.139:9280/;stream.mp3",
+    "homepage": "http://www.nbcmilano.it/",
+    "favicon": "http://www.nbcmilano.it/player_nbc/tmp/images/logo.1491998827.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "milano,adult contemporary",
+    "state": "Lombardia",
+    "bitrate": 320
+}

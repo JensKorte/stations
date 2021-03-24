@@ -1,0 +1,14 @@
+{
+    "uuid": "960b6cd6-0601-11e8-ae97-52543be04c81",
+    "name": "SRF Virus",
+    "url": "http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u",
+    "homepage": "http://www.srf.ch/radio-srf-virus",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Radio_SRF_Virus.svg/205px-Radio_SRF_Virus.svg.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "srg ssr,public radio,alternative,alternative rock,youth",
+    "state": "",
+    "bitrate": 0
+}

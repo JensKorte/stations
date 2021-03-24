@@ -1,0 +1,14 @@
+{
+    "uuid": "964704f6-0601-11e8-ae97-52543be04c81",
+    "name": "Nova Brasil FM Brasília, DF (ZYC476, 97,5 MHz)",
+    "url": "http://provisioning.streamtheworld.com/pls/NOVABRASIL_BSBAAC.pls",
+    "homepage": "http://brasilia.novabrasilfm.com.br/",
+    "favicon": "https://s3-us-west-1.amazonaws.com/nbfm/logos/logo_green_br.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "brazilian pop,mpb,brazilian music,brasilia",
+    "state": "Distrito Federal",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7ecb52d8-d8ea-4750-855a-69950f7226ee",
+    "name": "Country Radio",
+    "url": "http://icecast4.play.cz/country128.mp3",
+    "homepage": "www.countryradio.cz",
+    "favicon": "https://www.eportyr.cz/images/country_radio_logo.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "",
+    "tags": "country",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9647fbd6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Lasithi",
+    "url": "http://s7.onweb.gr:8802/listen.pls",
+    "homepage": "http://radiolasithi.gr",
+    "favicon": "http://radiolasithi.gr/wp-content/uploads/2017/07/rl-logo-fav.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "pop,news",
+    "state": "Lasithi",
+    "bitrate": 96
+}

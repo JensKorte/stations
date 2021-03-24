@@ -1,0 +1,14 @@
+{
+    "uuid": "9605d170-0601-11e8-ae97-52543be04c81",
+    "name": "Hit Radio FFH - Rock",
+    "url": "http://mp3.ffh.de/ffhchannels/hqrock.mp3",
+    "homepage": "http://www.ffh.de/",
+    "favicon": "https://webradio.ffh.de/custom/images/stationlist/rock.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 128
+}

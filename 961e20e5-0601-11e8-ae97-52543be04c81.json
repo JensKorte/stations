@@ -1,0 +1,14 @@
+{
+    "uuid": "961e20e5-0601-11e8-ae97-52543be04c81",
+    "name": "NPO FunX Hip Hop",
+    "url": "http://icecast.omroep.nl:80/funx-hiphopfb-bb-mp3",
+    "homepage": "https://www.funx.nl",
+    "favicon": "http://www.funx.nl/templates/funx/img/funx_logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "hiphop",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "91f5bcf5-896b-46ca-afae-7c767b7ce0e2",
+    "name": "Smart FM",
+    "url": "http://live.smartradio.ro:9128/live",
+    "homepage": "https://www.smartradio.ro/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "oldies",
+    "state": "",
+    "bitrate": 96
+}

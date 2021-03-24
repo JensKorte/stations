@@ -1,0 +1,14 @@
+{
+    "uuid": "961a35ee-0601-11e8-ae97-52543be04c81",
+    "name": "Говорит Москва",
+    "url": "http://media.govoritmoskva.ru:8880/ru64.mp3",
+    "homepage": "http://govoritmoskva.ru/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/26/Govoritmsk_radio.jpeg/200px-Govoritmsk_radio.jpeg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "moscow,dorenko,news,talk",
+    "state": "Moscow",
+    "bitrate": 0
+}

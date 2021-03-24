@@ -1,0 +1,14 @@
+{
+    "uuid": "f4748bc0-a67a-4d40-b3fc-bfce20468126",
+    "name": "OOG Radio",
+    "url": "https://olon.az.icecast.ebsd.ericsson.net/oog_radio",
+    "homepage": "https://www.oogtv.nl/",
+    "favicon": "https://www.oogtv.nl/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "nederlands",
+    "tags": "stad,groningen,lokaal",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "218f6db3-e5ad-4321-bbab-ed62f38a0957",
+    "name": "WCEI 96.7 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCEIFMAAC.aac",
+    "homepage": "https://www.forevermidshore.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WCEI-FM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "adult contemporary",
+    "state": "Easton MD",
+    "bitrate": 64
+}

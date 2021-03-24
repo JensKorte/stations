@@ -1,0 +1,14 @@
+{
+    "uuid": "6f823461-60e8-439b-b87e-8663b550bdc4",
+    "name": "La990",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM990AAC.aac",
+    "homepage": "https://www.la990.com.ar/",
+    "favicon": "https://www.la990.com.ar/images/La990/logo.webp",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish,español",
+    "tags": "caballero,laescuderia,990,polimeni,splendid",
+    "state": "Ciudad Autonoma de Buenos Aires",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e9ac3175-bb94-11e9-acb2-52543be04c81",
+    "name": "RTV Noord",
+    "url": "http://media.rtvnoord.nl/icecast/rtvnoord/radio",
+    "homepage": "https://www.rtvnoord.nl/",
+    "favicon": "https://www.rtvnoord.nl/Content/Images/noord/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "stad en ommeland,local radio,groningen",
+    "state": "",
+    "bitrate": 0
+}

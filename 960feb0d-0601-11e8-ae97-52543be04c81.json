@@ -1,0 +1,14 @@
+{
+    "uuid": "960feb0d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Opole",
+    "url": "http://dab.radio.opole.pl:8070/1",
+    "homepage": "http://www.radio.opole.pl/",
+    "favicon": "http://radio.opole.pl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "variety",
+    "state": "Opole",
+    "bitrate": 0
+}

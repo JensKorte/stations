@@ -1,0 +1,14 @@
+{
+    "uuid": "960dae40-0601-11e8-ae97-52543be04c81",
+    "name": "SRF Musikwelle",
+    "url": "http://stream.srg-ssr.ch/drsmw/mp3_128.m3u",
+    "homepage": "http://www.srf.ch/radio-srf-musikwelle",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Radio_SRF_Musikwelle.svg/205px-Radio_SRF_Musikwelle.svg.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "srg ssr,public radio,folklore,volksmusik",
+    "state": "",
+    "bitrate": 0
+}

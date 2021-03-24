@@ -1,0 +1,14 @@
+{
+    "uuid": "960da3ae-0601-11e8-ae97-52543be04c81",
+    "name": "WORT 89.9 Madison, WI",
+    "url": "http://stream.wort-fm.org:8000/high.mp3",
+    "homepage": "http://www.wort-fm.org/",
+    "favicon": "http://www.wortfm.org/wp-content/themes/wort/images/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country,bbc,pacifica,madison,music,talk,commentary",
+    "state": "Wisconsin",
+    "bitrate": 128
+}

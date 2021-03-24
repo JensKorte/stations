@@ -1,0 +1,14 @@
+{
+    "uuid": "9619360d-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Cidade Hoje",
+    "url": "http://centova.radio.com.pt:8119/;",
+    "homepage": "http://cidadehoje.pt/wp/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s82196q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "local music",
+    "state": "Braga",
+    "bitrate": 128
+}

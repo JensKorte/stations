@@ -1,0 +1,14 @@
+{
+    "uuid": "9644c8f4-0601-11e8-ae97-52543be04c81",
+    "name": "CTV News Audio Channel",
+    "url": "http://provisioning.streamtheworld.com/pls/TV_CTV_NEWSAAC.pls",
+    "homepage": "http://www.ctvnews.ca/",
+    "favicon": "https://static.ctvnews.ca/bellmedia/common/img/logos/News_Header_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "news",
+    "state": "Ontario",
+    "bitrate": 40
+}

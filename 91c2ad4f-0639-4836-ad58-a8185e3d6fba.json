@@ -1,0 +1,14 @@
+{
+    "uuid": "91c2ad4f-0639-4836-ad58-a8185e3d6fba",
+    "name": "ABQ News Talk Radio",
+    "url": "https://vofile.ru/usa/abqfm/icecast.audio",
+    "homepage": "https://abq.fm",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KIVA.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Albuquerque NM",
+    "bitrate": 64
+}

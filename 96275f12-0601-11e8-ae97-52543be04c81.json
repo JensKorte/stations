@@ -1,0 +1,14 @@
+{
+    "uuid": "96275f12-0601-11e8-ae97-52543be04c81",
+    "name": "Kaaosradio - 24h",
+    "url": "http://stream.kaaosradio.fi:8000/stream.m3u",
+    "homepage": "http://www.kaaosradio.fi",
+    "favicon": "http://www.kaaosradio.fi///favicon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "hardcore,electronic,techno",
+    "state": "",
+    "bitrate": 0
+}

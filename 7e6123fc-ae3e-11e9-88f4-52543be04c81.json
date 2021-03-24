@@ -1,0 +1,14 @@
+{
+    "uuid": "7e6123fc-ae3e-11e9-88f4-52543be04c81",
+    "name": "Radio GeilFM",
+    "url": "http://stream.laut.fm/geilfm",
+    "homepage": "http://www.geilfm.de/",
+    "favicon": "http://www.geilfm.de/wp-content/uploads/2018/08/LOGOartin2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,edm,charts",
+    "state": "Bavaria",
+    "bitrate": 128
+}

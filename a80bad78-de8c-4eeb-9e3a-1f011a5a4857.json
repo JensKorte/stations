@@ -1,0 +1,14 @@
+{
+    "uuid": "a80bad78-de8c-4eeb-9e3a-1f011a5a4857",
+    "name": "RequestRadio Inter",
+    "url": "https://cast.requestradio.in.th:840//stream/3",
+    "homepage": "https://www.requestradio.in.th/inter",
+    "favicon": "https://www.requestradio.in.th/inter/wp-content/uploads/2016/07/icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "world music",
+    "state": "",
+    "bitrate": 128
+}

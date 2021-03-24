@@ -1,0 +1,14 @@
+{
+    "uuid": "9d1bb95f-4cc3-4bde-829e-897c7f5db332",
+    "name": "Liberty News Radio",
+    "url": "http://lin1.san.fast-serv.com:6048/stream.mp3",
+    "homepage": "http://www.libertynewsradio.com/",
+    "favicon": "http://www.libertynewsradio.com/template/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk radio",
+    "state": "",
+    "bitrate": 64
+}

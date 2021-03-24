@@ -1,0 +1,14 @@
+{
+    "uuid": "449b66d4-6b08-11e9-af37-52543be04c81",
+    "name": "CIEU 94.9 Carlton-sur-Mer, QC",
+    "url": "http://stream.statsradio.com:8074/stream",
+    "homepage": "https://www.cieufm.com/",
+    "favicon": "http://www.cieufm.com/images/logo-cieu-fm-fb2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "carlton-sur-mer,community radio,radio communitaire",
+    "state": "Quebec",
+    "bitrate": 128
+}

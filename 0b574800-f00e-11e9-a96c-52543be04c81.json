@@ -1,0 +1,14 @@
+{
+    "uuid": "0b574800-f00e-11e9-a96c-52543be04c81",
+    "name": "Tyfloradio",
+    "url": "http://radio.tyflopodcast.net:8000/listen.pls",
+    "homepage": "http://tyflopodcast.net",
+    "favicon": "http://tyflopodcast.net/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "technology,disability,accessibility,blind,podcast",
+    "state": "",
+    "bitrate": 128
+}

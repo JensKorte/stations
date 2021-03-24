@@ -1,0 +1,14 @@
+{
+    "uuid": "964162d1-0601-11e8-ae97-52543be04c81",
+    "name": "delta radio Neu auf der Playlist",
+    "url": "http://regiocast.hoerradar.de/deltaradio-neu-mp3-hq",
+    "homepage": "http://www.deltaradio.de/musik/neu-der-playlist",
+    "favicon": "http://www.deltaradio.de/frontend/theme-delta/design/touch-icon_192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,rock,charts",
+    "state": "Schleswig-Holstein",
+    "bitrate": 192
+}

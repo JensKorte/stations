@@ -1,0 +1,14 @@
+{
+    "uuid": "4d676d0f-c986-11e9-8502-52543be04c81",
+    "name": "Euroradio.FM",
+    "url": "http://stream.euroradio.fm:8000/euroradio1",
+    "homepage": "https://euroradio.fm/",
+    "favicon": "https://euroradio.fm/sites/default/themes/neweuroradio/img/theme/green/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "belarusian",
+    "tags": "rock,news",
+    "state": "Belarus",
+    "bitrate": 192
+}

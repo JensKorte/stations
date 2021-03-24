@@ -1,0 +1,14 @@
+{
+    "uuid": "4c7c01b9-272c-11ea-aa0c-52543be04c81",
+    "name": "Radio Armonía Oficina",
+    "url": "http://encoder.armoniaoficina.cl:3032/1.mp3",
+    "homepage": "https://www.radioarmonia.cl/",
+    "favicon": "http://www.radioarmonia.cl/inicio///inicio/templates/vg_news24/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "castellano",
+    "tags": "evangelical christian,armonia",
+    "state": "",
+    "bitrate": 128
+}

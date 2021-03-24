@@ -1,0 +1,14 @@
+{
+    "uuid": "c3176be2-6830-11e9-af37-52543be04c81",
+    "name": "Capital Fm Tamil",
+    "url": "http://ca4.rcast.net:8060/;stream.mp3",
+    "homepage": "https://www.tamilradios.com/capital-fm",
+    "favicon": "https://www.tamilradios.com//PATH_TO_ANIMATED_FAVICON/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "language": "tamil",
+    "tags": "tamil",
+    "state": "",
+    "bitrate": 256
+}

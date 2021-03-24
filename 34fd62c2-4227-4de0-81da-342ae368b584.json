@@ -1,0 +1,14 @@
+{
+    "uuid": "34fd62c2-4227-4de0-81da-342ae368b584",
+    "name": "Radio 854",
+    "url": "https://jenny.torontocast.com:2000/tunein/Radio_854_1/stream/pls",
+    "homepage": "https://www.radio854.com",
+    "favicon": "https://www.radio854.com/Logo-Radio-854-1.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english,dutch",
+    "tags": "top 40,oldies,pop",
+    "state": "Toronto",
+    "bitrate": 128
+}

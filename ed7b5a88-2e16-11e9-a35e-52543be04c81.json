@@ -1,0 +1,14 @@
+{
+    "uuid": "ed7b5a88-2e16-11e9-a35e-52543be04c81",
+    "name": "CityRadio Trier",
+    "url": "http://cityradiotrier.cast.addradio.de/fs_cityradiotrier/simulcast/high/stream.mp3",
+    "homepage": "https://www.cityradio-trier.de/",
+    "favicon": "https://www.cityradio-trier.de/",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "pop",
+    "state": "Rhineland-Palatinate",
+    "bitrate": 128
+}

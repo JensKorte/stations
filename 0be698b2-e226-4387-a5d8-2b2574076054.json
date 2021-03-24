@@ -1,0 +1,14 @@
+{
+    "uuid": "0be698b2-e226-4387-a5d8-2b2574076054",
+    "name": "北京交通广播",
+    "url": "http://cnlive.cnr.cn/hls/bjjtgb.m3u8",
+    "homepage": "http://www.rbc.cn/",
+    "favicon": "https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2018/0829/2a/2c/2a2cf0db1580e21036b1125532ef4258.png?x-oss-process=image/resize,h_800,w_800",
+    "creation": "2021-02-07 13:11:49",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "traffic",
+    "state": "Beijing",
+    "bitrate": 0
+}

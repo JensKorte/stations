@@ -1,0 +1,14 @@
+{
+    "uuid": "96070a75-0601-11e8-ae97-52543be04c81",
+    "name": "RAC1",
+    "url": "http://streaming3.radiocat.net:80/",
+    "homepage": "http://rac1.org/",
+    "favicon": "http://www.rac1.cat/rsc/images/logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "news,talk",
+    "state": "Barcelona",
+    "bitrate": 48
+}

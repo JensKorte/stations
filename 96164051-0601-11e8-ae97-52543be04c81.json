@@ -1,0 +1,14 @@
+{
+    "uuid": "96164051-0601-11e8-ae97-52543be04c81",
+    "name": "SRo8 Rádio Litera",
+    "url": "http://icecast.stv.livebox.sk/litera_128.mp3",
+    "homepage": "https://litera.rtvs.sk/",
+    "favicon": "https://www.rtvs.sk/media/images/radiostations/radio_litera.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "public radio,rtvs,cultural,čítanie,čítanie,drama,readings,drama,literature",
+    "state": "Slovakia",
+    "bitrate": 0
+}

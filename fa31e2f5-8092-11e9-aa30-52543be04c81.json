@@ -1,0 +1,14 @@
+{
+    "uuid": "fa31e2f5-8092-11e9-aa30-52543be04c81",
+    "name": "MGL Radio",
+    "url": "http://stream17.shoutcastsolutions.com:8096",
+    "homepage": "http://mglradio.com/",
+    "favicon": "http://mglradio.com/home/files/attach/xeicon/mobicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Mongolia",
+    "country_code": "MN",
+    "language": "mongolian",
+    "tags": "",
+    "state": "Ulaanbaatar",
+    "bitrate": 128
+}

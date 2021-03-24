@@ -1,0 +1,14 @@
+{
+    "uuid": "56a314fb-210f-11ea-a955-52543be04c81",
+    "name": "CHOX-FM",
+    "url": "http://stream.statsradio.com:8052/stream1576615837897",
+    "homepage": "http://www.chox97.com/",
+    "favicon": "http://www.chox97.com//assets/favicons/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "local radio",
+    "state": "Quebec",
+    "bitrate": 128
+}

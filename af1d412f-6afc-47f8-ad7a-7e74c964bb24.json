@@ -1,0 +1,14 @@
+{
+    "uuid": "af1d412f-6afc-47f8-ad7a-7e74c964bb24",
+    "name": "TRT Radyo3",
+    "url": "https://radio-trtradyo3.live.trt.com.tr/master.m3u8",
+    "homepage": "http://radyo.trt.net.tr/Kanal/3/radyo-3.aspx",
+    "favicon": "http://radyo.trt.net.tr/Data/Arsiv/Kanal/425b95f9-101d-46b0-8513-2433226199b1k.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "",
+    "tags": "",
+    "state": "Ankara",
+    "bitrate": 140
+}

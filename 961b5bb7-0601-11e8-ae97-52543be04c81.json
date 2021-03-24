@@ -1,0 +1,14 @@
+{
+    "uuid": "961b5bb7-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Szczecin (128K MP3)",
+    "url": "http://stream4.nadaje.com:11986/prs",
+    "homepage": "http://radioszczecin.pl/",
+    "favicon": "http://radioszczecin.pl/css/logo.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "szczecin",
+    "state": "Szczecin",
+    "bitrate": 128
+}

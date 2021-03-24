@@ -1,0 +1,14 @@
+{
+    "uuid": "99779607-e34f-4e4a-b38e-c2082851fd13",
+    "name": "radio 24",
+    "url": "http://shoutcast.radio24.it:8000/listen.pls",
+    "homepage": "https://www.radio24.ilsole24ore.com/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

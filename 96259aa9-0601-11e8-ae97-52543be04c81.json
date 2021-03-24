@@ -1,0 +1,14 @@
+{
+    "uuid": "96259aa9-0601-11e8-ae97-52543be04c81",
+    "name": "WXXI-FM \"Classical 91.5\" Rochester, NY (AAC)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFMAAC.aac",
+    "homepage": "http://interactive.wxxi.org/radio",
+    "favicon": "http://interactive.wxxi.org/sites/default/files/inserts/listen-classical.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "rochester,classical,npr,public radio",
+    "state": "New York",
+    "bitrate": 64
+}

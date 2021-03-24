@@ -1,0 +1,14 @@
+{
+    "uuid": "fbb809a5-687c-4e3f-8850-fc4135ea13ed",
+    "name": "J-Pop All (Asia DREAM Radio)",
+    "url": "http://igor.torontocast.com:1025/;",
+    "homepage": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+    "favicon": "http://asiadreamradio.torontocast.stream/stations/images/hjapanhitsplayer/japanhits.jpg",
+    "creation": "2021-02-14 22:40:26",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "japanese",
+    "tags": "top 40,japanese,j-pop,hits",
+    "state": "",
+    "bitrate": 128
+}

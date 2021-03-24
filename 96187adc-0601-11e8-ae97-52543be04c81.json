@@ -1,0 +1,14 @@
+{
+    "uuid": "96187adc-0601-11e8-ae97-52543be04c81",
+    "name": "WHRB 95.3 - Harvard Radio Broadcasting - Cambridge, MA",
+    "url": "http://stream.whrb.org:8000/whrb-mp3",
+    "homepage": "https://www.whrb.org/",
+    "favicon": "https://www.whrb.org//application/files/5714/2584/4914/apple-touch-icon-retina.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "university radio,variety",
+    "state": "Massachusetts",
+    "bitrate": 128
+}

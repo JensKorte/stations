@@ -1,0 +1,14 @@
+{
+    "uuid": "23be1184-25a7-11e9-a80b-52543be04c81",
+    "name": "Radio Arrels",
+    "url": "http://stream.radios-arra.fr:8000/radioarrels",
+    "homepage": "https://www.radioarrels.cat/",
+    "favicon": "https://www.radioarrels.cat///icones/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "music,news",
+    "state": "Catalonia",
+    "bitrate": 0
+}

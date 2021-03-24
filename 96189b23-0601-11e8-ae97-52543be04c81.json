@@ -1,0 +1,14 @@
+{
+    "uuid": "96189b23-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Ondas do Lima",
+    "url": "http://centova.radio.com.pt:8407/;",
+    "homepage": "http://www.rol.nortenet.pt/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s48681q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "talk,local music",
+    "state": "Viana do Castelo",
+    "bitrate": 128
+}

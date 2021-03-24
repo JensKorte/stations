@@ -1,0 +1,14 @@
+{
+    "uuid": "e54e0b53-418f-11e8-b74d-52543be04c81",
+    "name": "Hotel Radio Paris",
+    "url": "http://91.121.162.224:9111/stream2/;",
+    "homepage": "http://hotelradioparis.com",
+    "favicon": "http://hotelradioparis.com/img/default.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "",
+    "tags": "paris,dj sets,electronic,dance",
+    "state": "",
+    "bitrate": 128
+}

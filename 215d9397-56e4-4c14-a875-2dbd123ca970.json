@@ -1,0 +1,14 @@
+{
+    "uuid": "215d9397-56e4-4c14-a875-2dbd123ca970",
+    "name": "Panorama FM",
+    "url": "https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8",
+    "homepage": "https://www.mbc.net/channels/panorama-fm",
+    "favicon": "https://api-radio.mbc.net/images/channels/1592679450NewLogoPanorams%403x.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "language": "arabic",
+    "tags": "",
+    "state": "",
+    "bitrate": 70
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e7b856e2-911c-41c4-86e6-1bb15741be21",
+    "name": "SoulRadio",
+    "url": "http://listen.soulradio.com/soulradio-aac.pls",
+    "homepage": "http://www.soulradio.nl",
+    "favicon": "http://www.allradio.nl/uploaded/logo/soul-radio-groot.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "nederlands",
+    "tags": "soul",
+    "state": "",
+    "bitrate": 64
+}

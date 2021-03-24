@@ -1,0 +1,14 @@
+{
+    "uuid": "964a0a72-0601-11e8-ae97-52543be04c81",
+    "name": "LNfm",
+    "url": "http://streaming.domainepublic.net:8000/lnfm.ogg",
+    "homepage": "http://www.lnfm.eu/",
+    "favicon": "http://lnfm.eu/wp-content/uploads/cropped-logo-court-lnfm-detoure-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "local,university radio,local news",
+    "state": "",
+    "bitrate": 192
+}

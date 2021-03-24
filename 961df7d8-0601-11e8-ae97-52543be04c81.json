@@ -1,0 +1,14 @@
+{
+    "uuid": "961df7d8-0601-11e8-ae97-52543be04c81",
+    "name": "WVFS 89.7 Florida State University - Tallahasee, FL",
+    "url": "http://voice.wvfs.fsu.edu:8000/stream",
+    "homepage": "http://wvfs.fsu.edu/",
+    "favicon": "http://wvfs.fsu.edu/wp-content/uploads/logo.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "tallahasee,college radio",
+    "state": "Florida",
+    "bitrate": 160
+}

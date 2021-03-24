@@ -1,0 +1,14 @@
+{
+    "uuid": "962919cd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Omega Sound",
+    "url": "http://178.32.221.3:8000/stream",
+    "homepage": "http://www.radioomega.it/",
+    "favicon": "http://www.radioomega.it/images/Logo_ROS.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "anzio,pop,news",
+    "state": "Lazio",
+    "bitrate": 128
+}

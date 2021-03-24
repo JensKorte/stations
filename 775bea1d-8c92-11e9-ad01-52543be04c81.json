@@ -1,0 +1,14 @@
+{
+    "uuid": "775bea1d-8c92-11e9-ad01-52543be04c81",
+    "name": "Gözyaşı FM",
+    "url": "http://yayin1.canliyayin.org:8700/;*.mp3",
+    "homepage": "http://www.konyagozyasifm.com/",
+    "favicon": "http://www.konyagozyasifm.com/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "islamic",
+    "state": "Istanbul",
+    "bitrate": 64
+}

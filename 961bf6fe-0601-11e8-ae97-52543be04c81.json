@@ -1,0 +1,14 @@
+{
+    "uuid": "961bf6fe-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 700",
+    "url": "http://streamserver.funkhaus.info/;stream.nsv",
+    "homepage": "http://www.radio700.de/",
+    "favicon": "http://www.radio700.de/images/general/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "german",
+    "tags": "",
+    "state": "Büllingen",
+    "bitrate": 192
+}

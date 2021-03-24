@@ -1,0 +1,14 @@
+{
+    "uuid": "960fc577-0601-11e8-ae97-52543be04c81",
+    "name": "Studenckie Radio ZAK",
+    "url": "http://lodz.radio.pionier.net.pl:8000/radiozak.ogg",
+    "homepage": "http://zak.lodz.pl",
+    "favicon": "http://zak.lodz.pl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "alternative",
+    "state": "Lodz",
+    "bitrate": 0
+}

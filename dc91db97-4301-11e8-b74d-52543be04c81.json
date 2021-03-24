@@ -1,0 +1,14 @@
+{
+    "uuid": "dc91db97-4301-11e8-b74d-52543be04c81",
+    "name": "Anhwei Opera Radio",
+    "url": "http://stream2.ahrtv.cn/xnxq/sd/live.m3u8",
+    "homepage": "http://www.ahrtv.cn/",
+    "favicon": "http://www.ahrtv.cn///ahradio.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "anhwei",
+    "state": "Anhwei",
+    "bitrate": 0
+}

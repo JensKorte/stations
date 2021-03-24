@@ -1,0 +1,14 @@
+{
+    "uuid": "06242f1d-0f75-48fa-a560-0e992488e1b6",
+    "name": "ORF Radio Sakzburg http",
+    "url": "http://orf-live.ors-shoutcast.at/sbg-q2a",
+    "homepage": "https://salzburg.orf.at/player",
+    "favicon": "",
+    "creation": "2021-02-27 12:23:05",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "deutsch,german",
+    "tags": "",
+    "state": "Salzburg",
+    "bitrate": 0
+}

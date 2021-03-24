@@ -1,0 +1,14 @@
+{
+    "uuid": "fe4b3646-7164-11e8-83fa-52543be04c81",
+    "name": "Country Rocks Radio",
+    "url": "http://webradio.dbmedia.se/streams/crrMP3.pls",
+    "homepage": "http://countryrocksradio.com",
+    "favicon": "http://countryrocksradio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "",
+    "tags": "country,new country",
+    "state": "",
+    "bitrate": 256
+}

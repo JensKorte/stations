@@ -1,0 +1,14 @@
+{
+    "uuid": "d3e8d14a-038a-11e9-a1be-52543be04c81",
+    "name": "egoFM Snow",
+    "url": "https://streams.egofm.de/egoSNOW-hq",
+    "homepage": "https://player.egofm.de/radioplayer/?stream=egosnow",
+    "favicon": "https://player.egofm.de/radioplayer/img/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "snow",
+    "state": "",
+    "bitrate": 128
+}

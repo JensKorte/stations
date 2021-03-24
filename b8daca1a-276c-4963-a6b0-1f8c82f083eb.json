@@ -1,0 +1,14 @@
+{
+    "uuid": "b8daca1a-276c-4963-a6b0-1f8c82f083eb",
+    "name": "Radio Chapultepec 560 AM",
+    "url": "http://163.182.175.106:8089/;stream.mp3",
+    "homepage": "http://radiochapultepec.mx/",
+    "favicon": "http://radiochapultepec.mx/wp-content/uploads/2020/06/logochapu.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español latino",
+    "tags": "noticias y comentarios,musica popular,musica romantica,entrevistas",
+    "state": "CDMX",
+    "bitrate": 48
+}

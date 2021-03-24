@@ -1,0 +1,14 @@
+{
+    "uuid": "ab53de7b-2637-4a2a-a1c0-2943252713ab",
+    "name": "LOG - Lokale Omroep Goirle",
+    "url": "https://olon.az.icecast.ebsd.ericsson.net/log_goirle",
+    "homepage": "http://www.lokaleomroepgoirle.nl/",
+    "favicon": "http://www.lokaleomroepgoirle.nl/wp-content/uploads/2016/08/cropped-LOG-favicon-32x32.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "local radio",
+    "state": "",
+    "bitrate": 0
+}

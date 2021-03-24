@@ -1,0 +1,14 @@
+{
+    "uuid": "53eee3a5-9b91-45d7-b9f6-9c79e6bbaafb",
+    "name": "Radio 2 FM 103.1",
+    "url": "http://audio.bustream.com:8004/stream",
+    "homepage": "http://www.radio2fm.com.ar/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español",
+    "tags": "pop,pop rock,rock",
+    "state": "Mendoza",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961e5ff1-0601-11e8-ae97-52543be04c81",
+    "name": "Los 40 Principales León",
+    "url": "http://www.radioleon.com:8000/radio.m3u",
+    "homepage": "http://www.40leon.es/",
+    "favicon": "http://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40_music.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "pop,top 40",
+    "state": "León",
+    "bitrate": 0
+}

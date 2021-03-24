@@ -1,0 +1,14 @@
+{
+    "uuid": "4ebe04f0-58cf-11ea-be63-52543be04c81",
+    "name": "Play Lounge",
+    "url": "http://cloud.playradio.one:8444/lounge128.mp3",
+    "homepage": "http://playradio.one/",
+    "favicon": "http://playradio.one/wp-content/uploads/2017/07/logo_play-radio_2016.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "",
+    "tags": "mashup,lounge",
+    "state": "",
+    "bitrate": 128
+}

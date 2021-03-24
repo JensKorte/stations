@@ -1,0 +1,14 @@
+{
+    "uuid": "d0d13939-913b-4f07-b29e-225a52ec16ea",
+    "name": "Diez TV",
+    "url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+    "homepage": "https://www.dieztv.es/",
+    "favicon": "https://www.dieztv.es/imagenes/cabecera.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español,castellano",
+    "tags": "varios",
+    "state": "Andalucía",
+    "bitrate": 560
+}

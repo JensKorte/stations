@@ -1,0 +1,14 @@
+{
+    "uuid": "d4f9d6c0-814c-11e9-aa30-52543be04c81",
+    "name": "Das Erste Live TV",
+    "url": "https://mcdn.daserste.de/daserste/int/master.m3u8",
+    "homepage": "https://www.daserste.de",
+    "favicon": "https://www.daserste.de/specials/das-erste-logo-100~_v-varl.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "geo-localization,tv,german,deutsch",
+    "state": "Deutschland (Germany)",
+    "bitrate": 1289
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "68616d0a-38f3-4b74-a4ea-de96f90fb1e7",
+    "name": "Dein Lounge Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deinurban/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-lounge",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-lounge.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,german",
+    "tags": "lounge",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 128
+}

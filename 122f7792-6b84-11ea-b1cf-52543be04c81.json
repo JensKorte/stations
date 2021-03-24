@@ -1,0 +1,14 @@
+{
+    "uuid": "122f7792-6b84-11ea-b1cf-52543be04c81",
+    "name": "Inforádió",
+    "url": "http://stream.infostart.hu/lejatszo/index.html?sid=1",
+    "homepage": "https://infostart.hu/",
+    "favicon": "https://myonlineradio.hu/public/uploads/radio_img/inforadio/fb_cover.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "talk,news",
+    "state": "",
+    "bitrate": 64
+}

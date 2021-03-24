@@ -1,0 +1,14 @@
+{
+    "uuid": "02a46d6d-afa8-11e9-acb2-52543be04c81",
+    "name": "Tsinghai Satellite TV",
+    "url": "http://118.123.60.12:8114/LIVES/Fsv_otype=1\u0026FvSeid=\u0026Fsv_filetype=mull\u0026Fsv_chan_hls_se_idx=055\u0026Provider_id=\u0026Pcontent_id=index.m3u8",
+    "homepage": "http://www.qhbtv.com/",
+    "favicon": "http://www.haoqu.net/d/file/2016/0918/small0a2c71268d2e230752f374bb5dd1da691474980739.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "",
+    "state": "Tsinghai",
+    "bitrate": 614
+}

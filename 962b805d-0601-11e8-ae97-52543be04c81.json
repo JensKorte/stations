@@ -1,0 +1,14 @@
+{
+    "uuid": "962b805d-0601-11e8-ae97-52543be04c81",
+    "name": "FM Italia",
+    "url": "http://onair7.xdevel.com:8700/;stream.nsv",
+    "homepage": "http://www.radiofmitalia.it/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s73498q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "siracusa,top 40,pop,adult contemporary",
+    "state": "Sicilia",
+    "bitrate": 0
+}

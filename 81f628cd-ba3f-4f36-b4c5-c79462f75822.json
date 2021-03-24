@@ -1,0 +1,14 @@
+{
+    "uuid": "81f628cd-ba3f-4f36-b4c5-c79462f75822",
+    "name": "BR Puls",
+    "url": "http://streams.br.de/puls_2.m3u",
+    "homepage": "https://www.br.de/puls/index.html",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BR_puls_Logo.svg/1200px-BR_puls_Logo.svg.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "alternative,young adults",
+    "state": "Bayern",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1fb3ff28-db6e-401f-9629-dc4f8862cbae",
+    "name": "RTHK Radio 6 央廣香港之聲",
+    "url": "http://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8",
+    "homepage": "http://m.cnr.cn/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "language": "cantonese,chinese",
+    "tags": "literature,news",
+    "state": "",
+    "bitrate": 0
+}

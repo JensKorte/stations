@@ -1,0 +1,14 @@
+{
+    "uuid": "803e79ea-5ff7-11e9-a622-52543be04c81",
+    "name": "Radio NOR",
+    "url": "http://iis.ge:8000/nor.mp3",
+    "homepage": "http://nor.ge/",
+    "favicon": "http://nor.ge/wp-content/themes/radionor/icons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Georgia",
+    "country_code": "GE",
+    "language": "georgian",
+    "tags": "entertainment,talk,news",
+    "state": "",
+    "bitrate": 185
+}

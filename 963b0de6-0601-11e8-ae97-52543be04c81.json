@@ -1,0 +1,14 @@
+{
+    "uuid": "963b0de6-0601-11e8-ae97-52543be04c81",
+    "name": "Business FM",
+    "url": "http://m1.bfm.ru:8000/fm64",
+    "homepage": "https://www.bfm.ru/",
+    "favicon": "https://images.radiovolna.net/_files/uploads/posts/2017-01/1485811697_business_fm2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "talk,news,information,economics",
+    "state": "Moscow",
+    "bitrate": 0
+}

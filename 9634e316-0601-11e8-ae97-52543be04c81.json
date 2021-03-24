@@ -1,0 +1,14 @@
+{
+    "uuid": "9634e316-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Hayat 100.8 Nablus",
+    "url": "http://hayatfm.ps:8000/;",
+    "homepage": "http://www.hayatfm.ps/",
+    "favicon": "http://www.hayatfm.ps/apps/hayatfm/vendor/img/hayat-logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "State Of Palestine",
+    "country_code": "PS",
+    "language": "arabic",
+    "tags": "nablus,arabic music",
+    "state": "West Bank",
+    "bitrate": 64
+}

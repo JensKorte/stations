@@ -1,0 +1,14 @@
+{
+    "uuid": "962c9bd3-0601-11e8-ae97-52543be04c81",
+    "name": "Tele Radio Veneta",
+    "url": "http://onair18.xdevel.com:8428/;stream.mp3",
+    "homepage": "http://www.teleradioveneta.com/",
+    "favicon": "http://www.teleradioveneta.com/TRV_LOGO_RIL.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "conco,pop",
+    "state": "Veneto",
+    "bitrate": 128
+}

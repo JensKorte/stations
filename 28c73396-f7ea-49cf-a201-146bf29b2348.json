@@ -1,0 +1,14 @@
+{
+    "uuid": "28c73396-f7ea-49cf-a201-146bf29b2348",
+    "name": "CRI中文环球广播·CRI chinese service",
+    "url": "http://sk.cri.cn/hyhq.m3u8",
+    "homepage": "http://chinese.cri.cn/radio/hyhq/index.html",
+    "favicon": "http://chinese.cri.cn/etc/static/img/logo-radio-hyhq.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "international,music,news",
+    "state": "",
+    "bitrate": 128
+}

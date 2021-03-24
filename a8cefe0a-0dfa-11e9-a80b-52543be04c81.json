@@ -1,0 +1,14 @@
+{
+    "uuid": "a8cefe0a-0dfa-11e9-a80b-52543be04c81",
+    "name": "Radio 2",
+    "url": "https://cdn.instream.audio/:9056/stream?_=1680ada412b",
+    "homepage": "https://radio2.com.ar",
+    "favicon": "https://radio2.com.ar/sites/all/themes/fm2radio/images/marca-grande.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "roadtrip,news,easy listening,tourism,traffic,services",
+    "state": "Buenos Aires",
+    "bitrate": 64
+}

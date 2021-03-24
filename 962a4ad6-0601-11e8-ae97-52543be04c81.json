@@ -1,0 +1,14 @@
+{
+    "uuid": "962a4ad6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Allegria",
+    "url": "http://audio.nemostream.tv:8110/live",
+    "homepage": "http://www.radioallegria.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s256193q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "italian pop,local music",
+    "state": "Veneto",
+    "bitrate": 48
+}

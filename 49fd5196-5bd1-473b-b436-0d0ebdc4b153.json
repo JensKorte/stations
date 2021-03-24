@@ -1,0 +1,14 @@
+{
+    "uuid": "49fd5196-5bd1-473b-b436-0d0ebdc4b153",
+    "name": "Radio FMR",
+    "url": "http://stream.radio-fmr.net:8000/radio-fmr.mp3",
+    "homepage": "http://www.rcn-radio.org/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french,français",
+    "tags": "rock,jazz,culture,regional,local radio,toulouse",
+    "state": "",
+    "bitrate": 128
+}

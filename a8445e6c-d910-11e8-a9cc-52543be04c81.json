@@ -1,0 +1,14 @@
+{
+    "uuid": "a8445e6c-d910-11e8-a9cc-52543be04c81",
+    "name": "SoniCalm",
+    "url": "http://s3.sonicabroadcast.com:8915/;.m3u",
+    "homepage": "https://ibizasonica.com/en/channel",
+    "favicon": "https://i3.radionomy.com/radios/400/13b23ea0-96b3-48e3-886a-20150526749f.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish/english",
+    "tags": "",
+    "state": "Illes Balears",
+    "bitrate": 128
+}

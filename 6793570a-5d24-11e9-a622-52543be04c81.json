@@ -1,0 +1,14 @@
+{
+    "uuid": "6793570a-5d24-11e9-a622-52543be04c81",
+    "name": "Radio Vigía FM",
+    "url": "https://streamingecuador.net:9070/radiovigia.m3u",
+    "homepage": "https://radiovigiafm.com/",
+    "favicon": "https://pbs.twimg.com/profile_images/1080566725253443591/D4oBHHMC_400x400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "radio publica,police radio,fovernment,public radio,music,musica,news,noticias",
+    "state": "Pichincha",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c8a672a9-9bcb-11e8-a767-52543be04c81",
+    "name": "Nova Brasil FM Rio de Janeiro, RJ (ZYD472, 89,5 MHz FM)",
+    "url": "http://20823.live.streamtheworld.com:3690/NOVABRASIL_RIOAAC.aac",
+    "homepage": "http://rio.novabrasilfm.com.br/",
+    "favicon": "https://s3-us-west-1.amazonaws.com/nbfm/logos/logo_green_rj.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "brazilian music,rio de janeiro,brazilian pop,music,mpb",
+    "state": "Rio de Janeiro",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9eeab885-5a8d-11e9-a622-52543be04c81",
+    "name": "Radio24",
+    "url": "https://icecast.radio24.ch/radio24-rc-96-aac",
+    "homepage": "https://www.radio24.ch",
+    "favicon": "https://www.radio24.ch/static/az/style/radio24/img/pageLogoFB.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "swiss german",
+    "tags": "german,news,swiss,radio24",
+    "state": "Zürich",
+    "bitrate": 128
+}

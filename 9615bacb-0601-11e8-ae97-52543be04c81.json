@@ -1,0 +1,14 @@
+{
+    "uuid": "9615bacb-0601-11e8-ae97-52543be04c81",
+    "name": "Primorski val",
+    "url": "http://shoutcast.controlpanel.si:2199/tunein/primorskival-stream.pls",
+    "homepage": "http://www.primorskival.si/",
+    "favicon": "http://www.primorskival.si/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 0
+}

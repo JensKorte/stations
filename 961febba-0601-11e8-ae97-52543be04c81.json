@@ -1,0 +1,14 @@
+{
+    "uuid": "961febba-0601-11e8-ae97-52543be04c81",
+    "name": "KUSU 91.5 FM/HD1 Logan, UT",
+    "url": "http://uprxstreamer.usu.edu:8000/stream",
+    "homepage": "http://upr.org",
+    "favicon": "http://upr.org/sites/upr/files/201411/UPR_favicon1.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "local news,news,talk,public - npr",
+    "state": "Utah",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e4daca2f-66ad-46d4-95d4-25a6ec3aaa6b",
+    "name": "Best FM Nyíregyháza",
+    "url": "http://178.248.200.21:8000/listen",
+    "homepage": "https://bestfmnyiregyhaza.hu/",
+    "favicon": "https://bestfmnyiregyhaza.hu/images/logo_footer.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "local,hits,rock,pop,top",
+    "state": "Szabolcs-Szatmár-Bereg",
+    "bitrate": 0
+}

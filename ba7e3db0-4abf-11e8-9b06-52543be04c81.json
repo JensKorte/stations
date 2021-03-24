@@ -1,0 +1,14 @@
+{
+    "uuid": "ba7e3db0-4abf-11e8-9b06-52543be04c81",
+    "name": "dorf tv",
+    "url": "https://stream.openplayout.org/hls/dorf_high/index.m3u8",
+    "homepage": "https://www.dorftv.at/home",
+    "favicon": "https://www.dorftv.at/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96454a74-0601-11e8-ae97-52543be04c81",
+    "name": "Radio City",
+    "url": "http://live-bauer-al.sharp-stream.com/city.mp3",
+    "homepage": "http://planetradio.co.uk/city/",
+    "favicon": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/40.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "top 40,pop,hits,liverpool,bauer radio",
+    "state": "Liverpool",
+    "bitrate": 112
+}

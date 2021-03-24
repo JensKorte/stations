@@ -1,0 +1,14 @@
+{
+    "uuid": "1fd8a574-6599-4adb-857e-e53664735670",
+    "name": "Национальное радио Чувашии",
+    "url": "http://icecast.ntrk21.ru:8000/nacradio",
+    "homepage": "http://www.ntrk21.ru/radio",
+    "favicon": "http://www.ntrk21.ru/Content/img/logo-radio-new.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "chuvash,russian",
+    "tags": "chuvash,russian",
+    "state": "",
+    "bitrate": 128
+}

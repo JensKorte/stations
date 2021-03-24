@@ -1,0 +1,14 @@
+{
+    "uuid": "96191a32-0601-11e8-ae97-52543be04c81",
+    "name": "Kerala Radio",
+    "url": "http://radio.hostonnet.com:8000/listen.pls",
+    "homepage": "http://keralaradio.in/",
+    "favicon": "http://keralaradio.in/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "India",
+    "country_code": "IN",
+    "language": "malayalam",
+    "tags": "music,kochi",
+    "state": "",
+    "bitrate": 80
+}

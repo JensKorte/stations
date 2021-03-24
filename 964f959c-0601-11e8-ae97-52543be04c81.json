@@ -1,0 +1,14 @@
+{
+    "uuid": "964f959c-0601-11e8-ae97-52543be04c81",
+    "name": "R.SA Hinhörkanal",
+    "url": "http://streams.rsa-sachsen.de/rsa-hinhoer/mp3-192/streams.rsa-sachsen.de/play.m3u",
+    "homepage": "http://www.rsa-sachsen.de/rsa-hinhoerkanal",
+    "favicon": "http://media.streamabc.com/livestream.rsa-sachsen.de/rsa-hinhoer/RSA_CarpeDiem_600x600px_color.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "mindfulness,relaxation",
+    "state": "Saxony",
+    "bitrate": 192
+}

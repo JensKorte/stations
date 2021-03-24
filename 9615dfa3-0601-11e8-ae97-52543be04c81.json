@@ -1,0 +1,14 @@
+{
+    "uuid": "9615dfa3-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern - Rockantenne",
+    "url": "http://mp3channels.webradio.rockantenne.de/rockantenne",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s25217d.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock",
+    "state": "Bavaria",
+    "bitrate": 128
+}

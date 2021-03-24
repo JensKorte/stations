@@ -1,0 +1,14 @@
+{
+    "uuid": "8dc2779f-6feb-4544-b9ad-7f32cf4c804d",
+    "name": "Radio Canal Sud",
+    "url": "http://91.224.148.160:8000/canalsud-live",
+    "homepage": "https://www.canalsud.net/spip.php?rubrique1",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "toulouse,occitanie,radio libre",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f1832e94-8554-4597-90a2-10b35cfb1a67",
+    "name": "БНР – Радио Варна",
+    "url": "http://broadcast.masters.bg:8000/live.m3u",
+    "homepage": "https://bnr.bg/varna",
+    "favicon": "https://bnr.bg/img/logos/varna.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "български,bulgarian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

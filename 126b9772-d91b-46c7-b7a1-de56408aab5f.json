@@ -1,0 +1,14 @@
+{
+    "uuid": "126b9772-d91b-46c7-b7a1-de56408aab5f",
+    "name": "Radio Centraal 106.7FM",
+    "url": "http://streams.movemedia.eu:8530",
+    "homepage": "https://www.radiocentraal.be/",
+    "favicon": "https://www.radiocentraal.be/Realescape/style/artwork/homeknopjes/appicon.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "community,situationist,avante-garde,experimental,independent,non-commercial",
+    "state": "",
+    "bitrate": 64
+}

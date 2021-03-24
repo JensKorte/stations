@@ -1,0 +1,14 @@
+{
+    "uuid": "af6569a3-ebd9-11e8-a471-52543be04c81",
+    "name": "Bananastreet.ru",
+    "url": "http://radio.bananastreet.ru:8000/radio",
+    "homepage": "https://bananastreet.ru/",
+    "favicon": "https://bananastreet.ru/assets/social-logo-a5c4ffc818e0466e05a7648b7998e1da3dd4410e64499b8a0c122b55cfb730c2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "bananastreet.ru клубная музыка",
+    "state": "МСК",
+    "bitrate": 128
+}

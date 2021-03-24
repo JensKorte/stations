@@ -1,0 +1,14 @@
+{
+    "uuid": "b5425619-8cd4-45e5-afb9-cdfc5ead4af7",
+    "name": "Southeast Asia TV",
+    "url": "http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8",
+    "homepage": "http://www.seatv.com.kh/",
+    "favicon": "http://nettvplus.live/uploads/19/1-1ZZ421540DG.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "language": "khmer",
+    "tags": "",
+    "state": "Phnom Penh",
+    "bitrate": 961
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "cbf28517-2c06-11e8-91bf-52543be04c81",
+    "name": "China FM 97.4",
+    "url": "http://ns3.mycloud-apps.es:8000/stream",
+    "homepage": "http://www.chinafm.es/",
+    "favicon": "http://www.chinafm.es/img/chinaFm.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "mandarin",
+    "tags": "pop",
+    "state": "Madrid",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ca9e0003-761c-49f4-bd15-8d3c9c7d7dbb",
+    "name": "Hunter FM - POP",
+    "url": "https://live.hunter.fm/pop_high",
+    "homepage": "https://hunter.fm/pop",
+    "favicon": "https://cdn.hunter.fm/image/thumb/station/pop-first/1000x1000ht.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "pop,hits",
+    "state": "Brasília",
+    "bitrate": 192
+}

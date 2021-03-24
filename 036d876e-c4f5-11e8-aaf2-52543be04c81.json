@@ -1,0 +1,14 @@
+{
+    "uuid": "036d876e-c4f5-11e8-aaf2-52543be04c81",
+    "name": "Radio 2.0 - Valli di Bergamo HD (FLAC)",
+    "url": "http://vps.radioduepuntozero.it:8000/stream.ogg.m3u",
+    "homepage": "http://www.radioduepuntozero.it",
+    "favicon": "https://www.radioduepuntozero.it/wp-content/uploads/2017/09/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "flac,pop rock,bergamo",
+    "state": "Lombardia",
+    "bitrate": 0
+}

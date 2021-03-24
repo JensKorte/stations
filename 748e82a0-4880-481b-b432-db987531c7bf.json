@@ -1,0 +1,14 @@
+{
+    "uuid": "748e82a0-4880-481b-b432-db987531c7bf",
+    "name": "Українське радіо. Тернопіль. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-te-aacplus",
+    "homepage": "http://ukr.radio/radio-te",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Ternopil",
+    "bitrate": 48
+}

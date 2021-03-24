@@ -1,0 +1,14 @@
+{
+    "uuid": "96365f3b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Deejay 80",
+    "url": "http://deejay_wr_01-lh.akamaihd.net/i/WebRadio1_1@315977/master.m3u8",
+    "homepage": "http://www.deejay.it/webradio/01/",
+    "favicon": "https://cdn.gelestatic.it/deejay/www/2017/07/deejay_80-320x320.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "m3u8,l'espresso,80s",
+    "state": "Lombardia",
+    "bitrate": 46
+}

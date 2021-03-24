@@ -1,0 +1,14 @@
+{
+    "uuid": "56bd55ae-71ae-11e9-af37-52543be04c81",
+    "name": "Radio Latehome",
+    "url": "http://www.latehome.de:5000/listen.pls",
+    "homepage": "http://www.latehome.de",
+    "favicon": "https://www.latehome.de//favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "music,football,fan radio,german,hattrick",
+    "state": "",
+    "bitrate": 128
+}

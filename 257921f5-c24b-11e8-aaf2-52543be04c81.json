@@ -1,0 +1,14 @@
+{
+    "uuid": "257921f5-c24b-11e8-aaf2-52543be04c81",
+    "name": "Taiwan Hwazan Satellite TV",
+    "url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8",
+    "homepage": "http://www.hwazan.org/",
+    "favicon": "http://www.haoqu.net/d/file/2014/0224/20140224064109824.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Taiwan Province Of China",
+    "country_code": "TW",
+    "language": "chinese",
+    "tags": "",
+    "state": "Taipei",
+    "bitrate": 2800
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96448ef7-0601-11e8-ae97-52543be04c81",
+    "name": "Exito Radio",
+    "url": "http://5.135.183.124:9252/stream",
+    "homepage": "http://www.exitoradio.es/",
+    "favicon": "http://www.exitoradio.es///templates/tx_metronews/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "tarot",
+    "state": "Valencia",
+    "bitrate": 0
+}

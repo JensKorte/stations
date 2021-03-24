@@ -1,0 +1,14 @@
+{
+    "uuid": "b8cb31b3-5a4b-11e9-a622-52543be04c81",
+    "name": "Nova Brasil FM 93.5 Aracaju",
+    "url": "http://playerservices.streamtheworld.com/pls/NOVABRASIL_ARACAJUAAC.pls",
+    "homepage": "http://aracaju.novabrasilfm.com.br/",
+    "favicon": "https://s3-us-west-1.amazonaws.com/nbfm/logos/logo_green_ar.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "brazilian pop,mpb,aracaju",
+    "state": "Sergipe",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7272bff9-d611-4387-b9e5-2208209b7c9a",
+    "name": "БНР – Радио Кърджали",
+    "url": "http://stream.bnr.bg:8038/radio-kardzhali.aac",
+    "homepage": "https://bnr.bg/kardzhali",
+    "favicon": "https://bnr.bg/img/logos/kardzhali.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "български,bulgarian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

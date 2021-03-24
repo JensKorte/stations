@@ -1,0 +1,14 @@
+{
+    "uuid": "9d3cfaac-5c9a-11e9-a622-52543be04c81",
+    "name": "Radio Antena 3 91.7 FM",
+    "url": "https://streamingecuador.net:9368/radioantena3.m3u",
+    "homepage": "https://www.radioantena3.com/",
+    "favicon": "https://www.radioantena3.com/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "reggaeton,commercial,salsa,musica latina,latin,noticias,musica,news,music",
+    "state": "Guayaquil",
+    "bitrate": 32
+}

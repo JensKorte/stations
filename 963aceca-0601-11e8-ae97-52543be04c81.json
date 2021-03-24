@@ -1,0 +1,14 @@
+{
+    "uuid": "963aceca-0601-11e8-ae97-52543be04c81",
+    "name": "192 Radio",
+    "url": "http://server-10.stream-server.nl:8030/listen.pls",
+    "homepage": "http://www.192radio.nl",
+    "favicon": "http://www.192radio.nl/afb/Front_okt2010.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch,english",
+    "tags": "70s,60s,oldies",
+    "state": "",
+    "bitrate": 64
+}

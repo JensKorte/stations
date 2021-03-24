@@ -1,0 +1,14 @@
+{
+    "uuid": "fcf62b65-5df7-11e8-b0ce-52543be04c81",
+    "name": "Radio SRF 1",
+    "url": "http://stream.srg-ssr.ch/drs1/mp3_128.m3u",
+    "homepage": "https://www.srf.ch/radio-srf-1/",
+    "favicon": "https://www.srf.ch//extension/srf_shared/design/standard/images/favicons/apple-touch-icon-180x180.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "features,news",
+    "state": "",
+    "bitrate": 0
+}

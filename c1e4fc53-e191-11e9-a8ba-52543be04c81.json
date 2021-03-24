@@ -1,0 +1,14 @@
+{
+    "uuid": "c1e4fc53-e191-11e9-a8ba-52543be04c81",
+    "name": "Concertzender - Hard Bop",
+    "url": "http://streams.greenhost.nl:8080/hardbop",
+    "homepage": "https://www.concertzender.nl/",
+    "favicon": "https://www.concertzender.nl/wp-content/uploads/2016/11/C-favicon-300x300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch,english",
+    "tags": "hard bop",
+    "state": "",
+    "bitrate": 128
+}

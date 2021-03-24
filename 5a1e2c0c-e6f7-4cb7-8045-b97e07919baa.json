@@ -1,0 +1,14 @@
+{
+    "uuid": "5a1e2c0c-e6f7-4cb7-8045-b97e07919baa",
+    "name": "ABC Riverina",
+    "url": "http://www.abc.net.au/res/streaming/audio-live/shout-mp3/local_riverina.pls",
+    "homepage": "https://www.abc.net.au/radio/riverina/live/",
+    "favicon": "https://www.abc.net.au/radio/riverina/",
+    "creation": "2021-03-04 07:26:20",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "local news,news",
+    "state": "NSW",
+    "bitrate": 64
+}

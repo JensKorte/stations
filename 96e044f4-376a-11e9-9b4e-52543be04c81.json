@@ -1,0 +1,14 @@
+{
+    "uuid": "96e044f4-376a-11e9-9b4e-52543be04c81",
+    "name": "Greek World Radio",
+    "url": "http://5.189.142.165:8140/stream",
+    "homepage": "http://greekhitsradio.wixsite.com/greekhitsradio",
+    "favicon": "https://i3.radionomy.com/radios/400/13da0111-98f2-4198-be88-a8f9b46f229f.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Cyprus",
+    "country_code": "CY",
+    "language": "english",
+    "tags": "world radio,greek",
+    "state": "Cyprus",
+    "bitrate": 128
+}

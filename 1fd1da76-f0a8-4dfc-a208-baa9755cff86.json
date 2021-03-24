@@ -1,0 +1,14 @@
+{
+    "uuid": "1fd1da76-f0a8-4dfc-a208-baa9755cff86",
+    "name": "Radio IN Beograd",
+    "url": "https://radio3-64ssl.streaming.rs:9212/;*.mp3",
+    "homepage": "https://www.radioinbeograd.rs",
+    "favicon": "https://www.radioinbeograd.rs/favicon.ico",
+    "creation": "2021-03-15 00:16:15",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "pop,music,world music,folk",
+    "state": "Belgrade",
+    "bitrate": 64
+}

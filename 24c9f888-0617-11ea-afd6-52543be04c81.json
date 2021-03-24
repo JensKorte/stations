@@ -1,0 +1,14 @@
+{
+    "uuid": "24c9f888-0617-11ea-afd6-52543be04c81",
+    "name": "Listen.moe KPop Vorbis",
+    "url": "https://listen.moe/kpop/stream",
+    "homepage": "https://listen.moe/",
+    "favicon": "https://listen.moe//favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Republic Of Korea",
+    "country_code": "KR",
+    "language": "english,korean",
+    "tags": "kpop",
+    "state": "",
+    "bitrate": 256
+}

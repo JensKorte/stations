@@ -1,0 +1,14 @@
+{
+    "uuid": "96108aed-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 103 FM",
+    "url": "http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio",
+    "homepage": "http://www.103.fm/",
+    "favicon": "http://103fm.maariv.co.il/download/programs/imgNew_65.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Israel",
+    "country_code": "IL",
+    "language": "hebrew",
+    "tags": "",
+    "state": "Tel Aviv",
+    "bitrate": 128
+}

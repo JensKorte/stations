@@ -1,0 +1,14 @@
+{
+    "uuid": "962fdcaf-0601-11e8-ae97-52543be04c81",
+    "name": "RDI 97.1 FM",
+    "url": "http://202.147.199.99:8000/;stream/1",
+    "homepage": "http://www.rdifm.co.id",
+    "favicon": "http://rdifm.co.id/images/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "language": "",
+    "tags": "dangdut",
+    "state": "Jakarta",
+    "bitrate": 128
+}

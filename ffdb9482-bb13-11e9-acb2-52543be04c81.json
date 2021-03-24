@@ -1,0 +1,14 @@
+{
+    "uuid": "ffdb9482-bb13-11e9-acb2-52543be04c81",
+    "name": "WUSB 90.1 (Lo-Fi)",
+    "url": "http://stream.wusb.stonybrook.edu:8080/listen.pls",
+    "homepage": "http://www.wusb.fm/",
+    "favicon": "http://www.wusb.fm//misc/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "university radio,long island,freeform,stony brook",
+    "state": "New York",
+    "bitrate": 32
+}

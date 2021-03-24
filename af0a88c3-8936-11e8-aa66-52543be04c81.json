@@ -1,0 +1,14 @@
+{
+    "uuid": "af0a88c3-8936-11e8-aa66-52543be04c81",
+    "name": "Radio SuomiRock",
+    "url": "https://stream.bauermedia.fi/suomirock/suomirock_128.mp3",
+    "homepage": "https://www.radiosuomirock.fi",
+    "favicon": "https://www.radiosuomirock.fi/templates/global/images/brand_suomirock.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

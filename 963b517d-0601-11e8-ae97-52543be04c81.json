@@ -1,0 +1,14 @@
+{
+    "uuid": "963b517d-0601-11e8-ae97-52543be04c81",
+    "name": "CIA Radio",
+    "url": "http://stream.laut.fm/cia-radio",
+    "homepage": "https://www.cia-radio.de",
+    "favicon": "https://www.cia-radio.de///templates/joomspirit_76/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,english",
+    "tags": "folk,medieval,hardcore,noise,industrial,electronic,punk,metal,gothic rock,gothic",
+    "state": "",
+    "bitrate": 128
+}

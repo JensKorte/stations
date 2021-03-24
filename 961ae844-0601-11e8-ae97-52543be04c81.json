@@ -1,0 +1,14 @@
+{
+    "uuid": "961ae844-0601-11e8-ae97-52543be04c81",
+    "name": "RadioBG-London",
+    "url": "http://live.radiobg.co.uk:8000/live",
+    "homepage": "http://www.radiobg.co.uk/",
+    "favicon": "http://www.radiobg.co.uk/images/RadioBG_Logo_380x60.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "bulgarian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

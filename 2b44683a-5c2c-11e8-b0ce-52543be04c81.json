@@ -1,0 +1,14 @@
+{
+    "uuid": "2b44683a-5c2c-11e8-b0ce-52543be04c81",
+    "name": "Liangping News TV",
+    "url": "http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/playlist.m3u8",
+    "homepage": "http://liangping.cbg.cn/",
+    "favicon": "http://www.haoqu.net/d/file/2017/0629/smalle3867e3364159c3eb0c5a30397339b121498727671.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,chungking",
+    "state": "Chungking",
+    "bitrate": 950
+}

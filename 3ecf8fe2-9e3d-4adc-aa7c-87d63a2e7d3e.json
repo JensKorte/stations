@@ -1,0 +1,14 @@
+{
+    "uuid": "3ecf8fe2-9e3d-4adc-aa7c-87d63a2e7d3e",
+    "name": "БНР – Програма „Христо Ботев“",
+    "url": "http://stream.bnr.bg:8012/hristo-botev.aac",
+    "homepage": "https://bnr.bg/hristobotev",
+    "favicon": "https://bnr.bg/img/logos/hristobotev.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

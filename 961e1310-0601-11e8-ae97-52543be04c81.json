@@ -1,0 +1,14 @@
+{
+    "uuid": "961e1310-0601-11e8-ae97-52543be04c81",
+    "name": "Centro Suono Sport",
+    "url": "http://streaming.centrosuono.com:8000/cssport.mp3",
+    "homepage": "http://centrosuonosport.it/",
+    "favicon": "http://centrosuonosport.it/wp-content/uploads/2016/07/ICONCINA_WEB_HOME.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,talk,sport",
+    "state": "Lazio",
+    "bitrate": 64
+}

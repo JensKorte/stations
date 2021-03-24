@@ -1,0 +1,14 @@
+{
+    "uuid": "bac5401a-90cc-11e8-a767-52543be04c81",
+    "name": "PopRock FM",
+    "url": "http://88.198.10.229:8065/stream",
+    "homepage": "http://poprockfm.com/",
+    "favicon": "https://www.iplayradio.net/radio/stations/poprockfm.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "english,turkish",
+    "tags": "dance,classic hits,top 40,rock,80s,90s,pop",
+    "state": "Turkey",
+    "bitrate": 128
+}

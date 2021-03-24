@@ -1,0 +1,14 @@
+{
+    "uuid": "877695f8-0607-11e8-ae97-52543be04c81",
+    "name": "BBC Radio 4 LW",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/llnw/bbc_radio_fourlw.m3u8",
+    "homepage": "http://www.bbc.co.uk/radio4/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s25419q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "bbc,interviews,drama,documentaries,news,talk",
+    "state": "",
+    "bitrate": 50
+}

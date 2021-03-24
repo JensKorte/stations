@@ -1,0 +1,14 @@
+{
+    "uuid": "b60f673d-5c29-11e8-b0ce-52543be04c81",
+    "name": "Chikiang News TV",
+    "url": "http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_25.stream/playlist.m3u8",
+    "homepage": "http://www.cqqjtv.com/",
+    "favicon": "http://www.haoqu.net/d/file/2017/0630/small2ee648caeeb27d94f56d8af7ca53fb641498800995.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,chungking",
+    "state": "Chungking",
+    "bitrate": 250
+}

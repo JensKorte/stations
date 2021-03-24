@@ -1,0 +1,14 @@
+{
+    "uuid": "5af4efd8-103e-44dd-babc-40c1b7670b2d",
+    "name": "Vocalo Radio",
+    "url": "https://stream.wbez.org/vocalo128",
+    "homepage": "https://vocalo.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/Vocalo-Radio.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "urban contemporary",
+    "state": "Chesterton IN",
+    "bitrate": 128
+}

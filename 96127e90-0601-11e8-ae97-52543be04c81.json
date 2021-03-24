@@ -1,0 +1,14 @@
+{
+    "uuid": "96127e90-0601-11e8-ae97-52543be04c81",
+    "name": "RSI Rete Uno",
+    "url": "http://stream.srg-ssr.ch/m/reteuno/mp3_128",
+    "homepage": "http://www.rsi.ch/rete-uno/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/it/thumb/c/cc/RSI_Rete_Uno_2013.svg/557px-RSI_Rete_Uno_2013.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "italian",
+    "tags": "srg ssr,public radio",
+    "state": "Ticino",
+    "bitrate": 0
+}

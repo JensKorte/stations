@@ -1,0 +1,14 @@
+{
+    "uuid": "7181c671-7b71-11e9-aa30-52543be04c81",
+    "name": "Jan TV",
+    "url": "http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8",
+    "homepage": "http://www.jantv.in/",
+    "favicon": "http://www.jantv.in/Images/jantvlogo3.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "India",
+    "country_code": "IN",
+    "language": "hindi",
+    "tags": "",
+    "state": "Rajasthan",
+    "bitrate": 706
+}

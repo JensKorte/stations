@@ -1,0 +1,14 @@
+{
+    "uuid": "8010154b-d6f6-4a11-894e-3f112d026851",
+    "name": "Cadena SER - Radio Alicante",
+    "url": "http://23543.live.streamtheworld.com:3690/SER_ALICANTE_SC",
+    "homepage": "https://cadenaser.com/emisora/radio_alicante/",
+    "favicon": "https://play.cadenaser.com/bundles/playserweb/img/apple-touch-icon-144x144.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "sports news,local news,cultural news,news,news talk,talk",
+    "state": "Alicante",
+    "bitrate": 96
+}

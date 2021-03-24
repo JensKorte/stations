@@ -1,0 +1,14 @@
+{
+    "uuid": "04c74563-90e1-48fe-9f8c-5d2ccd7d2bcb",
+    "name": "Festival",
+    "url": "https://stream.festival.cl/1",
+    "homepage": "https://www.radiofestival.cl/",
+    "favicon": "https://radiofestival.b-cdn.net/wp-content/uploads/2018/08/LOGOTIPO-RADIO-FESTIVAL-2016-01-e1529800025481_compressed-300x139.jpg.webp",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "español",
+    "tags": "news,bailable",
+    "state": "Viña del Mar",
+    "bitrate": 0
+}

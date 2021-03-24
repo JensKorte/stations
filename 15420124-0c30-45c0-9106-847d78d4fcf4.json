@@ -1,0 +1,14 @@
+{
+    "uuid": "15420124-0c30-45c0-9106-847d78d4fcf4",
+    "name": "RTL 102.5",
+    "url": "https://rtl-radio1-stream.thron.com/live/radio1/radio1/playlist.m3u8",
+    "homepage": "https://www.rtl.it/",
+    "favicon": "https://cdn.rtl.it/RTLFM/website/600eb21f/img/logo/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cologno monzese,hits,news,gruppo rtl",
+    "state": "Lombardia",
+    "bitrate": 147
+}

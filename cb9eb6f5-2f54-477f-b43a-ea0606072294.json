@@ -1,0 +1,14 @@
+{
+    "uuid": "cb9eb6f5-2f54-477f-b43a-ea0606072294",
+    "name": "Radio Pak Filmi",
+    "url": "https://s17.ssl-stream.com:2199/tunein/radiopak.pls",
+    "homepage": "http://pakfilmi.com/",
+    "favicon": "https://s17.ssl-stream.com:2197/static/radiopak/covers/rsz_emb_pak_filmi_pak_filmi_commercial_f2bed98f.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "urdu",
+    "tags": "oldies,film,movie,urdu",
+    "state": "",
+    "bitrate": 128
+}

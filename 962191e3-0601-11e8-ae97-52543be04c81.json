@@ -1,0 +1,14 @@
+{
+    "uuid": "962191e3-0601-11e8-ae97-52543be04c81",
+    "name": "CISL \"Sportsnet 650\" Richmond, BC",
+    "url": "http://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8",
+    "homepage": "http://www.sportsnet.ca/650/",
+    "favicon": "http://www.sportsnet.ca/wp-content/themes/sportsnet/images/sn_default_logo.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "richmond,live sports,sports news,commercial",
+    "state": "British Columbia",
+    "bitrate": 46
+}

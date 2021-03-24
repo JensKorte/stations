@@ -1,0 +1,14 @@
+{
+    "uuid": "9609cd1b-0601-11e8-ae97-52543be04c81",
+    "name": "KUAT 90.5 \"Arizona Public Media\" Tucson, AZ",
+    "url": "http://streaming.azpm.org/kuat192.mp3.m3u",
+    "homepage": "http://radio.azpm.org/classical/",
+    "favicon": "https://media.azpm.org/intensifier/img/banner/azpm-card-black.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "tucson,public radio,classical",
+    "state": "Arizona",
+    "bitrate": 0
+}

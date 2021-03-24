@@ -1,0 +1,14 @@
+{
+    "uuid": "962c2238-0601-11e8-ae97-52543be04c81",
+    "name": "YLE Radio Suomi - Hämeenlinna",
+    "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_10@113887/master.m3u8",
+    "homepage": "https://yle.fi/radio/radiosuomi/hameenlinna/suora/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ylen_logo.svg/280px-Ylen_logo.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 62
+}

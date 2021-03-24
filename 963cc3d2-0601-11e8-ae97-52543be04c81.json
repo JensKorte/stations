@@ -1,0 +1,14 @@
+{
+    "uuid": "963cc3d2-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Marina",
+    "url": "http://streaming.enantena.com:8000/radiomarina128.mp3",
+    "homepage": "http://www.radiomarina.com/2016/",
+    "favicon": "http://www.radiomarina.com/2016/wp-content/uploads/2016/04/isotip.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "blanes,music",
+    "state": "Girona",
+    "bitrate": 128
+}

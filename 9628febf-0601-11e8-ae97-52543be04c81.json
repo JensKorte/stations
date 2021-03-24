@@ -1,0 +1,14 @@
+{
+    "uuid": "9628febf-0601-11e8-ae97-52543be04c81",
+    "name": "Radio E",
+    "url": "http://radioe.net:8080/efm_high",
+    "homepage": "http://www.radioe.net/",
+    "favicon": "http://www.radioe.net/RadioE_Circle_MM.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "house",
+    "state": "Fejér",
+    "bitrate": 192
+}

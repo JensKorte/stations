@@ -1,0 +1,14 @@
+{
+    "uuid": "9b06dea3-65c9-11ea-be63-52543be04c81",
+    "name": "MPR News [AAC 48k]",
+    "url": "http://nis.stream.publicradio.org/nis.aac",
+    "homepage": "https://www.mprnews.org/",
+    "favicon": "https://www.mprnews.org//apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "culture,talk,news",
+    "state": "Minnesota",
+    "bitrate": 48
+}

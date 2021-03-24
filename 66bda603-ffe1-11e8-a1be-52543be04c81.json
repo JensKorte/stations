@@ -1,0 +1,14 @@
+{
+    "uuid": "66bda603-ffe1-11e8-a1be-52543be04c81",
+    "name": "Radio 24",
+    "url": "http://shoutcast.radio24.it:8000/",
+    "homepage": "http://www.radio24.ilsole24ore.com/",
+    "favicon": "http://www.radio24.ilsole24ore.com/images/logo-r24--weekend-new.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

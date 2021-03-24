@@ -1,0 +1,14 @@
+{
+    "uuid": "95940933-6e19-11e8-b15b-52543be04c81",
+    "name": "Radio Gwendalyn",
+    "url": "http://stream.radiogwen.ch:8000/radiogwen.m3u",
+    "homepage": "http://www.radiogwen.ch/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s110181q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "italian",
+    "tags": "world music",
+    "state": "Ticino",
+    "bitrate": 0
+}

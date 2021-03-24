@@ -1,0 +1,14 @@
+{
+    "uuid": "960e13d6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bochum 98.5",
+    "url": "http://radiobochum.cast.addradio.de/radiobochum/simulcast/high/stream.mp3",
+    "homepage": "http://www.radiobochum.de/",
+    "favicon": "http://www.radiobochum.de//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961c475b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Van",
+    "url": "http://media.radiovan.am:8000/96_stereo.m3u",
+    "homepage": "http://www.radiovan.am",
+    "favicon": "http://www.radiovan.am/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Armenia",
+    "country_code": "AM",
+    "language": "armenian",
+    "tags": "top 40",
+    "state": "",
+    "bitrate": 96
+}

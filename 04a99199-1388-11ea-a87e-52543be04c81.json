@@ -1,0 +1,14 @@
+{
+    "uuid": "04a99199-1388-11ea-a87e-52543be04c81",
+    "name": "Radio Tsonami",
+    "url": "http://rr.radiotsonami.org:8000/radio_tsonami",
+    "homepage": "http://radiotsonami.org/",
+    "favicon": "http://radiotsonami.org/wp-content/uploads/2016/08/radio_tsonami.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "soundart,valparaiso,ezperimenta,tsonami",
+    "state": "",
+    "bitrate": 320
+}

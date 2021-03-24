@@ -1,0 +1,14 @@
+{
+    "uuid": "40dae759-35ad-4007-945c-45c0e64d2460",
+    "name": "planetradio",
+    "url": "http://streams.planetradio.de/planetradio/mp3/hqlivestream.m3u",
+    "homepage": "https://www.planetradio.de/musik/webradio-livestream.html",
+    "favicon": "https://webradio.planetradio.de/custom/images/fallback/planet.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "germany",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

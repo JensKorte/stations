@@ -1,0 +1,14 @@
+{
+    "uuid": "87c8efa5-fe36-4e1f-b6c7-514202656ec5",
+    "name": "Dein TOP 40 Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deintop40/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-top40",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-top40.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,german",
+    "tags": "dein top40 radio,dein top40 radio,top 40,top 40,top 40,top40",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 128
+}

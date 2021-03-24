@@ -1,0 +1,14 @@
+{
+    "uuid": "96232d01-0601-11e8-ae97-52543be04c81",
+    "name": "Hawaii Public Radio HPR-1 (KHPR)",
+    "url": "http://khpr-ice.streamguys1.com/khpr2",
+    "homepage": "http://hawaiipublicradio.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/khpr/files/201702/hpr_logo_final_hor-fixed.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk,jazz,blues,world music,npr,public radio",
+    "state": "Hawaii",
+    "bitrate": 64
+}

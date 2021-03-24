@@ -1,0 +1,14 @@
+{
+    "uuid": "7ee6a1a3-d1c2-11e9-a861-52543be04c81",
+    "name": "CBC Radio 1 Kelowna (CBTK-FM, 88.9 MHz)",
+    "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_kel",
+    "homepage": "https://www.cbc.ca/listen/live-radio?radio_one=kelowna\u0026cbc_music=vancouver",
+    "favicon": "http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "kelowna,cbc,public radio,news,information",
+    "state": "British Columbia",
+    "bitrate": 0
+}

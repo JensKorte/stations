@@ -1,0 +1,14 @@
+{
+    "uuid": "507ecb22-5cc6-11e9-a622-52543be04c81",
+    "name": "Radio Caravana 750 AM",
+    "url": "https://streamingecuador.net:8006/radiocaravana.m3u",
+    "homepage": "http://www.radiocaravana.com/",
+    "favicon": "https://www.radiocaravana.com/images/radiocaravana_04.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "futbol,soccer news,soccer,live sports,sports news,sports,deportes,talk,noticias,news,musica,music",
+    "state": "Guayas",
+    "bitrate": 20
+}

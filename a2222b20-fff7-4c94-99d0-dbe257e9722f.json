@@ -1,0 +1,14 @@
+{
+    "uuid": "a2222b20-fff7-4c94-99d0-dbe257e9722f",
+    "name": "MIX San Luis Potosí - 98.5 FM - XHQK-FM - Grupo ACIR - San Luis Potosí, SL",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHQKFMAAC.aac",
+    "homepage": "https://www.iheart.com/live/mix-985-8089/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5e55c944f2e817641ab904b4?ops=fit(240%2C240)",
+    "creation": "2021-02-28 05:25:16",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "iheart radio,iheart,98.5,98.5 fm,radio,fm,pop,2010s,2000s,90s,80s,80s,90s y más,acir,grupo acir,mix,mix fm",
+    "state": "San Luis Potosí",
+    "bitrate": 48
+}

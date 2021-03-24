@@ -1,0 +1,14 @@
+{
+    "uuid": "ab745ec8-4f62-11e8-a4d1-52543be04c81",
+    "name": "Radio Cidade",
+    "url": "http://cast.midiaip.com.br:9770/stream",
+    "homepage": "https://radiocidade.uvv.br",
+    "favicon": "http://radiocidade.uvv.br/wp-content/themes/radio/imagens/brand.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "",
+    "state": "Espírito Santo",
+    "bitrate": 128
+}

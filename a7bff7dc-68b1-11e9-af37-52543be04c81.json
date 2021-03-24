@@ -1,0 +1,14 @@
+{
+    "uuid": "a7bff7dc-68b1-11e9-af37-52543be04c81",
+    "name": "CHDI \"Sonic 102.9\" Edmonton, AB",
+    "url": "http://rogers-hls.leanstream.co:8000/rogers/edm1029.stream/48k/playlist.m3u8",
+    "homepage": "https://www.sonic1029.com/",
+    "favicon": "https://www.sonic1029.com/wp-content/uploads/sites/3/2016/03/cropped-sonic1029_favicon_2-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "edmonton,alternative rock",
+    "state": "Alberta",
+    "bitrate": 48
+}

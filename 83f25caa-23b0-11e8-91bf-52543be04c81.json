@@ -1,0 +1,14 @@
+{
+    "uuid": "83f25caa-23b0-11e8-91bf-52543be04c81",
+    "name": "Blu Radio Medellín (HJD78, 97.9 MHz FM, Bello, Antioquia)",
+    "url": "http://17973.live.streamtheworld.com/BLU_MEDELLIN.mp3?tdsdk=js-2.8\u0026pname=TdPlayerApi\u0026pversion=2.8\u0026sbmid=d51f33b9-e2b6-4f99-87f4-af492b4cbcec",
+    "homepage": "https://www.bluradio.com/medellin",
+    "favicon": "https://www.bluradio.com/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "talk radio,sports talk,live sports,local news,news",
+    "state": "Antioquia",
+    "bitrate": 96
+}

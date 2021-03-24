@@ -1,0 +1,14 @@
+{
+    "uuid": "3c4b98b4-28f6-11ea-aa0c-52543be04c81",
+    "name": "Vlaamse Wonderjaren",
+    "url": "http://fred.torontocast.com:1050/stream",
+    "homepage": "https://vlaamsewonderjaren.be",
+    "favicon": "https://vlaamsewonderjaren.be/wp-content/uploads/2018/11/cropped-vlaamse-wonderjaren-logo-transparant-192x192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "vlaams,nederlandstalig,folk music,folk,folklore,oldies",
+    "state": "Vlaanderen",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96154188-0601-11e8-ae97-52543be04c81",
+    "name": "KCFR 90.1 Colorado Public Radio - News  - Denver, CO  MP3",
+    "url": "http://livestream.cprnetwork.org/pls/live_newsinfo_mp3.pls",
+    "homepage": "http://www.cpr.org",
+    "favicon": "http://www.cpr.org/sites/default/files/styles/large/public/images/cpr-logo-square.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "denver,npr,news,information,public radio",
+    "state": "Colorado",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9605d694-0601-11e8-ae97-52543be04c81",
+    "name": "LernRadio",
+    "url": "http://193.197.85.26:8000/listen.pls",
+    "homepage": "http://www.lernradio.de/",
+    "favicon": "http://www.lernradio.de/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 256
+}

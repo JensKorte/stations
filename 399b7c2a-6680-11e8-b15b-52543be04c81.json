@@ -1,0 +1,14 @@
+{
+    "uuid": "399b7c2a-6680-11e8-b15b-52543be04c81",
+    "name": "RMF FM",
+    "url": "http://195.150.20.242:8000/rmf_fm",
+    "homepage": "https://www.rmf.fm/",
+    "favicon": "https://www.rmf.fm//inc/img/favicon/ms-icon-144x144.png?2",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "fm,rmffm,rmf",
+    "state": "",
+    "bitrate": 128
+}

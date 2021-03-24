@@ -1,0 +1,14 @@
+{
+    "uuid": "a944bae1-8774-11e8-aa66-52543be04c81",
+    "name": "Rádio Melodia FM 97.5",
+    "url": "http://radio.server6.com.br:9998/stream/;",
+    "homepage": "http://www.melodia.com.br",
+    "favicon": "https://img.radios.com.br/radio/lg/radio13848_1439401456.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português",
+    "tags": "melodia,gospel,louvor,adoração,cristo,deus,jesus",
+    "state": "Rio de Janeiro",
+    "bitrate": 64
+}

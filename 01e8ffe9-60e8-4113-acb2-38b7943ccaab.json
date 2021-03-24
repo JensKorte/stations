@@ -1,0 +1,14 @@
+{
+    "uuid": "01e8ffe9-60e8-4113-acb2-38b7943ccaab",
+    "name": "Radio BeO",
+    "url": "http://radiobeo.mp3.green.ch/beo.mp3.m3u",
+    "homepage": "https://www.radiobeo.ch/",
+    "favicon": "https://www.radiobeo.ch/favicon.ico",
+    "creation": "2021-03-11 20:13:41",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "",
+    "state": "Kanton Bern",
+    "bitrate": 185
+}

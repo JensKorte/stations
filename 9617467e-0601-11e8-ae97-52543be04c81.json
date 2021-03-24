@@ -1,0 +1,14 @@
+{
+    "uuid": "9617467e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Campus Grenoble",
+    "url": "http://live.campusgrenoble.org:9000/rcg112?type=.mp3",
+    "homepage": "http://campusgrenoble.org/",
+    "favicon": "http://campusgrenoble.org/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "campus radio",
+    "state": "Auvergne-Rhône-Alpes",
+    "bitrate": 0
+}

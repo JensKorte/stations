@@ -1,0 +1,14 @@
+{
+    "uuid": "c3989383-e624-11e8-a9cc-52543be04c81",
+    "name": "ERR Klassikaraadio",
+    "url": "http://icecast.err.ee:80/klassikaraadio.mp3",
+    "homepage": "https://klassikaraadio.err.ee/",
+    "favicon": "https://s.err.ee/www/images/favicon/KlaRa_favicon@2x.png?1175",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "estonia,classical",
+    "state": "",
+    "bitrate": 0
+}

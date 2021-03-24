@@ -1,0 +1,14 @@
+{
+    "uuid": "7d56c04e-9cd3-11e9-a787-52543be04c81",
+    "name": "NB-Radiotreff 88,0",
+    "url": "http://mmv-mediathek.de:8000/stream.ogg",
+    "homepage": "http://www.nb-radiotreff.de",
+    "favicon": "http://nb-radiotreff.de/media/page_content/2/page_image.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "public radio,offener kanal,malchin,greifswald,neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "bitrate": 0
+}

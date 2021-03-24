@@ -1,0 +1,14 @@
+{
+    "uuid": "72f8c9dc-18fa-4c15-a9f3-72535a819b3d",
+    "name": "Радіо Промінь. (128 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur2-mp3-m",
+    "homepage": "https://promin.fm/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Kyiv",
+    "bitrate": 128
+}

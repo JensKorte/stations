@@ -1,0 +1,14 @@
+{
+    "uuid": "b27381fc-47e7-11e8-8919-52543be04c81",
+    "name": "ARD alpha.TV",
+    "url": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8",
+    "homepage": "https://www.br.de/fernsehen/ard-alpha/ard-alpha106.html",
+    "favicon": "https://www.br.de/fernsehen/ard-alpha/sendungen/ard-alpha-logo-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.png?version=140c7",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 175
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963e3e94-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Artà",
+    "url": "http://91.121.156.27:8012/stream",
+    "homepage": "https://www.radioarta.cat/https://www.radioarta.cat/",
+    "favicon": "https://www.radioarta.cat/wp-content/uploads/2016/03/O-art%c3%a0-logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "artà",
+    "state": "Illes Balears",
+    "bitrate": 128
+}

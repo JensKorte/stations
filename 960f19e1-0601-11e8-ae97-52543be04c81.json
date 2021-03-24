@@ -1,0 +1,14 @@
+{
+    "uuid": "960f19e1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio SAW - Rock",
+    "url": "http://stream.saw-musikwelt.de/saw-rock/mp3-128/radio-browser/stream.mp3",
+    "homepage": "http://radioplayer.saw-musikwelt.de/rock/",
+    "favicon": "http://www.radiosaw.de/sites/default/files/logo_0_1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 128
+}

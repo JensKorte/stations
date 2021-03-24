@@ -1,0 +1,14 @@
+{
+    "uuid": "9644f2de-0601-11e8-ae97-52543be04c81",
+    "name": "Retro Rádió",
+    "url": "http://stream.retroradio.hu:80/high.mp3",
+    "homepage": "http://retroradio.hu/budapest/",
+    "favicon": "http://retroradio.hu/budapest/retro_bp2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "retro,oldies,80s,70s,60s",
+    "state": "Budapest",
+    "bitrate": 320
+}

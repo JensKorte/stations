@@ -1,0 +1,14 @@
+{
+    "uuid": "9641af72-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Delta 1",
+    "url": "http://onair15.xdevel.com:8942/;stream.mp3",
+    "homepage": "http://www.radiodelta1.it/",
+    "favicon": "http://www.radiodelta1.it/wp-content/uploads/2017/07/fav-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "atessa,top 40,pop",
+    "state": "Abruzzo",
+    "bitrate": 128
+}

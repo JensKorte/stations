@@ -1,0 +1,14 @@
+{
+    "uuid": "96433b58-0601-11e8-ae97-52543be04c81",
+    "name": "Top Radio 97.2 FM",
+    "url": "http://provisioning.streamtheworld.com/pls/TOPRADIOAAC.pls",
+    "homepage": "http://www.mmradio.com/top-radio.php",
+    "favicon": "http://www.mmradio.com/images/logotipos/top.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "",
+    "state": "Madrid",
+    "bitrate": 32
+}

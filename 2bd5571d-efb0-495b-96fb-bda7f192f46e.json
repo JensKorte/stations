@@ -1,0 +1,14 @@
+{
+    "uuid": "2bd5571d-efb0-495b-96fb-bda7f192f46e",
+    "name": "Radio Uhai",
+    "url": "https://s2.citrus3.com:8050/stream",
+    "homepage": "https://www.radiouhai.co.tz/",
+    "favicon": "https://www.radiouhai.co.tz/img/radio-uhai-fav.ico",
+    "creation": "2021-02-18 18:13:22",
+    "country": "United Republic Of Tanzania",
+    "country_code": "TZ",
+    "language": "swahili",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 64
+}

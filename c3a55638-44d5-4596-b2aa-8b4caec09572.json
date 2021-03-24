@@ -1,0 +1,14 @@
+{
+    "uuid": "c3a55638-44d5-4596-b2aa-8b4caec09572",
+    "name": "Flaix FM",
+    "url": "https://flaixfm.streaming-pro.com:8003/flaixfm.aacp",
+    "homepage": "https://www.flaixfm.cat/",
+    "favicon": "https://api.my-radios.com/images/thumb.php?countryCode=ES\u0026name=Flaix_FM.png\u0026size=200",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "reggaeton,house,dance",
+    "state": "Catalunya",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96100030-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Jura",
+    "url": "http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3",
+    "homepage": "http://www.radiojura.com.pl/",
+    "favicon": "http://www.radiojura.com.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "pop",
+    "state": "Czestochowa",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963184d1-0601-11e8-ae97-52543be04c81",
+    "name": "Onda Cero Menorca",
+    "url": "http://icecast-streaming.nice264.com/menorca",
+    "homepage": "http://www.ondacero.es/emisoras/baleares/menorca",
+    "favicon": "http://static.ondacero.es/img/logo-ondacero.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "local news,news,information",
+    "state": "Menorca",
+    "bitrate": 0
+}

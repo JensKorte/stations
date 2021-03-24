@@ -1,0 +1,14 @@
+{
+    "uuid": "960c52fe-0601-11e8-ae97-52543be04c81",
+    "name": "KDAQ-HD2 \"Red River Radio Classical Stream\" Shreveport, LA",
+    "url": "http://playerservices.streamtheworld.com/m3u/KDAQHD2.m3u",
+    "homepage": "http://redriverradio.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/rrr/files/201508/RRRNewlogoico_0.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical,public radio",
+    "state": "Louisiana",
+    "bitrate": 64
+}

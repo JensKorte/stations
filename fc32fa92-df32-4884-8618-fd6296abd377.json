@@ -1,0 +1,14 @@
+{
+    "uuid": "fc32fa92-df32-4884-8618-fd6296abd377",
+    "name": "BLN.FM (HQ)",
+    "url": "http://media.bln.fm:9000/stream",
+    "homepage": "https://bln.fm/",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b5/5c/7713/c175.png",
+    "creation": "2021-03-14 00:17:07",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,english",
+    "tags": "",
+    "state": "Berlin",
+    "bitrate": 192
+}

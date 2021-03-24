@@ -1,0 +1,14 @@
+{
+    "uuid": "e42a2ff7-6b0d-11e9-af37-52543be04c81",
+    "name": "CKRK \"K103.7\" Kahnawake, QC",
+    "url": "http://stream.statsradio.com:8092/stream",
+    "homepage": "https://k1037.com/",
+    "favicon": "https://k1037.com/wp-content/uploads/2018/06/cropped-K103-Mini-Logo-Final-RGB-Transparent-High-Res-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "kahnawake,indigeneous,community radio",
+    "state": "Quebec",
+    "bitrate": 160
+}

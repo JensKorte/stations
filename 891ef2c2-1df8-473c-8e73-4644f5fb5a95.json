@@ -1,0 +1,14 @@
+{
+    "uuid": "891ef2c2-1df8-473c-8e73-4644f5fb5a95",
+    "name": "Dein Love Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deinlove/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-love",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-love.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,german",
+    "tags": "love",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 128
+}

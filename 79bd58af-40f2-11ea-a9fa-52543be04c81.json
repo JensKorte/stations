@@ -1,0 +1,14 @@
+{
+    "uuid": "79bd58af-40f2-11ea-a9fa-52543be04c81",
+    "name": "Hall of Music",
+    "url": "http://stream.laut.fm/hallofmusic",
+    "homepage": "https://www.hall-of-music.de",
+    "favicon": "https://www.hall-of-music.org/wordpress/wp-content/uploads/2020/01/Logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "radio bremen,webradio",
+    "state": "Bremen",
+    "bitrate": 128
+}

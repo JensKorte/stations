@@ -1,0 +1,14 @@
+{
+    "uuid": "83390793-d1cb-11e8-a54a-52543be04c81",
+    "name": "Standing Wave Radio",
+    "url": "http://audio.wavefarm.org:8000/transmissionarts.mp3.m3u",
+    "homepage": "https://wavefarm.org/wgxc",
+    "favicon": "https://wavefarm.org/images/ta-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "arca,community radio,art,experimental",
+    "state": "New York",
+    "bitrate": 128
+}

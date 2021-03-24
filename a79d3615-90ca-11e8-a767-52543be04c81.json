@@ -1,0 +1,14 @@
+{
+    "uuid": "a79d3615-90ca-11e8-a767-52543be04c81",
+    "name": "897fm Dance Radio",
+    "url": "http://88.198.10.229:8108/stream",
+    "homepage": "http://www.897fm.net/",
+    "favicon": "https://www.iplayradio.net/radio/stations/897dance.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "english",
+    "tags": "dance",
+    "state": "Czech Republic",
+    "bitrate": 192
+}

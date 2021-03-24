@@ -1,0 +1,14 @@
+{
+    "uuid": "74d5be62-fe98-11e9-bbf2-52543be04c81",
+    "name": "L'Echo Des Cabanes",
+    "url": "http://radio.lechodescabanes.fr:8000/playlist",
+    "homepage": "https://lechodescabanes.fr",
+    "favicon": "https://lechodescabanes.fr/wp-content/uploads/2019/11/logo_lechodescabanes.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français",
+    "tags": "noad,sanspub,libre,easy listening,lounge,gers,interviews,eclectic,groove,hiphop,funk,electronic,talk,music",
+    "state": "Occitanie",
+    "bitrate": 128
+}

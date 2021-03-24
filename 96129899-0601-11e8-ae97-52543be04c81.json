@@ -1,0 +1,14 @@
+{
+    "uuid": "96129899-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Panik",
+    "url": "http://streaming.domainepublic.net:8000/radiopanik.ogg.m3u",
+    "homepage": "http://www.radiopanik.org",
+    "favicon": "http://www.radiopanik.org/static/img/Radio_Panik_Logo_2016-01.png?c6b12f07a124",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "",
+    "state": "Brussels",
+    "bitrate": 0
+}

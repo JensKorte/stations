@@ -1,0 +1,14 @@
+{
+    "uuid": "960c0cbf-0601-11e8-ae97-52543be04c81",
+    "name": "Best FM",
+    "url": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
+    "homepage": "http://www.bestfm.hu/",
+    "favicon": "http://www.popularis.hu/radio/radio-fm-95.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop,rock",
+    "state": "Hajdú-Bihar",
+    "bitrate": 128
+}

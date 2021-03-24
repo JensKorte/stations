@@ -1,0 +1,14 @@
+{
+    "uuid": "7c451d62-d147-4cc8-9a9a-08a82d2db488",
+    "name": "KISS 92.5",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8",
+    "homepage": "https://www.kiss925.com/",
+    "favicon": "https://www.kiss925.com/wp-content/uploads/sites/59/2020/09/KiSS-925-logo-514x514-1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "toronto",
+    "state": "Ontario",
+    "bitrate": 48
+}

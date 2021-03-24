@@ -1,0 +1,14 @@
+{
+    "uuid": "1e8fe012-682d-11e9-af37-52543be04c81",
+    "name": "Tamil music3 radio",
+    "url": "http://198.178.123.5:9742/;stream.mp3",
+    "homepage": "https://www.tamilradios.com/tamil-music3-radio",
+    "favicon": "https://www.tamilradios.com//PATH_TO_ANIMATED_FAVICON/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "India",
+    "country_code": "IN",
+    "language": "tamil",
+    "tags": "tamil cinema music",
+    "state": "",
+    "bitrate": 48
+}

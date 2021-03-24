@@ -1,0 +1,14 @@
+{
+    "uuid": "96190ef7-0601-11e8-ae97-52543be04c81",
+    "name": "Q-Music",
+    "url": "http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_128.mp3",
+    "homepage": "http://qmusic.be/",
+    "favicon": "http://qmusic.be/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

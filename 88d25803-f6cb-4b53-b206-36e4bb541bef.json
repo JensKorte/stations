@@ -1,0 +1,14 @@
+{
+    "uuid": "88d25803-f6cb-4b53-b206-36e4bb541bef",
+    "name": "Rock Radio Belgrade (Рок Радио Београд)",
+    "url": "https://mastermedia.shoutca.st/proxy/rockradio?mp=/stream",
+    "homepage": "https://rockradio.rs/",
+    "favicon": "http://rockradio.rs/wp-content/uploads/2020/02/rockradio_fm_logo-transparen-211.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "english,serbian",
+    "tags": "serbian music,hard rock,alternative rock,classic rock,rock",
+    "state": "",
+    "bitrate": 192
+}

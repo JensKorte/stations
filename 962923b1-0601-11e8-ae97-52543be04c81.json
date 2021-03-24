@@ -1,0 +1,14 @@
+{
+    "uuid": "962923b1-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Brandenburg (48 kbit/s)",
+    "url": "http://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/48/stream.mp3",
+    "homepage": "https://www.antennebrandenburg.de/hilfe/livestream---audio.html",
+    "favicon": "http://www.ardmediathek.de/img/standard/00/32/71/60/30/-1774185891/16x9/512",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "information,pop,schlager,rbb,ard,public radio",
+    "state": "Brandenburg",
+    "bitrate": 0
+}

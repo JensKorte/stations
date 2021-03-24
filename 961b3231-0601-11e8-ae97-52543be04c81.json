@@ -1,0 +1,14 @@
+{
+    "uuid": "961b3231-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Gorzów",
+    "url": "http://stream02.radiogorzow.pl:10115",
+    "homepage": "http://radiogorzow.pl/",
+    "favicon": "http://radiogorzow.pl/wp-content/themes/rg-new/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Gorzów Wielkopolski",
+    "bitrate": 48
+}

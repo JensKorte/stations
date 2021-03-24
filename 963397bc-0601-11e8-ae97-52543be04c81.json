@@ -1,0 +1,14 @@
+{
+    "uuid": "963397bc-0601-11e8-ae97-52543be04c81",
+    "name": "Táska Rádió",
+    "url": "http://live.taskaradio.com:7070/;stream.nsv#.mp3",
+    "homepage": "http://www.taskaradio.com/",
+    "favicon": "https://i1.wp.com/www.taskaradio.com/wp-content/uploads/2017/01/cropped-taska_radio_favicon_2_V2.png?fit=270%2C270",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop,student radio",
+    "state": "Fejér",
+    "bitrate": 128
+}

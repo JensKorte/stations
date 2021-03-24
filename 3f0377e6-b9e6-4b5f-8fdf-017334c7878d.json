@@ -1,0 +1,14 @@
+{
+    "uuid": "3f0377e6-b9e6-4b5f-8fdf-017334c7878d",
+    "name": "FM 96.1 Radio Colegio José Hernández",
+    "url": "http://78.129.185.84:6721/;",
+    "homepage": "http://josehernandez.org",
+    "favicon": "http://www.josehernandez.org/Radio/Imagenes/logoradionuevo2.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "castellano,spanish,español",
+    "tags": "jose hernandez,josé hernández,colegio,96.1,villa ballester,san martín",
+    "state": "Buenos Aires",
+    "bitrate": 96
+}

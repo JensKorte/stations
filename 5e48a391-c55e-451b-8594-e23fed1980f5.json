@@ -1,0 +1,14 @@
+{
+    "uuid": "5e48a391-c55e-451b-8594-e23fed1980f5",
+    "name": "WAVA 105.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAFMAAC.aac",
+    "homepage": "https://wava.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WAVA.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "religious",
+    "state": "Arlington VA",
+    "bitrate": 48
+}

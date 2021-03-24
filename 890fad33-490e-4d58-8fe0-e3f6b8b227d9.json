@@ -1,0 +1,14 @@
+{
+    "uuid": "890fad33-490e-4d58-8fe0-e3f6b8b227d9",
+    "name": "Radio 192",
+    "url": "http://server-10.stream-server.nl:8030/listen.pls",
+    "homepage": "https://www.192radio.nl/192radio/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "undefined",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960f16e7-0601-11e8-ae97-52543be04c81",
+    "name": "radio SAW - 70er",
+    "url": "http://saw-de-hz-fal-stream09-cluster01.radiohost.de:80/saw-70er_128",
+    "homepage": "http://radioplayer.saw-musikwelt.de/radiosaw/",
+    "favicon": "http://www.radiosaw.de/sites/default/files/logo_0_1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "70s",
+    "state": "",
+    "bitrate": 128
+}

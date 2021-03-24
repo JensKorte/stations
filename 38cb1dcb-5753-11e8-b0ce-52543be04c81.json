@@ -1,0 +1,14 @@
+{
+    "uuid": "38cb1dcb-5753-11e8-b0ce-52543be04c81",
+    "name": "Fun Radio",
+    "url": "http://streaming.radio.funradio.fr/fun-1-44-128",
+    "homepage": "http://www.funradio.fr/",
+    "favicon": "http://static.funradio.fr/versions/www/6.0.143/img/fun_fb.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "french,dance",
+    "state": "",
+    "bitrate": 128
+}

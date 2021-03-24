@@ -1,0 +1,14 @@
+{
+    "uuid": "962321ad-0601-11e8-ae97-52543be04c81",
+    "name": "WBAL \"News Radio1090\"  Baltimore, MD",
+    "url": "http://provisioning.streamtheworld.com/pls/WBALAMAAC.pls",
+    "homepage": "http://www.wbal.com/",
+    "favicon": "http://www.wbal.com/content/wbal200.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "baltimore,commercial,talk,news",
+    "state": "Maryland",
+    "bitrate": 24
+}

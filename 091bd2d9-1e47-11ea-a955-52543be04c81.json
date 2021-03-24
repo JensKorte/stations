@@ -1,0 +1,14 @@
+{
+    "uuid": "091bd2d9-1e47-11ea-a955-52543be04c81",
+    "name": "Radio free FM",
+    "url": "http://stream.freefm.de:7000/Studio",
+    "homepage": "https://www.freefm.de",
+    "favicon": "https://www.freefm.de/sites/all/themes/freefm/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "ulm,community radio,free radio,alternative",
+    "state": "Baden-Württemberg",
+    "bitrate": 192
+}

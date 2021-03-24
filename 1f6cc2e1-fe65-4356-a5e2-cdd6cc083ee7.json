@@ -1,0 +1,14 @@
+{
+    "uuid": "1f6cc2e1-fe65-4356-a5e2-cdd6cc083ee7",
+    "name": "Tukker FM",
+    "url": "https://stream.tukkerfm.nl/tukkerfm",
+    "homepage": "https://www.tukker.fm/",
+    "favicon": "https://www.tukker.fm/wp-content/themes/tukkerfm/images/logo2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "oldies,piratenhits,folk",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960eda43-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Shanson",
+    "url": "http://media2.brg.ua:8000/shanson_h",
+    "homepage": "http://www.shanson.ua/",
+    "favicon": "http://www.shanson.ua/player/assets/img/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian,russian",
+    "tags": "chanson",
+    "state": "Kiev",
+    "bitrate": 96
+}

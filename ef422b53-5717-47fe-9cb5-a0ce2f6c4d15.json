@@ -1,0 +1,14 @@
+{
+    "uuid": "ef422b53-5717-47fe-9cb5-a0ce2f6c4d15",
+    "name": "Antenne Bayern",
+    "url": "http://stream.antenne.de/antenne/stream/mp3",
+    "homepage": "https://www.webradio.de/antenne-bayern/live",
+    "favicon": "https://www.bing.com/images/search?view=detailV2\u0026ccid=wxk035%2bi\u0026id=66824D124E6C3C318E5755B3AF3C7B955BC4D999\u0026thid=OIP.wxk035-iEpo7Y-9O0ndRIAHaD4\u0026mediaurl=http%3a%2f%2fcdn.antenne.de%2fantenne-de%2fuploads%2fimages%2fopengraph%2fdefault.jpg\u0026exph=630\u0026expw=1200\u0026q=antenne+bayern\u0026simid=608033396342259751\u0026ck=78B2A2349FD5F60D996AF1287062D903\u0026selectedIndex=0\u0026FORM=IRPRST",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

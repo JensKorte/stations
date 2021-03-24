@@ -1,0 +1,14 @@
+{
+    "uuid": "f099bd28-4de6-11e8-a4d1-52543be04c81",
+    "name": "Sky News.TV",
+    "url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8",
+    "homepage": "https://news.sky.com/",
+    "favicon": "https://news.sky.com//assets/2018/mstile-144x144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 0
+}

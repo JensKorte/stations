@@ -1,0 +1,14 @@
+{
+    "uuid": "a27c1c5d-f05b-45dd-841a-d2b3d93cebdb",
+    "name": "Rádio Vizela",
+    "url": "https://proxy-audio.ptisp.com:8100/stream",
+    "homepage": "http://www.radiovizela.pt/",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/33/18054/1/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "hits,local news",
+    "state": "Braga",
+    "bitrate": 32
+}

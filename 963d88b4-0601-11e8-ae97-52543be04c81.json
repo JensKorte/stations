@@ -1,0 +1,14 @@
+{
+    "uuid": "963d88b4-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio les Planes",
+    "url": "http://s1streamingradio.desafiohosting.com:8053/stream;",
+    "homepage": "http://www.radiolesplanes.com/",
+    "favicon": "https://i2.wp.com/www.radiolesplanes.com/wp-content/uploads/2016/09/logo_sol_net.jpg?fit=218%2C270",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "les planes d'hostoles",
+    "state": "Girona",
+    "bitrate": 128
+}

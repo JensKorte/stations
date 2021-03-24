@@ -1,0 +1,14 @@
+{
+    "uuid": "406a4194-1526-4c3e-b751-bf3060c698bc",
+    "name": "Radio Spin",
+    "url": "http://s01.radiospin.pl:8080/listen.pls",
+    "homepage": "https://radiospin.pl/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Pomorskie",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "0f192bfd-8cdc-4f9a-95f2-8a5d4d57b62f",
+    "name": "Українське радіо. Харків. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-kh-aacplus",
+    "homepage": "http://ukr.radio/radio-kh",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Kharkiv",
+    "bitrate": 48
+}

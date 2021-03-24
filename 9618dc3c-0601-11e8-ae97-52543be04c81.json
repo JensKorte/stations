@@ -1,0 +1,14 @@
+{
+    "uuid": "9618dc3c-0601-11e8-ae97-52543be04c81",
+    "name": "Play",
+    "url": "http://stream.playradio.rs:8001/play.aac.m3u",
+    "homepage": "http://www.playradio.rs/",
+    "favicon": "http://b92s.net/playradio/images/social.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "",
+    "state": "Serbia",
+    "bitrate": 64
+}

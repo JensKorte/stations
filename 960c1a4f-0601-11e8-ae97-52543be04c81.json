@@ -1,0 +1,14 @@
+{
+    "uuid": "960c1a4f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Berlin 88,8",
+    "url": "http://www.radioberlin.de/live.m3u",
+    "homepage": "http://www.radioberlin.de",
+    "favicon": "http://www.ardmediathek.de/img/standard/00/32/71/60/44/-1774185891/16x9/512",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rbb,ard,public radio",
+    "state": "Berlin",
+    "bitrate": 0
+}

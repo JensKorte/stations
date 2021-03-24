@@ -1,0 +1,14 @@
+{
+    "uuid": "96284e65-0601-11e8-ae97-52543be04c81",
+    "name": "Simply Radio",
+    "url": "http://onair15.xdevel.com:8490/stream",
+    "homepage": "http://www.simplyradio.it/",
+    "favicon": "http://www.simplyradio.it/wp-content/uploads/2015/12/simplyradio_sidelogo@2x.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40,pop",
+    "state": "Lazio",
+    "bitrate": 96
+}

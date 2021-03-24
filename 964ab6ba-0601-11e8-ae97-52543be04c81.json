@@ -1,0 +1,14 @@
+{
+    "uuid": "964ab6ba-0601-11e8-ae97-52543be04c81",
+    "name": "MojePolskieRadio - Konkurs Chopinowski",
+    "url": "http://stream3.polskieradio.pl:8022",
+    "homepage": "http://moje.polskieradio.pl/station/12/Konkurs-Chopinowski",
+    "favicon": "http://moje.polskieradio.pl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 96
+}

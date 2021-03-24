@@ -1,0 +1,14 @@
+{
+    "uuid": "96169f8d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Cooperativa AM 770",
+    "url": "http://rcoop.cnwks.ws:8358",
+    "homepage": "http://radiocooperativa.com.ar/",
+    "favicon": "http://radiocooperativa.com.ar/site/wp-content/uploads/2016/03/logo_site_fav.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "noticias",
+    "state": "Buenos Aires",
+    "bitrate": 64
+}

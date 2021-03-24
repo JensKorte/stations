@@ -1,0 +1,14 @@
+{
+    "uuid": "c9fbf7d5-c9bc-432b-a97e-dd0cc83d7813",
+    "name": "Вечеринка Ретро FM (32 kbps)",
+    "url": "http://hls-01-retro-vecherinka.emgsound.ru/20/32/playlist.m3u8",
+    "homepage": "https://retrofm.ru/online/player.php?type=Vecherinka",
+    "favicon": "https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_party.png?v=2",
+    "creation": "2021-03-23 08:11:36",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "retro,dance,pop,party",
+    "state": "Moscow",
+    "bitrate": 0
+}

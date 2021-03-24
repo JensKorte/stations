@@ -1,0 +1,14 @@
+{
+    "uuid": "343904b7-a69e-11e8-abb8-52543be04c81",
+    "name": "Radio Roma Sud",
+    "url": "http://agnes.torontocast.com:8175/;",
+    "homepage": "http://www.radioromasud.eu/",
+    "favicon": "http://www.radioromasud.eu/images/logo-1530889071.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Lazio",
+    "bitrate": 128
+}

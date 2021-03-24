@@ -1,0 +1,14 @@
+{
+    "uuid": "488fee4b-efc2-11e8-a471-52543be04c81",
+    "name": "Radio UANL",
+    "url": "http://148.234.3.40:8000/UANL53",
+    "homepage": "http://www.uanl.mx/radiouanl/programacion.html",
+    "favicon": "http://www.uanl.mx//sites/default/files/UANL_favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "monterrey,cultural,university,universitaria,university radio",
+    "state": "Nuevo León",
+    "bitrate": 320
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "93e96cb6-a7e5-41e9-bb78-12ba76f222f8",
+    "name": "WCPE TheClassicalStation",
+    "url": "http://audio-ice1.ibiblio.org:8000/wcpe128.aac",
+    "homepage": "https://theclassicalstation.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WCPEFM.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical",
+    "state": "Raleigh NC",
+    "bitrate": 128
+}

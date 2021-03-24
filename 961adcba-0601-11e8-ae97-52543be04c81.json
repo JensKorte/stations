@@ -1,0 +1,14 @@
+{
+    "uuid": "961adcba-0601-11e8-ae97-52543be04c81",
+    "name": "BBC Radio Berkshire",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrberk_mf_p?s=1471554391\u0026e=1471568791\u0026h=04aa889b5bd9343352199a6afe937150",
+    "homepage": "http://www.bbc.co.uk/radioberkshire",
+    "favicon": "http://www.bbc.co.uk/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "bbc,berkshire,talk,music,local news",
+    "state": "Berkshire",
+    "bitrate": 0
+}

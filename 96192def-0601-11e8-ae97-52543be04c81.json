@@ -1,0 +1,14 @@
+{
+    "uuid": "96192def-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Terra Nova",
+    "url": "http://centova.radio.com.pt:9404/;",
+    "homepage": "http://www.terranova.pt/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s171052q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "local music,top 40,pop",
+    "state": "Leiria",
+    "bitrate": 128
+}

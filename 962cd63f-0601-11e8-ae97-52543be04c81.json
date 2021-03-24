@@ -1,0 +1,14 @@
+{
+    "uuid": "962cd63f-0601-11e8-ae97-52543be04c81",
+    "name": "European Hit Radio",
+    "url": "http://stream.europeanhitradio.com:8000/ehr.aac",
+    "homepage": "http://www.ehrhiti.lv/",
+    "favicon": "https://www.ehrmedijugrupa.lv/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "pop,ehr",
+    "state": "",
+    "bitrate": 0
+}

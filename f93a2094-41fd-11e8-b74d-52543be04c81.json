@@ -1,0 +1,14 @@
+{
+    "uuid": "f93a2094-41fd-11e8-b74d-52543be04c81",
+    "name": "Tauragės radijas",
+    "url": "http://stream.tauragesradijas.lt:8000/tr1.m3u",
+    "homepage": "http://tauragesradijas.lt/",
+    "favicon": "http://tauragesradijas.lt/wp-content/themes/tauragesradijas/img/logo_small.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "všį šou imperija",
+    "state": "Tauragė",
+    "bitrate": 192
+}

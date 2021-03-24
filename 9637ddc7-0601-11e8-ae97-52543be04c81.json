@@ -1,0 +1,14 @@
+{
+    "uuid": "9637ddc7-0601-11e8-ae97-52543be04c81",
+    "name": "Lobpreisradio (32 kbpts) mp3",
+    "url": "http://worship.lobpreisradio.de:8000/anbetung-lobpreis-radio-32k-mp3-mono",
+    "homepage": "http://www.anbetung.org/",
+    "favicon": "http://static.radio.de/images/broadcasts/96/59/9949/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "christian,gospel",
+    "state": "",
+    "bitrate": 0
+}

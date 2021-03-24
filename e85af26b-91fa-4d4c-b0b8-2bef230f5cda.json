@@ -1,0 +1,14 @@
+{
+    "uuid": "e85af26b-91fa-4d4c-b0b8-2bef230f5cda",
+    "name": "Rádio Goldies Retro",
+    "url": "http://icecast.radiosity.sk:8000/oldies.mp3",
+    "homepage": "http://www.radiooldies.sk",
+    "favicon": "http://www.radiooldies.sk/assets/img/radiooldies_logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "",
+    "tags": "retro,music",
+    "state": "",
+    "bitrate": 128
+}

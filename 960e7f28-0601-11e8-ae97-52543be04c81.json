@@ -1,0 +1,14 @@
+{
+    "uuid": "960e7f28-0601-11e8-ae97-52543be04c81",
+    "name": "89 HIT FM",
+    "url": "http://stream.hitfm.de:9050/live.m3u",
+    "homepage": "http://www.hitfm.de/",
+    "favicon": "https://i3.radionomy.com/radios/400/4e781a6e-9953-428c-9c2e-27d4285be69e.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,top 40",
+    "state": "München",
+    "bitrate": 0
+}

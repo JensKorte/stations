@@ -1,0 +1,14 @@
+{
+    "uuid": "c3a3e6cf-b9e9-11e9-acb2-52543be04c81",
+    "name": "Antenne MV Oldies",
+    "url": "http://streams.antennemv.de/oldies/mp3-192",
+    "homepage": "https://www.antennemv.de/musik/streams/oldies",
+    "favicon": "https://assets.antennemv.de/sites/default/files/styles/size_xl/public/media/image/file/oldies_16_9.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "80er,70er,60er,evergreens,oldies",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c027a494-57e0-4a54-b182-785ecebb53c7",
+    "name": "Radio Report 1",
+    "url": "http://media.login.in.th:8135/;stream",
+    "homepage": "https://fm101talk.com",
+    "favicon": "https://fm101talk.com/wp-content/uploads/2020/04/the-reporters.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "news,news talk",
+    "state": "Bangkok",
+    "bitrate": 128
+}

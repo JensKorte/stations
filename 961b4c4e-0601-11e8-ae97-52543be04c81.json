@@ -1,0 +1,14 @@
+{
+    "uuid": "961b4c4e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Plus 97.2 Legnica",
+    "url": "http://stream.plus.legnica.pl:8000/radioplus",
+    "homepage": "http://www.radioplus.pl/",
+    "favicon": "http://www.radioplus.pl/pub/img/default.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

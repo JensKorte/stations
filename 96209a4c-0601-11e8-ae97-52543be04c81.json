@@ -1,0 +1,14 @@
+{
+    "uuid": "96209a4c-0601-11e8-ae97-52543be04c81",
+    "name": "Rock Rádio Šumava",
+    "url": "http://ice.abradio.cz/sumava128.mp3",
+    "homepage": "http://www.radiosumava.cz/",
+    "favicon": "http://www.radiosumava.cz/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 128
+}

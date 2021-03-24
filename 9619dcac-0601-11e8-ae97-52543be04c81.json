@@ -1,0 +1,14 @@
+{
+    "uuid": "9619dcac-0601-11e8-ae97-52543be04c81",
+    "name": "CFUV 101.9 University of Victoria, BC",
+    "url": "http://cfuv.streamon.fm:8000/CFUV-64k.aac",
+    "homepage": "http://cfuv.uvic.ca/cms/",
+    "favicon": "http://cfuv.uvic.ca/cms/wp-content/uploads/2014/01/CFUVLogo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "university radio,community radio,victoria",
+    "state": "British Columbia",
+    "bitrate": 65
+}

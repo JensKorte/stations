@@ -1,0 +1,14 @@
+{
+    "uuid": "961a5a75-0601-11e8-ae97-52543be04c81",
+    "name": "RMC Radio Monte Carlo",
+    "url": "http://icecast.unitedradio.it/RMC.mp3",
+    "homepage": "http://www.radiomontecarlo.net",
+    "favicon": "http://www.radiomontecarlo.net/resizer/112/112/true/1474623016703.jpg--.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "mediaset,pop,adult contemporary",
+    "state": "Lombardia",
+    "bitrate": 128
+}

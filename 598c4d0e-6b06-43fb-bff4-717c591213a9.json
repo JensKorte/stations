@@ -1,0 +1,14 @@
+{
+    "uuid": "598c4d0e-6b06-43fb-bff4-717c591213a9",
+    "name": "BBC World Service",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+    "favicon": "https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_world_service_colour.svg",
+    "creation": "2021-03-23 16:03:06",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "bbc",
+    "state": "",
+    "bitrate": 0
+}

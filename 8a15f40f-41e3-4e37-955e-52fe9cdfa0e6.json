@@ -1,0 +1,14 @@
+{
+    "uuid": "8a15f40f-41e3-4e37-955e-52fe9cdfa0e6",
+    "name": "GLOBO FM Madrid",
+    "url": "http://162.244.80.52:6884/",
+    "homepage": "http://www.globofm.es/",
+    "favicon": "http://www.globofm.es/wp-content/uploads/2016/06/LogoNuevaTemporada-1100x300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "castellano,español,spanish",
+    "tags": "deportes,noticias,música",
+    "state": "Madrid",
+    "bitrate": 32
+}

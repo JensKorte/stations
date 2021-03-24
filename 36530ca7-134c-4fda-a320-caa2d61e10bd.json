@@ -1,0 +1,14 @@
+{
+    "uuid": "36530ca7-134c-4fda-a320-caa2d61e10bd",
+    "name": "Армія FM 94.6",
+    "url": "http://212.26.132.129:8000/ArmyFM",
+    "homepage": "https://www.armyfm.com.ua/",
+    "favicon": "https://www.armyfm.com.ua/templates/site/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 256
+}

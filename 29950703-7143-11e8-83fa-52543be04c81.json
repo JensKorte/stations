@@ -1,0 +1,14 @@
+{
+    "uuid": "29950703-7143-11e8-83fa-52543be04c81",
+    "name": "RDS",
+    "url": "http://stream1.rds.it:8000/rds64k",
+    "homepage": "http://www.rds.it",
+    "favicon": "http://inostrilocali.altervista.org/loghiRadio/rds.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

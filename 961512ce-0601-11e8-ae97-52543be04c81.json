@@ -1,0 +1,14 @@
+{
+    "uuid": "961512ce-0601-11e8-ae97-52543be04c81",
+    "name": "Linn Jazz",
+    "url": "http://89.16.185.174:8000/stream",
+    "homepage": "http://www.linn.co.uk/music#linn-jazz",
+    "favicon": "http://static.radio.de/images/broadcasts/b8/ce/9339/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "320kbps,jazz",
+    "state": "Scotland",
+    "bitrate": 320
+}

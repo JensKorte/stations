@@ -1,0 +1,14 @@
+{
+    "uuid": "02f62740-7c86-4cdb-a23d-d6b730565865",
+    "name": "KDVS 90.3FM",
+    "url": "http://archives.kdvs.org:8000/stream",
+    "homepage": "https://kdvs.org",
+    "favicon": "https://kdvs.org/wp-content/themes/kdvs-theme/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "",
+    "state": "California",
+    "bitrate": 128
+}

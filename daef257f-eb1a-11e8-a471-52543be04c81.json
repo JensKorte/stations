@@ -1,0 +1,14 @@
+{
+    "uuid": "daef257f-eb1a-11e8-a471-52543be04c81",
+    "name": "Country Rocks Radio",
+    "url": "http://webradio.dbmedia.se/streams/crr96.pls",
+    "homepage": "http://www.countryrocksradio.com/",
+    "favicon": "http://www.countryrocksradio.com/images/CRR_web.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "country",
+    "state": "Skåne",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96199ead-0601-11e8-ae97-52543be04c81",
+    "name": "Bobs Ska Radio",
+    "url": "http://51.255.235.165:5528/stream",
+    "homepage": "http://www.bobskaradio.com/",
+    "favicon": "http://www.bobskaradio.com/images/bsr.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "rocksteady,nutty-sound!,non-profit,non-commercial,contemporary,80s,70s,60s,ska",
+    "state": "",
+    "bitrate": 128
+}

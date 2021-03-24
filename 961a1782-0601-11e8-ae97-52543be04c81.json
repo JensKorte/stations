@@ -1,0 +1,14 @@
+{
+    "uuid": "961a1782-0601-11e8-ae97-52543be04c81",
+    "name": "CJSR 88.5 University of Alberta, Edmonton, AB",
+    "url": "http://cjsr.streamon.fm:8000/CJSR-24k.aac",
+    "homepage": "http://cjsr.com/",
+    "favicon": "http://cjsr.com/wp-content/themes/bones/images/win8-tile-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "low bandwidth,university radio,community radio",
+    "state": "Alberta",
+    "bitrate": 24
+}

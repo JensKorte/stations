@@ -1,0 +1,14 @@
+{
+    "uuid": "96447669-0601-11e8-ae97-52543be04c81",
+    "name": "Pink Noise Radio",
+    "url": "http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk1.internet-radio.com:8004/listen.pls\u0026t=.m3u",
+    "homepage": "https://www.internet-radio.com/station/pinknoise/",
+    "favicon": "https://www.internet-radio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "",
+    "tags": "chillout,ambient,noise",
+    "state": "",
+    "bitrate": 64
+}

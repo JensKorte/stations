@@ -1,0 +1,14 @@
+{
+    "uuid": "07aa77b3-5a03-11ea-be63-52543be04c81",
+    "name": "Radio Sky FM",
+    "url": "http://89.43.138.116:8000/radiosky.mp3",
+    "homepage": "http://www.radiosky.ro/",
+    "favicon": "http://www.radiosky.ro/wp-content/uploads/2015/01/cropped-com.lucian_g.skyfmct_high-res-icon-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "electronic,alternative,oldies,pop,rock",
+    "state": "Constanta",
+    "bitrate": 192
+}

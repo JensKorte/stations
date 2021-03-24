@@ -1,0 +1,14 @@
+{
+    "uuid": "11055389-c260-11e8-aaf2-52543be04c81",
+    "name": "NH Radio",
+    "url": "http://rrr.sz.xlcdn.com/?account=nhnieuws\u0026file=NHRadio_mp3\u0026type=live\u0026service=icecast\u0026protocol=http\u0026port=8000\u0026output=m3u",
+    "homepage": "http://www.nhradio.nl",
+    "favicon": "https://www.nhnieuws.nl/Content/Images/noordholland/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

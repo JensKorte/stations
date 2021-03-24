@@ -1,0 +1,14 @@
+{
+    "uuid": "9628c135-0601-11e8-ae97-52543be04c81",
+    "name": "WSBF 88.1 Clemson University, SC",
+    "url": "http://stream.wsbf.net:8000/high",
+    "homepage": "https://wsbf.net",
+    "favicon": "https://wsbf.net/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "clemson,university radio",
+    "state": "South Carolina",
+    "bitrate": 192
+}

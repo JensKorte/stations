@@ -1,0 +1,14 @@
+{
+    "uuid": "b190f9ab-3259-40a5-af4d-97de51e53e9e",
+    "name": "Radio Glas Podravine",
+    "url": "http://glaspodravine.hr:8000/radio.glaspodravine.hr",
+    "homepage": "https://radio.glaspodravine.hr/",
+    "favicon": "https://radio.glaspodravine.hr/release/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk music,pop,local news",
+    "state": "",
+    "bitrate": 320
+}

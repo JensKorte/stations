@@ -1,0 +1,14 @@
+{
+    "uuid": "ac08e6d3-35df-11e9-8f31-52543be04c81",
+    "name": "TRC - Tele Radio Ciclope",
+    "url": "http://onair15.xdevel.com:9070/;",
+    "homepage": "https://www.radiotrc.net/",
+    "favicon": "https://www.radiotrc.net/wp-content/uploads/2018/09/Logo-Radio-TRC-positivo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "bronte,pop,top 40",
+    "state": "Sicilia",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5822f0c8-178e-11e8-ae97-52543be04c81",
+    "name": "ABC News Radio",
+    "url": "http://www.abc.net.au/res/streaming/audio/aac/news_radio.pls",
+    "homepage": "http://www.abc.net.au/newsradio/",
+    "favicon": "http://www.abc.net.au/newsradio/res/img/abcnewsradio_1200x630.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "",
+    "state": "NSW",
+    "bitrate": 48
+}

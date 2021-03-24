@@ -1,0 +1,14 @@
+{
+    "uuid": "750df04f-9bc0-11e8-a767-52543be04c81",
+    "name": "Говорит Москва",
+    "url": "http://media.govoritmoskva.ru:8880/rufm_m.mp3",
+    "homepage": "govoritmoskva.ru",
+    "favicon": "http://top-radio.ru/assets/image/radio/180//govorit-moskva.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "информационный",
+    "state": "Москва",
+    "bitrate": 0
+}

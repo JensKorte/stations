@@ -1,0 +1,14 @@
+{
+    "uuid": "67b44a46-cebc-49a7-9578-40f30b65ec05",
+    "name": "ABC North Coast, Northern Rivers, NSW",
+    "url": "https://abcradiolivehls-lh.akamaihd.net/i/localnorthcoast_1@587390/master.m3u8",
+    "homepage": "https://www.abc.net.au/radio/northcoast/",
+    "favicon": "https://www.abc.net.au/cm/rimage/10616302-1x1-thumbnail.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "northern rivers,local news,information,lismore,local radio,abc",
+    "state": "New South Wales",
+    "bitrate": 24
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9629df94-0601-11e8-ae97-52543be04c81",
+    "name": "RVL La Radio",
+    "url": "http://nr8.newradio.it:9079",
+    "homepage": "http://www.rvl.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s211581q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "classic hits,italian pop,talk",
+    "state": "Piemonte",
+    "bitrate": 128
+}

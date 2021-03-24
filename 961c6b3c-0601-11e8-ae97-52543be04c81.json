@@ -1,0 +1,14 @@
+{
+    "uuid": "961c6b3c-0601-11e8-ae97-52543be04c81",
+    "name": "The Voice",
+    "url": "http://stream.voice.dk/voice128",
+    "homepage": "http://www.radioplay.dk/thevoice",
+    "favicon": "https://cdn.radioplay.se/img/original/4c80dac8dc9e9921.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

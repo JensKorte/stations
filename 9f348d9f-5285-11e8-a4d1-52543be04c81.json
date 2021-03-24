@@ -1,0 +1,14 @@
+{
+    "uuid": "9f348d9f-5285-11e8-a4d1-52543be04c81",
+    "name": "Costa Del Mar - Chillout (AAC 96kbps)",
+    "url": "http://stream.cdm-chillout.com:8020/stream-AAC-Chill",
+    "homepage": "http://www.costadelmar-radio.com/chillout/",
+    "favicon": "http://www.costadelmar-radio.com/wp-content/uploads/cache/2016/12/RADIO_CDM-LOGO-CHILLLOUT-600/3944392582.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "",
+    "tags": "chillout,chill",
+    "state": "",
+    "bitrate": 96
+}

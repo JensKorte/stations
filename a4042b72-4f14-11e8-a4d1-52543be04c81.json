@@ -1,0 +1,14 @@
+{
+    "uuid": "a4042b72-4f14-11e8-a4d1-52543be04c81",
+    "name": "Kaffee Radio",
+    "url": "http://stream.laut.fm/kaffee",
+    "homepage": "http://www.Chat-Fire.de",
+    "favicon": "http://www.Chat-Fire.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies,low bandwidth,60s,70s,90s,80s,charts,techno,schlager,gothic,rock,pop",
+    "state": "Würzburg",
+    "bitrate": 128
+}

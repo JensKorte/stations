@@ -1,0 +1,14 @@
+{
+    "uuid": "96224ecc-0601-11e8-ae97-52543be04c81",
+    "name": "CJEC \"WKND 91.9\" Quebec City, QC",
+    "url": "http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3",
+    "homepage": "http://www.wknd.fm/",
+    "favicon": "http://wknd.fm/img/logo-wknd.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "quebec city,country,commercial",
+    "state": "Quebec",
+    "bitrate": 96
+}

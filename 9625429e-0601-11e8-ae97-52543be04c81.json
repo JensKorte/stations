@@ -1,0 +1,14 @@
+{
+    "uuid": "9625429e-0601-11e8-ae97-52543be04c81",
+    "name": "Open Air Radio",
+    "url": "http://79.172.209.223:9200/stream;",
+    "homepage": "http://openairradio.hu/",
+    "favicon": "http://m.cdn.blog.hu/mu/musicpress/image/openair-logo2a.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "alternative",
+    "state": "",
+    "bitrate": 256
+}

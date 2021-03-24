@@ -1,0 +1,14 @@
+{
+    "uuid": "7e9d5f5f-1440-11e8-ae97-52543be04c81",
+    "name": "Muzički Radio Fan",
+    "url": "http://stream.fanradio.info:9000/listen.pls",
+    "homepage": "http://www.radio-fan.org",
+    "favicon": "http://www.radio-fan.org//logofan.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

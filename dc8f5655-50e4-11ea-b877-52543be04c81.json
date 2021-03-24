@@ -1,0 +1,14 @@
+{
+    "uuid": "dc8f5655-50e4-11ea-b877-52543be04c81",
+    "name": "Radio Matucana (102.9 FM, Lima)",
+    "url": "http://radio.transmite.pe:9316/;",
+    "homepage": "http://www.radiomatucana.com/",
+    "favicon": "http://www.radiomatucana.com/wp-content/uploads/2017/01/logo-rm-2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "local radio",
+    "state": "Lima",
+    "bitrate": 32
+}

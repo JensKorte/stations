@@ -1,0 +1,14 @@
+{
+    "uuid": "9619a540-0601-11e8-ae97-52543be04c81",
+    "name": "TSF Rádio Açores",
+    "url": "http://centova.radio.com.pt:8243/;",
+    "homepage": "http://www.acorianooriental.pt/noticias/tsf",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s110774t.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "local music,local news",
+    "state": "Azores",
+    "bitrate": 128
+}

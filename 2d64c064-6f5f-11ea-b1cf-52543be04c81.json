@@ -1,0 +1,14 @@
+{
+    "uuid": "2d64c064-6f5f-11ea-b1cf-52543be04c81",
+    "name": "Another Music Project",
+    "url": "http://radio.anothermusicproject.com:8000/idm",
+    "homepage": "http://anothermusicproject.com/",
+    "favicon": "http://www.anothermusicproject.com/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "idm,electronic,music",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ee4700e3-45bf-11ea-a860-52543be04c81",
+    "name": "Radio Sei",
+    "url": "http://radiosei.newradio.it:80/stream",
+    "homepage": "http://radiosei.it",
+    "favicon": "http://radiosei.it/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "italian",
+    "tags": "sport,talk",
+    "state": "",
+    "bitrate": 128
+}

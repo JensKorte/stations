@@ -1,0 +1,14 @@
+{
+    "uuid": "c5a6a1cc-e614-11e9-a96c-52543be04c81",
+    "name": "Kiss FM Netherlands",
+    "url": "http://stream.kiss-fm.nl:9500/",
+    "homepage": "http://www.kiss-fm.nl/",
+    "favicon": "http://www.kiss-fm.nl/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "house,trance,dance",
+    "state": "",
+    "bitrate": 128
+}

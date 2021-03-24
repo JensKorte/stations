@@ -1,0 +1,14 @@
+{
+    "uuid": "3c543190-2ed3-11e9-8f31-52543be04c81",
+    "name": "Landeswelle Thüringen",
+    "url": "http://stream.landeswelle.de/lwt/mp3-128/lil/",
+    "homepage": "https://www.landeswelle.de/",
+    "favicon": "https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1467786202117501.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "landeswelle",
+    "state": "Thuringia",
+    "bitrate": 128
+}

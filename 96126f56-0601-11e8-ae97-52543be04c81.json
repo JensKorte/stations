@@ -1,0 +1,14 @@
+{
+    "uuid": "96126f56-0601-11e8-ae97-52543be04c81",
+    "name": "NPO Radio 1",
+    "url": "http://icecast.omroep.nl:80/radio1-bb-mp3",
+    "homepage": "http://www.radio1.nl/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/640px-NPO_Radio_1_logo_2014.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "news",
+    "state": "",
+    "bitrate": 0
+}

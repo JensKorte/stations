@@ -1,0 +1,14 @@
+{
+    "uuid": "962a02ac-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Vallebelbo",
+    "url": "http://nr9.newradio.it:9581/listen.pls",
+    "homepage": "http://www.radiovallebelbo.it/",
+    "favicon": "http://www.radiovallebelbo.it/immagini/logo/logo_radio_vallebelbo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "electronica,adult contemporary,news",
+    "state": "Liguria",
+    "bitrate": 64
+}

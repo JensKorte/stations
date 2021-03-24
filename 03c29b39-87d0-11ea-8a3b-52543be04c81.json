@@ -1,0 +1,14 @@
+{
+    "uuid": "03c29b39-87d0-11ea-8a3b-52543be04c81",
+    "name": "SvoeRadio",
+    "url": "http://source.hostingradio.ru:8010/svoe-320.mp3",
+    "homepage": "https://svoeradio.fm",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "russian",
+    "tags": "",
+    "state": "",
+    "bitrate": 320
+}

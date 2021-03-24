@@ -1,0 +1,14 @@
+{
+    "uuid": "5219bbb9-442b-11e9-aa55-52543be04c81",
+    "name": "CNN Radio",
+    "url": "http://estudio.cnnradioargentina.com.ar:8000/stream",
+    "homepage": "https://cnnespanol.cnn.com/seccion/cnn-radio-argentina/",
+    "favicon": "https://s2.wp.com/wp-content/themes/vip/cnnespanol/static/images/favicon/apple-touch-icon-57x57.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español",
+    "tags": "",
+    "state": "",
+    "bitrate": 109
+}

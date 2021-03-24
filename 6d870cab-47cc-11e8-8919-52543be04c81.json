@@ -1,0 +1,14 @@
+{
+    "uuid": "6d870cab-47cc-11e8-8919-52543be04c81",
+    "name": "ARTE.TV",
+    "url": "http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8",
+    "homepage": "https://www.arte.tv/de/",
+    "favicon": "https://static-cdn.arte.tv/guide/favicons/apple-touch-icon-114x114.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 296
+}

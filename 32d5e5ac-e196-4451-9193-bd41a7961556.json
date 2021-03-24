@@ -1,0 +1,14 @@
+{
+    "uuid": "32d5e5ac-e196-4451-9193-bd41a7961556",
+    "name": "J1 Gold (HTTP)",
+    "url": "http://jenny.torontocast.com:8062/",
+    "homepage": "https://en.j1fm.tokyo",
+    "favicon": "https://j1fm.tokyo/images/button-j1g.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "japanese",
+    "tags": "jpop",
+    "state": "",
+    "bitrate": 128
+}

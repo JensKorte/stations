@@ -1,0 +1,14 @@
+{
+    "uuid": "961d9fd4-0601-11e8-ae97-52543be04c81",
+    "name": "KLRE Classical 90.5 (UALR Public Radio) Little Rock, AR",
+    "url": "http://playerservices.streamtheworld.com/m3u/KLREFM.m3u",
+    "homepage": "http://ualrpublicradio.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kuar/files/201503/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical,npr,public radio",
+    "state": "Arkansas",
+    "bitrate": 64
+}

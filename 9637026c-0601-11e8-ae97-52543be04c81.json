@@ -1,0 +1,14 @@
+{
+    "uuid": "9637026c-0601-11e8-ae97-52543be04c81",
+    "name": "La 2x4",
+    "url": "http://radios.argentina.fm:9270/stream",
+    "homepage": "http://www.buenosaires.gob.ar/la2x4",
+    "favicon": "http://www.buenosaires.gob.ar/sites/gcaba/files/2x4_logo_0.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "tango",
+    "state": "Buenos Aires",
+    "bitrate": 96
+}

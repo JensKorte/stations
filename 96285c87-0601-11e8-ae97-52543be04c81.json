@@ -1,0 +1,14 @@
+{
+    "uuid": "96285c87-0601-11e8-ae97-52543be04c81",
+    "name": "Rádió 88 Top",
+    "url": "http://stream3.radio88.hu:8500/;stream",
+    "homepage": "http://www.radio88.hu/",
+    "favicon": "http://www.radio88.hu/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "contemporary hits,top 40",
+    "state": "Csongrád",
+    "bitrate": 160
+}

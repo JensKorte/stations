@@ -1,0 +1,14 @@
+{
+    "uuid": "9d8b5805-b445-11e8-afe1-52543be04c81",
+    "name": "Rio FM 102.9 Rio de Janeiro",
+    "url": "http://provisioning.streamtheworld.com/pls/RIOFM.pls",
+    "homepage": "http://rio.fm",
+    "favicon": "http://voealto.rio.br/riofm/wp-content/uploads/2018/08/LOGO_RIO-FM_NOVA-VERSAO_SEM-SLOGAN.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "samba,pagode,brazilian music",
+    "state": "Rio de Janeiro",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "cb67b277-3a66-11e9-9b4e-52543be04c81",
+    "name": "LOHRO - Lokalradio Rostock",
+    "url": "http://stream.lohro.de:8000/lohro_opus.ogg.m3u",
+    "homepage": "https://lohro.de",
+    "favicon": "https://www.lohro.de/wp-content/themes/wordpress-lohro-theme-oyla/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rostock,local news,lokalradio",
+    "state": "Mecklenburg-Vorpommern",
+    "bitrate": 0
+}

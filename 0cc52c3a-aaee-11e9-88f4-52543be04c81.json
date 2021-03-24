@@ -1,0 +1,14 @@
+{
+    "uuid": "0cc52c3a-aaee-11e9-88f4-52543be04c81",
+    "name": "RPR1. Mainz/Frankfurt",
+    "url": "http://streams.rpr1.de/rpr-mainz-128-mp3?usid=0-0-H-A-D-30",
+    "homepage": "https://www.rpr1.de/webradio/rpr1-mainzfrankfurt",
+    "favicon": "https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,regional radio",
+    "state": "Rheinland-Pfalz",
+    "bitrate": 128
+}

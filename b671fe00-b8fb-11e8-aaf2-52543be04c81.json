@@ -1,0 +1,14 @@
+{
+    "uuid": "b671fe00-b8fb-11e8-aaf2-52543be04c81",
+    "name": "WGBH 89.7",
+    "url": "https://streams.audio.wgbh.org:8200/wgbh-aac",
+    "homepage": "http://wgbh.org/",
+    "favicon": "http://wgbh.org//apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "boston,npr",
+    "state": "Massachusetts",
+    "bitrate": 0
+}

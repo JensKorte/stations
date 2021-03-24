@@ -1,0 +1,14 @@
+{
+    "uuid": "81766e71-c96a-11e8-a54a-52543be04c81",
+    "name": "WAVE.FM",
+    "url": "http://provisioning.streamtheworld.com/pls/CIWVFM.pls",
+    "homepage": "http://wave.fm",
+    "favicon": "http://www.wave.fm/theme/default/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "jazz,smooth jazz",
+    "state": "Ontario",
+    "bitrate": 64
+}

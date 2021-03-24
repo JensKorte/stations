@@ -1,0 +1,14 @@
+{
+    "uuid": "962b35ca-0601-11e8-ae97-52543be04c81",
+    "name": "Юмор FM",
+    "url": "http://live.humorfm.by:8000/veseloeradio",
+    "homepage": "http://humorfm.by/",
+    "favicon": "http://humorfm.by/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "top 40,comedy",
+    "state": "Minsk",
+    "bitrate": 128
+}

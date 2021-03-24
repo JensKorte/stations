@@ -1,0 +1,14 @@
+{
+    "uuid": "9647da10-0601-11e8-ae97-52543be04c81",
+    "name": "KroneHit Radio",
+    "url": "http://onair-ha1.krone.at/kronehit.aac",
+    "homepage": "http://www.kronehit.at/",
+    "favicon": "http://www.kronehit.at/themes/main/img/logo_630x315.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "adult contemporary",
+    "state": "",
+    "bitrate": 64
+}

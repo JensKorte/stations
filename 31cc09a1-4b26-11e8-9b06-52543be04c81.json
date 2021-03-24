@@ -1,0 +1,14 @@
+{
+    "uuid": "31cc09a1-4b26-11e8-9b06-52543be04c81",
+    "name": "Cashmere Radio",
+    "url": "http://cashmereradio.out.airtime.pro:8000/cashmereradio_b",
+    "homepage": "https://cashmereradio.com",
+    "favicon": "https://pbs.twimg.com/profile_images/810162588466155520/XzZ7oSBE_400x400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english,german",
+    "tags": "non-commercial,non-profit,community,community radio,experimental,berlin",
+    "state": "Berlin",
+    "bitrate": 128
+}

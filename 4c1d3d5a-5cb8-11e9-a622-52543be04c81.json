@@ -1,0 +1,14 @@
+{
+    "uuid": "4c1d3d5a-5cb8-11e9-a622-52543be04c81",
+    "name": "Radio Francisco Estéreo 102.5 FM",
+    "url": "https://streamingecuador.net:8004/franciscostereo.m3u",
+    "homepage": "http://www.franciscostereo.com",
+    "favicon": "https://streamingecuador.net/makrostreaming/radiofranciscostereo/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "talk,noticias,news,music,music",
+    "state": "Pichincha",
+    "bitrate": 0
+}

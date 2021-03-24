@@ -1,0 +1,14 @@
+{
+    "uuid": "738d12b5-50e6-4de1-af01-146bedb559ec",
+    "name": "Radio Morcote International",
+    "url": "http://streaming.radiomorcoteinternational.com:8000/;",
+    "homepage": "https://www.radiomorcoteinternational.com/",
+    "favicon": "https://www.radiomorcoteinternational.com/wp-content/uploads/2020/04/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "italian,deutsch",
+    "tags": "morcote,pop,rock",
+    "state": "Ticino",
+    "bitrate": 192
+}

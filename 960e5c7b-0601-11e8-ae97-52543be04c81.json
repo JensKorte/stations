@@ -1,0 +1,14 @@
+{
+    "uuid": "960e5c7b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Fiume Ticino Schweiz",
+    "url": "http://178.209.40.106:8002/stream",
+    "homepage": "http://www.radioticino.com",
+    "favicon": "http://www.radioticino.com///templates/rt_plethora/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "italian",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

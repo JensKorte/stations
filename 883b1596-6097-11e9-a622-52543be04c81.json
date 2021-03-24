@@ -1,0 +1,14 @@
+{
+    "uuid": "883b1596-6097-11e9-a622-52543be04c81",
+    "name": "Engenharia Rádio",
+    "url": "http://engradio.fe.up.pt:8080/live?type=.mp3",
+    "homepage": "https://www.engenhariaradio.pt",
+    "favicon": "https://i0.wp.com/media.engenhariaradio.pt/2019/02/cropped-engenharia_radio_512x512.png?fit=270%2C270\u0026ssl=1",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "independent radio,alternative,university radio",
+    "state": "Porto",
+    "bitrate": 0
+}

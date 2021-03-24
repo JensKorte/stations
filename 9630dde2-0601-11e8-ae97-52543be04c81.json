@@ -1,0 +1,14 @@
+{
+    "uuid": "9630dde2-0601-11e8-ae97-52543be04c81",
+    "name": "DANCEableRADIO",
+    "url": "http://s14.myradiostream.com:19580/listen.pls?sid=1",
+    "homepage": "https://myradiostream.com/station/flashplayer.php?s=s14\u0026p=19580",
+    "favicon": "https://myradiostream.com/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "english",
+    "tags": "edm radioshows,hothits,classic 90s,disco,pop,brandnew,edm,dance",
+    "state": "Rotterdam",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fe71673f-0815-11ea-a87e-52543be04c81",
+    "name": "Outback Radio 2WEB",
+    "url": "http://stream.outbackradio.com.au:7230/;",
+    "homepage": "https://www.outbackradio.com.au/",
+    "favicon": "https://www.outbackradio.com.au/wp-content/uploads/2015/06/2weblogo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "",
+    "tags": "",
+    "state": "NSW",
+    "bitrate": 64
+}

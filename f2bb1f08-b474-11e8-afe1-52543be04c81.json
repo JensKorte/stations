@@ -1,0 +1,14 @@
+{
+    "uuid": "f2bb1f08-b474-11e8-afe1-52543be04c81",
+    "name": "RSA Radio",
+    "url": "http://mp3.rsaradio.c.nmdn.net/ps-rsaradio/hqlivestream.mp3",
+    "homepage": "https://www.rsa-radio.de/",
+    "favicon": "https://www.rsa-radio.de/graphik/rsa_facebook_default.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "",
+    "state": "Bavaria",
+    "bitrate": 192
+}

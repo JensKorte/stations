@@ -1,0 +1,14 @@
+{
+    "uuid": "96201a86-0601-11e8-ae97-52543be04c81",
+    "name": "Verdure Station",
+    "url": "http://air.verdure.net:8881/stream",
+    "homepage": "http://verdure.net/",
+    "favicon": "http://verdure.net//static/images/leaf_64.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "deep ambient,idm",
+    "state": "Moscow",
+    "bitrate": 192
+}

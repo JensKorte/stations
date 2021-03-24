@@ -1,0 +1,14 @@
+{
+    "uuid": "9629a89a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Mach 5",
+    "url": "http://sr4.inmystream.info:8183/listen.pls",
+    "homepage": "http://www.radiomach5.it/",
+    "favicon": "http://www.radiomach5.it/logo2.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "limbiate,pop,talk",
+    "state": "Lombardia",
+    "bitrate": 128
+}

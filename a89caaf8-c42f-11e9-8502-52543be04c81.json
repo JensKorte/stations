@@ -1,0 +1,14 @@
+{
+    "uuid": "a89caaf8-c42f-11e9-8502-52543be04c81",
+    "name": "American Council of the Blind",
+    "url": "http://stream.acbradio.org:8000/mainstream.mp3",
+    "homepage": "https://acb.org/",
+    "favicon": "https://acb.org/sites/default/files/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "radio for the print handicapped,radio reading service",
+    "state": "Virginia",
+    "bitrate": 128
+}

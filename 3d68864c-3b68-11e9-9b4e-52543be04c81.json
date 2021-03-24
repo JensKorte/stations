@@ -1,0 +1,14 @@
+{
+    "uuid": "3d68864c-3b68-11e9-9b4e-52543be04c81",
+    "name": "France Info",
+    "url": "http://direct.franceinfo.fr/live/franceinfo-lofi.mp3",
+    "homepage": "https://mobile.francetvinfo.fr/",
+    "favicon": "https://www.francetvinfo.fr/skin/www/img/lgo/placeholder.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "news",
+    "state": "",
+    "bitrate": 0
+}

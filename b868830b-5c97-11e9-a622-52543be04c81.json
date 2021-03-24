@@ -1,0 +1,14 @@
+{
+    "uuid": "b868830b-5c97-11e9-a622-52543be04c81",
+    "name": "Radio Diblu 88.9 FM",
+    "url": "http://streamingecuador.net:9302/listen.pls",
+    "homepage": "http://www.diblu.ec/",
+    "favicon": "http://worldradiomap.com/ec/images/diblu.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "sport,deportes,futbol,musica,noticias,soccer,talk,news,music",
+    "state": "Guayaquil",
+    "bitrate": 20
+}

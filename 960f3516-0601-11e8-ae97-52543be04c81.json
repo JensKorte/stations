@@ -1,0 +1,14 @@
+{
+    "uuid": "960f3516-0601-11e8-ae97-52543be04c81",
+    "name": "Radio SWH",
+    "url": "http://80.232.162.149:8000/swh96mp3.m3u",
+    "homepage": "http://www.radioswh.lv/",
+    "favicon": "http://www.radioswh.lv/wp-content/uploads/logo/swh_logo_gaiss_fons.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "talk,news,rock,classic rock",
+    "state": "",
+    "bitrate": 192
+}

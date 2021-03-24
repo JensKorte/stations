@@ -1,0 +1,14 @@
+{
+    "uuid": "3c1b0b18-0ce9-4c5d-976e-5063e237237c",
+    "name": "socket",
+    "url": "http://stream.laut.fm/socketfm.pls",
+    "homepage": "https://laut.fm/socketfm-2017",
+    "favicon": "http://stream.laut.fm/socketfm.m3u",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

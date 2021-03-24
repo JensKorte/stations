@@ -1,0 +1,14 @@
+{
+    "uuid": "0955dee1-09cd-42ba-9990-42119a788ac1",
+    "name": "Power FM 104.0",
+    "url": "http://media2.brg.ua:8000/power_l",
+    "homepage": "http://powerfm.ua/",
+    "favicon": "http://powerfm.ua/img/power.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 160
+}

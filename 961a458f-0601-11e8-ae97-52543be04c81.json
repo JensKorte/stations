@@ -1,0 +1,14 @@
+{
+    "uuid": "961a458f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Nacional Folklorica 98.7",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38",
+    "homepage": "http://www.nacionalfolklorica.com.ar/",
+    "favicon": "https://i3.radionomy.com/radios/400/3716d5e2-8cc5-4325-8970-7b92304c7830.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "public radio,folk,buenos aires",
+    "state": "",
+    "bitrate": 0
+}

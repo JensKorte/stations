@@ -1,0 +1,14 @@
+{
+    "uuid": "e5bac065-533f-4ee2-8bab-80b4ff1457be",
+    "name": "Radio Vos Salta 90.1",
+    "url": "http://streaming01.shockmedia.com.ar:9200/;",
+    "homepage": "http://vosyla901.com.ar/web/",
+    "favicon": "http://vosyla901.com.ar/web/wp-content/uploads/2020/06/logo-web3-1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español,spanish",
+    "tags": "90.1,vos,radio vos,salta",
+    "state": "Salta",
+    "bitrate": 64
+}

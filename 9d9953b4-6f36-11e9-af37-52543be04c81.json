@@ -1,0 +1,14 @@
+{
+    "uuid": "9d9953b4-6f36-11e9-af37-52543be04c81",
+    "name": "TLIG Radio Italian",
+    "url": "http://46.28.49.164:7715/stream",
+    "homepage": "https://tligradio.org/it/",
+    "favicon": "https://tligradio.org/wp-content/uploads/2014/07/slider.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "talk,religion,catholic,christian",
+    "state": "",
+    "bitrate": 128
+}

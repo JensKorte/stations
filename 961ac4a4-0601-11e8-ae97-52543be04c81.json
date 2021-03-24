@@ -1,0 +1,14 @@
+{
+    "uuid": "961ac4a4-0601-11e8-ae97-52543be04c81",
+    "name": "WDRT 91.9 Viroqua, WI",
+    "url": "http://audio.wdrt.org:8000/high",
+    "homepage": "https://wdrt.org/",
+    "favicon": "https://wdrt.org/wp-content/uploads/2013/08/Windmill-WDRT.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "driftless,community radio,viroqua",
+    "state": "Wisconsin",
+    "bitrate": 128
+}

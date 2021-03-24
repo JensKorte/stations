@@ -1,0 +1,14 @@
+{
+    "uuid": "2f6b5199-b087-4130-94f0-4c9d934dc985",
+    "name": "Авторадио",
+    "url": "http://live.humorfm.by:8000/avtoradio-high.m3u",
+    "homepage": "http://avtoradio.by",
+    "favicon": "http://avtoradio.by/media/cache/player_current/empty.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "rock",
+    "state": "Minsk",
+    "bitrate": 96
+}

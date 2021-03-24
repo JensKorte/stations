@@ -1,0 +1,14 @@
+{
+    "uuid": "961f8886-0601-11e8-ae97-52543be04c81",
+    "name": "NRK P2 (Lav Kvalitet)",
+    "url": "http://lyd.nrk.no/nrk_radio_p2_mp3_l.m3u",
+    "homepage": "https://radio.nrk.no/direkte/p2",
+    "favicon": "http://ellayali.com/images/logo_nrkp2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "cultural,music,talk,news",
+    "state": "",
+    "bitrate": 0
+}

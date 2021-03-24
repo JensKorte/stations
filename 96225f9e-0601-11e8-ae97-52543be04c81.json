@@ -1,0 +1,14 @@
+{
+    "uuid": "96225f9e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Puglia",
+    "url": "http://audio1.meway.tv:8108/listen.pls",
+    "homepage": "http://www.radiopuglia.it/",
+    "favicon": "http://www.radiopuglia.it/img/logo-header.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40,pop",
+    "state": "Puglia",
+    "bitrate": 128
+}

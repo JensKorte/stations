@@ -1,0 +1,14 @@
+{
+    "uuid": "962b1061-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Orizzonte Molise",
+    "url": "http://s3.mediastreaming.it:7200/;stream.mp3",
+    "homepage": "http://www.radiorizzonte.it/",
+    "favicon": "http://www.radiorizzonte.it/wp-content/uploads/2016/03/favicon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "campobasso,pop",
+    "state": "Molise",
+    "bitrate": 128
+}

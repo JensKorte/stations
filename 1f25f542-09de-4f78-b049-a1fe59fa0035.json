@@ -1,0 +1,14 @@
+{
+    "uuid": "1f25f542-09de-4f78-b049-a1fe59fa0035",
+    "name": "ultima.fm",
+    "url": "http://hls.ultima.fm:8000/ultima/laradio.mp3",
+    "homepage": "http://ultima.fm/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "rock,pop",
+    "state": "",
+    "bitrate": 128
+}

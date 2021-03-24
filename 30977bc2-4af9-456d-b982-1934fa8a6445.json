@@ -1,0 +1,14 @@
+{
+    "uuid": "30977bc2-4af9-456d-b982-1934fa8a6445",
+    "name": "Radio Bellissima Hits",
+    "url": "http://giorgia.radiobellissima.it:8000/stream",
+    "homepage": "http://radiobellissima.it/",
+    "favicon": "http://radiobellissima.it/wp-content/uploads/2019/03/Logo_Radiobellissima_Nero_Sfondobianco-01-300x300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "italian",
+    "tags": "top 40,hits,bellissima",
+    "state": "Toronto",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ba13002b-03c3-4220-a16b-4a303cf48d26",
+    "name": "Zoe FM",
+    "url": "https://icecast.movemedia.be/zoe128",
+    "homepage": "http://zoe.fm",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch,flemish",
+    "tags": "golden oldies,goldies,oldies",
+    "state": "Vlaanderen",
+    "bitrate": 128
+}

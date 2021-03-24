@@ -1,0 +1,14 @@
+{
+    "uuid": "91e2c997-e815-11e8-a9be-52543be04c81",
+    "name": "Pirates Radio",
+    "url": "http://pirates.mine.nu:8080/pirates.mp3",
+    "homepage": "http://piratesradio.ch",
+    "favicon": "http://www.piratesradio.ch/images/logo-pirate.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "",
+    "state": "Neuchâtel",
+    "bitrate": 192
+}

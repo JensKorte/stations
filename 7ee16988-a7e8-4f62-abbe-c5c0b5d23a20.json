@@ -1,0 +1,14 @@
+{
+    "uuid": "7ee16988-a7e8-4f62-abbe-c5c0b5d23a20",
+    "name": "3PBS 106.7FM Melbourne",
+    "url": "http://eno.emit.com:8000/pbsfm_live_64.mp3",
+    "homepage": "https://www.pbsfm.org.au/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "3pbs,pbs,melbourne,community radio,community,independent",
+    "state": "Victoria",
+    "bitrate": 0
+}

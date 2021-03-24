@@ -1,0 +1,14 @@
+{
+    "uuid": "d78d1a72-c453-4380-8c04-4042d323a199",
+    "name": "TSF",
+    "url": "http://directo.tsf.pt:8181/tsfdirecto.aac",
+    "homepage": "http://www.tsf.pt",
+    "favicon": "https://www.tsf.pt/common/images/favicons/mstile-310x150.png",
+    "creation": "2021-02-14 14:59:03",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "sports,news",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a256200d-2ec4-11e9-8f31-52543be04c81",
+    "name": "KALX 90.7FM Berkeley",
+    "url": "http://stream.kalx.berkeley.edu:8000/kalx-320.aac.m3u",
+    "homepage": "https://www.kalx.berkeley.edu/",
+    "favicon": "https://www.kalx.berkeley.edu/sites/default/files/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "aac,university radio,uc berkeley,berkeley",
+    "state": "California",
+    "bitrate": 320
+}

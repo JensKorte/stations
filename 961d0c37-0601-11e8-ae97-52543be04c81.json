@@ -1,0 +1,14 @@
+{
+    "uuid": "961d0c37-0601-11e8-ae97-52543be04c81",
+    "name": "Mutiny Radio",
+    "url": "http://nthmost.net:8000/mutiny-studio.m3u",
+    "homepage": "http://pcrcollective.org/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Mutiny-Radio.jpg/213px-Mutiny-Radio.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "community radio,san francisco",
+    "state": "California",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963bc629-0601-11e8-ae97-52543be04c81",
+    "name": "OSN Radio",
+    "url": "http://stream.osn.fm:8000/stream",
+    "homepage": "http://www.osn.fm",
+    "favicon": "http://www.osn.fm/wp-content/uploads/2016/04/cropped-OSN-Radio-Stu-Allan-3-192x192.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "hardcore",
+    "state": "",
+    "bitrate": 128
+}

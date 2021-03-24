@@ -1,0 +1,14 @@
+{
+    "uuid": "e00c8caf-e003-429c-a33e-79eb9ba78c64",
+    "name": "KSIS Radio 1050 AM",
+    "url": "https://live.wostreaming.net/manifest/townsquare-ksisamaac-ibc3",
+    "homepage": "https://ksisradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KSIS.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Sedalia MO",
+    "bitrate": 64
+}

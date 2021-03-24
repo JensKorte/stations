@@ -1,0 +1,14 @@
+{
+    "uuid": "96164f4d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sana'a",
+    "url": "http://93.190.141.15:7183/live",
+    "homepage": "http://www.sanaaradio.net/",
+    "favicon": "http://www.sanaaradio.net/design/favicon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Yemen",
+    "country_code": "YE",
+    "language": "arabic",
+    "tags": "sanaa,government",
+    "state": "",
+    "bitrate": 0
+}

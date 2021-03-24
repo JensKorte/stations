@@ -1,0 +1,14 @@
+{
+    "uuid": "8497386c-070f-11e8-ae97-52543be04c81",
+    "name": "Radio Ciudad AM 1110",
+    "url": "http://radios.argentina.fm:1110/stream",
+    "homepage": "http://www.buenosaires.gob.ar/radiociudad",
+    "favicon": "http://www.buenosaires.gob.ar/sites/gcaba/themes/gcbaV4/xgcaba/css/BA2016.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "la once diez",
+    "state": "Buenos Aires",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "00cd5b2e-376d-11e9-9b4e-52543be04c81",
+    "name": "UA: Українське радіо - Казки",
+    "url": "http://radio.nrcu.gov.ua:8000/kazka-mp3",
+    "homepage": "https://kazky.suspilne.media/radio",
+    "favicon": "https://kazky.suspilne.media/inc/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "children,talk,fairytales,казки",
+    "state": "Kyiv",
+    "bitrate": 128
+}

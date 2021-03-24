@@ -1,0 +1,14 @@
+{
+    "uuid": "96456315-0601-11e8-ae97-52543be04c81",
+    "name": "Baby Radio España",
+    "url": "http://sd396babyradio1.lcinternet.com:8000/stream",
+    "homepage": "https://babyradio.es/emision?e=es",
+    "favicon": "https://babyradio.es//images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "música infantil,radio infantil",
+    "state": "Madrid",
+    "bitrate": 128
+}

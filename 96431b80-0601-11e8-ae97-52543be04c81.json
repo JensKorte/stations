@@ -1,0 +1,14 @@
+{
+    "uuid": "96431b80-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Pulheim 97.2",
+    "url": "http://stream.antennepulheim.de:8000/antennepulheim",
+    "homepage": "http://www.antennepulheim.de/",
+    "favicon": "http://www.antennepulheim.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "variety",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

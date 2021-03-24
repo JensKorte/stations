@@ -1,0 +1,14 @@
+{
+    "uuid": "19561877-f3d3-45dc-8549-2f3f73b01961",
+    "name": "KRTU 91.7 FM",
+    "url": "http://stream.krtu.org:9000/krtu_live-320kb.m3u",
+    "homepage": "https://krtu.trinity.edu/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "",
+    "tags": "indie overnight,jazz",
+    "state": "San Antonio",
+    "bitrate": 320
+}

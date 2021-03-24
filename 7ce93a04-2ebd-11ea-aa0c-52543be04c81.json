@@ -1,0 +1,14 @@
+{
+    "uuid": "7ce93a04-2ebd-11ea-aa0c-52543be04c81",
+    "name": "Virgin Radio",
+    "url": "https://ais-live.cloud-services.paris:8443/virgin.mp3",
+    "homepage": "https://www.virginradio.fr/",
+    "favicon": "http://flux.radio.free.fr/Sans%20titre%2045.gif",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "français french",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

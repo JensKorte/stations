@@ -1,0 +1,14 @@
+{
+    "uuid": "962fcdcc-0601-11e8-ae97-52543be04c81",
+    "name": "AM 710",
+    "url": "http://radio10.stweb.tv:1935/radio10/live/playlist.m3u8",
+    "homepage": "http://www.minutouno.com/adjuntos/m1radios/radio10/index.php",
+    "favicon": "http://www.radios-argentinas.com/imagenes/radio_diez_logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "r10,noticias,news,de la gente",
+    "state": "Buenos Aires",
+    "bitrate": 66
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "10e8dce4-56f3-4ced-8e08-a673053016d0",
+    "name": "PackTV",
+    "url": "http://152.14.0.108/live/live.m3u8",
+    "homepage": "https://packtv.ncsu.edu/",
+    "favicon": "https://i.imgur.com/TFYiFvP.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "ncsu,north carolina,sport,sports news",
+    "state": "North Carolina",
+    "bitrate": 570
+}

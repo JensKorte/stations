@@ -1,0 +1,14 @@
+{
+    "uuid": "bb377e31-b9f0-11e9-acb2-52543be04c81",
+    "name": "NORA Webstream",
+    "url": "http://streams.norawebstreams.de/nora-live/mp3-192/streams.norawebstreams.de/",
+    "homepage": "http://www.norawebstreams.de/",
+    "favicon": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/10/nora_webstream_600x600.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,rock,90er,80er,70er,oldies",
+    "state": "",
+    "bitrate": 192
+}

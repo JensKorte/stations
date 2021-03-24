@@ -1,0 +1,14 @@
+{
+    "uuid": "961a7e47-0601-11e8-ae97-52543be04c81",
+    "name": "VOGTLAND RADIO (128k)",
+    "url": "http://vogtlandradio.mp3.green.ch/vogtland_128k_mp3",
+    "homepage": "http://www.vogtlandradio.de/",
+    "favicon": "http://vogtlandradio.de/module/radioplayer/img/station-logo.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "greiz,plauen,vogtlandradio",
+    "state": "Saxony",
+    "bitrate": 128
+}

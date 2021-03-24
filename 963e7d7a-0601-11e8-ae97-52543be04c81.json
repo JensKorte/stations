@@ -1,0 +1,14 @@
+{
+    "uuid": "963e7d7a-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Caldes",
+    "url": "http://streaming.enantena.com:8000/radiocaldes128.mp3",
+    "homepage": "http://www.caldesdemontbui.cat/actualitat/radio-caldes/",
+    "favicon": "http://www.caldesdemontbui.cat/media/thumbnails/600_auto__municipi_radio-caldes_3112120154_logoradiocaldescolor.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "caldes de montbui",
+    "state": "Barcelona",
+    "bitrate": 0
+}

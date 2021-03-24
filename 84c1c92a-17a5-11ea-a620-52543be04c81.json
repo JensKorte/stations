@@ -1,0 +1,14 @@
+{
+    "uuid": "84c1c92a-17a5-11ea-a620-52543be04c81",
+    "name": "Die Sendung mit der Maus zum Hören",
+    "url": "https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/master.m3u8",
+    "homepage": "https://www.wdrmaus.de/hoeren/",
+    "favicon": "https://www.wdrmaus.de/bilder/mediendb/maus_2015/hoeren/someteaser_zumhoeren.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "german",
+    "tags": "children",
+    "state": "NRW",
+    "bitrate": 48
+}

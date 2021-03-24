@@ -1,0 +1,14 @@
+{
+    "uuid": "32da2113-229c-11e9-a80b-52543be04c81",
+    "name": "Classic FM",
+    "url": "http://media-ice.musicradio.com:80/ClassicFMMP3",
+    "homepage": "https://www.classicfm.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/472px-Classic_FM_logo.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "classic fm,classical",
+    "state": "",
+    "bitrate": 128
+}

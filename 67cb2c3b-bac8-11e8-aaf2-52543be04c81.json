@@ -1,0 +1,14 @@
+{
+    "uuid": "67cb2c3b-bac8-11e8-aaf2-52543be04c81",
+    "name": "Radio del Pueblo AM 830",
+    "url": "http://streaming.radiolinksmedia.com:7830/",
+    "homepage": "http://radiodelpueblo.com.ar/",
+    "favicon": "http://radiodelpueblo.com.ar/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "",
+    "tags": "",
+    "state": "Ciudad Autonoma de Buenos Aires",
+    "bitrate": 64
+}

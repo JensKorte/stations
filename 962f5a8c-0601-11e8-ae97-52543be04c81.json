@@ -1,0 +1,14 @@
+{
+    "uuid": "962f5a8c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Punto Sud",
+    "url": "http://streaming.puntosud.net:8020/stream",
+    "homepage": "http://www.puntosud.net/",
+    "favicon": "http://www.puntosud.net/wp/wp-content/uploads/2015/11/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Puglia",
+    "bitrate": 96
+}

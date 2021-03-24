@@ -1,0 +1,14 @@
+{
+    "uuid": "957584f4-cef4-11e8-a54a-52543be04c81",
+    "name": "Stockholm FM 101,1 Sweden",
+    "url": "http://mrs.net/stream/cityradio_fm1011_broadband/listenlive.m3u",
+    "homepage": "http://www.narradio.se",
+    "favicon": "http://www.narradio.se/logo_205.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "international,variety",
+    "state": "Stockholm",
+    "bitrate": 128
+}

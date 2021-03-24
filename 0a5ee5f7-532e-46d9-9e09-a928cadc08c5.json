@@ -1,0 +1,14 @@
+{
+    "uuid": "0a5ee5f7-532e-46d9-9e09-a928cadc08c5",
+    "name": "Omroep Eemsdelta",
+    "url": "https://qlive.nl:8002/",
+    "homepage": "https://omroepeemsdelta.nl/",
+    "favicon": "https://omroepeemsdelta.nl/",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "nostalgia,contemporary,community radio,public radio,local radio",
+    "state": "Groningen",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "415f6363-0ffd-49a4-8840-714f0185e310",
+    "name": "A-Bomb Radio",
+    "url": "https://maggie.torontocast.com:8060/stream",
+    "homepage": "https://tunein.com/radio/A-Bomb-Radio-s295023/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "radio drama,oldies",
+    "state": "",
+    "bitrate": 128
+}

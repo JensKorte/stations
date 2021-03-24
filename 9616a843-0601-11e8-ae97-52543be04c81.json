@@ -1,0 +1,14 @@
+{
+    "uuid": "9616a843-0601-11e8-ae97-52543be04c81",
+    "name": "Mosaique FM",
+    "url": "http://radio.mosaiquefm.net:8000/mosalive",
+    "homepage": "http://www.mosaiquefm.net/ar/",
+    "favicon": "http://www.tunisie-radio.com/sites/default/files/radio/mosaique-fm_0.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "language": "arabic",
+    "tags": "",
+    "state": "Tunis",
+    "bitrate": 90
+}

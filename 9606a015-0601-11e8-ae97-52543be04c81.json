@@ -1,0 +1,14 @@
+{
+    "uuid": "9606a015-0601-11e8-ae97-52543be04c81",
+    "name": "WDR 1Live Diggi",
+    "url": "http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3",
+    "homepage": "https://www1.wdr.de/radio/1live-diggi/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/WDR1LiveDigi.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

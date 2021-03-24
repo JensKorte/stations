@@ -1,0 +1,14 @@
+{
+    "uuid": "17ab70a8-2552-11e9-a80b-52543be04c81",
+    "name": "Urban Space Radio",
+    "url": "http://stream.mjoy.ua:8000/urban-space-radio-aac.m3u",
+    "homepage": "http://urbanspaceradio.com",
+    "favicon": "http://mjoy.ua/radio/urban-space-radio/favicons/fav.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Ivano-Frankivsk",
+    "bitrate": 64
+}

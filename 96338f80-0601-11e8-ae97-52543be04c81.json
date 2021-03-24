@@ -1,0 +1,14 @@
+{
+    "uuid": "96338f80-0601-11e8-ae97-52543be04c81",
+    "name": "Oasis 96.3 FM Philipsburg",
+    "url": "http://stream.sxmradio.com:8060/channel5.mp3",
+    "homepage": "http://oasis963.fm/",
+    "favicon": "http://oasis963.fm/wp-content/uploads/2011/11/Oasis-logo-nobackground_300px_stroke1.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "english",
+    "tags": "philipsburg,soft pop,oldies",
+    "state": "Sint Maarten",
+    "bitrate": 128
+}

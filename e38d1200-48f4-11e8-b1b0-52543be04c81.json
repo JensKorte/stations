@@ -1,0 +1,14 @@
+{
+    "uuid": "e38d1200-48f4-11e8-b1b0-52543be04c81",
+    "name": "ERF 1.TV",
+    "url": "http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8",
+    "homepage": "https://www.erf.de/fernsehen",
+    "favicon": "https://www.erf.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "christian,tv",
+    "state": "",
+    "bitrate": 0
+}

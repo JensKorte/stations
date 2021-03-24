@@ -1,0 +1,14 @@
+{
+    "uuid": "a7f322cb-6788-47ab-9312-3fda8e0edede",
+    "name": "SWR3",
+    "url": "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/aac/96/stream.aac",
+    "homepage": "https://www.swr3.de/",
+    "favicon": "https://www.swr3.de/assets/swr3/icons/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "music,weather,traffic,news,charts",
+    "state": "",
+    "bitrate": 0
+}

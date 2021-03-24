@@ -1,0 +1,14 @@
+{
+    "uuid": "96224349-0601-11e8-ae97-52543be04c81",
+    "name": "WILL-AM 580 Urbana, IL",
+    "url": "http://icecast.will.illinois.edu:8000/WILL-mp3-48",
+    "homepage": "http://will.illinois.edu/am",
+    "favicon": "http://will.illinois.edu//themes/site_themes/will2.1/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,urbana,npr",
+    "state": "Illinois",
+    "bitrate": 39
+}

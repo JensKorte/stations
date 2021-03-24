@@ -1,0 +1,14 @@
+{
+    "uuid": "960c3e01-0601-11e8-ae97-52543be04c81",
+    "name": "Vox FM - Székelykeresztúr",
+    "url": "http://stream.voxfm.ro:8000/listen.pls",
+    "homepage": "http://www.voxfm.ro/",
+    "favicon": "http://www.voxfm.ro/images/voxlogo-x-233.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "hungarian",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "276a4205-24a6-4831-bdf3-c1176ee2818a",
+    "name": "Radio LifeChannel",
+    "url": "https://stream1.lifechannel.ch/LIFECHANNEL",
+    "homepage": "https://radio.lifechannel.ch",
+    "favicon": "https://radio.lifechannel.ch/wp-content/themes/erf/assets/images/logo_life_channel_radio.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "deutsch,german",
+    "tags": "faith,christian,hoffnung,glaube,lebensfragen",
+    "state": "",
+    "bitrate": 192
+}

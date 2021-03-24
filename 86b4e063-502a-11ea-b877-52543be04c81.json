@@ -1,0 +1,14 @@
+{
+    "uuid": "86b4e063-502a-11ea-b877-52543be04c81",
+    "name": "Antenne Mainz",
+    "url": "https://antennemainz-live.cast.addradio.de/antennemainz/live/mp3/high",
+    "homepage": "https://www.antenne-mainz.de/",
+    "favicon": "https://www.antenne-mainz.de/base-portlet/webrsrc/ctxvar/64c4b2a9-d218-4c5f-bc00-504f19f799d0.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rheinland-pfalz,mainz,germany",
+    "state": "Rheinland-Pfalz",
+    "bitrate": 128
+}

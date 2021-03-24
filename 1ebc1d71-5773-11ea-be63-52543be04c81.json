@@ -1,0 +1,14 @@
+{
+    "uuid": "1ebc1d71-5773-11ea-be63-52543be04c81",
+    "name": "Tirana Jazz Radio",
+    "url": "http://live.tiranajazzradio.com:8000/stream",
+    "homepage": "http://www.tiranajazzradio.com/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Albania",
+    "country_code": "AL",
+    "language": "shqip,albanian",
+    "tags": "albania",
+    "state": "",
+    "bitrate": 128
+}

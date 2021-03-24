@@ -1,0 +1,14 @@
+{
+    "uuid": "44614209-8313-44b6-b73e-c32eaa7a1d8c",
+    "name": "WFIA 94.7 FM / 900 AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFIAAMAAC.aac",
+    "homepage": "https://www.wfiafm.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WFIAFM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "religious",
+    "state": "New Albany IN",
+    "bitrate": 32
+}

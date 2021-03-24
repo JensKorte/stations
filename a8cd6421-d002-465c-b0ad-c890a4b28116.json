@@ -1,0 +1,14 @@
+{
+    "uuid": "a8cd6421-d002-465c-b0ad-c890a4b28116",
+    "name": "Radio 21 - Holzminden",
+    "url": "https://stream.radio21.de/radio21_holzminden.mp3",
+    "homepage": "https://www.radio21.de",
+    "favicon": "https://www.radio21.de/typo3conf/ext/ch_radio21/Resources/Public/icons/radio21/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "rock",
+    "state": "Niedersachsen",
+    "bitrate": 192
+}

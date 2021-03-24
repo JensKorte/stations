@@ -1,0 +1,14 @@
+{
+    "uuid": "960b9025-0601-11e8-ae97-52543be04c81",
+    "name": "Three D Radio",
+    "url": "http://sounds.threedradio.com:8000/stream",
+    "homepage": "http://www.threedradio.com/",
+    "favicon": "http://www.threedradio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "",
+    "tags": "community radio",
+    "state": "South Australia",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9618e7a0-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Renascença",
+    "url": "http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls",
+    "homepage": "http://rr.sapo.pt/",
+    "favicon": "http://mediaserver2.rr.pt/NEWRR/logorrredessociais6088e0e6.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "national news",
+    "state": "Lisbon",
+    "bitrate": 64
+}

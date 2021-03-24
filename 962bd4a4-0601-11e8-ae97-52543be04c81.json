@@ -1,0 +1,14 @@
+{
+    "uuid": "962bd4a4-0601-11e8-ae97-52543be04c81",
+    "name": "Crooner Radio",
+    "url": "http://stream.crooner.fr/crooner",
+    "homepage": "http://www.crooner.fr/",
+    "favicon": "http://www.crooner.fr/wp-content/uploads/2017/11/cropped-LOGO-FAVICO-CROONERRADIO-32x32.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "jazz,swing",
+    "state": "",
+    "bitrate": 128
+}

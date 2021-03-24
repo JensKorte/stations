@@ -1,0 +1,14 @@
+{
+    "uuid": "c1aa6fec-e008-11e8-a9cc-52543be04c81",
+    "name": "Tharu Online Radio",
+    "url": "http://146.185.18.251:7014/stream",
+    "homepage": "http://www.tharu.net/",
+    "favicon": "http://www.tharu.net/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "language": "sinhala",
+    "tags": "music",
+    "state": "",
+    "bitrate": 64
+}

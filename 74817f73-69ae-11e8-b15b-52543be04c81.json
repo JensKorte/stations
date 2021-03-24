@@ -1,0 +1,14 @@
+{
+    "uuid": "74817f73-69ae-11e8-b15b-52543be04c81",
+    "name": "Sikhnet Radio",
+    "url": "http://radio2.sikhnet.com:8010/stream",
+    "homepage": "https://www.sikhnet.com/radio",
+    "favicon": "https://www.sikhnet.com/files/styles/social-sharing/public/icons/logos/sikhnet-logo-wide-social-share.jpg?itok=5vgOhuyx",
+    "creation": "2021-02-07 13:11:47",
+    "country": "India",
+    "country_code": "IN",
+    "language": "punjabi",
+    "tags": "music",
+    "state": "Punjab",
+    "bitrate": 32
+}

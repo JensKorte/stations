@@ -1,0 +1,14 @@
+{
+    "uuid": "238231a7-a356-4b82-8d59-2304b6abccc5",
+    "name": "LOS40 Veracruz - 98.9 FM - XHWB-FM - Radiópolis - Veracruz, VE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac",
+    "homepage": "https://escucha.los40.com.mx/emisora/los40_veracruz/",
+    "favicon": "http://cdn-profiles.tunein.com/s185135/images/logog.jpg?t=153796",
+    "creation": "2021-03-01 05:46:23",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "entretenimiento,juvenil,pop,pop music,música,mx,mex,méxico,radiópolis,estación,radio,fm,98.9,98.9 fm,veracruz,los40",
+    "state": "Veracruz",
+    "bitrate": 56
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9633f4ec-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Continu",
+    "url": "http://stream.radiocontinu.nl/radiocontinu",
+    "homepage": "http://www.radiocontinu.nl/",
+    "favicon": "http://assets.radiocontinu.nl/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "variety,classics,dutch",
+    "state": "",
+    "bitrate": 192
+}

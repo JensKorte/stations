@@ -1,0 +1,14 @@
+{
+    "uuid": "4fe74865-557f-4476-ab86-6f51885ff7fd",
+    "name": "BBC Radio Scotland (FM)",
+    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm",
+    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+    "favicon": "https://ichef.bbci.co.uk/images/ic/1200x675/p029kx4l.jpg",
+    "creation": "2021-03-23 13:26:40",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "talk,scotland,music,variety,bbc",
+    "state": "Scotland",
+    "bitrate": 0
+}

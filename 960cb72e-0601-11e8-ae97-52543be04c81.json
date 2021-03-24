@@ -1,0 +1,14 @@
+{
+    "uuid": "960cb72e-0601-11e8-ae97-52543be04c81",
+    "name": "Magyar Katolikus Rádió",
+    "url": "http://katolikusradio.hu:9000/live_hi.mp3",
+    "homepage": "http://www.katolikusradio.hu/",
+    "favicon": "http://www.katolikusradio.hu/uploads/content/164/kepek/c_matrica.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "catholic,religion",
+    "state": "",
+    "bitrate": 128
+}

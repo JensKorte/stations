@@ -1,0 +1,14 @@
+{
+    "uuid": "ffb5e6fe-b44e-11e8-afe1-52543be04c81",
+    "name": "BBC Radio 4",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p",
+    "homepage": "http://www.bbc.co.uk/radio4/",
+    "favicon": "http://www.bbc.co.uk///rmp.files.bbci.co.uk/nightingale/256/img/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "",
+    "tags": "radiobrowser,bbc,drama,news,talk,news,talk",
+    "state": "",
+    "bitrate": 0
+}

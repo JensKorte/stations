@@ -1,0 +1,14 @@
+{
+    "uuid": "961dceac-0601-11e8-ae97-52543be04c81",
+    "name": "FM1 Nord",
+    "url": "http://radiofm1.ice.infomaniak.ch:80/radiofm1-128.mp3",
+    "homepage": "http://www.fm1today.ch/",
+    "favicon": "http://www.fm1today.ch//wp-content/skins/nzz-fm1/icons/favicon-96x96.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "music,hits",
+    "state": "St. Gallen",
+    "bitrate": 128
+}

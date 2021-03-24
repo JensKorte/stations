@@ -1,0 +1,14 @@
+{
+    "uuid": "6948f068-5599-4638-959a-15694bc4778c",
+    "name": "RUC Rádio Universidade de Coimbra",
+    "url": "https://stream.ruc.pt/high.m3u",
+    "homepage": "https://www.ruc.pt/",
+    "favicon": "https://ruc.pt/favicon-32x32.png",
+    "creation": "2021-02-26 23:57:01",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "pt",
+    "tags": "alternative,student radio,university radio",
+    "state": "",
+    "bitrate": 320
+}

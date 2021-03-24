@@ -1,0 +1,14 @@
+{
+    "uuid": "96114adc-0601-11e8-ae97-52543be04c81",
+    "name": "Antyradio Katowice",
+    "url": "http://ant-kat.cdn.eurozet.pl:8604/;stream",
+    "homepage": "http://www.antyradio.pl/",
+    "favicon": "http://gfx.antyradio.pl/design/antyradio_2015/images/layout/logo_small.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 128
+}

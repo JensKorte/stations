@@ -1,0 +1,14 @@
+{
+    "uuid": "d8a7e091-7c09-11e8-b68b-52543be04c81",
+    "name": "SRP1 - AAC 192 kbps (M3U)",
+    "url": "http://sverigesradio.se/topsy/direkt/132-hi-aac.m3u",
+    "homepage": "http://sverigesradio.se/p1",
+    "favicon": "http://sverigesradio.se//sida/content/img/icons/apple-touch-icon-p1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "",
+    "state": "Kronoberg",
+    "bitrate": 0
+}

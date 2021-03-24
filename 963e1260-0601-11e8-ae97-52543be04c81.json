@@ -1,0 +1,14 @@
+{
+    "uuid": "963e1260-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Felicidad FM (OCZ-4M, 88.9 MHz FM, Lima)",
+    "url": "http://playerservices.streamtheworld.com/pls/RADIO_FELICIDAD.pls",
+    "homepage": "http://felicidad.com.pe/",
+    "favicon": "http://s.radio-felicidad.io/static/img/logo_face.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "spanish pop,classic hits",
+    "state": "Lima",
+    "bitrate": 64
+}

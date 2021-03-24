@@ -1,0 +1,14 @@
+{
+    "uuid": "a0c2924c-5084-11e8-a4d1-52543be04c81",
+    "name": "Radio SRF 1 Ostschweiz",
+    "url": "http://stream.srg-ssr.ch/regi_ost/aacp_32.m3u",
+    "homepage": "https://www.srf.ch/sendungen/regionaljournal-ostschweiz",
+    "favicon": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "",
+    "tags": "",
+    "state": "St. Gallen",
+    "bitrate": 0
+}

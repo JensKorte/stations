@@ -1,0 +1,14 @@
+{
+    "uuid": "d870b15d-7c6f-49b2-92bf-7eaa0279cd9c",
+    "name": "KCBC 770 AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBCAMAAC.aac",
+    "homepage": "https://770kcbc.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KCBC.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "religious",
+    "state": "Manteca CA",
+    "bitrate": 64
+}

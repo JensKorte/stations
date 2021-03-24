@@ -1,0 +1,14 @@
+{
+    "uuid": "962918e7-0601-11e8-ae97-52543be04c81",
+    "name": "Radio StandBy",
+    "url": "http://stream.radiomusic.net:8010",
+    "homepage": "http://www.radiostandby.com/",
+    "favicon": "http://www.radiostandby.com/wp-content/uploads/2015/11/cropped-Radio-StandBy-s7-192x192.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Lazio",
+    "bitrate": 192
+}

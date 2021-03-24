@@ -1,0 +1,14 @@
+{
+    "uuid": "36b81d84-3374-11ea-afca-52543be04c81",
+    "name": "Yle Vega Österbotten",
+    "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_31@113908/master.m3u8",
+    "homepage": "https://arenan.yle.fi/radio/program/yle-vega?_c=radio-vega-osterbotten",
+    "favicon": "https://images.cdn.yle.fi/image/upload/d_yle-areena.jpg,f_auto,fl_lossy,q_auto:eco/v1574338072/13-30-546-1574338071947.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "swedish",
+    "tags": "local news,news",
+    "state": "",
+    "bitrate": 62
+}

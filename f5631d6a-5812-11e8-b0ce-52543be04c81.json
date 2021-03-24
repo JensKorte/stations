@@ -1,0 +1,14 @@
+{
+    "uuid": "f5631d6a-5812-11e8-b0ce-52543be04c81",
+    "name": "1A Deutsche Hits",
+    "url": "http://stream.1a-webradio.de/saw-deutsch/aac-48/radiosure-1a/stream.mp3",
+    "homepage": "http://www.1a-webradio.de/",
+    "favicon": "http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-deutsch.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "hits,deutsche",
+    "state": "",
+    "bitrate": 48
+}

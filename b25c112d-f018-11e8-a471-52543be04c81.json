@@ -1,0 +1,14 @@
+{
+    "uuid": "b25c112d-f018-11e8-a471-52543be04c81",
+    "name": "Bayernlive Dreamradio",
+    "url": "http://server3.digital-webstream.de:8855",
+    "homepage": "http://www.bayern-live-dreamradio.de",
+    "favicon": "http://www.bayern-live-dreamradio.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "folk,alternative,pop,schlager,oldies",
+    "state": "Bavaria",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960f2b60-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Wroclaw",
+    "url": "http://stream4.nadaje.com:9240/prw",
+    "homepage": "http://www.prw.pl/",
+    "favicon": "http://www.prw.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "rock",
+    "state": "Wroclaw",
+    "bitrate": 0
+}

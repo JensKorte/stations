@@ -1,0 +1,14 @@
+{
+    "uuid": "2b6aa092-a1f3-4d01-b087-ad7792adf96c",
+    "name": "Radio Sonica",
+    "url": "http://sr6.inmystream.it:8052/stream",
+    "homepage": "https://www.radiosonica.it/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma",
+    "state": "Lazio",
+    "bitrate": 96
+}

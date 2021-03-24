@@ -1,0 +1,14 @@
+{
+    "uuid": "5c802ddf-f2f4-47b4-aa04-0038ae4b5235",
+    "name": "BR-Klassik (AAC)",
+    "url": "http://br-brklassik-live.cast.addradio.de/br/brklassik/live/aac/low",
+    "homepage": "https://www.br-klassik.de/index.html",
+    "favicon": "https://www.br-klassik.de/static/live/img/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classical",
+    "state": "Bavaria",
+    "bitrate": 0
+}

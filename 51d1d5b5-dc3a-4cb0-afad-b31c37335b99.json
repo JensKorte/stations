@@ -1,0 +1,14 @@
+{
+    "uuid": "51d1d5b5-dc3a-4cb0-afad-b31c37335b99",
+    "name": "Yeshua.at Radio",
+    "url": "https://yeshua.at:8443/stream",
+    "homepage": "https://yeshua.at/server/radioArtists/index",
+    "favicon": "https://yeshua.at/server/img/Logo-Y.png",
+    "creation": "2021-03-18 22:24:58",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 0
+}

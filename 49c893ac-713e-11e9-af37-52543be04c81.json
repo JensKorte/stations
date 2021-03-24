@@ -1,0 +1,14 @@
+{
+    "uuid": "49c893ac-713e-11e9-af37-52543be04c81",
+    "name": "MyFM",
+    "url": "http://astro1.rastream.com/myfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amyfm\u0026playerid=MY%20FM_web\u0026authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTA2ODc4OTM5MzIsImV4cCI6MTQ5MDc3NDI5MzkzMn0.WOCZn2kJuoHhhdoq7wyFgn-dJC2teH3_RPxZuSwjCVk\u0026lan=%5B%22zh%22%5D\u0026setLanguage=true",
+    "homepage": "https://my.com.my/",
+    "favicon": "https://media2.fishtank.my/app_themes/my/ico/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "language": "mandarin,cantonese",
+    "tags": "",
+    "state": "",
+    "bitrate": 47
+}

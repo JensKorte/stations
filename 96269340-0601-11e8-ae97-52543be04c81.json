@@ -1,0 +1,14 @@
+{
+    "uuid": "96269340-0601-11e8-ae97-52543be04c81",
+    "name": "Capital Public Radio Classical",
+    "url": "http://playerservices.streamtheworld.com/m3u/ClassicalStream.m3u",
+    "homepage": "http://www.capradio.org/",
+    "favicon": "http://www.capradio.org/images/nav/classical.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical,public radio",
+    "state": "California",
+    "bitrate": 96
+}

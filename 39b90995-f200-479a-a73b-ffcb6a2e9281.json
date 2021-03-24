@@ -1,0 +1,14 @@
+{
+    "uuid": "39b90995-f200-479a-a73b-ffcb6a2e9281",
+    "name": "RCN La Radio Bogota Nacional",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RCN_RADIO_FM.mp3",
+    "homepage": "https://www.rcnradio.com/",
+    "favicon": "https://www.rcnradio.com/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish,español",
+    "tags": "sports news,deportes,noticias,news",
+    "state": "Bogotá",
+    "bitrate": 48
+}

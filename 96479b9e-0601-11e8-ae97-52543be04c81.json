@@ -1,0 +1,14 @@
+{
+    "uuid": "96479b9e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Viva FM - Lima",
+    "url": "http://streamingargentino4.com.ar:5310/;stream.mp3",
+    "homepage": "http://www.vivafm.com.pe/",
+    "favicon": "http://vivafm.com.pe/img/website/imagen.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "reggaeton,top 40,latin pop",
+    "state": "Lima",
+    "bitrate": 64
+}

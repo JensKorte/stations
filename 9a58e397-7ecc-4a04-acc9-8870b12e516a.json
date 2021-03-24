@@ -1,0 +1,14 @@
+{
+    "uuid": "9a58e397-7ecc-4a04-acc9-8870b12e516a",
+    "name": "Nash FM 93.1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDRQFMAAC.aac",
+    "homepage": "https://www.nashfm931.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/NashFM 93.1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Detroit MI",
+    "bitrate": 48
+}

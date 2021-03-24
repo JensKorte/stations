@@ -1,0 +1,14 @@
+{
+    "uuid": "9645b08c-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Kool Kids",
+    "url": "http://streams.fluxfm.de/kinder2/mp3-320/streams.fluxfm.de/play.pls",
+    "homepage": "https://www.fluxfm.de/",
+    "favicon": "http://fluxmusic.io/wp-content/uploads/2017/09/02-Flux-KoolKids-21122017-150x150.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "youth",
+    "state": "Berlin",
+    "bitrate": 320
+}

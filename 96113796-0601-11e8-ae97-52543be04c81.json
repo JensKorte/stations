@@ -1,0 +1,14 @@
+{
+    "uuid": "96113796-0601-11e8-ae97-52543be04c81",
+    "name": "Radio UFSCAR",
+    "url": "http://www.radio.ufscar.br:8000/radioufscar.ogg",
+    "homepage": "http://www.radio.ufscar.br/",
+    "favicon": "https://radioamantes.files.wordpress.com/2015/01/logo_radio_hi.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "university radio,traditional,alternative rock,public",
+    "state": "São Paulo",
+    "bitrate": 128
+}

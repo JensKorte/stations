@@ -1,0 +1,14 @@
+{
+    "uuid": "965021dd-955c-41d4-97ff-e593790fb131",
+    "name": "4KZ Radio",
+    "url": "http://198.74.51.37:8425/;stream.mp3",
+    "homepage": "https://www.4kz.com.au/",
+    "favicon": "https://www.4kz.com.au/images/4KZ-174x90.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "classic,queensland,far north queensland,innisfail,4kz",
+    "state": "Queensland",
+    "bitrate": 64
+}

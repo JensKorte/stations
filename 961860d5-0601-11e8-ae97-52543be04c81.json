@@ -1,0 +1,14 @@
+{
+    "uuid": "961860d5-0601-11e8-ae97-52543be04c81",
+    "name": "Radio UDG (XHUDG-FM, 104.3 MHz FM) Universidad de Guadalajara",
+    "url": "http://148.202.119.233:8080",
+    "homepage": "http://udgtv.com/radio-guadalajara/en-vivo",
+    "favicon": "http://seeklogo.com/images/R/Radio_Universidad_de_Guadalajara-logo-96B0F59BB4-seeklogo.com.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "college radio,public radio,university radio,universitaria,pública,public",
+    "state": "Jalisco",
+    "bitrate": 128
+}

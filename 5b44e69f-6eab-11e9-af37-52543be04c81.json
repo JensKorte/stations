@@ -1,0 +1,14 @@
+{
+    "uuid": "5b44e69f-6eab-11e9-af37-52543be04c81",
+    "name": "CKHA 100.9 \"Canoe FM\" Haliburton, ON",
+    "url": "http://provisioning.streamtheworld.com/pls/CKHAFMAAC.pls",
+    "homepage": "https://canoefm.com/",
+    "favicon": "https://canoefm.com/wp-content/uploads/2016/10/cropped-favicon-canoe-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "haliburton,community radio",
+    "state": "Ontario",
+    "bitrate": 64
+}

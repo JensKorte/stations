@@ -1,0 +1,14 @@
+{
+    "uuid": "c1a5e6f3-47ed-11e8-8919-52543be04c81",
+    "name": "ZDF neo.TV",
+    "url": "https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?",
+    "homepage": "http://neo.zdf.de/",
+    "favicon": "https://www.zdf.de/assets/2400-zdfneo-100~1280x720?cb=1519661535120",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 229
+}

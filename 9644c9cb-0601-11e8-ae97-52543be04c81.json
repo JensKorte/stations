@@ -1,0 +1,14 @@
+{
+    "uuid": "9644c9cb-0601-11e8-ae97-52543be04c81",
+    "name": "WFMU 91.1 East Orange, NJ  (32k stream)",
+    "url": "http://stream3.wfmu.org/freeform-32k",
+    "homepage": "https://wfmu.org/",
+    "favicon": "http://www.wfmu.org/wp-content/themes/wfmu-theme/img/non-retina/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "low bandwidth,non-commercial,community radio,freeform",
+    "state": "New Jersey",
+    "bitrate": 0
+}

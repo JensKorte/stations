@@ -1,0 +1,14 @@
+{
+    "uuid": "9623ef06-0601-11e8-ae97-52543be04c81",
+    "name": "German Tuner Radio",
+    "url": "http://stream.laut.fm/german-tuner-radio",
+    "homepage": "https://www.german-tuner-radio.de/",
+    "favicon": "https://www.german-tuner-radio.de/data:image/png;base64,iVBORw0KGgo=",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

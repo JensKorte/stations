@@ -1,0 +1,14 @@
+{
+    "uuid": "4f48591f-e032-11e8-a9cc-52543be04c81",
+    "name": "TNL Radio",
+    "url": "http://live.tnlrn.com:8010/live.mp3",
+    "homepage": "http://www.tnlradio.com/",
+    "favicon": "http://tnlradio.com/sites/5833dbc3470afb8109000003/theme/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "language": "english",
+    "tags": "music,entertainment",
+    "state": "",
+    "bitrate": 128
+}

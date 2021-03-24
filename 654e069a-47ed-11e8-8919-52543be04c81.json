@@ -1,0 +1,14 @@
+{
+    "uuid": "654e069a-47ed-11e8-8919-52543be04c81",
+    "name": "ZDF info.TV",
+    "url": "https://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?",
+    "homepage": "http://info.zdf.de/",
+    "favicon": "https://www.zdf.de/assets/2400-zdfinfo-100~1280x720?cb=1519661438150",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 229
+}

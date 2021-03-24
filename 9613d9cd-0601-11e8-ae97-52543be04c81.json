@@ -1,0 +1,14 @@
+{
+    "uuid": "9613d9cd-0601-11e8-ae97-52543be04c81",
+    "name": "La Cle des Ondes",
+    "url": "http://radio.lacdo.org:80/stream",
+    "homepage": "http://la.cle.des.ondes.pagesperso-orange.fr/",
+    "favicon": "http://la.cle.des.ondes.pagesperso-orange.fr/icon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Bordeaux",
+    "bitrate": 128
+}

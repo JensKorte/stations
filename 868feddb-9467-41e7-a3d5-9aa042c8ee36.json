@@ -1,0 +1,14 @@
+{
+    "uuid": "868feddb-9467-41e7-a3d5-9aa042c8ee36",
+    "name": "BraveFM #original",
+    "url": "http://stream.laut.fm/bravefm",
+    "homepage": "https://bravefm.de",
+    "favicon": "https://bravefm.de/images/fallback.png",
+    "creation": "2021-03-01 14:47:20",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "radio,webradio,rock,pop,charts,bravefm",
+    "state": "Germany",
+    "bitrate": 128
+}

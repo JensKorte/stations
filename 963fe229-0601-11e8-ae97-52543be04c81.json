@@ -1,0 +1,14 @@
+{
+    "uuid": "963fe229-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Tushurami Folk",
+    "url": "http://5.135.183.124:8431/stream",
+    "homepage": "http://www.radiotushurami.com/",
+    "favicon": "http://5.135.183.124/player/tushurami/build/logoradio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "latin,folk",
+    "state": "Lima",
+    "bitrate": 128
+}

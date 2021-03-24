@@ -1,0 +1,14 @@
+{
+    "uuid": "81cec554-5962-11e8-b0ce-52543be04c81",
+    "name": "Rádio Medianeira FM 100.9",
+    "url": "http://centova11.ciclanohost.com.br:2199/tunein/-stream/medianeirafm.pls",
+    "homepage": "http://100.9.radiomedianeira.com.br/",
+    "favicon": "http://100.9.radiomedianeira.com.br/wp-content/uploads/2018/01/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "music",
+    "state": "Rio Grande do Sul",
+    "bitrate": 96
+}

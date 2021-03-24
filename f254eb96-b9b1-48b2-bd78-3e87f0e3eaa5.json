@@ -1,0 +1,14 @@
+{
+    "uuid": "f254eb96-b9b1-48b2-bd78-3e87f0e3eaa5",
+    "name": "WSMR 89.1 Classical music",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WSMRFM.mp3",
+    "homepage": "https://www.wsmr.org/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "sarasota,classical",
+    "state": "Florida",
+    "bitrate": 64
+}

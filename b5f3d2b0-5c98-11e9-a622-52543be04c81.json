@@ -1,0 +1,14 @@
+{
+    "uuid": "b5f3d2b0-5c98-11e9-a622-52543be04c81",
+    "name": "Radio Romance 90.1 FM",
+    "url": "https://streamingecuador.net:9090/stream.m3u",
+    "homepage": "http://www.radioromance.com/",
+    "favicon": "https://streamingecuador.net/makrostreaming/radioromance/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "spanish pop,latin music,musica romantica,romantic,musica,music",
+    "state": "Guayaquil",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "bb761adf-e703-11e9-a96c-52543be04c81",
+    "name": "France Musique Musiques de monde OCORA",
+    "url": "http://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac",
+    "homepage": "https://www.francemusique.fr/webradio-musiques-du-monde-ocora",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "public radio,world music,radio france,aac",
+    "state": "",
+    "bitrate": 0
+}

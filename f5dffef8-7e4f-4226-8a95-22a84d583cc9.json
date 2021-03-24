@@ -1,0 +1,14 @@
+{
+    "uuid": "f5dffef8-7e4f-4226-8a95-22a84d583cc9",
+    "name": "TV 5",
+    "url": "http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8",
+    "homepage": "http://www.tv5hd.com/",
+    "favicon": "http://nettvplus.live/uploads/19/1-1Z12H01A95O.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "language": "khmer",
+    "tags": "",
+    "state": "Phnom Penh",
+    "bitrate": 1732
+}

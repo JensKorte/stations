@@ -1,0 +1,14 @@
+{
+    "uuid": "960fe76e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Rodzina",
+    "url": "http://sluchaj.radiorodzina.pl:80/RadioRodzinaWroclawLIVE.mp3",
+    "homepage": "http://www.radiorodzina.pl/",
+    "favicon": "http://www.radiorodzina.pl//static/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Wroclaw",
+    "bitrate": 0
+}

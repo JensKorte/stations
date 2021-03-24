@@ -1,0 +1,14 @@
+{
+    "uuid": "961e54a9-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Orlicko",
+    "url": "http://46.28.111.246/stream192.mp3",
+    "homepage": "http://www.radioorlicko.cz",
+    "favicon": "http://www.radioorlicko.cz/images/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "local music,local news,rock",
+    "state": "Ústí nad Orlicí",
+    "bitrate": 192
+}

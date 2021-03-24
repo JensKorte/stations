@@ -1,0 +1,14 @@
+{
+    "uuid": "960c1ceb-0601-11e8-ae97-52543be04c81",
+    "name": "WITR 89.7 Rochester Institute of Technology - Henrietta, NY",
+    "url": "http://streaming.witr.rit.edu:8000/live",
+    "homepage": "https://witr.rit.edu/",
+    "favicon": "https://witr.rit.edu/img/header/witr_logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "henrietta,rochester,variety,student radio,college radio",
+    "state": "New York",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "bb23ca57-773d-11ea-b1cf-52543be04c81",
+    "name": "Rádio Jupiter",
+    "url": "http://stream.radiojupiter.sk:8000/jupiter_64.aac",
+    "homepage": "https://radiojupiter.sk/",
+    "favicon": "https://radiojupiter.sk/wp-content/uploads/2018/10/radio-jupiter-1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

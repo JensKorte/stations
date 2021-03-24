@@ -1,0 +1,14 @@
+{
+    "uuid": "96451d24-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - FluxLounge",
+    "url": "http://streams.fluxfm.de/lounge/aac-64/audio/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2016/04/FluxLounge-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "lounge",
+    "state": "Berlin",
+    "bitrate": 64
+}

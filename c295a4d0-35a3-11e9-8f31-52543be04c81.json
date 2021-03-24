@@ -1,0 +1,14 @@
+{
+    "uuid": "c295a4d0-35a3-11e9-8f31-52543be04c81",
+    "name": "Radio Club",
+    "url": "http://streaming.cst98.com:8000/club.mp3",
+    "homepage": "https://www.radio-club.it/",
+    "favicon": "https://www.radio-club.it/home/wp-content/uploads/2018/08/cropped-logo-club2-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "aosta,jazz,funk,soul,latin,house",
+    "state": "Valle d'Aosta",
+    "bitrate": 192
+}

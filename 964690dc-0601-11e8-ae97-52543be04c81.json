@@ -1,0 +1,14 @@
+{
+    "uuid": "964690dc-0601-11e8-ae97-52543be04c81",
+    "name": "Radio F.R.E.I. - Freier Rundfunk Erfurt International",
+    "url": "http://streaming.fueralle.org:8000/Radio-F.R.E.I",
+    "homepage": "http://www.radiofrei.de",
+    "favicon": "http://www.radiofrei.de//android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "non-commercial,erfurt,bürgerradio,community radio,free radio",
+    "state": "Thuringia",
+    "bitrate": 160
+}

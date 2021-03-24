@@ -1,0 +1,14 @@
+{
+    "uuid": "afa0cf04-9a47-4e73-b84e-c2138bfd54fc",
+    "name": "Радіо ROKS 103.6",
+    "url": "http://online.radioroks.ua/RadioROKS",
+    "homepage": "https://www.radioroks.ua/",
+    "favicon": "https://www.radioroks.ua/static/img/RadioROKS_logo_1200x630.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9b0126c0-e66b-4319-aa5d-5875401c9998",
+    "name": "Base FM",
+    "url": "http://stream.basefm.co.nz:8000/BaseHi",
+    "homepage": "https://basefm.co.nz/",
+    "favicon": "https://basefm.co.nz/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "english",
+    "tags": "drum \u0026 bass,dancehall,dubstep,reggae,soul,funk,jazz,independent,electronic,hiphop",
+    "state": "",
+    "bitrate": 64
+}

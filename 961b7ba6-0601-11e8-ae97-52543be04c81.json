@@ -1,0 +1,14 @@
+{
+    "uuid": "961b7ba6-0601-11e8-ae97-52543be04c81",
+    "name": "FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)",
+    "url": "http://radio.kahoku.net:8000/;",
+    "homepage": "http://fm.kahoku.net/",
+    "favicon": "http://fm.kahoku.net/wp-content/uploads/2017/07/fmkahoku_logo.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "japanese",
+    "tags": "japan,jpop,enka,kayokyoku,japan,japanese,japanese,talk radio",
+    "state": "Ishikawa",
+    "bitrate": 96
+}

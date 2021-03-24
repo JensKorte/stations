@@ -1,0 +1,14 @@
+{
+    "uuid": "961de3ee-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Revolt - Studentradioen i Trondheim",
+    "url": "http://streamer.radiorevolt.no:8000/revolt",
+    "homepage": "https://radiorevolt.no",
+    "favicon": "https://radiorevolt.no//favicons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "non-commercial,higher education,student",
+    "state": "Trondheim",
+    "bitrate": 0
+}

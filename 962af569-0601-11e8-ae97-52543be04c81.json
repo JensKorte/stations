@@ -1,0 +1,14 @@
+{
+    "uuid": "962af569-0601-11e8-ae97-52543be04c81",
+    "name": "Country Power Station",
+    "url": "http://shoutcast.countrypowerstation.net:8000/stream",
+    "homepage": "http://www.countrypowerstation.net/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s65901q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "english,italian",
+    "tags": "country",
+    "state": "Lombardia",
+    "bitrate": 128
+}

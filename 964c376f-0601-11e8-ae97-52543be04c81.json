@@ -1,0 +1,14 @@
+{
+    "uuid": "964c376f-0601-11e8-ae97-52543be04c81",
+    "name": "City Rádió",
+    "url": "http://live.city-radio.ro:8800/;",
+    "homepage": "http://www.city-radio.ro/",
+    "favicon": "http://www.city-radio.ro/images/logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "hungarian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1a5f84c0-2001-43aa-a934-71b2026d9e84",
+    "name": "BBC Radio 3 HD",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8",
+    "homepage": "http://www.bbc.co.uk/radio3/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 339
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "737ce4e3-a654-41e8-b11d-9bf441294ce9",
+    "name": "tagesschau.de",
+    "url": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8",
+    "homepage": "https://www.tagesschau.de/",
+    "favicon": "http://musiqi.bplaced.net/webmedia/Germany/tvlogos/tagesschau24.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 184
+}

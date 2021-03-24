@@ -1,0 +1,14 @@
+{
+    "uuid": "c60a480e-eb93-11e9-a96c-52543be04c81",
+    "name": "France Musique Classique Plus",
+    "url": "http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac",
+    "homepage": "https://www.francemusique.fr/webradio-classique-plus",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,long pieces of classical music,public radio,aac",
+    "state": "",
+    "bitrate": 0
+}

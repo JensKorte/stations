@@ -1,0 +1,14 @@
+{
+    "uuid": "e11c170a-474f-11e9-aa55-52543be04c81",
+    "name": "LYL Radio",
+    "url": "http://icecast.lyl.live/live",
+    "homepage": "http://lyl.live/",
+    "favicon": "http://lyl.live/wp-content/themes/lylradio2019-2/dist/images/lyl-live_noir.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "contemporary,experimental,electronic,electro,ambient,independent",
+    "state": "lyon, paris",
+    "bitrate": 192
+}

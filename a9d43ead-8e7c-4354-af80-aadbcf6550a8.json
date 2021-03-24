@@ -1,0 +1,14 @@
+{
+    "uuid": "a9d43ead-8e7c-4354-af80-aadbcf6550a8",
+    "name": "Radio Midcoast WCME",
+    "url": "http://janus.cdnstream.com:8082/;",
+    "homepage": "https://radiomidcoastwcme.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/RadioMidcoastWCME.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "adult hits",
+    "state": "Brunswick ME",
+    "bitrate": 96
+}

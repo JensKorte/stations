@@ -1,0 +1,14 @@
+{
+    "uuid": "96181819-0601-11e8-ae97-52543be04c81",
+    "name": "Rai Radio 2",
+    "url": "http://icestreaming.rai.it/2.mp3",
+    "homepage": "http://www.radio2.rai.it/",
+    "favicon": "https://images.radiovolna.net/_files/images/164x164/c06ed39e0bf0aaca09afc500f33d79ee/dr/qodm59b44262a592f706220322.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rai,public radio",
+    "state": "Lazio",
+    "bitrate": 0
+}

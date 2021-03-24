@@ -1,0 +1,14 @@
+{
+    "uuid": "961012ec-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Rottu Oberwallis",
+    "url": "http://streams.rro.ch/rro.mp3",
+    "homepage": "http://www.rro.ch",
+    "favicon": "http://www.rro.ch/player/rro.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "pop,news",
+    "state": "Visp",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f580f524-e8e9-4816-83c6-8350318199bb",
+    "name": "EWTN Great Britain TV",
+    "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/byyfhl2b/1152/chunklist.m3u8",
+    "homepage": "https://ewtn.co.uk/live-tv/",
+    "favicon": "https://ewtn.co.uk/wp-content/uploads/2020/06/LogoSlimLight78.png",
+    "creation": "2021-02-13 17:50:15",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "christian,tv,catholic",
+    "state": "",
+    "bitrate": 0
+}

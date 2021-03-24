@@ -1,0 +1,14 @@
+{
+    "uuid": "964bd3a6-0601-11e8-ae97-52543be04c81",
+    "name": "Señal Clásica (RTVC / Radio Nacional de Colombia)",
+    "url": "http://shoutcast.rtvc.gov.co:8040/;",
+    "homepage": "https://www.rtvc.gov.co/plataformas/senal-clasica",
+    "favicon": "https://s3.amazonaws.com/rtvc-assets-qa-sistemasenalcolombia.gov.co/imagenes/03_bc_senal_clasica.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 48
+}

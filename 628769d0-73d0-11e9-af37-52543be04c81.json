@@ -1,0 +1,14 @@
+{
+    "uuid": "628769d0-73d0-11e9-af37-52543be04c81",
+    "name": "RADAR 97.8 FM",
+    "url": "https://proic1.evspt.com/radar_aac",
+    "homepage": "https://radarlisboa.fm",
+    "favicon": "https://radarlisboa.fm/wp-content/uploads/2016/02/icone_teste-1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "indie,alternative,rock",
+    "state": "Lisbon",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96156764-0601-11e8-ae97-52543be04c81",
+    "name": "RTÉ Lyric FM",
+    "url": "http://av.rasset.ie/av/live/radio/lyric.m3u",
+    "homepage": "https://www.rte.ie/lyricfm/",
+    "favicon": "http://www.liveradio.ie/files/images/101096/resized/140x134c/rte_lyric_fm.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 0
+}

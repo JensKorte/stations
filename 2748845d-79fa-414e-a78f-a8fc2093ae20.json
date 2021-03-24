@@ -1,0 +1,14 @@
+{
+    "uuid": "2748845d-79fa-414e-a78f-a8fc2093ae20",
+    "name": "WTOP 103.5 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3",
+    "homepage": "https://wtop.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/wtop_logo_512x512.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Washington DC",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9612c706-0601-11e8-ae97-52543be04c81",
+    "name": "M-1 Plius",
+    "url": "http://radio.m-1.fm:80/m1plius/mp3",
+    "homepage": "http://www.pliusas.fm/",
+    "favicon": "http://www.pliusas.fm/wp-content/uploads/cropped-Pliuso_fav-192x192.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "uab m-1",
+    "state": "Vilniaus m.",
+    "bitrate": 128
+}

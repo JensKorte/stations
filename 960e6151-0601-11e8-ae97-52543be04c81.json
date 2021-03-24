@@ -1,0 +1,14 @@
+{
+    "uuid": "960e6151-0601-11e8-ae97-52543be04c81",
+    "name": "detektor.fm Musik",
+    "url": "https://detektor.fm/stream/mp3/musik/",
+    "homepage": "https://detektor.fm/",
+    "favicon": "https://detektor.fm/wp-content/uploads/misc/dfm_Logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "music",
+    "state": "",
+    "bitrate": 128
+}

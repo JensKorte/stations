@@ -1,0 +1,14 @@
+{
+    "uuid": "962adf9a-0601-11e8-ae97-52543be04c81",
+    "name": "WMSW \"Radio Once\" 1120 AM Hatillo, PR",
+    "url": "http://server10.servistreaming.com:9004/stream",
+    "homepage": "http://www.radioonce.com/",
+    "favicon": "http://www.radioonce.com/streaming/Logo%20RU-Final-3.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "language": "spanish",
+    "tags": "talk",
+    "state": "",
+    "bitrate": 128
+}

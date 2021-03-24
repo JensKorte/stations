@@ -1,0 +1,14 @@
+{
+    "uuid": "f0401b60-0152-11ea-bbf2-52543be04c81",
+    "name": "Changfeng News TV",
+    "url": "http://218.23.114.19:1935/live/xinwen/index.m3u8",
+    "homepage": "http://www.changfeng.gov.cn/",
+    "favicon": "http://nettv.live/uploads/19/1-191106210942X6.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "",
+    "state": "Anhwei",
+    "bitrate": 4515
+}

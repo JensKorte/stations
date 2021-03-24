@@ -1,0 +1,14 @@
+{
+    "uuid": "851ab951-d0f4-11e8-a54a-52543be04c81",
+    "name": "King County TV-1 News",
+    "url": "http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8",
+    "homepage": "http://www.jingxian.gov.cn/",
+    "favicon": "http://www.nettv.live/uploads/18/1-1P31R12GH03.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "",
+    "state": "Hopei",
+    "bitrate": 281
+}

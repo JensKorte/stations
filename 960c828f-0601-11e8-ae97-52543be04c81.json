@@ -1,0 +1,14 @@
+{
+    "uuid": "960c828f-0601-11e8-ae97-52543be04c81",
+    "name": "Akademickie Radio Luz",
+    "url": "http://156.17.39.65:8000/luzhifi.mp3",
+    "homepage": "http://radioluz.pwr.edu.pl/",
+    "favicon": "http://radioluz.pwr.edu.pl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "rock",
+    "state": "Wroclaw",
+    "bitrate": 170
+}

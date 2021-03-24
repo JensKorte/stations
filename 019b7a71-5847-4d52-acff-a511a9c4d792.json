@@ -1,0 +1,14 @@
+{
+    "uuid": "019b7a71-5847-4d52-acff-a511a9c4d792",
+    "name": "KISS",
+    "url": "http://stream.bauermedia.fi/kiss/kiss_64.aac",
+    "homepage": "https://www.kiss.fi/",
+    "favicon": "https://www.kiss.fi/files/meta_images/kiss_cover.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

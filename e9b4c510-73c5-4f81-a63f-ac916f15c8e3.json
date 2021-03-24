@@ -1,0 +1,14 @@
+{
+    "uuid": "e9b4c510-73c5-4f81-a63f-ac916f15c8e3",
+    "name": "Romantic FM",
+    "url": "http://zuicast.digitalag.ro:9420/romanticfm",
+    "homepage": "https://romanticfm.ro/",
+    "favicon": "https://romanticfm.ro/img/logo.png",
+    "creation": "2021-03-11 22:54:03",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "romantic,goldies,oldies",
+    "state": "",
+    "bitrate": 56
+}

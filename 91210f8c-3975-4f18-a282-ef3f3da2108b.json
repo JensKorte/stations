@@ -1,0 +1,14 @@
+{
+    "uuid": "91210f8c-3975-4f18-a282-ef3f3da2108b",
+    "name": "FriesenRadio",
+    "url": "http://stream.laut.fm/friesenradio.pls",
+    "homepage": "https://www.friesenradio.de",
+    "favicon": "https://www.friesenradio.de/extern_logo/logo_quadrat.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,german",
+    "tags": "charts,schlager,oldies,rock,pop,80er,80s",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9641d22b-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio CPAD FM 96.1",
+    "url": "http://server3.webradios.com.br:9404/;",
+    "homepage": "http://www.radiocpadfm.com.br/",
+    "favicon": "http://www.radiocpadfm.com.br/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "",
+    "state": "Rio de Janeiro",
+    "bitrate": 48
+}

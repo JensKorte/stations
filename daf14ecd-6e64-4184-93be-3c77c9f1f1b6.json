@@ -1,0 +1,14 @@
+{
+    "uuid": "daf14ecd-6e64-4184-93be-3c77c9f1f1b6",
+    "name": "Magic Music",
+    "url": "https://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8",
+    "homepage": "https://www.magic.co.nz/home/music.html",
+    "favicon": "https://www.magic.co.nz/design/clientlibs/assets/magic/imgs/ui/logo-desktop.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "english",
+    "tags": "oldies,classic hits,music",
+    "state": "",
+    "bitrate": 147
+}

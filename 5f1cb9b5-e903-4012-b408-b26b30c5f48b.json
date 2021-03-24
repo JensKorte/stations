@@ -1,0 +1,14 @@
+{
+    "uuid": "5f1cb9b5-e903-4012-b408-b26b30c5f48b",
+    "name": "Radio Rockmax",
+    "url": "http://212.111.2.151:8000/rockmax_256.mp3",
+    "homepage": "https://rockmax.cz",
+    "favicon": "https://api.play.cz/static/radio_logo/t200/rockmax.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8516c5b3-e712-11e9-a96c-52543be04c81",
+    "name": "RTL",
+    "url": "http://streaming.radio.rtl.fr/rtl-1-48-72.aac",
+    "homepage": "https://www.rtl.fr/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1280px-RTL_logo.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "aac,generalist",
+    "state": "",
+    "bitrate": 64
+}

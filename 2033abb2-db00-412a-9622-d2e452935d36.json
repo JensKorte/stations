@@ -1,0 +1,14 @@
+{
+    "uuid": "2033abb2-db00-412a-9622-d2e452935d36",
+    "name": "simulator1",
+    "url": "http://stream.laut.fm/simulator1.m3u",
+    "homepage": "https://simulator1.net",
+    "favicon": "https://simulator1.net/shows/layout/logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "simulator",
+    "state": "",
+    "bitrate": 128
+}

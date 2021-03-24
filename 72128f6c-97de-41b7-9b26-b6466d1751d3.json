@@ -1,0 +1,14 @@
+{
+    "uuid": "72128f6c-97de-41b7-9b26-b6466d1751d3",
+    "name": "KCIE 90.5 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC",
+    "homepage": "https://www.kcieradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KCIE-FM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "public radio",
+    "state": "Dulce NM",
+    "bitrate": 96
+}

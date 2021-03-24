@@ -1,0 +1,14 @@
+{
+    "uuid": "962ccfdd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio SWH Kurzeme",
+    "url": "http://87.110.219.34:8000/swhmp3",
+    "homepage": "http://www.radioswh.lv/kurzeme/",
+    "favicon": "http://www.radioswh.lv/wp-content/uploads/logo/swh_logo_gaiss_fons.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "news,talk,classic rock",
+    "state": "",
+    "bitrate": 192
+}

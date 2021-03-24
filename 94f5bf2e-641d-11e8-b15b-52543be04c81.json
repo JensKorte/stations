@@ -1,0 +1,14 @@
+{
+    "uuid": "94f5bf2e-641d-11e8-b15b-52543be04c81",
+    "name": "Радио НВ",
+    "url": "http://91.218.212.84:8000/radionv.mp3",
+    "homepage": "https://radio.nv.ua/ru",
+    "favicon": "https://static.tildacdn.com/tild3734-3631-4235-b935-323762313966/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "politics,news",
+    "state": "Kiev",
+    "bitrate": 0
+}

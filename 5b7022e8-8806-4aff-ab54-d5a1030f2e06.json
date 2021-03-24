@@ -1,0 +1,14 @@
+{
+    "uuid": "5b7022e8-8806-4aff-ab54-d5a1030f2e06",
+    "name": "Capp FM",
+    "url": "http://cappfm.ice.infomaniak.ch/cappfm-96.mp3",
+    "homepage": "https://cappfm.com",
+    "favicon": "https://i.postimg.cc/qRszBLvJ/Captures-d-cran-20181003-231929-1024x265.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Benin",
+    "country_code": "BJ",
+    "language": "français",
+    "tags": "pop,news,talk,folk",
+    "state": "Cotonou",
+    "bitrate": 96
+}

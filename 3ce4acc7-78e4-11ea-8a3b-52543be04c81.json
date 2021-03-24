@@ -1,0 +1,14 @@
+{
+    "uuid": "3ce4acc7-78e4-11ea-8a3b-52543be04c81",
+    "name": "Radio Uno",
+    "url": "http://radios.bolivianservers.net:8020/",
+    "homepage": "http://www.radiouno.com.bo/",
+    "favicon": "https://cdn.webrad.io/images/logos/radios-com-bo/uno-96-7.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bolivia",
+    "country_code": "BO",
+    "language": "spanish",
+    "tags": "santa cruz,futbol,gary añez",
+    "state": "Santa Cruz",
+    "bitrate": 16
+}

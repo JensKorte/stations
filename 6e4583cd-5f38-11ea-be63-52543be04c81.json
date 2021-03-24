@@ -1,0 +1,14 @@
+{
+    "uuid": "6e4583cd-5f38-11ea-be63-52543be04c81",
+    "name": "Radio 434 - Rocks",
+    "url": "http://icecast01.mycloudserver.info:18080/lsl-rocks",
+    "homepage": "http://www.radio434.com/channel8.html",
+    "favicon": "http://www.radio434.com/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "metalcore",
+    "state": "Virginia",
+    "bitrate": 192
+}

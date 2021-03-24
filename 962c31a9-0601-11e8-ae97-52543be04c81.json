@@ -1,0 +1,14 @@
+{
+    "uuid": "962c31a9-0601-11e8-ae97-52543be04c81",
+    "name": "SRo6 Radio Slovakia International",
+    "url": "http://icecast.stv.livebox.sk/rsi_128.mp3",
+    "homepage": "https://rsi.rtvs.sk/",
+    "favicon": "https://www.rtvs.sk/media/images/radiostations/radio_rsi.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "multilingual",
+    "tags": "rtvs,public radio,international",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961917f2-0601-11e8-ae97-52543be04c81",
+    "name": "LBC London (London stream) AAC",
+    "url": "http://media-sov.musicradio.com:80/LBCLondon",
+    "homepage": "http://www.lbc.co.uk/faq/online-listen-live/",
+    "favicon": "https://static.lbc.co.uk/assets_v4r/lbc/img/favicon-16x16.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "london,news,talk",
+    "state": "",
+    "bitrate": 48
+}

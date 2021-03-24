@@ -1,0 +1,14 @@
+{
+    "uuid": "bedcf517-f9a6-11e8-a97a-52543be04c81",
+    "name": "Jazz Medley Webradio",
+    "url": "http://server01.ouvir.radio.br:8006/stream",
+    "homepage": "http://www.umbertovettori.com/",
+    "favicon": "http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "classic jazz,jazz",
+    "state": "Minas Gerais",
+    "bitrate": 64
+}

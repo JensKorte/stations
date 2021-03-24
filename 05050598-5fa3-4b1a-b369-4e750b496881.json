@@ -1,0 +1,14 @@
+{
+    "uuid": "05050598-5fa3-4b1a-b369-4e750b496881",
+    "name": "Dein Karnvals Radio",
+    "url": "http://mp3.100prozentjeck.c.nmdn.net/ps-100prozentjeck_mobile/livestream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=hsg-karneval",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/hsg-karneval.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "cologne kölsch,köln,kölsch,karneval",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 64
+}

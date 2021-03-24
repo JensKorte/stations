@@ -1,0 +1,14 @@
+{
+    "uuid": "66977375-f337-11e9-a96c-52543be04c81",
+    "name": "Stadsradio Vlaanderen",
+    "url": "http://randstad.wirelessbelgie.be:8330/stream.mp3",
+    "homepage": "http://www.stadsradiovlaanderen.be/",
+    "favicon": "http://randstadfm.be/SRVWebsite/images/STADSRADIO%20VLAANDEREN%20LOGO%202.1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "",
+    "tags": "oldies",
+    "state": "",
+    "bitrate": 256
+}

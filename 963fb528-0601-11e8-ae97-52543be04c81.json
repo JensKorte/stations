@@ -1,0 +1,14 @@
+{
+    "uuid": "963fb528-0601-11e8-ae97-52543be04c81",
+    "name": "MusikWelle Allgäu",
+    "url": "http://stream.musikwelle-allgaeu.de:8000/stream1",
+    "homepage": "https://musikwelle-allgaeu.de/",
+    "favicon": "https://musikwelle-allgaeu.de/images/favicon/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "electronic,folk music,folk,charts,rock,hits,pop",
+    "state": "Bavaria",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961d4058-0601-11e8-ae97-52543be04c81",
+    "name": "RSO 91.7 Thessaloniki",
+    "url": "http://tachyon.shoutca.st:8594/stream",
+    "homepage": "http://www.rso.gr",
+    "favicon": "http://www.rso.gr/images/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "thessaloniki,pop,greek",
+    "state": "Thessaloniki",
+    "bitrate": 128
+}

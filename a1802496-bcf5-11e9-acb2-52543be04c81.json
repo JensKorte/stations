@@ -1,0 +1,14 @@
+{
+    "uuid": "a1802496-bcf5-11e9-acb2-52543be04c81",
+    "name": "RPR1. Acoustic",
+    "url": "http://streams.rpr1.de/rpr-acoustic-128-mp3",
+    "homepage": "https://www.rpr1.de/webradio/akustisch",
+    "favicon": "https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "relax,acoustic,regional radio",
+    "state": "Rheinland-Pfalz",
+    "bitrate": 128
+}

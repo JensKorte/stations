@@ -1,0 +1,14 @@
+{
+    "uuid": "1d4e7d5e-d839-11e9-a861-52543be04c81",
+    "name": "ABC Radio Hobart",
+    "url": "https://abcradiolivehls-lh.akamaihd.net/i/localhobart_1@327274/index_48_a-b.m3u8?sd=10\u0026rebase=on",
+    "homepage": "https://radio.abc.net.au/stations/local_hobart/live",
+    "favicon": "https://www.abc.net.au/radio/images/service/ABC-Radio-Hobart.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "",
+    "state": "Tasmania",
+    "bitrate": 0
+}

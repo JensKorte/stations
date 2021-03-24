@@ -1,0 +1,14 @@
+{
+    "uuid": "963e1e81-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Llavaneres",
+    "url": "https://enacast.com/radiollavaneres/streams/HD",
+    "homepage": "http://www.radiollavaneres.cat/",
+    "favicon": "https://enacast.com/media/cache/ca/14/ca145c8427764ae4c3fdf43462a64f7d.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "llavaneres",
+    "state": "Lleida",
+    "bitrate": 128
+}

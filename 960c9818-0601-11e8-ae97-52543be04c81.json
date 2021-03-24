@@ -1,0 +1,14 @@
+{
+    "uuid": "960c9818-0601-11e8-ae97-52543be04c81",
+    "name": "Civil Rádió",
+    "url": "http://civilradio.hu:8000/;stream",
+    "homepage": "http://civilradio.hu/",
+    "favicon": "http://sos.civilradio.hu/wp-content/uploads/dynamik-gen/theme/images/civil-foot.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "community radio",
+    "state": "Budapest",
+    "bitrate": 128
+}

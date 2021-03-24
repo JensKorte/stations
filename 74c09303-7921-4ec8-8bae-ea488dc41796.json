@@ -1,0 +1,14 @@
+{
+    "uuid": "74c09303-7921-4ec8-8bae-ea488dc41796",
+    "name": "HPR1: Traditional Classic Country",
+    "url": "http://87.98.130.255:8188/stream",
+    "homepage": "https://www.hpr.org/",
+    "favicon": "https://www.hpr.org/wp-content/uploads/2020/06/hprlogo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Missouri",
+    "bitrate": 128
+}

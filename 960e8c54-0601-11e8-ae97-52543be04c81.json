@@ -1,0 +1,14 @@
+{
+    "uuid": "960e8c54-0601-11e8-ae97-52543be04c81",
+    "name": "Unity 101 Community Radio",
+    "url": "http://live.canstream.co.uk:8000/unity24.mp3",
+    "homepage": "http://www.unity101.org",
+    "favicon": "http://unity101.org/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "southampton",
+    "state": "Hampshire",
+    "bitrate": 75
+}

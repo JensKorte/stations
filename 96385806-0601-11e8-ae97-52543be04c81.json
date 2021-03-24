@@ -1,0 +1,14 @@
+{
+    "uuid": "96385806-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Siena",
+    "url": "http://onair18.xdevel.com:8042/;stream.mp3",
+    "homepage": "http://www.radiosienatv.it/",
+    "favicon": "http://www.radiosienatv.it/wp-content/uploads/2016/01/cropped-favicon-blue-270x270.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "siena,adult contemporary,italian pop",
+    "state": "Toscana",
+    "bitrate": 96
+}

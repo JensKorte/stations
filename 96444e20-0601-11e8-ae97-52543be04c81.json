@@ -1,0 +1,14 @@
+{
+    "uuid": "96444e20-0601-11e8-ae97-52543be04c81",
+    "name": "Radio BongoNet",
+    "url": "http://188.166.176.244:8000/;stream.mp3",
+    "homepage": "https://www.bongonet.net/",
+    "favicon": "https://cdn.bongonet.net/drive/assets/common/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "India",
+    "country_code": "IN",
+    "language": "bengali",
+    "tags": "kolkata,bangla",
+    "state": "Kolkata",
+    "bitrate": 128
+}

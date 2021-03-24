@@ -1,0 +1,14 @@
+{
+    "uuid": "3d128b43-35a3-11e9-8f31-52543be04c81",
+    "name": "Radio Reporter 99",
+    "url": "http://streaming.cst98.com:8000/reporter.mp3",
+    "homepage": "https://www.radio-reporter.it/",
+    "favicon": "https://www.radio-reporter.it/home/wp-content/uploads/2018/08/cropped-LogoRadioReporter-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "aosta,pop,top 40",
+    "state": "Valle d'Aosta",
+    "bitrate": 128
+}

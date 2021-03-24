@@ -1,0 +1,14 @@
+{
+    "uuid": "157bb662-814f-462d-8ab5-a6bef938dde2",
+    "name": "Radio Orahovica",
+    "url": "https://ec2s.crolive.com.hr:2595/stream",
+    "homepage": "http://www.radioorahovica.com/",
+    "favicon": "https://www.radioorahovica.com/logo/logo.png",
+    "creation": "2021-03-09 18:03:41",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "news",
+    "state": "",
+    "bitrate": 128
+}

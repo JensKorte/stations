@@ -1,0 +1,14 @@
+{
+    "uuid": "55bd753c-3eab-11e9-aa55-52543be04c81",
+    "name": "POWER  100 FM",
+    "url": "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8",
+    "homepage": "http://www.powerapp.com.tr",
+    "favicon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=206",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "hits,pop,top40,mix",
+    "state": "Istanbul",
+    "bitrate": 148
+}

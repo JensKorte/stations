@@ -1,0 +1,14 @@
+{
+    "uuid": "961389d1-0601-11e8-ae97-52543be04c81",
+    "name": "Fréquence MUTINE",
+    "url": "http://icecast.infini.fr:8000/mutine",
+    "homepage": "http://www.frequencemutine.fr/",
+    "favicon": "http://www.frequencemutine.fr/images/banner.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "",
+    "tags": "",
+    "state": "Bretagne",
+    "bitrate": 256
+}

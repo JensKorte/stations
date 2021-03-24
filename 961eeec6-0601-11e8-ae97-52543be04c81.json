@@ -1,0 +1,14 @@
+{
+    "uuid": "961eeec6-0601-11e8-ae97-52543be04c81",
+    "name": "Omroep Venray",
+    "url": "http://icecast.omroepvenray.nl/lov.mp3",
+    "homepage": "https://www.omroepvenray.nl/",
+    "favicon": "https://www.omroepvenray.nl//sites/all/themes/lov/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "public,local,pop",
+    "state": "Limburg",
+    "bitrate": 192
+}

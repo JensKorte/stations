@@ -1,0 +1,14 @@
+{
+    "uuid": "5b09f5b6-6689-11e8-b15b-52543be04c81",
+    "name": "Radio ZP-30, La Voz del Chaco Paraguayo Stream",
+    "url": "http://184.154.43.106:8019/stream",
+    "homepage": "http://www.zp30.com.py/main/de/",
+    "favicon": "http://www.zp30.com.py/main/de///main/templates/zp30template/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "language": "spanisch,german",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 32
+}

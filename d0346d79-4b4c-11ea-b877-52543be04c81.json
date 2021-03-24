@@ -1,0 +1,14 @@
+{
+    "uuid": "d0346d79-4b4c-11ea-b877-52543be04c81",
+    "name": "radio90 cieszyn",
+    "url": "http://streams2.radio90.pl:8000/radio90_128kbps_stereo.mp3",
+    "homepage": "https://www.radio90.pl/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "polski",
+    "tags": "",
+    "state": "128kbps",
+    "bitrate": 128
+}

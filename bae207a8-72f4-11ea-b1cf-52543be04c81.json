@@ -1,0 +1,14 @@
+{
+    "uuid": "bae207a8-72f4-11ea-b1cf-52543be04c81",
+    "name": "BFM 89.9",
+    "url": "http://20723.live.streamtheworld.com/BFMAAC.aac?pname=StandardPlayerV4\u0026pversion=4.19.2-025\u0026csegid=888\u0026dist=triton-web\u0026tdsdk=js-2.9\u0026banners=none\u0026sbmid=8aa99913-e36e-483f-d759-df28a899afd3",
+    "homepage": "https://www.bfm.my/",
+    "favicon": "https://www.bfm.my/themes/bfmmy/assets/images/bfm-fb.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

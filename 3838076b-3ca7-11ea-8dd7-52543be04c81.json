@@ -1,0 +1,14 @@
+{
+    "uuid": "3838076b-3ca7-11ea-8dd7-52543be04c81",
+    "name": "Hitradio center yu",
+    "url": "http://stream3.radiocenter.si:8100/;stream/1",
+    "homepage": "http://radiocenter.si/",
+    "favicon": "http://radiocenter.si//Public/assets/dist/img/150_center.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "croatian,slovenian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 128
+}

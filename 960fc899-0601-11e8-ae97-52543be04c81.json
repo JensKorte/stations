@@ -1,0 +1,14 @@
+{
+    "uuid": "960fc899-0601-11e8-ae97-52543be04c81",
+    "name": "Radio UWM FM",
+    "url": "http://213.184.18.156:8000/",
+    "homepage": "http://www.uwmfm.pl/",
+    "favicon": "http://www.uwmfm.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Olsztyn",
+    "bitrate": 192
+}

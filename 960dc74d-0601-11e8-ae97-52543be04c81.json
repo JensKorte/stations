@@ -1,0 +1,14 @@
+{
+    "uuid": "960dc74d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Balear 99.9 Palma de Mallorca",
+    "url": "http://server6.20comunicacion.com:8076/",
+    "homepage": "http://www.radiobalear.es/",
+    "favicon": "http://www.radiobalear.es/wp-content/uploads/2013/11/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan,spanish",
+    "tags": "",
+    "state": "Mallorca",
+    "bitrate": 128
+}

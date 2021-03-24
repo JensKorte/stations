@@ -1,0 +1,14 @@
+{
+    "uuid": "c861f560-03ff-4350-8d1c-6a7c1477a276",
+    "name": "National Television of Kampuchea",
+    "url": "http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8",
+    "homepage": "http://www.tvk.gov.kh/",
+    "favicon": "http://nettvplus.live/uploads/19/1-1Z1241Q6209E.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "language": "khmer",
+    "tags": "",
+    "state": "Phnom Penh",
+    "bitrate": 1234
+}

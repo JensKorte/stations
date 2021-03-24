@@ -1,0 +1,14 @@
+{
+    "uuid": "962a4c87-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Fragola",
+    "url": "http://radiofragola.updatemyip.eu:8000/stream",
+    "homepage": "http://www.radiofragola.com/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s16219q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "trieste,music,news,popolare network",
+    "state": "Friuli-Venezia Giulia",
+    "bitrate": 96
+}

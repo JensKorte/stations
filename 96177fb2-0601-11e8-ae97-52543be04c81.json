@@ -1,0 +1,14 @@
+{
+    "uuid": "96177fb2-0601-11e8-ae97-52543be04c81",
+    "name": "PRIDE1",
+    "url": "http://stream.pride1.de:8000/;stream.mp3",
+    "homepage": "http://pride1.de/",
+    "favicon": "http://pride1.de//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "gay,queer",
+    "state": "",
+    "bitrate": 128
+}

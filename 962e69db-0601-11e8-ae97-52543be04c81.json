@@ -1,0 +1,14 @@
+{
+    "uuid": "962e69db-0601-11e8-ae97-52543be04c81",
+    "name": "Energy Web Radio",
+    "url": "http://37.187.93.104:8812/stream",
+    "homepage": "http://www.energywebradio.it/",
+    "favicon": "http://www.energywebradio.it/img/Logo-1.jpg.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "catania,top 40,pop",
+    "state": "Sicilia",
+    "bitrate": 128
+}

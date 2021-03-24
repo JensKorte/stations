@@ -1,0 +1,14 @@
+{
+    "uuid": "869c8a92-8332-4bd5-b759-9d264fd176c7",
+    "name": "KXCI 91.3 FM",
+    "url": "http://icecastorigin.streamon.fm:1500/KXCI-64k-m.mp3",
+    "homepage": "https://kxci.org/",
+    "favicon": "https://dqa4a6x5zonsi.cloudfront.net/img/stations/kxci/KXCI-Logo-New.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

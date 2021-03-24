@@ -1,0 +1,14 @@
+{
+    "uuid": "06faec0e-52eb-11e8-a4d1-52543be04c81",
+    "name": "Triple J",
+    "url": "http://www.abc.net.au/res/streaming/audio/aac/triplej.pls",
+    "homepage": "http://www.abc.net.au/triplej/",
+    "favicon": "http://www.abc.net.au/cm/rimage/8715224-1x1-large.jpg?v=2",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

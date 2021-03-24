@@ -1,0 +1,14 @@
+{
+    "uuid": "dd5759d2-23b0-11e8-91bf-52543be04c81",
+    "name": "Blu Radio Barranquilla (HJH27, 100.1 MHz FM)",
+    "url": "http://17843.live.streamtheworld.com/BLU_BARRANQUILLA.mp3?tdsdk=js-2.8\u0026pname=TdPlayerApi\u0026pversion=2.8\u0026sbmid=b849a8e5-3abc-41ea-f108-14f9d680cef9",
+    "homepage": "https://www.bluradio.com/barranquilla",
+    "favicon": "https://www.bluradio.com////images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "sports talk,live sports,sports news,news talk,news,talk radio",
+    "state": "Atlántico",
+    "bitrate": 96
+}

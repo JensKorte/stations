@@ -1,0 +1,14 @@
+{
+    "uuid": "d63b75a2-c7bf-4ee6-9f85-a8d0b2938a8b",
+    "name": "ORF Hitradio Ö3",
+    "url": "http://orf-live.ors-shoutcast.at/oe3-q1a",
+    "homepage": "http://oe3.orf.at/",
+    "favicon": "http://static.radio.net/images/broadcasts/47/5f/4511/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "pop,hits,public radio,orf",
+    "state": "",
+    "bitrate": 0
+}

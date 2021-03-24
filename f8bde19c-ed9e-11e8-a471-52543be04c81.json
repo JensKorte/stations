@@ -1,0 +1,14 @@
+{
+    "uuid": "f8bde19c-ed9e-11e8-a471-52543be04c81",
+    "name": "Ballando Web Radio",
+    "url": "http://sr10.inmystream.info:8073/;",
+    "homepage": "http://www.ballando.eu/",
+    "favicon": "http://www.inmystream.info/play/ballandowebradio/tmp/images/default.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "segrate,folk music,local music",
+    "state": "Lombardia",
+    "bitrate": 192
+}

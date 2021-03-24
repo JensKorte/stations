@@ -1,0 +1,14 @@
+{
+    "uuid": "961b90a6-0601-11e8-ae97-52543be04c81",
+    "name": "YLE Radio 1",
+    "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_1@113878/master.m3u8",
+    "homepage": "http://yle.fi/radio/yleradio1/",
+    "favicon": "https://pbs.twimg.com/profile_images/1874214728/Yle-Radio1-facebook_400x400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "m3u8,worked 2016_09_19,hls",
+    "state": "",
+    "bitrate": 62
+}

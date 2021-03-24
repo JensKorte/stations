@@ -1,0 +1,14 @@
+{
+    "uuid": "9061e051-2cc3-11e9-a35e-52543be04c81",
+    "name": "Rádio Flashback Fm",
+    "url": "http://hd.matutos.com.br:8008/;stream.mp3",
+    "homepage": "http://flashbackfmst.com.br/",
+    "favicon": "http://www.melhoresradios.com.br/logoRadio/2d467aab-80ef-4dd2-846a-b2067486dc91.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português do brasil",
+    "tags": "flashback,nacionais,internacionais,recordações,saudades,brasil",
+    "state": "Pernambuco",
+    "bitrate": 64
+}

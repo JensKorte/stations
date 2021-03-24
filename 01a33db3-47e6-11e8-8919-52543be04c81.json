@@ -1,0 +1,14 @@
+{
+    "uuid": "01a33db3-47e6-11e8-8919-52543be04c81",
+    "name": "ARD.TV",
+    "url": "http://live-lh.daserste.de/i/daserste_de@91204/master.m3u8",
+    "homepage": "http://www.ard.de/home/ard/ARD_Startseite/21920/index.html",
+    "favicon": "http://www.ard.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 256
+}

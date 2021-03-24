@@ -1,0 +1,14 @@
+{
+    "uuid": "22adad6d-376b-11e9-9b4e-52543be04c81",
+    "name": "UA: Українське радіо - UR-1",
+    "url": "http://radio.nrcu.gov.ua:8000/ur1-aacp-ulow",
+    "homepage": "http://www.nrcu.gov.ua/",
+    "favicon": "http://nrcu.gov.ua/images/stat-page/big/sp_1550735946_5c6e5a4ae5db7.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "sports news,cultural news,news,talkshow,talk,news talk",
+    "state": "Kyiv",
+    "bitrate": 16
+}

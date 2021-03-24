@@ -1,0 +1,14 @@
+{
+    "uuid": "012f3301-b7d7-4b96-a1ac-fd180dcd96bf",
+    "name": "Mouv' Classics",
+    "url": "https://icecast.radiofrance.fr/mouvclassics-hifi.aac",
+    "homepage": "https://www.mouv.fr/stream-radios/classics",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/bb8da8da-f679-405f-8810-b4a172f6a32d/300x300_mouv-classic_02.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "international",
+    "tags": "aac,webradio,public radio,hip-hop and rap oldies,radio france",
+    "state": "",
+    "bitrate": 0
+}

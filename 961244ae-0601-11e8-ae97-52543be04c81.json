@@ -1,0 +1,14 @@
+{
+    "uuid": "961244ae-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Pasta",
+    "url": "http://polysix.pl:8000/radio-pasta",
+    "homepage": "http://radiopasta.klps.pl/",
+    "favicon": "http://radiopasta.klps.pl///templates/constructo/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

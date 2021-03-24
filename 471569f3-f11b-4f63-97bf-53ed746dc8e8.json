@@ -1,0 +1,14 @@
+{
+    "uuid": "471569f3-f11b-4f63-97bf-53ed746dc8e8",
+    "name": "Rádio Mais Oeste",
+    "url": "http://centova.radios.pt:8515/stream/1/",
+    "homepage": "https://maisoeste.pt/",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0b/a4/35524/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "hits,charts",
+    "state": "Leiria",
+    "bitrate": 128
+}

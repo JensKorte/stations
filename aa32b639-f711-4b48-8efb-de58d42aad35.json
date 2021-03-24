@@ -1,0 +1,14 @@
+{
+    "uuid": "aa32b639-f711-4b48-8efb-de58d42aad35",
+    "name": "Concierto FM",
+    "url": "https://20323.live.streamtheworld.com/CONCIERTOAAC.aac?csegid=12000\u0026dist=concierto_cl-web-live_streaming_play\u0026tdsdk=js-2.9\u0026pname=TDSdk\u0026pversion=2.9\u0026banners=none\u0026sbmid=4c867afb-5e8c-4b0c-db25-e8b2598c321a",
+    "homepage": "https://www.concierto.cl/",
+    "favicon": "https://www.concierto.cl/wp-content/themes/prince/img/logo-concierto-top.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "español",
+    "tags": "concierto",
+    "state": "",
+    "bitrate": 56
+}

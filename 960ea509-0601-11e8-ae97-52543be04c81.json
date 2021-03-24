@@ -1,0 +1,14 @@
+{
+    "uuid": "960ea509-0601-11e8-ae97-52543be04c81",
+    "name": "Taksim FM Arabesk",
+    "url": "http://cast1.taksim.fm:8008/;stream.mp3",
+    "homepage": "",
+    "favicon": "http://www.taksim.fm/streaming/logoarabesk.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960eb17b-0601-11e8-ae97-52543be04c81",
+    "name": "Canadian Radio Lab - Radio Skipper",
+    "url": "http://kos.broadstreamer.com:8700/;",
+    "homepage": "http://www.radioskipper.com/",
+    "favicon": "http://www.radioskipper.com/assets/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "montreal,80s",
+    "state": "Quebec",
+    "bitrate": 128
+}

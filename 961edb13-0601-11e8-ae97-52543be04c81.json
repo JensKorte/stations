@@ -1,0 +1,14 @@
+{
+    "uuid": "961edb13-0601-11e8-ae97-52543be04c81",
+    "name": "Kiss Delta",
+    "url": "http://icecast1.play.cz:8000/kissdelta192.mp3",
+    "homepage": "http://www.kissdelta.cz/",
+    "favicon": "http://www.kissdelta.cz/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "hits,pop",
+    "state": "",
+    "bitrate": 0
+}

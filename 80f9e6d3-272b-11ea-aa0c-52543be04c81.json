@@ -1,0 +1,14 @@
+{
+    "uuid": "80f9e6d3-272b-11ea-aa0c-52543be04c81",
+    "name": "Radio Armonía",
+    "url": "http://audio.armonia.cl:3032/1.mp3",
+    "homepage": "https://www.radioarmonia.cl/",
+    "favicon": "http://www.radioarmonia.cl/inicio///inicio/templates/vg_news24/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "castellano",
+    "tags": "evangelical,armonia",
+    "state": "",
+    "bitrate": 128
+}

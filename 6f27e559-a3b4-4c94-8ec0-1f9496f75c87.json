@@ -1,0 +1,14 @@
+{
+    "uuid": "6f27e559-a3b4-4c94-8ec0-1f9496f75c87",
+    "name": "Jazz FM 104.6",
+    "url": "http://online.radiojazz.ua/RadioJazz",
+    "homepage": "https://www.radiojazz.ua/",
+    "favicon": "https://www.radiojazz.ua/static/img/RadioJAZZ_1200x630.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 128
+}

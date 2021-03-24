@@ -1,0 +1,14 @@
+{
+    "uuid": "9639d4f3-0601-11e8-ae97-52543be04c81",
+    "name": "Fritz (48 kbit/s)",
+    "url": "http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/48/stream.mp3",
+    "homepage": "https://www.fritz.de/programm/anhoeren/",
+    "favicon": "http://www.ardmediathek.de/img/standard/00/32/71/60/60/-1774185891/16x9/512",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "youth,rbb,ard,public radio",
+    "state": "Brandenburg",
+    "bitrate": 0
+}

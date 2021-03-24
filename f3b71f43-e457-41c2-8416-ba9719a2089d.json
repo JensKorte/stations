@@ -1,0 +1,14 @@
+{
+    "uuid": "f3b71f43-e457-41c2-8416-ba9719a2089d",
+    "name": "KGHI FM 91.1",
+    "url": "http://173.193.205.96:7341/stream",
+    "homepage": "http://kghifm.org/",
+    "favicon": "http://kghifm.org/wp-content/uploads/logoTop.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "community radio,classical",
+    "state": "Washington",
+    "bitrate": 112
+}

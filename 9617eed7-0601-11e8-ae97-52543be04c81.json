@@ -1,0 +1,14 @@
+{
+    "uuid": "9617eed7-0601-11e8-ae97-52543be04c81",
+    "name": "Radio HBR",
+    "url": "http://stream1.radiohbr.de/stream.mp3",
+    "homepage": "https://heukelbach.org/radio-hbr/",
+    "favicon": "https://heukelbach.org/wp-content/uploads/sites/3/2016/07/favicon-mwh.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "bible,christian",
+    "state": "",
+    "bitrate": 128
+}

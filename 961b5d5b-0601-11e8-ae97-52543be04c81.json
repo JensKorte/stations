@@ -1,0 +1,14 @@
+{
+    "uuid": "961b5d5b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Szczecin Extra",
+    "url": "http://stream3.nadaje.com:8200/szczecinfm.m3u",
+    "homepage": "http://radioszczecinextra.pl/",
+    "favicon": "http://radioszczecinextra.pl/wordpress/wp-content/uploads/2016/04/RSE_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "szczecin",
+    "state": "Szczecin",
+    "bitrate": 0
+}

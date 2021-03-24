@@ -1,0 +1,14 @@
+{
+    "uuid": "9605b2c1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Tonkuhle 105.3 Hildesheim",
+    "url": "http://stream.tonkuhle.de:8000/tonkuhle.mp3",
+    "homepage": "http://www.tonkuhle.de/",
+    "favicon": "http://static.radio.de/images/broadcasts/e9/24/2915/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "bürgerfunk,independent",
+    "state": "Lower Saxony",
+    "bitrate": 256
+}

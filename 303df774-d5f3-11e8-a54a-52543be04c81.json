@@ -1,0 +1,14 @@
+{
+    "uuid": "303df774-d5f3-11e8-a54a-52543be04c81",
+    "name": "Радио Uvaga.by",
+    "url": "http://up.uvaga.by:8100/listen.pls?sid=4",
+    "homepage": "http://radio.uvaga.by/",
+    "favicon": "http://radio.uvaga.by/images/logo.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "creative commons,chr,top40,music",
+    "state": "",
+    "bitrate": 64
+}

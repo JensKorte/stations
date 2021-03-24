@@ -1,0 +1,14 @@
+{
+    "uuid": "962adee9-0601-11e8-ae97-52543be04c81",
+    "name": "StudioRadio - The Vintage Station",
+    "url": "http://91.121.38.216:8060/stream",
+    "homepage": "http://www.studioradio.it/",
+    "favicon": "http://www.studioradio.it/css-img/logo-sr-140.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "adult contemporary,classic hits",
+    "state": "Lombardia",
+    "bitrate": 128
+}

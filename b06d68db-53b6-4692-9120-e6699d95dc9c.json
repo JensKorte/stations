@@ -1,0 +1,14 @@
+{
+    "uuid": "b06d68db-53b6-4692-9120-e6699d95dc9c",
+    "name": "Classical KDFC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac",
+    "homepage": "https://www.kdfc.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KDFCFM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical",
+    "state": "San Francisco CA",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96077600-0601-11e8-ae97-52543be04c81",
+    "name": "SR 2 Off-Beat",
+    "url": "http://streaming02.sr-online.de/sr2offbeat.m3u",
+    "homepage": "http://www.sr-online.de/sr2/",
+    "favicon": "http://static.radio.de/images/broadcasts/95/9e/2401/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "jazz",
+    "state": "Saarland",
+    "bitrate": 128
+}

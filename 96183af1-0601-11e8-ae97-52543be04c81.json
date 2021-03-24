@@ -1,0 +1,14 @@
+{
+    "uuid": "96183af1-0601-11e8-ae97-52543be04c81",
+    "name": "CKUT 90.3 McGill University - Montreal, QC",
+    "url": "http://icecast.ckut.ca/903fm-192-stereo",
+    "homepage": "https://ckut.ca/en",
+    "favicon": "https://ckut.ca/sites/ckut.ca/files/orangebluebanner.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "university radio,community radio,non-profit",
+    "state": "Quebec",
+    "bitrate": 192
+}

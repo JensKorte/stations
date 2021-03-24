@@ -1,0 +1,14 @@
+{
+    "uuid": "406607d5-e291-4d1b-a026-760714ac5033",
+    "name": "Deutschlandfunk [AAC 256 kbit/s]",
+    "url": "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac",
+    "homepage": "https://www.deutschlandfunk.de/",
+    "favicon": "https://www.deutschlandfunk.de/themes/dradio/icons/dlf/favicon-196x196.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "news,kultur,kultur,information,culture,information",
+    "state": "",
+    "bitrate": 0
+}

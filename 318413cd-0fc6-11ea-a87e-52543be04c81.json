@@ -1,0 +1,14 @@
+{
+    "uuid": "318413cd-0fc6-11ea-a87e-52543be04c81",
+    "name": "Mundart-Radio",
+    "url": "http://stream.laut.fm/mundartradio",
+    "homepage": "https://www.mundartradio.de",
+    "favicon": "https://www.mundartradio.de/images/logo/Logo-2018_neu-300-125.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "schwäbisch",
+    "tags": "mundartradio - der mitmachsender von schwaben für alle,die schwäbisch mögen",
+    "state": "",
+    "bitrate": 128
+}

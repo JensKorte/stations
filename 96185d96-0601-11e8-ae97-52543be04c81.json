@@ -1,0 +1,14 @@
+{
+    "uuid": "96185d96-0601-11e8-ae97-52543be04c81",
+    "name": "EBM-Radio",
+    "url": "http://www.ebm-radio.de/listen.pls",
+    "homepage": "http://www.ebm-radio.de/",
+    "favicon": "http://www.ebm-radio.de///templates/ebmradio/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "electro,minimal,industrial,ebm",
+    "state": "Mecklenburg-Vorpommern",
+    "bitrate": 0
+}

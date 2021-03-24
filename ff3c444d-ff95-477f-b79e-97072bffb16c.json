@@ -1,0 +1,14 @@
+{
+    "uuid": "ff3c444d-ff95-477f-b79e-97072bffb16c",
+    "name": "98.5 KYGO",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KYGOFMAAC.aac",
+    "homepage": "https://kygo.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/kygo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Denver CO",
+    "bitrate": 48
+}

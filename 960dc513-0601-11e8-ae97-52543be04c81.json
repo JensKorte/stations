@@ -1,0 +1,14 @@
+{
+    "uuid": "960dc513-0601-11e8-ae97-52543be04c81",
+    "name": "RMF Classic",
+    "url": "http://31.192.216.8/RMFCLASSIC48",
+    "homepage": "http://www.rmfclassic.pl/",
+    "favicon": "http://api.my-radios.com/images/thumb.php?countryCode=PL\u0026name=RMF_Classic.png\u0026size=200",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "classical",
+    "state": "Krakow",
+    "bitrate": 48
+}

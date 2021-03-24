@@ -1,0 +1,14 @@
+{
+    "uuid": "7d791618-8666-4113-b788-878a0b15a06a",
+    "name": "Top News",
+    "url": "https://live.topnews.co.th/hls/topnews.m3u8",
+    "homepage": "https://www.topnews.co.th",
+    "favicon": "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp",
+    "creation": "2021-03-01 12:54:49",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "news,politics \u0026 current affairs,hls video,tv",
+    "state": "Bangkok",
+    "bitrate": 0
+}

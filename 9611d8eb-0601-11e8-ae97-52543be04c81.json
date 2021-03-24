@@ -1,0 +1,14 @@
+{
+    "uuid": "9611d8eb-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern - Hits für Kids",
+    "url": "http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vzvQkVkWCJ.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "kids,children",
+    "state": "Bavaria",
+    "bitrate": 128
+}

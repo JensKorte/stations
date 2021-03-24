@@ -1,0 +1,14 @@
+{
+    "uuid": "9615dc04-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern - Classic Rock Live (MP3)",
+    "url": "http://mp3channels.webradio.antenne.de/classic-rock-live",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "https://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classic rock",
+    "state": "Bavaria",
+    "bitrate": 128
+}

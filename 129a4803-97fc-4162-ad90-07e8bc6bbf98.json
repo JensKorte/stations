@@ -1,0 +1,14 @@
+{
+    "uuid": "129a4803-97fc-4162-ad90-07e8bc6bbf98",
+    "name": "Mix FM Syria",
+    "url": "http://192.99.17.12:5102/stream.mp3",
+    "homepage": "http://mixfmsyria.net/",
+    "favicon": "http://mixfmsyria.net/images/fav.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Syrian Arab Republic",
+    "country_code": "SY",
+    "language": "english,arabic",
+    "tags": "",
+    "state": "",
+    "bitrate": 96
+}

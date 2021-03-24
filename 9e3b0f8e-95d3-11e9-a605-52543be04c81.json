@@ -1,0 +1,14 @@
+{
+    "uuid": "9e3b0f8e-95d3-11e9-a605-52543be04c81",
+    "name": "NDR 2",
+    "url": "https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u",
+    "homepage": "https://www.ndr.de/ndr2/index.html",
+    "favicon": "https://www.ndr.de//apple-touch-icon-57x57.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "pop",
+    "state": "Hamburg",
+    "bitrate": 0
+}

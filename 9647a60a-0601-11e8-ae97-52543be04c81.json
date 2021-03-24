@@ -1,0 +1,14 @@
+{
+    "uuid": "9647a60a-0601-11e8-ae97-52543be04c81",
+    "name": "CP24 Audio Channel - Toronto, ON",
+    "url": "http://provisioning.streamtheworld.com/pls/TV_CP24AAC.pls",
+    "homepage": "http://www.cp24.com/",
+    "favicon": "https://static.ctvnews.ca/bellmedia/cp24/img/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "toronto,local news",
+    "state": "Ontario",
+    "bitrate": 40
+}

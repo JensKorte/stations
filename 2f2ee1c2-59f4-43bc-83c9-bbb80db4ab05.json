@@ -1,0 +1,14 @@
+{
+    "uuid": "2f2ee1c2-59f4-43bc-83c9-bbb80db4ab05",
+    "name": "Radio RKS Grenoble 97FM",
+    "url": "https://securestreams5.autopo.st:1833/live",
+    "homepage": "https://www.radiorks.fr/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/3/39/Logo_RKS_2019.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "fr,français,french,français french",
+    "tags": "social,radio associative,culture,music,information,alternative",
+    "state": "Auvergne-Rhône-Alpes",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963cf00c-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern Schlagersahne",
+    "url": "http://mp3channels.webradio.antenne.de/das-schlager-karussell",
+    "homepage": "http://www.antenne.de/",
+    "favicon": "https://bitrad.io/assets/img/covers/23929.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "Bavaria",
+    "bitrate": 128
+}

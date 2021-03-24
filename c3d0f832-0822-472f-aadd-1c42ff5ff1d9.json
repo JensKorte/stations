@@ -1,0 +1,14 @@
+{
+    "uuid": "c3d0f832-0822-472f-aadd-1c42ff5ff1d9",
+    "name": "BRF1 Radio",
+    "url": "https://streaming.brf.be/brf1-high.mp3",
+    "homepage": "https://1.brf.be/",
+    "favicon": "https://1.brf.be/wp-content/themes/brf-maintheme/assets/img/favicons/favicon-brf1-radio.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french,german,dutch,flemish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

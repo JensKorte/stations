@@ -1,0 +1,14 @@
+{
+    "uuid": "7821a961-4110-11e8-b74d-52543be04c81",
+    "name": "Católica Radio",
+    "url": "http://stream.rarserver.net:8078/catolicapr",
+    "homepage": "http://www.catolicaradiopr.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s12627q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "language": "spanish",
+    "tags": "catholic talk",
+    "state": "San Juan",
+    "bitrate": 64
+}

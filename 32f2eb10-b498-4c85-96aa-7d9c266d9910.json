@@ -1,0 +1,14 @@
+{
+    "uuid": "32f2eb10-b498-4c85-96aa-7d9c266d9910",
+    "name": "NRJ België",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser",
+    "homepage": "https://nl.nrj.be/",
+    "favicon": "https://nl.nrj.be/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "hits,top 40",
+    "state": "",
+    "bitrate": 192
+}

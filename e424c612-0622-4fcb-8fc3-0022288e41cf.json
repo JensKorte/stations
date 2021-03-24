@@ -1,0 +1,14 @@
+{
+    "uuid": "e424c612-0622-4fcb-8fc3-0022288e41cf",
+    "name": "Sports Radio the Ump",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WUMPAMAAC.aac",
+    "homepage": "https://www.umpsports.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WUMP.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "sports",
+    "state": "Huntsville AL",
+    "bitrate": 48
+}

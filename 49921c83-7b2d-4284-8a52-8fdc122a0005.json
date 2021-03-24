@@ -1,0 +1,14 @@
+{
+    "uuid": "49921c83-7b2d-4284-8a52-8fdc122a0005",
+    "name": "Українське радіо. Львів. (192 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-lv-mp3",
+    "homepage": "http://ukr.radio/radio-lv",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Lviv",
+    "bitrate": 192
+}

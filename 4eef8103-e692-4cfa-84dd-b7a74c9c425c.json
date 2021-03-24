@@ -1,0 +1,14 @@
+{
+    "uuid": "4eef8103-e692-4cfa-84dd-b7a74c9c425c",
+    "name": "Українське радіо. Чернігівська хвиля. (192 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-cn-mp3",
+    "homepage": "http://ukr.radio/radio-cn",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Chernihiv",
+    "bitrate": 192
+}

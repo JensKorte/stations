@@ -1,0 +1,14 @@
+{
+    "uuid": "c9c29e3a-088c-11ea-a87e-52543be04c81",
+    "name": "IRIB Radio Fars - رادیو فارس",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-fars/playlist.m3u8",
+    "homepage": "http://fars.irib.ir/radio",
+    "favicon": "https://cdn111-fs2.soroush-hamrah.ir/static_file/d7/1512199076923aNoUqxfHjLegyclRwhAK30bIkW6VSPE4.thumbnail.jpg?",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Islamic Republic Of Iran",
+    "country_code": "IR",
+    "language": "iranian,irani,farsi,persian",
+    "tags": "shiraz,irib,fars,farsi",
+    "state": "Fars",
+    "bitrate": 307
+}

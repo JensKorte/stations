@@ -1,0 +1,14 @@
+{
+    "uuid": "eadd4fae-47f0-11e8-8919-52543be04c81",
+    "name": "NDR Schleswig Holstein.TV",
+    "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8",
+    "homepage": "http://www.ndr.de/",
+    "favicon": "http://www.ndr.de//apple-touch-icon-57x57.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 184
+}

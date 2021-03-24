@@ -1,0 +1,14 @@
+{
+    "uuid": "c9bc044f-7563-422d-b1ed-e5b0d1fcb84f",
+    "name": "Radio Sawt Beirut International",
+    "url": "http://hydra.shoutca.st:8325/;stream.mp3",
+    "homepage": "https://sawtbeirut.com",
+    "favicon": "http://www.lbiradio.com/rsbi-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "language": "english,arabic",
+    "tags": "international,news,world",
+    "state": "Beirut",
+    "bitrate": 128
+}

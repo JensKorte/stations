@@ -1,0 +1,14 @@
+{
+    "uuid": "01410f71-7044-11ea-b1cf-52543be04c81",
+    "name": "Radio Salentina",
+    "url": "http://213.52.130.45:8000/stream",
+    "homepage": "http://radiosalentina.it/",
+    "favicon": "http://radiosalentina.it/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

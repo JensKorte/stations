@@ -1,0 +1,14 @@
+{
+    "uuid": "96199f74-0601-11e8-ae97-52543be04c81",
+    "name": "Радио РОКС",
+    "url": "http://de.streams.radioplayer.by:8000/live",
+    "homepage": "http://www.roks.com/",
+    "favicon": "http://bestradio.fm/uploads/posts/2015-11/1446638133_roks-radio-minsk1.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "russian chanson,minsk",
+    "state": "Minsk",
+    "bitrate": 0
+}

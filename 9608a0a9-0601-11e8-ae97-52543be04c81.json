@@ -1,0 +1,14 @@
+{
+    "uuid": "9608a0a9-0601-11e8-ae97-52543be04c81",
+    "name": "Kuma FM 101.0",
+    "url": "http://5.39.16.62:8004/tre",
+    "homepage": "http://www.kuma.fm/",
+    "favicon": "http://kuma.fm/fileadmin/templates/radio/images/kumafmlogo.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

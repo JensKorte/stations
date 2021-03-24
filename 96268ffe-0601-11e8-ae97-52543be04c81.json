@@ -1,0 +1,14 @@
+{
+    "uuid": "96268ffe-0601-11e8-ae97-52543be04c81",
+    "name": "h2radio",
+    "url": "http://stream.h2radio.de:8000/h2radio.mp3",
+    "homepage": "http://www.h2radio.de/",
+    "favicon": "http://www.h2radio.de/wp/wp-content/uploads/2016/12/cropped-favicon-270x270.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "campus radio",
+    "state": "Saxony-Anhalt",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961a01fa-0601-11e8-ae97-52543be04c81",
+    "name": "NDR Plus",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrplus.m3u",
+    "homepage": "http://www.ndr.de/ndrplus/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/NDR_Plus_Logo_2016.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "",
+    "bitrate": 0
+}

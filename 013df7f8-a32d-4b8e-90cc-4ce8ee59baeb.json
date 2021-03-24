@@ -1,0 +1,14 @@
+{
+    "uuid": "013df7f8-a32d-4b8e-90cc-4ce8ee59baeb",
+    "name": "Русское Радио",
+    "url": "https://stream.hoster.by/rusradio/russkoe/icecast.audio",
+    "homepage": "https://rusradio.by",
+    "favicon": "https://rusradio.by/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "русский,russian",
+    "tags": "русское радио,минск,беларусь,pop",
+    "state": "Minsk",
+    "bitrate": 128
+}

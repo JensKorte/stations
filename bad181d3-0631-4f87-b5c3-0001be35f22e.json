@@ -1,0 +1,14 @@
+{
+    "uuid": "bad181d3-0631-4f87-b5c3-0001be35f22e",
+    "name": "BraveFM #mashup",
+    "url": "http://stream.laut.fm/bravefmmashup",
+    "homepage": "https://bravefm.de",
+    "favicon": "https://bravefm.de/images/mashup.png",
+    "creation": "2021-03-01 14:50:53",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "webradio,bravefm,house,remixes,mashup",
+    "state": "Deutschland (Germany)",
+    "bitrate": 128
+}

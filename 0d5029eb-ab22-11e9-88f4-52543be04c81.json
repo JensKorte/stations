@@ -1,0 +1,14 @@
+{
+    "uuid": "0d5029eb-ab22-11e9-88f4-52543be04c81",
+    "name": "RPR1. Best of 80s",
+    "url": "https://streams.rpr1.de/rpr-80er-128-aac?usid=0-0-H-M-D-01",
+    "homepage": "https://www.rpr1.de/webradio/best-80s",
+    "favicon": "https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "80s,pop,regional radio",
+    "state": "Rheinland-Pfalz",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962ed0ef-0601-11e8-ae97-52543be04c81",
+    "name": "Calm Radio - Vivaldi",
+    "url": "http://streams.calmradio.com:8928/stream",
+    "homepage": "https://www.calmradio.com/",
+    "favicon": "https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/177/7af296f2-813d-4a67-945e-b2478db0aef8.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "vivaldi,classical",
+    "state": "Ontario",
+    "bitrate": 128
+}

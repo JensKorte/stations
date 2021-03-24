@@ -1,0 +1,14 @@
+{
+    "uuid": "96201e40-0601-11e8-ae97-52543be04c81",
+    "name": "Twentysound",
+    "url": "http://stream.laut.fm/twentysound.m3u",
+    "homepage": "http://www.en.twentysound.net/",
+    "favicon": "http://www.en.twentysound.net/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "20s,tonal,classical",
+    "state": "",
+    "bitrate": 128
+}

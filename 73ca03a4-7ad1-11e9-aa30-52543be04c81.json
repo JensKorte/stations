@@ -1,0 +1,14 @@
+{
+    "uuid": "73ca03a4-7ad1-11e9-aa30-52543be04c81",
+    "name": "ТМ-Радио",
+    "url": "http://radio.tmstudia.ru:8001/live",
+    "homepage": "http://tmstudia.ru",
+    "favicon": "http://tmstudia.ru/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "children,kids,дети,детское,family,семейное",
+    "state": "Saint-Petersburg",
+    "bitrate": 128
+}

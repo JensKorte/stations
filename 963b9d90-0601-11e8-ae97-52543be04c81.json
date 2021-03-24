@@ -1,0 +1,14 @@
+{
+    "uuid": "963b9d90-0601-11e8-ae97-52543be04c81",
+    "name": "TDI Radio - Domaćica",
+    "url": "http://streaming.tdiradio.com:8000/domacica",
+    "homepage": "http://www.tdiradio.com/",
+    "favicon": "http://www.tdiradio.com/site/images/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "pop",
+    "state": "Belgrade",
+    "bitrate": 0
+}

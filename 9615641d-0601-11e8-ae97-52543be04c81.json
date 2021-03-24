@@ -1,0 +1,14 @@
+{
+    "uuid": "9615641d-0601-11e8-ae97-52543be04c81",
+    "name": "Spirit Radio",
+    "url": "http://st2.webradioworld.net/tunein.php/spiritradio01/playlist.pls",
+    "homepage": "http://www.spiritradio.ie/",
+    "favicon": "http://www.liveradio.ie/files/images/101036/resized/140x134c/spirit_radio.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "55354ea2-bcf2-4e5e-9357-6ecc6de21d48",
+    "name": "ערוץ 2000 Arutz",
+    "url": "http://jradio.ilcast.com:8030/",
+    "homepage": "https://www.radio2000.co.il/radio",
+    "favicon": "https://www.radio2000.co.il//themes/MGZ/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Israel",
+    "country_code": "IL",
+    "language": "עברית,hebrew",
+    "tags": "דתי,ilstations",
+    "state": "",
+    "bitrate": 128
+}

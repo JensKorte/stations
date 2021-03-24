@@ -1,0 +1,14 @@
+{
+    "uuid": "3214d3ee-42dd-4616-9d6d-c5ec44f7b4c3",
+    "name": "Radio RSG",
+    "url": "http://radiorsg-ais-edge-3077-fra-eco-cdn.cast.addradio.de/radiorsg/live/mp3/high?ar-distributor=f0a1\u0026_art=dj0yJmlwPTIuMjQzLjM5Ljc3JmlkPWljc2N4bC1veXdlYXNpbWImdD0xNjA3OTU2MTU3JnM9Nzg2NmYyOWMjZTQzOTUyMTRiYzU0YzJlY2FjZjVlYjgxY2MxYTczYWQ",
+    "homepage": "https://www.radiorsg.de/",
+    "favicon": "https://www.radiorsg.de/assets/images/senderlogos/radio_rsg.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "wuppertal,remscheid,solingen,local radio,lokalradio",
+    "state": "Nrw",
+    "bitrate": 128
+}

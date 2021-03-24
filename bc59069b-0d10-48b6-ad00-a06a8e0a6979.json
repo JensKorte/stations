@@ -1,0 +1,14 @@
+{
+    "uuid": "bc59069b-0d10-48b6-ad00-a06a8e0a6979",
+    "name": "4AM Radio",
+    "url": "http://198.74.51.37:8435/;stream.mp3",
+    "homepage": "https://www.4am.com.au/",
+    "favicon": "https://www.4am.com.au/images/4AM-IMAGE.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "far north queensland,atherton tablelands,atherton,nq radio,4am",
+    "state": "Queensland",
+    "bitrate": 64
+}

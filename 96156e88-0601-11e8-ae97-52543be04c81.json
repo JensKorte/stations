@@ -1,0 +1,14 @@
+{
+    "uuid": "96156e88-0601-11e8-ae97-52543be04c81",
+    "name": "RTÉ Radio 1 Extra",
+    "url": "http://av.rasset.ie/av/live/radio/radio1extra.m3u",
+    "homepage": "http://www.rte.ie/radio",
+    "favicon": "http://www.liveradio.ie/files/images/115731/resized/140x134c/rte_radio_1_extra.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "talk",
+    "state": "",
+    "bitrate": 0
+}

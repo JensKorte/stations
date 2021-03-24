@@ -1,0 +1,14 @@
+{
+    "uuid": "96167076-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Sound Of Berlin",
+    "url": "http://streams.fluxfm.de/soundofberlin/aac-64",
+    "homepage": "http://www.fluxfm.de/",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2016/11/Sound-Of-Berlin-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "house,electro",
+    "state": "Berlin",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96056147-0601-11e8-ae97-52543be04c81",
+    "name": "Hit Radio FFH",
+    "url": "http://mp3.ffh.de/radioffh/hqlivestream.mp3",
+    "homepage": "http://www.ffh.de/",
+    "favicon": "https://webradio.ffh.de/custom/images/stationlist/ffh.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,top 40",
+    "state": "Hessen",
+    "bitrate": 128
+}

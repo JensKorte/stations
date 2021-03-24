@@ -1,0 +1,14 @@
+{
+    "uuid": "96253628-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Marconi \"Musica \u0026 Notizie\"",
+    "url": "http://onair15.xdevel.com:8922/;stream.mp3",
+    "homepage": "http://www.radiomarconi.info/",
+    "favicon": "http://www.radiomarconi.info/immagini/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "news,italian pop,pop",
+    "state": "Lombardia",
+    "bitrate": 192
+}

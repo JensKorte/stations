@@ -1,0 +1,14 @@
+{
+    "uuid": "9626f0d7-0601-11e8-ae97-52543be04c81",
+    "name": "Web Radio 5.9",
+    "url": "http://5.135.39.189:8106/listen.pls",
+    "homepage": "http://www.radio5punto9.it/",
+    "favicon": "http://www.radio5punto9.it/wp-content/themes/creation/images/logo_small2.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "hits,talk",
+    "state": "Emilia-Romagna",
+    "bitrate": 128
+}

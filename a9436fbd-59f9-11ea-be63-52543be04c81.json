@@ -1,0 +1,14 @@
+{
+    "uuid": "a9436fbd-59f9-11ea-be63-52543be04c81",
+    "name": "mds - модель для сборки",
+    "url": "http://mds-station.com:8000/mds",
+    "homepage": "http://mds-station.com",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "русский,undefined",
+    "tags": "аудиокниги",
+    "state": "",
+    "bitrate": 128
+}

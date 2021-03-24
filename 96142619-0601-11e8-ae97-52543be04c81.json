@@ -1,0 +1,14 @@
+{
+    "uuid": "96142619-0601-11e8-ae97-52543be04c81",
+    "name": "ALL FM 96.9",
+    "url": "http://icecast.commedia.org.uk:8000/allfm.mp3.m3u",
+    "homepage": "http://allfm.org/",
+    "favicon": "http://allfm.org/radioplayer/img/station-logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "volunteer,contemporary,culture,arts,music,community radio",
+    "state": "Greater Manchester",
+    "bitrate": 96
+}

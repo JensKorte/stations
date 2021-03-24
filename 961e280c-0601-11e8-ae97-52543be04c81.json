@@ -1,0 +1,14 @@
+{
+    "uuid": "961e280c-0601-11e8-ae97-52543be04c81",
+    "name": "KAZU 90.3 Pacific Grove, CA",
+    "url": "http://icecast.csumb.edu:8000/live128",
+    "homepage": "http://kazu.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kazu/files/201605/logo_350w.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pacific grove,santa cruz,salinas,monterrey,npr,public radio",
+    "state": "California",
+    "bitrate": 128
+}

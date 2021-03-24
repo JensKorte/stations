@@ -1,0 +1,14 @@
+{
+    "uuid": "96236e0f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sisak 89.4",
+    "url": "http://c5.hostingcentar.com:8096/stream",
+    "homepage": "http://www.radiosisak.hr/index.php",
+    "favicon": "http://www.radiosisak.hr/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "top 40",
+    "state": "Sisačko-moslavačka županija",
+    "bitrate": 128
+}

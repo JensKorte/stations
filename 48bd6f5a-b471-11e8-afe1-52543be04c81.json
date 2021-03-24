@@ -1,0 +1,14 @@
+{
+    "uuid": "48bd6f5a-b471-11e8-afe1-52543be04c81",
+    "name": "RPR1 Festival",
+    "url": "https://streams.rpr1.de/rpr-festival-128-mp3?usid=0-0-H-M-D-04",
+    "homepage": "https://www.rpr1.de/radioplayer/festival",
+    "favicon": "https://www.rpr1.de/sites/all/modules/rpr1/rpr1_webradio/radioplayer-rpr1//images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock am ring,,pop,indie rock,live,festival,rock",
+    "state": "",
+    "bitrate": 128
+}

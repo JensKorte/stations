@@ -1,0 +1,14 @@
+{
+    "uuid": "5c47aa8a-3565-11e8-bb9b-52543be04c81",
+    "name": "Rádio A Voz da Liberdade FM (ZYX812, 98,5 MHz FM, Jaboatão dos Guararapes, PE)",
+    "url": "http://cast3.hoost.com.br:2199/tunein/radiofma-stream.pls",
+    "homepage": "http://www.radiofmvozdaliberdade.com.br/",
+    "favicon": "http://www.radiofmvozdaliberdade.com.br/file/2017/09/logo-site-web.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "mpb,full service,news,brazilian music,local news,local talk,community radio",
+    "state": "Pernambuco",
+    "bitrate": 0
+}

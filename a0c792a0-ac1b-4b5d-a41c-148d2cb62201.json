@@ -1,0 +1,14 @@
+{
+    "uuid": "a0c792a0-ac1b-4b5d-a41c-148d2cb62201",
+    "name": "Rock FM 94.5 Turkey",
+    "url": "http://rockfm.rockfm.com.tr:9450/stream",
+    "homepage": "http://rockfm.com.tr",
+    "favicon": "https://rockfm.com.tr/images/rockfm_logo_siyah-bg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "turkish",
+    "tags": "pop rock,classic rock,rock",
+    "state": "",
+    "bitrate": 128
+}

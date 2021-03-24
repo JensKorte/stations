@@ -1,0 +1,14 @@
+{
+    "uuid": "266d0aed-5cb0-11e9-a622-52543be04c81",
+    "name": "Radio Centro 101.3 FM",
+    "url": "https://streamingecuador.net:8133/RadioCentroGuayaquil.m3u",
+    "homepage": "https://www.radiocentro.com.ec/",
+    "favicon": "https://pbs.twimg.com/profile_images/438412986495930368/556GmxA9_400x400.jpeg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "musica latina,latin music,news,news,musica,music",
+    "state": "Guayas",
+    "bitrate": 32
+}

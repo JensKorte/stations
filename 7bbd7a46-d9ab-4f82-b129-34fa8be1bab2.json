@@ -1,0 +1,14 @@
+{
+    "uuid": "7bbd7a46-d9ab-4f82-b129-34fa8be1bab2",
+    "name": "AM 740 KVOR",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KVORAMAAC.aac",
+    "homepage": "https://www.kvor.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KVORAM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Colorado Springs CO",
+    "bitrate": 48
+}

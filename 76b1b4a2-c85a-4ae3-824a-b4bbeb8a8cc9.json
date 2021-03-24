@@ -1,0 +1,14 @@
+{
+    "uuid": "76b1b4a2-c85a-4ae3-824a-b4bbeb8a8cc9",
+    "name": "NDR Info (Mecklenburg Vorpommern) AAC",
+    "url": "http://ndr-edge-3040-fra-ts-cdn.cast.addradio.de/ndr/ndrinfo/mecklenburgvorpommern/aac/low",
+    "homepage": "https://www.ndr.de/nachrichten/info/",
+    "favicon": "https://www.ndr.de/favicon-96x96.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "regional,culture,culture,information,local news,local news,news",
+    "state": "Mecklenburg-Vorpommern",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9615de2d-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern - Top 40",
+    "url": "http://mp3channels.webradio.antenne.de/top-40",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "https://bitrad.io/assets/img/covers/16203.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40",
+    "state": "Bavaria",
+    "bitrate": 128
+}

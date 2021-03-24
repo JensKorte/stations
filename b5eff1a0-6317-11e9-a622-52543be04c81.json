@@ -1,0 +1,14 @@
+{
+    "uuid": "b5eff1a0-6317-11e9-a622-52543be04c81",
+    "name": "Akademickie Radio Kampus",
+    "url": "http://193.0.98.66:8005/listen.pls",
+    "homepage": "https://radiokampus.fm",
+    "favicon": "https://radiokampus.fm//local/template/_bricks/header/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polish,jazz,blues,country music,world music,brit pop,rock,metal",
+    "state": "Warszawa",
+    "bitrate": 128
+}

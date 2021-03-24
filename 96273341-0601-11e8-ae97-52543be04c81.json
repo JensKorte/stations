@@ -1,0 +1,14 @@
+{
+    "uuid": "96273341-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Mondo",
+    "url": "http://s3.shoutitaly.com:8045/stream",
+    "homepage": "http://radiomondo.it/",
+    "favicon": "http://radiomondo.it/wp-content/uploads/2015/06/LogoRadioMondo-SeiTu-Trasp.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "casale monferrato,electronica,classic hits,news",
+    "state": "Piemonte",
+    "bitrate": 192
+}

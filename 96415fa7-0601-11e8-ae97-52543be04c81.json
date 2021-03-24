@@ -1,0 +1,14 @@
+{
+    "uuid": "96415fa7-0601-11e8-ae97-52543be04c81",
+    "name": "Discofox FM",
+    "url": "http://87.118.78.2:8000/;",
+    "homepage": "https://www.discofoxfm-radio.de/",
+    "favicon": "https://discofoxfm.de/templates/yoo_avenue/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager,disco",
+    "state": "",
+    "bitrate": 192
+}

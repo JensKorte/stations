@@ -1,0 +1,14 @@
+{
+    "uuid": "379b21aa-6244-11e9-a622-52543be04c81",
+    "name": "Radio Capital 105.7 FM",
+    "url": "https://streamingecuador.net:8010/stream.m3u",
+    "homepage": "http://www.radiocapital.ec/",
+    "favicon": "http://radiocapital.ec/wp-content/uploads/2017/01/cropped-13401322_1111814172210267_1758443253_n-1-1-270x270.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,music,musica",
+    "state": "Manabí",
+    "bitrate": 32
+}

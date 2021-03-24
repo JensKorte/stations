@@ -1,0 +1,14 @@
+{
+    "uuid": "963ece71-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Mollet",
+    "url": "http://streaming.enantena.com:8000/radiomollet56.mp3",
+    "homepage": "http://www.radiomollet.com/",
+    "favicon": "http://www.radiomollet.com//radiomollet/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "mollet del vallès",
+    "state": "Barcelona",
+    "bitrate": 0
+}

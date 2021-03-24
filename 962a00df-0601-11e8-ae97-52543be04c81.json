@@ -1,0 +1,14 @@
+{
+    "uuid": "962a00df-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Aut Marche",
+    "url": "http://94.23.66.155:9079/stream",
+    "homepage": "http://www.radioautmarche.it/",
+    "favicon": "http://www.radioautmarche.it/css/img/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "talk,news,sport",
+    "state": "Marche",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9605d7bd-0601-11e8-ae97-52543be04c81",
+    "name": "LORA München",
+    "url": "http://live.lora924.de:8000/lora.ogg",
+    "homepage": "http://www.lora924.de/",
+    "favicon": "http://lora924.de/wp-content/uploads/2009/09/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "non-commercial,public radio,bürgerradio,munich",
+    "state": "Bavaria",
+    "bitrate": 64
+}

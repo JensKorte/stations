@@ -1,0 +1,14 @@
+{
+    "uuid": "64ab14ea-4d72-44de-9c30-9b9aa85d9d31",
+    "name": "Imagine Rock Radio",
+    "url": "http://broad1.imagineradio.ru:8000/full_stream128.aac",
+    "homepage": "http://imagineradio.ru/",
+    "favicon": "http://imagineradio.ru/sites/default/files/img/_screen_2015.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "classic rock,rock",
+    "state": "Saint-Petersburg",
+    "bitrate": 128
+}

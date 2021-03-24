@@ -1,0 +1,14 @@
+{
+    "uuid": "09112d0c-5c25-4fd7-a99b-c4c81354ff6c",
+    "name": "radioDJ",
+    "url": "http://stream.laut.fm/radiodj",
+    "homepage": "https://laut.fm/radiodj",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english,german",
+    "tags": "news,local news,80er,80s,top charts,charts,90er,90s,2000er,2000s,pop music,pop rock,pop",
+    "state": "",
+    "bitrate": 128
+}

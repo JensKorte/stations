@@ -1,0 +1,14 @@
+{
+    "uuid": "20f33ad1-6ba8-11ea-b1cf-52543be04c81",
+    "name": "Deutsche Welle (EN).TV",
+    "url": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8",
+    "homepage": "https://www.dw.com/de/media-center/live-tv/s-100817?channel=1",
+    "favicon": "https://www.dw.com//favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english",
+    "tags": "news,tv",
+    "state": "",
+    "bitrate": 0
+}

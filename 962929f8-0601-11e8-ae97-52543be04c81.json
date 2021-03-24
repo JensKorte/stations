@@ -1,0 +1,14 @@
+{
+    "uuid": "962929f8-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Buon Consiglio",
+    "url": "http://streaming.radiobuonconsiglio.it:8000/;",
+    "homepage": "http://www.radiobuonconsiglio.it/",
+    "favicon": "http://www.radiobuonconsiglio.it/webapp/144x144.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "catholic,christian",
+    "state": "Lazio",
+    "bitrate": 56
+}

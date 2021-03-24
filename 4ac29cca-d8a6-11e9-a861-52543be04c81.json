@@ -1,0 +1,14 @@
+{
+    "uuid": "4ac29cca-d8a6-11e9-a861-52543be04c81",
+    "name": "Radio Magic FM",
+    "url": "http://live.magicfm.ro:9128/magicfm.aacp",
+    "homepage": "http://www.magicfm.ro/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wC8vD4KN3d.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

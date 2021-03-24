@@ -1,0 +1,14 @@
+{
+    "uuid": "961f5b44-0601-11e8-ae97-52543be04c81",
+    "name": "Vikerraadio",
+    "url": "http://icecast.err.ee/vikerraadio.mp3.m3u",
+    "homepage": "http://vikerraadio.err.ee/",
+    "favicon": "http://vikerraadio.err.ee//Content/favicon/uudised.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

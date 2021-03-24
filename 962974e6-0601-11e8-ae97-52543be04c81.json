@@ -1,0 +1,14 @@
+{
+    "uuid": "962974e6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Adige",
+    "url": "http://onair18.xdevel.com:8128/listen.pls",
+    "homepage": "http://www.radioadige.it/",
+    "favicon": "http://www.radioadige.it/wp-content/themes/theme1263/radioadige_webpubblicita.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "local news,classic hits,top 40,pop",
+    "state": "Veneto",
+    "bitrate": 128
+}

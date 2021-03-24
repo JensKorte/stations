@@ -1,0 +1,14 @@
+{
+    "uuid": "d98c5e50-9d73-42b5-b52d-16669e9dbe1a",
+    "name": "Rúv rás1",
+    "url": "http://netradio.ruv.is/ras1.aac.m3u",
+    "homepage": "https://www.ruv.is/",
+    "favicon": "https://www.ruv.is/sites/all/themes/at_ruv/images/svg/ruv-logo-36.svg?v=1.3",
+    "creation": "2021-02-21 18:35:50",
+    "country": "Iceland",
+    "country_code": "IS",
+    "language": "icelandic",
+    "tags": "culture,news",
+    "state": "",
+    "bitrate": 96
+}

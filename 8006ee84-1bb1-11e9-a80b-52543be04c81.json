@@ -1,0 +1,14 @@
+{
+    "uuid": "8006ee84-1bb1-11e9-a80b-52543be04c81",
+    "name": "InfoVojna",
+    "url": "http://stream.infovojna.sk:8000/live128",
+    "homepage": "http://infovojna.sk",
+    "favicon": "http://www.infovojna.sk/images1/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovenský",
+    "tags": "",
+    "state": "Slovakia",
+    "bitrate": 128
+}

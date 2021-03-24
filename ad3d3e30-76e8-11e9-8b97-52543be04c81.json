@@ -1,0 +1,14 @@
+{
+    "uuid": "ad3d3e30-76e8-11e9-8b97-52543be04c81",
+    "name": "RTBF Classic 21",
+    "url": "https://radios.rtbf.be/classic21-128.mp3",
+    "homepage": "https://www.rtbf.be/classic21/",
+    "favicon": "https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/classic21-1400x1400.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rock,pop",
+    "state": "Wallonia",
+    "bitrate": 128
+}

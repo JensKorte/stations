@@ -1,0 +1,14 @@
+{
+    "uuid": "9626e0d7-0601-11e8-ae97-52543be04c81",
+    "name": "Equinoxe FM 100.1",
+    "url": "http://equinoxefm.ddns.net:8000/stream.ogg",
+    "homepage": "http://www.equinoxefm.be/index.php",
+    "favicon": "http://www.equinoxefm.be/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "",
+    "state": "Liège",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3fc2ea83-9ed6-44a5-b6ed-cc0e648c7ee0",
+    "name": "Radio Sandviken",
+    "url": "http://rssand.se:4027/listen.pls?sid=1",
+    "homepage": "http://www.radiosandviken.se",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "music,local radio",
+    "state": "",
+    "bitrate": 128
+}

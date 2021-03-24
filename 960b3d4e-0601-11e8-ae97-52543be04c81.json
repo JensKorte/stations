@@ -1,0 +1,14 @@
+{
+    "uuid": "960b3d4e-0601-11e8-ae97-52543be04c81",
+    "name": "Triple H",
+    "url": "http://isrv-stream-1.vzb.conexim.net:8000/tripleh-32.mp3",
+    "homepage": "http://www.triplehfm.com.au/",
+    "favicon": "http://www.triplehfm.com.au/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "community radio",
+    "state": "New South Wales",
+    "bitrate": 75
+}

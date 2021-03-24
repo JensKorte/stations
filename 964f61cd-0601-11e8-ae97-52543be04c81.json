@@ -1,0 +1,14 @@
+{
+    "uuid": "964f61cd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Nepal",
+    "url": "http://www.radionepal.gov.np:40100/stream.m3u",
+    "homepage": "http://www.radionepal.gov.np",
+    "favicon": "http://digimednepal.info/Logos-Nepali-Radio/radio-nepal-logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Nepal",
+    "country_code": "NP",
+    "language": "nepali",
+    "tags": "",
+    "state": "Bagmati",
+    "bitrate": 0
+}

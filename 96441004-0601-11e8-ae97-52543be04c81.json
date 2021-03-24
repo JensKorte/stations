@@ -1,0 +1,14 @@
+{
+    "uuid": "96441004-0601-11e8-ae97-52543be04c81",
+    "name": "WKDU 91.7 Drexel University - Philadelphia, PA (AAC)",
+    "url": "http://streams.wkdu.org/listen.aac",
+    "homepage": "http://wkdu.org",
+    "favicon": "http://wkdu.org//sites/all/themes/pills/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "philadelphia,university radio",
+    "state": "Pennsylvania",
+    "bitrate": 128
+}

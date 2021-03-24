@@ -1,0 +1,14 @@
+{
+    "uuid": "961b4aa9-0601-11e8-ae97-52543be04c81",
+    "name": "RLDM (Radio Lévé Doubout Matinik)",
+    "url": "http://srv2.streaming-ingenierie.fr:8176/;stream.mp3",
+    "homepage": "http://radiorldm.com/rldm/",
+    "favicon": "http://radiorldm.com//rldm/templates/leroy/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "",
+    "tags": "outre-mer,caribbean music",
+    "state": "Martinique",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "0533e64f-f84c-46f9-b3db-3c09972155dd",
+    "name": "Canal Coín TV",
+    "url": "http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/.m3u8",
+    "homepage": "https://canalcoin.com/tv-directo",
+    "favicon": "https://canalcoin.com/wp-content/uploads/2017/02/cropped-LogoCanalCoinTV-300x300.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español,castellano",
+    "tags": "varios,entretenimiento",
+    "state": "Andalucía",
+    "bitrate": 3481
+}

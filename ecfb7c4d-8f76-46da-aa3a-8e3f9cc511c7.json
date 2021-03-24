@@ -1,0 +1,14 @@
+{
+    "uuid": "ecfb7c4d-8f76-46da-aa3a-8e3f9cc511c7",
+    "name": "Radio No9",
+    "url": "http://www.radio-no9.de:4000/listen.pls",
+    "homepage": "http://www.radio-no9.de",
+    "favicon": "https://radio-no9.de/templates/allrounder-3/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,german",
+    "tags": "community,synthpop,classic rock,metal,pop,rock,soccer,hattrick,community radio",
+    "state": "",
+    "bitrate": 192
+}

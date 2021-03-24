@@ -1,0 +1,14 @@
+{
+    "uuid": "2953dfbe-64f1-40c3-9ff8-90ba0f2449b2",
+    "name": "Antenne Austro Hits",
+    "url": "https://live.antenne.at/auh",
+    "homepage": "https://www.antenne.at/radioplayer/austrohits/",
+    "favicon": "https://www.antenne.at/radioplayer/austrohits/img/plugin-space-image.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german,deutsch",
+    "tags": "austropop,austrohits,austrian music",
+    "state": "Kärnten",
+    "bitrate": 128
+}

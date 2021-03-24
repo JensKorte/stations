@@ -1,0 +1,14 @@
+{
+    "uuid": "2ec8a905-7c12-11e9-aa30-52543be04c81",
+    "name": "Radio Baha'i WLGI 90.9 FM",
+    "url": "http://streaming.wlgi.org:4050/live",
+    "homepage": "https://wlgi.org",
+    "favicon": "https://i2.wp.com/wlgi.org/wp-content/uploads/2015/04/cropped-Logo-Text-e1460655721868.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "baha'i",
+    "state": "South Carolina",
+    "bitrate": 128
+}

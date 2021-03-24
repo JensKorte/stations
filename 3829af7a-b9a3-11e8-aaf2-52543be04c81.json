@@ -1,0 +1,14 @@
+{
+    "uuid": "3829af7a-b9a3-11e8-aaf2-52543be04c81",
+    "name": "Радиостация Маяк Москва 128kbs",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps",
+    "homepage": "https://radiomayak.ru",
+    "favicon": "http://radiomayak.ru/i/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "music,talk,news",
+    "state": "Moscow",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "db76d056-149d-4247-ae5d-8491f8b9bcd7",
+    "name": "Всесвітня служба радіомовлення України. (48кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/rui-aacplus-l",
+    "homepage": "http://ukr.radio/RUI_about",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Kyiv",
+    "bitrate": 48
+}

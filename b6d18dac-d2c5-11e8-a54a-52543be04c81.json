@@ -1,0 +1,14 @@
+{
+    "uuid": "b6d18dac-d2c5-11e8-a54a-52543be04c81",
+    "name": "RPR1. Schlagerklassiker",
+    "url": "http://streams.rpr1.de/rpr-schlagerklassiker-128-mp3?usid=0-0-H-M-D-50",
+    "homepage": "http://www.rpr1.de",
+    "favicon": "https://cdn.rpr1.de/sites/default/files/thumbnails/image/schlagerklassiker_agg_300x300.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "Rhineland-Palatinate",
+    "bitrate": 128
+}

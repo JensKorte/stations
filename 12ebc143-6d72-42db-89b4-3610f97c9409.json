@@ -1,0 +1,14 @@
+{
+    "uuid": "12ebc143-6d72-42db-89b4-3610f97c9409",
+    "name": "Radio Marija Bistrica",
+    "url": "http://178.218.163.171:8024/stream",
+    "homepage": "https://www.rmb.hr/",
+    "favicon": "http://www.rmb.hr/wp-content/themes/metro-pro/images/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "local news,folk music,pop",
+    "state": "",
+    "bitrate": 64
+}

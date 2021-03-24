@@ -1,0 +1,14 @@
+{
+    "uuid": "be8a7c5b-3b9f-43e1-b994-b6e20e02663c",
+    "name": "Всесвітня служба радіомовлення України. (16 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/rui-aacp-ulow",
+    "homepage": "http://ukr.radio/RUI_about",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Kyiv",
+    "bitrate": 16
+}

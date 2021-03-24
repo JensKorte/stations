@@ -1,0 +1,14 @@
+{
+    "uuid": "963f33bd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Rv1 Parco Dora",
+    "url": "http://radioserver-professional.it:8000/radio-001",
+    "homepage": "http://www.parcocommercialedora.it/radio/radio-parco-dora/",
+    "favicon": "http://www.parcocommercialedora.it/wp-content/uploads/2015/01/RADIO_PARCO_DORA-1.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "torino,instore radio",
+    "state": "Piemonte",
+    "bitrate": 128
+}

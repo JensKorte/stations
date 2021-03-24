@@ -1,0 +1,14 @@
+{
+    "uuid": "16f4a92a-3be7-4a1c-96fa-d0be6b6177eb",
+    "name": "Colorado Public Radio Classical",
+    "url": "https://stream1.cprnetwork.org/cpr2_lo",
+    "homepage": "https://www.cpr.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/cpr-classical.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical",
+    "state": "Lakewood CO",
+    "bitrate": 64
+}

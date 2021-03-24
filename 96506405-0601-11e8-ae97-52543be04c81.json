@@ -1,0 +1,14 @@
+{
+    "uuid": "96506405-0601-11e8-ae97-52543be04c81",
+    "name": "Cáritas AM 680",
+    "url": "http://200.1.201.244:8000/680AM",
+    "homepage": "http://www.caritas.com.py/",
+    "favicon": "http://www.caritas.com.py/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "language": "spanish",
+    "tags": "catholic,universidad,university radio",
+    "state": "Asuncion",
+    "bitrate": 128
+}

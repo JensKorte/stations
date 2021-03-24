@@ -1,0 +1,14 @@
+{
+    "uuid": "f3e5d480-e4e7-40fa-92d3-829e6438d572",
+    "name": "KDLM Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDLMAMAAC.aac",
+    "homepage": "https://kdlmradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KDLMGraphic.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Detroit Lakes MI",
+    "bitrate": 32
+}

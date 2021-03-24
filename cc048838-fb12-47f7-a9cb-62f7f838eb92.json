@@ -1,0 +1,14 @@
+{
+    "uuid": "cc048838-fb12-47f7-a9cb-62f7f838eb92",
+    "name": "Radio  Beat Milano",
+    "url": "http://admin.pesstream.eu:8005/stream",
+    "homepage": "https://www.milanobeatradio.it/",
+    "favicon": "https://www.milanobeatradio.it/images/immagini/Home/Logo-MILANO-BEAT-RADIO-MBR.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "soul,electronic",
+    "state": "Milano",
+    "bitrate": 96
+}

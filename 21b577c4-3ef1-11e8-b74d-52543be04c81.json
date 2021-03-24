@@ -1,0 +1,14 @@
+{
+    "uuid": "21b577c4-3ef1-11e8-b74d-52543be04c81",
+    "name": "TopShelf Oldies",
+    "url": "http://listen.topshelfoldies.org:8002/stream",
+    "homepage": "http://topshelfoldies.org",
+    "favicon": "http://topshelfoldies.org/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pop,garage,british invasion,soul,rockabilly,doo wop,60s,50s,oldies",
+    "state": "California",
+    "bitrate": 192
+}

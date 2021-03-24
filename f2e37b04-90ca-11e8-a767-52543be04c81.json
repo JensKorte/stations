@@ -1,0 +1,14 @@
+{
+    "uuid": "f2e37b04-90ca-11e8-a767-52543be04c81",
+    "name": "897fm Hits Radio",
+    "url": "http://88.198.10.229:8007/stream",
+    "homepage": "http://www.897fm.net/",
+    "favicon": "https://www.iplayradio.net/radio/stations/897hits.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "english",
+    "tags": "top charts,classic hits,hits",
+    "state": "Czech Republic",
+    "bitrate": 192
+}

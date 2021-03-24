@@ -1,0 +1,14 @@
+{
+    "uuid": "0ed5a697-31d6-401b-bfa5-bb9d13156e24",
+    "name": "Morena FM 98",
+    "url": "https://ssl1.transmissaodigital.com:2692/stream",
+    "homepage": "https://www.morenafm.com",
+    "favicon": "https://www.morenafm.com/favicon.ico",
+    "creation": "2021-03-04 23:53:33",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "pop,blues,classic rock,rock,brazilian music",
+    "state": "Bahia",
+    "bitrate": 128
+}

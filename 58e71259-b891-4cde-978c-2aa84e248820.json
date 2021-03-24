@@ -1,0 +1,14 @@
+{
+    "uuid": "58e71259-b891-4cde-978c-2aa84e248820",
+    "name": "Zemplén FM",
+    "url": "https://stream.42netmedia.com:8443/zemplenfm",
+    "homepage": "https://zemplen.fm/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop music",
+    "state": "",
+    "bitrate": 160
+}

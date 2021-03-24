@@ -1,0 +1,14 @@
+{
+    "uuid": "96107506-0601-11e8-ae97-52543be04c81",
+    "name": "NRK Sápmi Radio",
+    "url": "http://lyd.nrk.no/nrk_radio_sami_mp3_h.m3u",
+    "homepage": "https://radio.nrk.no/direkte/sapmi",
+    "favicon": "http://static.radio.net/images/broadcasts/03/7c/13104/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "sami",
+    "tags": "underholdning",
+    "state": "Karasjohka",
+    "bitrate": 0
+}

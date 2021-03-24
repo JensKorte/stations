@@ -1,0 +1,14 @@
+{
+    "uuid": "daea35b7-ba89-11e8-aaf2-52543be04c81",
+    "name": "Rai Radio 1 Sport",
+    "url": "http://icestreaming.rai.it/13.mp3",
+    "homepage": "https://www.raiplayradio.it/radio1sport/",
+    "favicon": "https://www.raiplayradio.it//dl/components/img/raiplayradio-logo-app.png?20171218124118",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rai,public radio,pop,sport",
+    "state": "Lazio",
+    "bitrate": 0
+}

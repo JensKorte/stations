@@ -1,0 +1,14 @@
+{
+    "uuid": "daf91b4a-2ff0-11e9-8f31-52543be04c81",
+    "name": "Radio Herceg-Bosne",
+    "url": "http://178.209.2.100:7060/;*.mp3",
+    "homepage": "http://www.rtv-hb.com",
+    "favicon": "http://www.rtv-hb.com//theme/rhb/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bosnia And Herzegovina",
+    "country_code": "BA",
+    "language": "english",
+    "tags": "croatian",
+    "state": "",
+    "bitrate": 128
+}

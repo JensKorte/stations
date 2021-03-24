@@ -1,0 +1,14 @@
+{
+    "uuid": "961d3a16-0601-11e8-ae97-52543be04c81",
+    "name": "WDBX 91.1 Carbondale, IL",
+    "url": "http://stream.wdbx.org:8000/wdbx_64",
+    "homepage": "http://wdbx.org/",
+    "favicon": "http://wdbx.org/wp-content/uploads/2015/09/WDBX-Logo-Red-e1445798923905.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "carbondale,community radio",
+    "state": "Illinois",
+    "bitrate": 64
+}

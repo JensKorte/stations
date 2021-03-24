@@ -1,0 +1,14 @@
+{
+    "uuid": "97767caf-6918-11e9-af37-52543be04c81",
+    "name": "RPR1 Pfalz",
+    "url": "https://streams.rpr1.de/rpr-kaiserslautern-128-mp3",
+    "homepage": "https://www.rpr1.de/webradio/rpr1-pfalz",
+    "favicon": "https://cdn.rpr1.de/sites/default/files/styles/playlist_thumbnail_big/public/thumbnails/image/RPR1.Pfalz_.jpg?itok=WVkftnLk",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "music,deutschland,germany,rheinland-pfälz",
+    "state": "",
+    "bitrate": 128
+}

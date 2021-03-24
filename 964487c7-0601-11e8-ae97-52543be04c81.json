@@ -1,0 +1,14 @@
+{
+    "uuid": "964487c7-0601-11e8-ae97-52543be04c81",
+    "name": "1A Party Hits",
+    "url": "http://stream.1a-webradio.de/saw-party/aac-48/radiosure-1a/stream.mp3",
+    "homepage": "https://www.1a-webradio.de/party",
+    "favicon": "https://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-party.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "party,hits",
+    "state": "",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9649a0b1-0601-11e8-ae97-52543be04c81",
+    "name": "BG Radio 48 kbps ogg",
+    "url": "http://stream.metacast.eu/bgradio_low.ogg.m3u",
+    "homepage": "http://bgradio.bg/",
+    "favicon": "http://bgradio.bg//themes/bgradio/images/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "cultural,pop",
+    "state": "Sofia",
+    "bitrate": 0
+}

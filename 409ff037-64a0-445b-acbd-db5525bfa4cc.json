@@ -1,0 +1,14 @@
+{
+    "uuid": "409ff037-64a0-445b-acbd-db5525bfa4cc",
+    "name": "UA:Казки",
+    "url": "https://radio.nrcu.gov.ua:8443/kazka-mp3",
+    "homepage": "https://kazky.suspilne.media",
+    "favicon": "https://kazky.suspilne.media/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukraine",
+    "tags": "казки,märchen,fairytales",
+    "state": "",
+    "bitrate": 128
+}

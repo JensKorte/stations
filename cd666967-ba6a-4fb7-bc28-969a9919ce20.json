@@ -1,0 +1,14 @@
+{
+    "uuid": "cd666967-ba6a-4fb7-bc28-969a9919ce20",
+    "name": "Radio Ritam",
+    "url": "http://85.25.135.86:8040/stream",
+    "homepage": "https://www.radioritam.hr/",
+    "favicon": "https://www.radioritam.hr/assets/images/radioritam-favicon-128x128.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "rock,pop,local news",
+    "state": "",
+    "bitrate": 96
+}

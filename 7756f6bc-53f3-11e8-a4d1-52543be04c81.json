@@ -1,0 +1,14 @@
+{
+    "uuid": "7756f6bc-53f3-11e8-a4d1-52543be04c81",
+    "name": "Radio Pasja - Relaks 128kb/s",
+    "url": "http://91.232.4.33:8102/stream2",
+    "homepage": "radiopasja.pl",
+    "favicon": "http://www.radiopasja.pl/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "relax",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96320ac4-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM UK",
+    "url": "http://rouge-uk.ice.infomaniak.ch/rouge-uk-128.mp3",
+    "homepage": "http://www.rougefm.com/webradios-uk/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/uk.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "pop,hits",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

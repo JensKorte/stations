@@ -1,0 +1,14 @@
+{
+    "uuid": "ea27ccc6-affb-4264-a54f-e7b791f31088",
+    "name": "Slavonski Radio",
+    "url": "https://ec2s.crolive.com.hr:8035/stream",
+    "homepage": "https://www.slavonskiradio.hr/",
+    "favicon": "https://www.slavonskiradio.hr/wp-content/uploads/2019/02/krug-logo-slavonski-transparent.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian,hrvatski",
+    "tags": "slavonija,hits,rock,pop,various",
+    "state": "",
+    "bitrate": 320
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "12142a9b-1f23-11e8-a334-52543be04c81",
+    "name": "PiRadio",
+    "url": "http://ice.rosebud-media.de:8000/88vier-low",
+    "homepage": "https://piradio.de/",
+    "favicon": "https://piradio.de/wp-content/uploads/2017/09/cropped-piradio.de_favicon-1-300x300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "berlin,non-commercial,free radio,community radio",
+    "state": "Berlin",
+    "bitrate": 128
+}

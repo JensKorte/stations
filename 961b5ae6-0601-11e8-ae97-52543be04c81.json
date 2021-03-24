@@ -1,0 +1,14 @@
+{
+    "uuid": "961b5ae6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio RAM",
+    "url": "http://stream4.nadaje.com:9220/ram.m3u",
+    "homepage": "http://www.radioram.pl/",
+    "favicon": "http://www.radioram.pl/img/layout/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Wroclaw",
+    "bitrate": 0
+}

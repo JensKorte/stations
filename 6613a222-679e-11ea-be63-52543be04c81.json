@@ -1,0 +1,14 @@
+{
+    "uuid": "6613a222-679e-11ea-be63-52543be04c81",
+    "name": "Radio 99 FM",
+    "url": "http://hts02.kshost.com.br:8862/live",
+    "homepage": "http://www.radio99.com.br/",
+    "favicon": "http://www.radio99.com.br/img/logo99.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "",
+    "state": "Pará",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "caf07af0-5901-11e9-a622-52543be04c81",
+    "name": "Radio Horeb (48 kbps)",
+    "url": "http://rs16.stream24.org:8100/horeb.aac",
+    "homepage": "https://www.horeb.org/",
+    "favicon": "https://www.horeb.org///favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "religion,christian,catholic",
+    "state": "",
+    "bitrate": 0
+}

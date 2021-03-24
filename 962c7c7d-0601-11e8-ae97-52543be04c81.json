@@ -1,0 +1,14 @@
+{
+    "uuid": "962c7c7d-0601-11e8-ae97-52543be04c81",
+    "name": "KVSC 88.1 St. Cloud, MN (128 kbps)",
+    "url": "http://corn.kvsc.org:8000/broadband",
+    "homepage": "http://www.kvsc.org/",
+    "favicon": "http://kvsc.org/images/kvsc_fm.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "st. cloud,freeform,community radio",
+    "state": "Minnesota",
+    "bitrate": 128
+}

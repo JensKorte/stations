@@ -1,0 +1,14 @@
+{
+    "uuid": "962d4b6b-0601-11e8-ae97-52543be04c81",
+    "name": "WeertFM",
+    "url": "http://weertfm.mooo.com:9000/wfm3",
+    "homepage": "http://weertfm.nl/",
+    "favicon": "http://weertfm.nl//resources/theme/streekomroepweertoud/favicon/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "nederweert,local news,weert",
+    "state": "Limburg",
+    "bitrate": 128
+}

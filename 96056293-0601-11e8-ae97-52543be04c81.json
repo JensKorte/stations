@@ -1,0 +1,14 @@
+{
+    "uuid": "96056293-0601-11e8-ae97-52543be04c81",
+    "name": "delta radio",
+    "url": "http://streams.deltaradio.de/delta-live/mp3-128/liveradio/",
+    "homepage": "http://www.deltaradio.de/",
+    "favicon": "http://www.deltaradio.de/frontend/theme-delta/design/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Schleswig-Holstein",
+    "bitrate": 128
+}

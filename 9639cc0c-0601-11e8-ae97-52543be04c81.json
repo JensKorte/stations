@@ -1,0 +1,14 @@
+{
+    "uuid": "9639cc0c-0601-11e8-ae97-52543be04c81",
+    "name": "CHON 98.1 Northern Native Broadcasting - Whitehorse, YT",
+    "url": "http://stream.nnby.ca:8042/stream",
+    "homepage": "http://www.nnby.ca/",
+    "favicon": "http://www.nnby.ca/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "whitehorse,indigenous,community radio",
+    "state": "Yukon Territory",
+    "bitrate": 100
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9634d72d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Mágica 88.3 FM (OCX-4G, Lima, Perú)",
+    "url": "http://playerservices.streamtheworld.com/pls/MAG_AAC.pls",
+    "homepage": "http://radiomagica.pe/",
+    "favicon": "http://radiomagica.pe//assets/images/favicon/apple-touch-icon-114x114.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "classic hits",
+    "state": "Lima",
+    "bitrate": 96
+}

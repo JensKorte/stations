@@ -1,0 +1,14 @@
+{
+    "uuid": "9615f4c0-0601-11e8-ae97-52543be04c81",
+    "name": "Raidió Rí-Rá",
+    "url": "http://185.80.220.12:8166/stream",
+    "homepage": "http://www.rrr.ie/",
+    "favicon": "http://www.rrr.ie/wp-content/themes/replay/framework/admin/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "irish",
+    "tags": "top 40",
+    "state": "",
+    "bitrate": 96
+}

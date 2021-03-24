@@ -1,0 +1,14 @@
+{
+    "uuid": "961f50cf-0601-11e8-ae97-52543be04c81",
+    "name": "KAWC Arizona Community Radio/Music",
+    "url": "http://playerservices.streamtheworld.com/m3u/KAWCAM.m3u",
+    "homepage": "http://kawc.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kawc/files/201504/logo_fid.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "jazz,bbc,pri,npr",
+    "state": "Arizona",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "038f7b48-1ce7-4106-85ca-76ad0612c3d2",
+    "name": "Sorrento Radio",
+    "url": "http://kos.broadstreamer.com:8500/;",
+    "homepage": "https://streema.com/radios/Sorrento_Radio",
+    "favicon": "https://static-media.streema.com/media/cache/74/e1/74e1fada6f1aa84d53aac4b53a579959.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian,italian,italian,italian",
+    "tags": "italia,surriento,napoli,napoles",
+    "state": "Naples",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962cec6b-0601-11e8-ae97-52543be04c81",
+    "name": "Talsi Lounge",
+    "url": "http://radio.kuums.lv:5555/listen.pls",
+    "homepage": "http://radio.kuums.lv/",
+    "favicon": "http://www.kuums.lv/img/kuums-draugiem.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "lounge",
+    "state": "",
+    "bitrate": 256
+}

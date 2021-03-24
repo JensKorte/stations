@@ -1,0 +1,14 @@
+{
+    "uuid": "87335ed7-b625-11e9-acb2-52543be04c81",
+    "name": "Радиоканал \"Мелодия\"",
+    "url": "http://stream128.melodiafm.spb.ru:8000/melodia128",
+    "homepage": "http://melodiafm.spb.ru",
+    "favicon": "http://online-red.com/images/radio-logo/melodia-spb.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "retro,music,ussr",
+    "state": "",
+    "bitrate": 0
+}

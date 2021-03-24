@@ -1,0 +1,14 @@
+{
+    "uuid": "ca3fd861-db3e-4038-8f49-ecc115ed13e9",
+    "name": "013 FM 100.7",
+    "url": "http://r16.ciclano.io:9036/stream",
+    "homepage": "https://www.013fm.com.br/",
+    "favicon": "https://www.013fm.com.br/assets/application/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "caiçara,litoral paulista,surf music,indie,reggae,rock,pop",
+    "state": "São Paulo",
+    "bitrate": 64
+}

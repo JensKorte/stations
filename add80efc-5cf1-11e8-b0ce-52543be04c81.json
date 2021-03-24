@@ -1,0 +1,14 @@
+{
+    "uuid": "add80efc-5cf1-11e8-b0ce-52543be04c81",
+    "name": "Tsiensinan Public TV",
+    "url": "http://live.qxndt.com/channel3/sd/live.m3u8",
+    "homepage": "http://www.qxndt.com/",
+    "favicon": "http://www.haoqu.net/d/file/2018/0321/small34e1b706b1993ad865341981ca498ee51521621239.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,kweichow",
+    "state": "Kweichow",
+    "bitrate": 0
+}

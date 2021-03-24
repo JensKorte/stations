@@ -1,0 +1,14 @@
+{
+    "uuid": "9632ae87-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM Latino",
+    "url": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
+    "homepage": "http://www.rougefm.com/webradios-latino/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/latino.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "latin",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

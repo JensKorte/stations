@@ -1,0 +1,14 @@
+{
+    "uuid": "617be156-2094-11e8-a334-52543be04c81",
+    "name": "IRIB Radio Varzesh",
+    "url": "http://headend1.iranseda.ir/liveHLS/radio-varzesh.m3u8",
+    "homepage": "http://radiovarzesh.ir/",
+    "favicon": "https://lendx.files.wordpress.com/2015/10/radio-varzesh.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Islamic Republic Of Iran",
+    "country_code": "IR",
+    "language": "persian",
+    "tags": "persian,public radio,sport,varzesh,iran,tehran,irib",
+    "state": "Tehran",
+    "bitrate": 120
+}

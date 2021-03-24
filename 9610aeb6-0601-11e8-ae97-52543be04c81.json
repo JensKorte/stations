@@ -1,0 +1,14 @@
+{
+    "uuid": "9610aeb6-0601-11e8-ae97-52543be04c81",
+    "name": "Ballermann Radio Top100",
+    "url": "http://top100.bmr-radio.com:8000",
+    "homepage": "http://www.ballermann-radio.com/",
+    "favicon": "http://www.ballermann-radio.com/wp-content/uploads/favicon1.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,party,schlager",
+    "state": "",
+    "bitrate": 128
+}

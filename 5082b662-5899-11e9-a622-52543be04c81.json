@@ -1,0 +1,14 @@
+{
+    "uuid": "5082b662-5899-11e9-a622-52543be04c81",
+    "name": "FM 107.5",
+    "url": "http://stm40.srvstm.com:13304/stream",
+    "homepage": "http://www.1075fm.com.br/",
+    "favicon": "https://img.radios.com.br/radio/lg/radio56_1515579668.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "gospel",
+    "state": "Santa Catarina",
+    "bitrate": 32
+}

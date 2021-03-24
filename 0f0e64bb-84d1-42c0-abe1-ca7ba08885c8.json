@@ -1,0 +1,14 @@
+{
+    "uuid": "0f0e64bb-84d1-42c0-abe1-ca7ba08885c8",
+    "name": "La Otra TV",
+    "url": "https://laotrahls-live-hls.secure.footprint.net/telemadrid/laotra1/index.m3u8",
+    "homepage": "http://www.telemadrid.es/emision-en-directo-laotra/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/368px-La_Otra_logo_%282017%29.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,español,castellano",
+    "tags": "entretenimiento,noticias,cine,cinema",
+    "state": "Madrid",
+    "bitrate": 496
+}

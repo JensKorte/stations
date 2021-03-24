@@ -1,0 +1,14 @@
+{
+    "uuid": "865f5ca6-64c8-4b46-9c38-cb666016a108",
+    "name": "EWTN Katholisches TV",
+    "url": "https://cdn3.wowza.com/1/REZwSm9UWEFxcmt3/REROU1NK/hls/wstqs3gh/2728/chunklist.m3u8",
+    "homepage": "http://www.ewtn.de/",
+    "favicon": "http://www.ewtn.de/themes/eternalword/images/ewtn_tv_head.png",
+    "creation": "2021-02-09 07:16:51",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "deutsch,german,catholic,tv",
+    "state": "",
+    "bitrate": 0
+}

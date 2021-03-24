@@ -1,0 +1,14 @@
+{
+    "uuid": "964d5408-0601-11e8-ae97-52543be04c81",
+    "name": "Old Time Radio Fan",
+    "url": "http://www.otrfan.com:8000/stream",
+    "homepage": "http://www.otrfan.com/info/stream_info.php",
+    "favicon": "http://www.otrfan.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "old time radio",
+    "state": "",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fc15bd27-e40c-4fb3-961f-2a7dc94d1703",
+    "name": "KOAC 550 AM",
+    "url": "https://stream5.opb.org/radio_player.mp3",
+    "homepage": "http://www.opb.org/",
+    "favicon": "https://www.opb.org/s/chrome/logo-large.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk,news",
+    "state": "Oregon",
+    "bitrate": 128
+}

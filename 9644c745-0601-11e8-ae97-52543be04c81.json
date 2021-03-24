@@ -1,0 +1,14 @@
+{
+    "uuid": "9644c745-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sintony",
+    "url": "http://51.254.76.66:8000/;audio.mp3",
+    "homepage": "http://www.sintony.it/",
+    "favicon": "http://sintony.it/images/logo_sintony2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cagliari,top 40,pop,electronica",
+    "state": "Sardegna",
+    "bitrate": 128
+}

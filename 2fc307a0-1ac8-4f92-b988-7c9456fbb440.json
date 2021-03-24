@@ -1,0 +1,14 @@
+{
+    "uuid": "2fc307a0-1ac8-4f92-b988-7c9456fbb440",
+    "name": "Radio 1",
+    "url": "http://live.radio.si/Radio1",
+    "homepage": "https://www.radio1.si/",
+    "favicon": "https://www.radio1.si/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "news,entertainment,music",
+    "state": "",
+    "bitrate": 0
+}

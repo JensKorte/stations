@@ -1,0 +1,14 @@
+{
+    "uuid": "98a4e5bd-3e29-4a8e-8780-2222a827e30a",
+    "name": "SRF 3",
+    "url": "http://stream.srg-ssr.ch/drs3/aacp_96.m3u",
+    "homepage": "https://www.srf.ch/radio-srf-3",
+    "favicon": "https://www.srf.ch/var/storage/assets/webpack/images/radio-srf-3-square.859ad782.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "swiss german",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

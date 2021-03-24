@@ -1,0 +1,14 @@
+{
+    "uuid": "9636b947-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Vysočina",
+    "url": "http://icecast2.play.cz/crovysocina128.mp3",
+    "homepage": "http://www.rozhlas.cz/vysocina/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/croregionvysocina.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,čro region,public radio,oldies,local news",
+    "state": "",
+    "bitrate": 0
+}

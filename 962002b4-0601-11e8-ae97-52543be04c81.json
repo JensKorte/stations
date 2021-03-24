@@ -1,0 +1,14 @@
+{
+    "uuid": "962002b4-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 4",
+    "url": "http://icecast.omroep.nl/radio4-bb-mp3",
+    "homepage": "http://www.radio4.nl/",
+    "favicon": "http://www.radio4.nl//assets/images/favicon_32.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "73c92180-c0ed-11e9-8502-52543be04c81",
+    "name": "Радио России Уфа",
+    "url": "http://109.233.169.131:8000/radio_rrb",
+    "homepage": "http://radiorus.ru",
+    "favicon": "https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "music,talk,news",
+    "state": "",
+    "bitrate": 0
+}

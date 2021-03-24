@@ -1,0 +1,14 @@
+{
+    "uuid": "960c7b27-0601-11e8-ae97-52543be04c81",
+    "name": "ZooRadio 90.8",
+    "url": "http://s10.voscast.com:9940",
+    "homepage": "http://www.zooradio.gr/",
+    "favicon": "http://cdn.e-radio.gr/logos/gr/big/zoo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "pop,dance",
+    "state": "",
+    "bitrate": 128
+}

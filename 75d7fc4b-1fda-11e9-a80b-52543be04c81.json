@@ -1,0 +1,14 @@
+{
+    "uuid": "75d7fc4b-1fda-11e9-a80b-52543be04c81",
+    "name": "Bayon News TV",
+    "url": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8",
+    "homepage": "http://bayontv.com.kh/",
+    "favicon": "http://nettv.live/uploads/19/1-1Z1241RU13Y.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "language": "khmer",
+    "tags": "",
+    "state": "Phnom Penh",
+    "bitrate": 1203
+}

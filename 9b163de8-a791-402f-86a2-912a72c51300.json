@@ -1,0 +1,14 @@
+{
+    "uuid": "9b163de8-a791-402f-86a2-912a72c51300",
+    "name": "Vayo FM",
+    "url": "http://50.21.176.38:8010/vayofm",
+    "homepage": "http://vayofm.com",
+    "favicon": "https://i.postimg.cc/Gm51fVVh/42810-v3.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "language": "khmer",
+    "tags": "news,talk,politics",
+    "state": "Phnom Penh",
+    "bitrate": 64
+}

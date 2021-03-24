@@ -1,0 +1,14 @@
+{
+    "uuid": "96197f3a-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Elvas",
+    "url": "http://radios.dotsi.pt:8025/stream",
+    "homepage": "http://www.radioelvas.com/",
+    "favicon": "http://radioelvas.com/wp-content/uploads/2016/04/radioelvas_logo_small-1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "hits,news,culture",
+    "state": "Portalegre",
+    "bitrate": 128
+}

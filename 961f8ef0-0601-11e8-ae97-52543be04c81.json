@@ -1,0 +1,14 @@
+{
+    "uuid": "961f8ef0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Alpenfunk",
+    "url": "http://81.169.174.242:7000/;",
+    "homepage": "http://www.radio-alpenfunk.de",
+    "favicon": "http://www.radio-alpenfunk.de/cms/wp-content/uploads/2015/07/favicon-96x96.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "instrumental,country,oldies,schlager",
+    "state": "",
+    "bitrate": 128
+}

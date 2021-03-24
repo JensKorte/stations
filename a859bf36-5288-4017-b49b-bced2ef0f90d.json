@@ -1,0 +1,14 @@
+{
+    "uuid": "a859bf36-5288-4017-b49b-bced2ef0f90d",
+    "name": "VRT Radio 2 Vlaams-Brabant",
+    "url": "http://icecast.vrtcdn.be/ra2vlb.aac",
+    "homepage": "https://radio2.be/",
+    "favicon": "https://radio2.be/themes/vrt/radio2/radio2/dist/images/radio2-logo.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "",
+    "state": "Flanders",
+    "bitrate": 0
+}

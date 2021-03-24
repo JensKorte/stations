@@ -1,0 +1,14 @@
+{
+    "uuid": "81cb1090-6eca-11ea-b1cf-52543be04c81",
+    "name": "Goldies Radio",
+    "url": "http://www.goldiesradio.be/live/playlist.pls",
+    "homepage": "https://www.goldiesradio.be/",
+    "favicon": "https://www.goldiesradio.be///templates/urbanlife/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "nederlands",
+    "tags": "oldies",
+    "state": "Sint Niklaas",
+    "bitrate": 128
+}

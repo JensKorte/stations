@@ -1,0 +1,14 @@
+{
+    "uuid": "fef6298e-7d1f-473f-9146-25d34936f2ff",
+    "name": "Radio Universidad",
+    "url": "http://163.10.186.70:8002/stream",
+    "homepage": "https://www.radiouniversidad.unlp.edu.ar/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español,spanish",
+    "tags": "la plata,unlp,radio universidad",
+    "state": "Buenos Aires",
+    "bitrate": 64
+}

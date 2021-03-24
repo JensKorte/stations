@@ -1,0 +1,14 @@
+{
+    "uuid": "83cafc67-c6ac-47f3-b580-e51b568ebd6d",
+    "name": "Sports Radio 740",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac",
+    "homepage": "https://www.sportsradio740.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WMSP-AM.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "sports",
+    "state": "Montgomery AL",
+    "bitrate": 48
+}

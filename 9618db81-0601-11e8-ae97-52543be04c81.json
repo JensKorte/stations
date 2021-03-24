@@ -1,0 +1,14 @@
+{
+    "uuid": "9618db81-0601-11e8-ae97-52543be04c81",
+    "name": "TDI Radio",
+    "url": "http://streaming.tdiradio.com:8000/tdiradio",
+    "homepage": "http://www.tdiradio.com/",
+    "favicon": "http://www.tdiradio.com/site//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "top 40,pop,club",
+    "state": "Belgrade",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e29587c0-b1c6-4f50-8209-6c8a098ebcdf",
+    "name": "Rádio Bla Rock",
+    "url": "https://s12.maxcast.com.br:8086/live",
+    "homepage": "https://www.radiobla.com.br/",
+    "favicon": "https://radiobla.com.br/imagens/8109a39735262c2c4e69717a0a361eee.png",
+    "creation": "2021-03-20 17:57:42",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português do brasil",
+    "tags": "classic rock",
+    "state": "São Paulo",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a8a21a0d-cbc5-11e9-8502-52543be04c81",
+    "name": "RadioParadise",
+    "url": "http://stream.radioparadise.com/aac-128",
+    "homepage": "https://radioparadise.com/",
+    "favicon": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "eclectic,music",
+    "state": "California",
+    "bitrate": 128
+}

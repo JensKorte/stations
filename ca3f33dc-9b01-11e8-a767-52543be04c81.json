@@ -1,0 +1,14 @@
+{
+    "uuid": "ca3f33dc-9b01-11e8-a767-52543be04c81",
+    "name": "LU2 Bahia Blanca - AM 840 khz",
+    "url": "https://icecast2.hostingbahia.com.ar:8040/live",
+    "homepage": "http://www.lu2.com.ar/",
+    "favicon": "https://static-media.streema.com/media/cache/35/10/3510073ac1b15e0d8610d5278d57acc2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "noticias opinion,musica,world music,news,noticias",
+    "state": "Buenos Aires",
+    "bitrate": 0
+}

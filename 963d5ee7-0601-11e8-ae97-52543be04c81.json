@@ -1,0 +1,14 @@
+{
+    "uuid": "963d5ee7-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Olot",
+    "url": "http://chrome.frilab.com:8000/radiolot",
+    "homepage": "http://www.radiolot.cat/",
+    "favicon": "http://www.radiolot.cat/assets/favicon/favicon-96x96.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "olot",
+    "state": "Girona",
+    "bitrate": 192
+}

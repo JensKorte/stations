@@ -1,0 +1,14 @@
+{
+    "uuid": "e7e7ecc2-ed43-43e4-8c83-9e049a3a3b16",
+    "name": "Powerradio",
+    "url": "https://icecast.movemedia.be/powerradio",
+    "homepage": "https://www.powerradio.be",
+    "favicon": "https://www.powerradio.be/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "classic rock",
+    "state": "",
+    "bitrate": 128
+}

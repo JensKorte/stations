@@ -1,0 +1,14 @@
+{
+    "uuid": "964c0363-0601-11e8-ae97-52543be04c81",
+    "name": "Radyo Voyage",
+    "url": "http://voyagefms.radyotvonline.com:80/dyg/voyage64/playlist.m3u8",
+    "homepage": "http://www.radyovoyage.com/",
+    "favicon": "http://radyovoyage.com/vyg/assets/images/voyage_logo3.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "m3u8,ambient,new age,relax,world music",
+    "state": "Istanbul",
+    "bitrate": 64
+}

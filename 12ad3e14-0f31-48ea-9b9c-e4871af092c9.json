@@ -1,0 +1,14 @@
+{
+    "uuid": "12ad3e14-0f31-48ea-9b9c-e4871af092c9",
+    "name": "HavenFM OGG",
+    "url": "http://fr-havenfm.karamush.ru:8000/stream.ogg",
+    "homepage": "https://vk.com/havenfm",
+    "favicon": "http://havenfm.ru/static/favicon/android-chrome-192x192.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "english,russian",
+    "tags": "stream,rock,podcast,music,talk \u0026 speech",
+    "state": "Kaluga region",
+    "bitrate": 0
+}

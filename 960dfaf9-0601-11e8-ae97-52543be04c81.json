@@ -1,0 +1,14 @@
+{
+    "uuid": "960dfaf9-0601-11e8-ae97-52543be04c81",
+    "name": "BRF2",
+    "url": "http://streaming.brf.be:80/brf2-high.mp3",
+    "homepage": "http://2.brf.be/",
+    "favicon": "http://2.brf.be/wp-content/themes/brf-zwei/assets/img/favicons/Icon-60@3x.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "Eupen/Eifel",
+    "bitrate": 128
+}

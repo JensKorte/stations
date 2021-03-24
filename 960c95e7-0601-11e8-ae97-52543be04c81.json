@@ -1,0 +1,14 @@
+{
+    "uuid": "960c95e7-0601-11e8-ae97-52543be04c81",
+    "name": "Sveriges Radio - P4 Värmland",
+    "url": "http://sverigesradio.se/topsy/direkt/204-hi-aac.pls",
+    "homepage": "https://sverigesradio.se/",
+    "favicon": "http://sverigesradio.se/sida/content/img/icons/apple-touch-icon-p4.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "local radio,sveriges radio,public radio",
+    "state": "Vaermland",
+    "bitrate": 0
+}

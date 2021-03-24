@@ -1,0 +1,14 @@
+{
+    "uuid": "96057d58-0601-11e8-ae97-52543be04c81",
+    "name": "Hochschulradio Aachen",
+    "url": "http://evans.hochschulradio.rwth-aachen.de:8000/hoeren/high.m3u",
+    "homepage": "http://www.hochschulradio-aachen.de/",
+    "favicon": "http://www.hochschulradio-aachen.de/files/hora_favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "college radio",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

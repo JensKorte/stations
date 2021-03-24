@@ -1,0 +1,14 @@
+{
+    "uuid": "962a7b3e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Russkij Berlin",
+    "url": "http://rb-stream.de:8000/rrb_128.mp3.m3u",
+    "homepage": "http://www.radio-rb.de/",
+    "favicon": "http://www.radio-rb.de/img/site/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "russian",
+    "tags": "adult contemporary",
+    "state": "Berlin",
+    "bitrate": 128
+}

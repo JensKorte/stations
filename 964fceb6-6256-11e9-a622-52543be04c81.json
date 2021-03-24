@@ -1,0 +1,14 @@
+{
+    "uuid": "964fceb6-6256-11e9-a622-52543be04c81",
+    "name": "Radio Marejada 100.9 FM",
+    "url": "http://streaming.hdserver.biz:9330/listen.pls",
+    "homepage": "http://www.radiomarejada.com",
+    "favicon": "http://radiomarejada.com/logo1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,music,musica",
+    "state": "Manabí",
+    "bitrate": 64
+}

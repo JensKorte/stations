@@ -1,0 +1,14 @@
+{
+    "uuid": "9635714d-0601-11e8-ae97-52543be04c81",
+    "name": "RMNradio",
+    "url": "http://www.rmnradio.de/player/aacplus/rmnradio.m3u",
+    "homepage": "http://www.rmnradio.fm/",
+    "favicon": "http://www.rmnradio.fm/images/design/rmnradio_logo_mfam2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

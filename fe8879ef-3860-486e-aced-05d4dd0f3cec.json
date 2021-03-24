@@ -1,0 +1,14 @@
+{
+    "uuid": "fe8879ef-3860-486e-aced-05d4dd0f3cec",
+    "name": "Scratch Radio",
+    "url": "http://www.scratchradio.ca:8000/;",
+    "homepage": "http://www.scratchradio.ca",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s2575q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "dub,reggae",
+    "state": "",
+    "bitrate": 128
+}

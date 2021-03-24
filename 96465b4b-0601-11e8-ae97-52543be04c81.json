@@ -1,0 +1,14 @@
+{
+    "uuid": "96465b4b-0601-11e8-ae97-52543be04c81",
+    "name": "Ilmwelle 90s",
+    "url": "http://stream.ilmwelle.de/radio-ilmwelle-192.mp3",
+    "homepage": "http://data.ilmwelle.de/start.php?name=ilmwelle\u0026file=player\u0026stream=90s",
+    "favicon": "http://data.ilmwelle.de/modules/ilmwelle/images/ilmwelle-90s-320x90.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "90s",
+    "state": "Bavaria",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1f75b118-0232-4a08-80ad-3327d931d44a",
+    "name": "U2 ZOO Station Radio",
+    "url": "http://stream.u2radio.com:9998",
+    "homepage": "https://www.u2radio.com/",
+    "favicon": "https://eu-u2radio.s3.amazonaws.com/wp-content/uploads/2019/11/09202422/wAn7gsKr_400x400.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "u2",
+    "state": "Georgia",
+    "bitrate": 128
+}

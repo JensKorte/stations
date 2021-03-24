@@ -1,0 +1,14 @@
+{
+    "uuid": "96166a80-0601-11e8-ae97-52543be04c81",
+    "name": "BR Puls (56 kbit/s)",
+    "url": "http://streams.br.de/puls_1.m3u",
+    "homepage": "http://www.br.de/puls/",
+    "favicon": "https://www.phonostar.de/images/auto_created/Puls3184x184.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "youth,pop,rock,bayerischer rundfunk,ard,public radio",
+    "state": "Bavaria",
+    "bitrate": 0
+}

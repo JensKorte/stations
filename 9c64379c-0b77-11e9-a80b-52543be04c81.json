@@ -1,0 +1,14 @@
+{
+    "uuid": "9c64379c-0b77-11e9-a80b-52543be04c81",
+    "name": "Mediacorp 987 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac",
+    "homepage": "http://www.meradio.sg/radio/987",
+    "favicon": "http://www.meradio.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Singapore",
+    "country_code": "SG",
+    "language": "english",
+    "tags": "",
+    "state": "Singapore",
+    "bitrate": 48
+}

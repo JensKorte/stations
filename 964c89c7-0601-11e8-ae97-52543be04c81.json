@@ -1,0 +1,14 @@
+{
+    "uuid": "964c89c7-0601-11e8-ae97-52543be04c81",
+    "name": "Radyo Merhaba Hamburg 96.0",
+    "url": "http://streaming.tidenet.de:8000/tide-40.mp3.m3u",
+    "homepage": "http://www.merhabahamburg.de/",
+    "favicon": "http://www.merhabahamburg.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "turkish",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

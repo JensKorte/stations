@@ -1,0 +1,14 @@
+{
+    "uuid": "d19ffbcd-0e72-4d25-a2e4-b4de50883e1d",
+    "name": "Radio Vinkovci",
+    "url": "https://onlineradiobox.com/json/hr/vinkovci/play?platform=web",
+    "homepage": "https://www.facebook.com/novosti.vinkovci/",
+    "favicon": "https://cdn.onlineradiobox.com/img/logo/1/24081.v7.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960ef299-0601-11e8-ae97-52543be04c81",
+    "name": "RTBF Classic 21 - Metal",
+    "url": "https://radios.rtbf.be/wr-c21-metal-128.mp3",
+    "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-metal",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/29_300x170_2016-01-12-09-30-05-943.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf,metal",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962d0f03-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Laser",
+    "url": "http://sr1.inmystream.it:9002/;stream.mp3",
+    "homepage": "http://www.radiolaser.it/",
+    "favicon": "https://i1.wp.com/www.radiolaser.it/sito/wp-content/uploads/2016/10/cropped-OnAir.jpg?fit=192%2C192",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pisticci,top 40,pop",
+    "state": "Basilicata",
+    "bitrate": 128
+}

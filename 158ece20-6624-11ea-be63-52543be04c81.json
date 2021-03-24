@@ -1,0 +1,14 @@
+{
+    "uuid": "158ece20-6624-11ea-be63-52543be04c81",
+    "name": "Radio UNiCC",
+    "url": "http://stream.radio-unicc.de:8000/unicc_mq.aacp",
+    "homepage": "http://www.radio-unicc.de",
+    "favicon": "http://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "alt,indie,roc,pop,mixed,college radio",
+    "state": "Saxony",
+    "bitrate": 48
+}

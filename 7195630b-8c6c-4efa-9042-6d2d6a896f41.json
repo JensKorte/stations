@@ -1,0 +1,14 @@
+{
+    "uuid": "7195630b-8c6c-4efa-9042-6d2d6a896f41",
+    "name": "Radio Estación Sur",
+    "url": "http://144.91.98.151:8066//stream",
+    "homepage": "https://radioestacionsur.org/",
+    "favicon": "https://radioestacionsur.org/beta/wp-content/uploads/2020/08/Logo-15-a%C3%B1os-RES.png",
+    "creation": "2021-03-19 23:27:54",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish,español",
+    "tags": "radio comunitaria,res comunitaria",
+    "state": "",
+    "bitrate": 112
+}

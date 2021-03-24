@@ -1,0 +1,14 @@
+{
+    "uuid": "51eb05e0-2fc2-11e9-8f31-52543be04c81",
+    "name": "pure-fm Frankfurt Oder",
+    "url": "http://radionetz.de:8000/purefm-ff.mp3",
+    "homepage": "http://www.pure-fm.de/player/frankfurt-oder/index.html",
+    "favicon": "http://www.pure-fm.de/wp-content/uploads/favicon-60x60.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "electronic,pure-fm frankfurt oder,pure-fm ff,pure-fm",
+    "state": "Brandenburg",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5e8e9773-8836-42d5-8786-4b801947f26b",
+    "name": "CNR-15 中国交通广播（宁夏版）",
+    "url": "http://cnlive.cnr.cn/hls/zgjtgbnx.m3u8",
+    "homepage": "http://www.cnr.cn/gsgb/",
+    "favicon": "http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200917/1600337980893.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "news,music",
+    "state": "Ningsia",
+    "bitrate": 0
+}

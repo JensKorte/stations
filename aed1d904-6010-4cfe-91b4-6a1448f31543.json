@@ -1,0 +1,14 @@
+{
+    "uuid": "aed1d904-6010-4cfe-91b4-6a1448f31543",
+    "name": "KOMO AM 1000",
+    "url": "http://35.230.61.191/sinclair-komoammp3-ibc2",
+    "homepage": "https://komonews.com/news/newsradio",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/KOMO_Radio_2015.svg/230px-KOMO_Radio_2015.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "weather,traffic,news",
+    "state": "Washington",
+    "bitrate": 64
+}

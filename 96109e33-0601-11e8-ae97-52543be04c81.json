@@ -1,0 +1,14 @@
+{
+    "uuid": "96109e33-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Континенталь",
+    "url": "http://stream01.radiocon.ru:8000/live.m3u",
+    "homepage": "http://radiocon.ru/",
+    "favicon": "http://www.radiocon.ru/files/images/logo_continental.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

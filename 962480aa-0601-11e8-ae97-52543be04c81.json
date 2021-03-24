@@ -1,0 +1,14 @@
+{
+    "uuid": "962480aa-0601-11e8-ae97-52543be04c81",
+    "name": "WVPS-HD3 Vermont Public Radio - BBC World Service Stream - Burlington, VT",
+    "url": "http://vprbbc.streamguys.net/vprbbc24.mp3",
+    "homepage": "http://digital.vpr.net/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/vpr/files/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "low bandwidth,burlington,bbc,vpr,npr,public radio",
+    "state": "Vermont",
+    "bitrate": 24
+}

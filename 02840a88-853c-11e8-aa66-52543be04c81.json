@@ -1,0 +1,14 @@
+{
+    "uuid": "02840a88-853c-11e8-aa66-52543be04c81",
+    "name": "MOTORADIO",
+    "url": "http://stream.motoradio.online:8000/high-aac",
+    "homepage": "http://motoradio.online/",
+    "favicon": "http://motoradio.online/wp-content/uploads/MotoRadio-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "hard rock,talk,classic rock,rock",
+    "state": "Saint-Petersburg",
+    "bitrate": 256
+}

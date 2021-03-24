@@ -1,0 +1,14 @@
+{
+    "uuid": "96099b0b-0601-11e8-ae97-52543be04c81",
+    "name": "Coast FM 963",
+    "url": "http://tcom-s1.tcom.net.au:8000/coastfm",
+    "homepage": "http://www.coastfm.org.au/",
+    "favicon": "http://www.coastfm.org.au/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "",
+    "tags": "community radio",
+    "state": "New South Wales",
+    "bitrate": 56
+}

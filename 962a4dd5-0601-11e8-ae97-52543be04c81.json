@@ -1,0 +1,14 @@
+{
+    "uuid": "962a4dd5-0601-11e8-ae97-52543be04c81",
+    "name": "Love FM",
+    "url": "http://wma07.fluidstream.net:7600/;stream.mp3",
+    "homepage": "http://www.lovefm.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s91822q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "canosa di puglia,soft adult contemporary,soft music,love songs",
+    "state": "Puglia",
+    "bitrate": 256
+}

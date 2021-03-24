@@ -1,0 +1,14 @@
+{
+    "uuid": "963d1bd6-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Sant Andreu",
+    "url": "http://82.98.177.79:8000/online",
+    "homepage": "http://www.radiosantandreu.com/",
+    "favicon": "http://www.radiosantandreu.com/wp-content/uploads/2013/09/favicon1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "sant andreu de la barca",
+    "state": "Barcelona",
+    "bitrate": 96
+}

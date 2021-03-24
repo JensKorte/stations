@@ -1,0 +1,14 @@
+{
+    "uuid": "96469cfd-0601-11e8-ae97-52543be04c81",
+    "name": "Estación 90s Radio",
+    "url": "http://radio.ancashserver.com:9552/;",
+    "homepage": "http://www.estacion90sradio.com/",
+    "favicon": "https://www.raddios.com/public/radios/grande/8987_grande.jpg?2017-05-15-20:56:35",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "90s",
+    "state": "Lima",
+    "bitrate": 64
+}

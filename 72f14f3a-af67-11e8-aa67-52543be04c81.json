@@ -1,0 +1,14 @@
+{
+    "uuid": "72f14f3a-af67-11e8-aa67-52543be04c81",
+    "name": "RTS - La Première",
+    "url": "http://stream.srg-ssr.ch/la-1ere/mp3_128.m3u",
+    "homepage": "http://www.rts.ch/la-1ere/",
+    "favicon": "https://www.broadcast.ch/fileadmin/kundendaten/Bilder/Programm_Logos_Radio_42_Breit/RTS_LaPremiere_105_Breit.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "français",
+    "tags": "suisse,francophone,généraliste,informations",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960f9400-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio RDC - Radio Dla Ciebie",
+    "url": "http://stream2.nadaje.com:11140/rdc",
+    "homepage": "http://www.rdc.pl/",
+    "favicon": "http://www.rdc.pl/wp-content/uploads/2015/03/logo_RDC_PR-600x400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polskieradio,public radio",
+    "state": "Warszawa",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "92df636f-167c-11e9-a80b-52543be04c81",
+    "name": "Radio Record Chillout",
+    "url": "http://air.radiorecord.ru:8102/chil_320",
+    "homepage": "http://radiorecord.ru",
+    "favicon": "http://www.radiorecord.ru/logo300-300.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "chillout",
+    "state": "Saint-Petersburg",
+    "bitrate": 320
+}

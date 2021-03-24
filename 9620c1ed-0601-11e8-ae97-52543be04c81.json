@@ -1,0 +1,14 @@
+{
+    "uuid": "9620c1ed-0601-11e8-ae97-52543be04c81",
+    "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
+    "url": "http://icecast-choi.rncm.ca/choi.aac",
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com//assets/images/favicons/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "quebec city,talk,commercial",
+    "state": "Quebec",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a5a5c91f-9a77-497f-8be9-dbc6f21373b1",
+    "name": "DWG Pur",
+    "url": "https://login.streamplus.de/app.php/streamserver/public/25531.m3u",
+    "homepage": "https://radio.dwgradio.net/de/radio-pur-lyra/",
+    "favicon": "http://dwg-radio.net/download/dwgpur.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 64
+}

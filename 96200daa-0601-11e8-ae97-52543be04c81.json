@@ -1,0 +1,14 @@
+{
+    "uuid": "96200daa-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Brno",
+    "url": "http://icecast2.play.cz/crobrno128.mp3",
+    "homepage": "http://www.rozhlas.cz/brno/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/crobrno.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,čro region,public radio,oldies,local",
+    "state": "",
+    "bitrate": 0
+}

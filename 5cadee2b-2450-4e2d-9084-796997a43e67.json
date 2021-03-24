@@ -1,0 +1,14 @@
+{
+    "uuid": "5cadee2b-2450-4e2d-9084-796997a43e67",
+    "name": "Ventania Radio",
+    "url": "http://63.247.65.202:8247/stream",
+    "homepage": "http://www.ventaniaradio.com/",
+    "favicon": "http://www.ventaniaradio.com/images/logo.png",
+    "creation": "2021-03-08 16:32:23",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "",
+    "state": "",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963e215a-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Flix",
+    "url": "http://164.138.208.21:8084/;stream.mp3",
+    "homepage": "http://www.radioflix.cat/",
+    "favicon": "http://www.radioflix.cat/wp-content/uploads/2013/12/radio_flix_mini.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "flix",
+    "state": "Terres de l'Ebre",
+    "bitrate": 64
+}

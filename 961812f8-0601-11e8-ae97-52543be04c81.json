@@ -1,0 +1,14 @@
+{
+    "uuid": "961812f8-0601-11e8-ae97-52543be04c81",
+    "name": "RPW - Radio Partywelle",
+    "url": "http://listen.radiopartywelle.com:8000",
+    "homepage": "http://www.radiopartywelle.com/",
+    "favicon": "http://www.radiopartywelle.com/wp-content/uploads/2017/10/cropped-RPW-HAUPTLOGO-einfach-gute-Laune-300x113.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager,party",
+    "state": "",
+    "bitrate": 192
+}

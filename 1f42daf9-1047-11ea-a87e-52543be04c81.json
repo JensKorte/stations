@@ -1,0 +1,14 @@
+{
+    "uuid": "1f42daf9-1047-11ea-a87e-52543be04c81",
+    "name": "Radio Kolor Cuenca",
+    "url": "http://usa1.usastreams.com:8000/RadioKolor",
+    "homepage": "http://www.radiokolor.es/",
+    "favicon": "https://cdn.onlineradiobox.com/img/logo/7/54507.v4.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "conquense,castellano,español",
+    "tags": "community radio",
+    "state": "Spain",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9614bbb6-0601-11e8-ae97-52543be04c81",
+    "name": "LBC Radio",
+    "url": "http://media-sov.musicradio.com:80/LBC973MP3Low",
+    "homepage": "http://www.lbc.co.uk/",
+    "favicon": "http://lbc.gcstatic.com/assets_v4r/lbc/img/favicon-196x196.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "political talk",
+    "state": "",
+    "bitrate": 48
+}

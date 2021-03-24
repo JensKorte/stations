@@ -1,0 +1,14 @@
+{
+    "uuid": "ed7ac3eb-b528-11e8-afe1-52543be04c81",
+    "name": "CiRMi - Civil Rádió Miskolc",
+    "url": "http://cirmi.org:8000/live",
+    "homepage": "https://www.cirmi.org/",
+    "favicon": "https://www.cirmi.org/sites/default/files/Cirmi_LOGO_fekete_C.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "community radio",
+    "state": "Borsod-Abaúj-Zemplén",
+    "bitrate": 320
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96262a78-0601-11e8-ae97-52543be04c81",
+    "name": "KANU-HD2 \"Kansas Public Radio\" News Stream - Lawrence, KS",
+    "url": "http://streaming.kansaspublicradio.org:8000/kpr2",
+    "homepage": "http://kansaspublicradio.org/",
+    "favicon": "http://www.kansaspublicradio.org/sites/kansaspublicradio.org/files/KPR_fb.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "lawrence,bbc,npr,news,kansas public radio,public radio",
+    "state": "Kansas",
+    "bitrate": 100
+}

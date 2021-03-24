@@ -1,0 +1,14 @@
+{
+    "uuid": "96442024-0601-11e8-ae97-52543be04c81",
+    "name": "RTL Radio",
+    "url": "http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192/vtuner",
+    "homepage": "http://www.rtlradio.de/",
+    "favicon": "http://www.rtlradio.de/sites/radiocore4.radiocenterberlin.de/themes/rc_rtlradio/images/rtlradio_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies,pop,hits",
+    "state": "",
+    "bitrate": 0
+}

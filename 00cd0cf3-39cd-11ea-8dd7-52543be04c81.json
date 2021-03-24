@@ -1,0 +1,14 @@
+{
+    "uuid": "00cd0cf3-39cd-11ea-8dd7-52543be04c81",
+    "name": "192 Radio (HQ)",
+    "url": "http://server-27.stream-server.nl:8192/stream",
+    "homepage": "https://www.192radio.nl/",
+    "favicon": "https://www.192radio.nl/192radio/wp-content/uploads/2019/07/cropped-favicon-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "netherlands",
+    "tags": "70s,60s,oldies",
+    "state": "",
+    "bitrate": 0
+}

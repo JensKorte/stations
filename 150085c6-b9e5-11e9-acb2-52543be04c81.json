@@ -1,0 +1,14 @@
+{
+    "uuid": "150085c6-b9e5-11e9-acb2-52543be04c81",
+    "name": "ICI Radio-Canada Première CBV 106.3 Québec (Capitale-Nationale)",
+    "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QQUE0_QUE",
+    "homepage": "https://ici.radio-canada.ca/premiere",
+    "favicon": "https://ici.radio-canada.ca//unit/content/favicon/Default/mstile-144x144.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "francais",
+    "tags": "corrigé,ici premiere",
+    "state": "Quebec",
+    "bitrate": 0
+}

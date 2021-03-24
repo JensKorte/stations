@@ -1,0 +1,14 @@
+{
+    "uuid": "8a368813-17b4-11ea-a620-52543be04c81",
+    "name": "NoCo FM (Low Bandwidth)",
+    "url": "https://stream.noco.fm/radio/8000/low",
+    "homepage": "https://noco.fm",
+    "favicon": "https://nocofm.s3.amazonaws.com/image/small/nocofm-logo-sq_2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "indie rock,indie,rock,alternative,adult album alternative,community radio,lgbtiqa*,lgbt,podcasts,diversity",
+    "state": "Colorado",
+    "bitrate": 96
+}

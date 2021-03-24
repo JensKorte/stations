@@ -1,0 +1,14 @@
+{
+    "uuid": "d2ee68cf-2f4a-417d-a4d1-d06678dcf025",
+    "name": "Radio Ploče",
+    "url": "http://178.218.163.171:8010/stream",
+    "homepage": "https://www.radioploce.hr/",
+    "favicon": "https://www.radioploce.hr/wp-content/themes/rpp/img/rpp-logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "croatian",
+    "tags": "information,folk,pop,local news",
+    "state": "",
+    "bitrate": 96
+}

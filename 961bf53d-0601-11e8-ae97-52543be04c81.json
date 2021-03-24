@@ -1,0 +1,14 @@
+{
+    "uuid": "961bf53d-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 91.7 Gold Coast, QLD (MP3)",
+    "url": "http://www.abc.net.au/res/streaming/audio/mp3/local_goldcoast.pls",
+    "homepage": "http://www.abc.net.au/goldcoast/",
+    "favicon": "https://resize.abcradio.net.au/jIn0i1DVPA5X8Pi_-DB1JXZ4Wvk=/100x100/center/middle/http://www.abc.net.au/radio/images/service/local_goldcoast.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "public radio,gold coast,abc,information,news",
+    "state": "Queensland",
+    "bitrate": 64
+}

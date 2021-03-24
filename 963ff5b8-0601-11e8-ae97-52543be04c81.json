@@ -1,0 +1,14 @@
+{
+    "uuid": "963ff5b8-0601-11e8-ae97-52543be04c81",
+    "name": "Dala FM 100.2",
+    "url": "http://95.56.234.40:8080/DALA_320",
+    "homepage": "http://dalafm.kz/",
+    "favicon": "http://radio.zakon.kz/covers/radio/dalafm@2x.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "language": "russian,kazakh",
+    "tags": "320kbps,national,news,entertainment,charts,top 40,pop",
+    "state": "Almaty",
+    "bitrate": 0
+}

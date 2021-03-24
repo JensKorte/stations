@@ -1,0 +1,14 @@
+{
+    "uuid": "26ff53d3-8f2f-4874-850f-3ae964e9712f",
+    "name": "RadioOne",
+    "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+    "homepage": "https://radioone.al/",
+    "favicon": "https://radioone.al/assets/logo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Albania",
+    "country_code": "AL",
+    "language": "italian,english,albanian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 128
+}

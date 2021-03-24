@@ -1,0 +1,14 @@
+{
+    "uuid": "96217040-0601-11e8-ae97-52543be04c81",
+    "name": "hoerspieltalk",
+    "url": "http://stream.laut.fm/hoerspieltalk",
+    "homepage": "http://www.hoerspieltalk.de/",
+    "favicon": "http://www.hoerspieltalk.de/wcf/images/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "vocal",
+    "state": "",
+    "bitrate": 128
+}

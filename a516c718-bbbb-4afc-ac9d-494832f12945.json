@@ -1,0 +1,14 @@
+{
+    "uuid": "a516c718-bbbb-4afc-ac9d-494832f12945",
+    "name": "BBC World Service",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/llnw/bbc_world_service.m3u8",
+    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/f/fc/BBC_World_Service_red.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "international,documentaries,speech,discussion,news",
+    "state": "",
+    "bitrate": 101
+}

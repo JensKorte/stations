@@ -1,0 +1,14 @@
+{
+    "uuid": "1bf64abf-7a64-11e9-aa30-52543be04c81",
+    "name": "Napoca FM",
+    "url": "http://live.napocafm.ro:80/stream/1/",
+    "homepage": "http://www.napocafm.ro/",
+    "favicon": "http://napocafm.ro/wp-content/uploads/2017/04/logonapoca180.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "romania,cluj-napoca,music",
+    "state": "",
+    "bitrate": 128
+}

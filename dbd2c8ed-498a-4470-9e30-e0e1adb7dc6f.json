@@ -1,0 +1,14 @@
+{
+    "uuid": "dbd2c8ed-498a-4470-9e30-e0e1adb7dc6f",
+    "name": "Rádio Antena Nove",
+    "url": "http://centova.radio.com.pt:8565/stream/1/",
+    "homepage": "http://antenanove.com/",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/47/79/29612/1/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "pop,hits,local news",
+    "state": "Azores",
+    "bitrate": 128
+}

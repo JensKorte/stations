@@ -1,0 +1,14 @@
+{
+    "uuid": "7f87b5df-5a65-11ea-be63-52543be04c81",
+    "name": "Rewound Radio",
+    "url": "http://rewoundradio.com:8000/listen.pls",
+    "homepage": "https://rewoundradio.com/",
+    "favicon": "https://rewoundradio.com/musicnotefacebook.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "oldies,classic rock",
+    "state": "New York",
+    "bitrate": 128
+}

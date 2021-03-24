@@ -1,0 +1,14 @@
+{
+    "uuid": "9621cf81-0601-11e8-ae97-52543be04c81",
+    "name": "CJRL 89.5 \"The Lake\" Kenora, ON",
+    "url": "http://cjrl.streamon.fm:8000/CJRL-48k.aac",
+    "homepage": "http://www.895thelake.ca/",
+    "favicon": "http://www.895thelake.ca/sites/all/themes/thelake/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "kenora,classic hits,commercial",
+    "state": "Ontario",
+    "bitrate": 48
+}

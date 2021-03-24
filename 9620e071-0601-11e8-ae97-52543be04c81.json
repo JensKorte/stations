@@ -1,0 +1,14 @@
+{
+    "uuid": "9620e071-0601-11e8-ae97-52543be04c81",
+    "name": "WRJA 88.1 \"South Carolina Public Radio\" Sumter, SC",
+    "url": "http://provisioning.streamtheworld.com/pls/WRJAFMAAC.pls",
+    "homepage": "http://scpublicradio.org/",
+    "favicon": "http://scpublicradio.org//sites/all/themes/pilot/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "florence,columbia,sumter,npr,public radio",
+    "state": "South Carolina",
+    "bitrate": 64
+}

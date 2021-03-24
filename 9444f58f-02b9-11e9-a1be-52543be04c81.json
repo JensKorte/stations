@@ -1,0 +1,14 @@
+{
+    "uuid": "9444f58f-02b9-11e9-a1be-52543be04c81",
+    "name": "Antena ZD",
+    "url": "http://live.antenazadar.hr:9000/stream/",
+    "homepage": "http://www.antenzadar.hr",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "various",
+    "state": "Zadarska",
+    "bitrate": 320
+}

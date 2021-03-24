@@ -1,0 +1,14 @@
+{
+    "uuid": "9605739a-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern",
+    "url": "http://mp3channels.webradio.antenne.de:80/antenne",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "https://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40",
+    "state": "Bavaria",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "20f0581f-463b-11e9-aa55-52543be04c81",
+    "name": "egoRAP",
+    "url": "https://egofm-rap.cast.addradio.de/egofm/rap/mp3/high/stream.mp3?ar-distributor=f0a2",
+    "homepage": "https://www.egofm.de/streams/egorap",
+    "favicon": "https://www.egofm.de/content/images/stream/egorap/egofm-rap-og.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classic hip hop,hiphop,rap",
+    "state": "Bavaria",
+    "bitrate": 128
+}

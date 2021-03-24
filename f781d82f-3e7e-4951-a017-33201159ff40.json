@@ -1,0 +1,14 @@
+{
+    "uuid": "f781d82f-3e7e-4951-a017-33201159ff40",
+    "name": "RCV Radio",
+    "url": "http://nr4.newradio.it:9412/stream",
+    "homepage": "http://www.rcvradio.it/",
+    "favicon": "https://www.rcvradio.it/wp-content/uploads/2020/01/logo-R.C.V.-radio.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "",
+    "state": "Lazio",
+    "bitrate": 192
+}

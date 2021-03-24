@@ -1,0 +1,14 @@
+{
+    "uuid": "961522b9-0601-11e8-ae97-52543be04c81",
+    "name": "KVOQ 102.3 Colorado Public Radio \"OpenAir\" - Denver, CO  (MP3)",
+    "url": "http://stream2.cprnetwork.org:8000/cpr3_lo",
+    "homepage": "http://www.cpr.org",
+    "favicon": "http://www.cpr.org/sites/default/files/styles/large/public/images/cpr-logo-square.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "denver,indie,adult album alternative,public radio",
+    "state": "Colorado",
+    "bitrate": 64
+}

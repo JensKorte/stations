@@ -1,0 +1,14 @@
+{
+    "uuid": "cddd4b29-e0cf-455a-acc6-579967cb7cd1",
+    "name": "Active radio 100.6 FM",
+    "url": "http://manager.streaming-ingenierie.fr:8028/",
+    "homepage": "http://www.activeradio.fr/",
+    "favicon": "http://www.activeradio.fr/",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "france",
+    "tags": "",
+    "state": "",
+    "bitrate": 320
+}

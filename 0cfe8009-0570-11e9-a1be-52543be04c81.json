@@ -1,0 +1,14 @@
+{
+    "uuid": "0cfe8009-0570-11e9-a1be-52543be04c81",
+    "name": "Radio Tel Aviv 102FM",
+    "url": "http://102.livecdn.biz/102fm_aac",
+    "homepage": "http://102fm.co.il/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/QAZzE9nhjg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Israel",
+    "country_code": "IL",
+    "language": "hebrew",
+    "tags": "pop,hebrew,israeli pop,tel aviv",
+    "state": "",
+    "bitrate": 64
+}

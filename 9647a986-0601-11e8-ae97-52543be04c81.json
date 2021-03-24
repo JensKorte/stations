@@ -1,0 +1,14 @@
+{
+    "uuid": "9647a986-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio - Chopin (Radio Chopin) (AAC+)",
+    "url": "http://stream3.polskieradio.pl:8960/;",
+    "homepage": "http://chopin.polskieradio.pl/",
+    "favicon": "http://moje.polskieradio.pl/_img/kanaly/chopin-200x200.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "classical,chopin",
+    "state": "",
+    "bitrate": 128
+}

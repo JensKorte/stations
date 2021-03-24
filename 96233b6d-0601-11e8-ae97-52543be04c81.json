@@ -1,0 +1,14 @@
+{
+    "uuid": "96233b6d-0601-11e8-ae97-52543be04c81",
+    "name": "WFMU East Orange, NJ \"Radio Boredcast\" stream",
+    "url": "http://stream0.wfmu.org/do-or-diy",
+    "homepage": "https://wfmu.org/",
+    "favicon": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/69de5649876427.58c0efdd63ab3.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "east orange,trenton,community radio",
+    "state": "New Jersey",
+    "bitrate": 128
+}

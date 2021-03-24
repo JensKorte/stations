@@ -1,0 +1,14 @@
+{
+    "uuid": "96317125-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Frequenza",
+    "url": "http://s6.mediastreaming.it:9000/;stream.mp3",
+    "homepage": "http://www.rfrequenza.it/",
+    "favicon": "http://www.rfrequenza.it/immagini/logofixed.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "teramo,university radio",
+    "state": "Abruzzo",
+    "bitrate": 128
+}

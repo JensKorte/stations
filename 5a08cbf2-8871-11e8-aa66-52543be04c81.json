@@ -1,0 +1,14 @@
+{
+    "uuid": "5a08cbf2-8871-11e8-aa66-52543be04c81",
+    "name": "Antenne Sauerland",
+    "url": "http://stream.laut.fm/antenne-sauerland",
+    "homepage": "https://www.antenne-sauerland.de/",
+    "favicon": "https://www.antenne-sauerland.de/wp-content/uploads/2016/05/cropped-AS2016Favicon-270x270.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock,pop",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

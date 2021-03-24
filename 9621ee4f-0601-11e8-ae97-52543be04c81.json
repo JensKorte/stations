@@ -1,0 +1,14 @@
+{
+    "uuid": "9621ee4f-0601-11e8-ae97-52543be04c81",
+    "name": "CJSA-HD1 CMR Diversity FM 101.3 Toronto, ON",
+    "url": "http://live.cmr24.net:8081/CMR/CMR-MQ/icecast.audio",
+    "homepage": "http://www.cmr.fm/",
+    "favicon": "http://cmr24.net/wp-content/uploads/2014/06/hd1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "multilingual",
+    "tags": "toronto,multicultural,multilingual",
+    "state": "Ontario",
+    "bitrate": 128
+}

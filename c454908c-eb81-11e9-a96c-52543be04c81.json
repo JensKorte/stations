@@ -1,0 +1,14 @@
+{
+    "uuid": "c454908c-eb81-11e9-a96c-52543be04c81",
+    "name": "FIP Groove",
+    "url": "http://icecast.radiofrance.fr/fipgroove-hifi.aac",
+    "homepage": "https://www.fip.fr/groove/webradio",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/3673673e-30f7-4caf-92c6-4161485d284d/200x200_fip-groove_ok.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,groove,public radio,aac",
+    "state": "",
+    "bitrate": 0
+}

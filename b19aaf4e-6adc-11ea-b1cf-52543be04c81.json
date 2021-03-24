@@ -1,0 +1,14 @@
+{
+    "uuid": "b19aaf4e-6adc-11ea-b1cf-52543be04c81",
+    "name": "Cadena SER - Ràdio Manresa",
+    "url": "http://streaming.enantena.com:8000/taronjadigital-bages128.mp3",
+    "homepage": "https://www.radiomanresa.cat/#!/",
+    "favicon": "https://www.radiomanresa.cat//radiomanresa/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,catalan",
+    "tags": "live,live sports,sports news,cultural news,talk,local news",
+    "state": "Barcelona",
+    "bitrate": 0
+}

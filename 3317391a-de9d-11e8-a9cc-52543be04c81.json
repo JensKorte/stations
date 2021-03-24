@@ -1,0 +1,14 @@
+{
+    "uuid": "3317391a-de9d-11e8-a9cc-52543be04c81",
+    "name": "CGM UKScene Radio",
+    "url": "http://cgm-stream.noip.me:8000/mpd.m3u",
+    "homepage": "http://cgmuksceneradio-pi.noip.me/",
+    "favicon": "http://cgmuksceneradio-pi.noip.me/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "",
+    "tags": "c64,commodore 64,amiga,8bit,8 bit,chiptune",
+    "state": "",
+    "bitrate": 128
+}

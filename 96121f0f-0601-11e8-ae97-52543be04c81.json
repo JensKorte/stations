@@ -1,0 +1,14 @@
+{
+    "uuid": "96121f0f-0601-11e8-ae97-52543be04c81",
+    "name": "SRo4 Rádio FM",
+    "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
+    "homepage": "http://fm.rtvs.sk",
+    "favicon": "https://www.rtvs.sk/media/images/radiostations/radio_fm.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "rtvs,public radio,youth,pop,indie,alternative",
+    "state": "",
+    "bitrate": 0
+}

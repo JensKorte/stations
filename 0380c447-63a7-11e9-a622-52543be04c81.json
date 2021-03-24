@@ -1,0 +1,14 @@
+{
+    "uuid": "0380c447-63a7-11e9-a622-52543be04c81",
+    "name": "Radio Samantha 89.3 FM",
+    "url": "http://5.135.183.124:8153/stream.m3u",
+    "homepage": "http://samanthafm.com/",
+    "favicon": "http://samanthafm.com/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,music,music",
+    "state": "El Oro",
+    "bitrate": 128
+}

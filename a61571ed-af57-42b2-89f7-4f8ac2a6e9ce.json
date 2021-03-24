@@ -1,0 +1,14 @@
+{
+    "uuid": "a61571ed-af57-42b2-89f7-4f8ac2a6e9ce",
+    "name": "teleSUR TV English",
+    "url": "http://d7g1ebft2592.cloudfront.net/mblivev3/480p/master.m3u8",
+    "homepage": "https://www.telesurenglish.net/",
+    "favicon": "https://www.telesurenglish.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Bolivarian Republic Of Venezuela",
+    "country_code": "VE",
+    "language": "english",
+    "tags": "english,news,global south",
+    "state": "",
+    "bitrate": 1181
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "986cf55e-f9bb-44b9-a39a-362dac8a118b",
+    "name": "Colorado Public Radio OpenAir",
+    "url": "http://stream1.cprnetwork.org/cpr3_lo",
+    "homepage": "https://www.cpr.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/Open Air Radio.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical",
+    "state": "Fort Collins CO",
+    "bitrate": 64
+}

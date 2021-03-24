@@ -1,0 +1,14 @@
+{
+    "uuid": "a9b0f9d4-a3b5-11e8-abb8-52543be04c81",
+    "name": "Roma Radio",
+    "url": "http://ice2.hystream.com:8000/asroma",
+    "homepage": "http://www.asroma.com/it/media/roma-radio",
+    "favicon": "http://www.asroma.com/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,talk,sport",
+    "state": "Lazio",
+    "bitrate": 0
+}

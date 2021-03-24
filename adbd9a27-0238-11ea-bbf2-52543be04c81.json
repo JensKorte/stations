@@ -1,0 +1,14 @@
+{
+    "uuid": "adbd9a27-0238-11ea-bbf2-52543be04c81",
+    "name": "Radio bayrisch",
+    "url": "https://stream.laut.fm/bayrisch",
+    "homepage": "https://www.radio-bayrisch.de/",
+    "favicon": "https://www.radio-bayrisch.de/file/2018/08/flag-3561417_1920.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "bayrisch",
+    "tags": "public radio,undefined",
+    "state": "Bavaria",
+    "bitrate": 128
+}

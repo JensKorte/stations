@@ -1,0 +1,14 @@
+{
+    "uuid": "27826f1e-ab0e-11e9-88f4-52543be04c81",
+    "name": "RPR1. Classic Rock",
+    "url": "http://streams.rpr1.de/rpr-rock-128-aac?usid=0-0-H-A-D-30",
+    "homepage": "https://www.rpr1.de/webradio/classic-rock",
+    "favicon": "https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "regional radio,classic rock",
+    "state": "Rheinland-Pfalz",
+    "bitrate": 128
+}

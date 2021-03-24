@@ -1,0 +1,14 @@
+{
+    "uuid": "961dda00-0601-11e8-ae97-52543be04c81",
+    "name": "Radio FM1 - Charts",
+    "url": "http://fm1charts.ice.infomaniak.ch/fm1charts-64.aac",
+    "homepage": "http://www.fm1today.ch/",
+    "favicon": "http://www.fm1today.ch//wp-content/skins/nzz-fm1/icons/favicon-96x96.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "top 40,contemporary hits",
+    "state": "",
+    "bitrate": 64
+}

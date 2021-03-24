@@ -1,0 +1,14 @@
+{
+    "uuid": "9625d0fa-0601-11e8-ae97-52543be04c81",
+    "name": "Concertzender Oude Muziek",
+    "url": "http://streams.greenhost.nl:8080/oudemuziek",
+    "homepage": "https://www.concertzender.nl/programma_genre/oude-muziek/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Concertzender_Logo.svg/1200px-Concertzender_Logo.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch,english",
+    "tags": "classical,early music,baroque",
+    "state": "",
+    "bitrate": 128
+}

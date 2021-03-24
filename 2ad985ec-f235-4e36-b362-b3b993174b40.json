@@ -1,0 +1,14 @@
+{
+    "uuid": "2ad985ec-f235-4e36-b362-b3b993174b40",
+    "name": "UbuntuFM",
+    "url": "https://streaming.coollective.nl:8443/UbuntuFM",
+    "homepage": "https://www.ubuntu.fm/radio",
+    "favicon": "https://www.ubuntu.fm/sites/default/files/logo.svg",
+    "creation": "2021-03-06 11:10:20",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "language": "",
+    "tags": "funk,kwaito,afrosoul,afropop,nu-jazz,soul,dancehall,folk,rock,latin,jazz,hiphop,reggae",
+    "state": "",
+    "bitrate": 128
+}

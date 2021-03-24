@@ -1,0 +1,14 @@
+{
+    "uuid": "b1864a20-a41a-11e8-abb8-52543be04c81",
+    "name": "Rádio Coringão",
+    "url": "https://s18.hstbr.net:8010/live",
+    "homepage": "http://www.radiocoringao.com.br",
+    "favicon": "http://radiocoringao.com.br/imagens/logomaior.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português",
+    "tags": "futebol,corinthians",
+    "state": "SP",
+    "bitrate": 64
+}

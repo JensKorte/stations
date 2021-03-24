@@ -1,0 +1,14 @@
+{
+    "uuid": "04ddb916-f7ef-11e8-a471-52543be04c81",
+    "name": "ERT Kerkyra 99.3",
+    "url": "http://radiostreaming.ert.gr/ert-kerkyra",
+    "homepage": "http://www.ert.gr/news/kerkira/",
+    "favicon": "http://webradio.ert.gr/wp-content/uploads/2015/07/kerkyra-2-150x1401.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "public radio,ert",
+    "state": "",
+    "bitrate": 128
+}

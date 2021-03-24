@@ -1,0 +1,14 @@
+{
+    "uuid": "cac2f9b5-3d0c-4c16-8fff-65a9d1aa197d",
+    "name": "Українське радіо. Пульс. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/pulsfm-aacplus",
+    "homepage": "http://ukr.radio/radio-lg",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Severodonetsk",
+    "bitrate": 48
+}

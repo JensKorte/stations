@@ -1,0 +1,14 @@
+{
+    "uuid": "961447b9-0601-11e8-ae97-52543be04c81",
+    "name": "ModFM",
+    "url": "http://radio.modules.pl:8500/listen.pls",
+    "homepage": "http://modules.pl",
+    "favicon": "http://www.modules.pl/templates/default/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "retro games,chiptune,c64,amiga,tracked",
+    "state": "",
+    "bitrate": 128
+}

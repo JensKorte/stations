@@ -1,0 +1,14 @@
+{
+    "uuid": "3cd5835d-7240-11ea-b1cf-52543be04c81",
+    "name": "Радио Прокопьевск 107,4",
+    "url": "http://radioserver.27trk.ru:8000/prokopievsk.mp3",
+    "homepage": "http://27trk.ru/radio/",
+    "favicon": "http://27trk.ru//apple-icon-114x114.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "pop,news",
+    "state": "",
+    "bitrate": 192
+}

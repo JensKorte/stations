@@ -1,0 +1,14 @@
+{
+    "uuid": "145f24ec-56b3-11e9-aa33-52543be04c81",
+    "name": "Rádio Samson",
+    "url": "http://icecast8.play.cz/samsonfm128.mp3",
+    "homepage": "http://www.radiosamson.cz/content/text/cz/",
+    "favicon": "http://www.radiosamson.cz/../../../content/templates/favicon.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "rock,country,,folk",
+    "state": "",
+    "bitrate": 0
+}

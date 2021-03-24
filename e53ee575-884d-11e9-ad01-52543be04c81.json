@@ -1,0 +1,14 @@
+{
+    "uuid": "e53ee575-884d-11e9-ad01-52543be04c81",
+    "name": "MagicFM",
+    "url": "https://bss.neterra.tv/rtplive/magicfmradio_live.stream/playlist.m3u8",
+    "homepage": "https://www.magic.bg/",
+    "favicon": "https://www.magic.bg/img/og-image.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "magicfm,bulgaria",
+    "state": "",
+    "bitrate": 96
+}

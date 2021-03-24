@@ -1,0 +1,14 @@
+{
+    "uuid": "a244ebf0-b81e-4b07-8f44-091801591032",
+    "name": "RADIO GERETSRIED",
+    "url": "http://player.stadtradio-geretsried.de:8000/batschfm",
+    "homepage": "https://stadtradio-geretsried.de/",
+    "favicon": "https://stadtradio-geretsried.de/",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "80s,90s,variety,top 40,mix",
+    "state": "Bavaria",
+    "bitrate": 224
+}

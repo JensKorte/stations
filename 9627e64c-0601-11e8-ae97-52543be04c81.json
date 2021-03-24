@@ -1,0 +1,14 @@
+{
+    "uuid": "9627e64c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Koper",
+    "url": "http://mp3.rtvslo.si/rakp",
+    "homepage": "http://www.rtvslo.si/radiokoper",
+    "favicon": "http://img.rtvslo.si/_static/r180/rakp/icons/favicon-194x194.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "rtvslo,local programming,public radio",
+    "state": "Primorska",
+    "bitrate": 0
+}

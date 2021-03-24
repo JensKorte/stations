@@ -1,0 +1,14 @@
+{
+    "uuid": "9620b5c4-0601-11e8-ae97-52543be04c81",
+    "name": "CKGM 690 TSN Montreal",
+    "url": "http://playerservices.streamtheworld.com/m3u/CKGMAMAAC.m3u",
+    "homepage": "http://www.tsn.ca/radio/montreal-690",
+    "favicon": "http://www.tsn.ca/img/tsn/logos/tsn-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "sport",
+    "state": "Quebec",
+    "bitrate": 128
+}

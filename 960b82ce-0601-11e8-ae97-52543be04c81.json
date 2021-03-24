@@ -1,0 +1,14 @@
+{
+    "uuid": "960b82ce-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Warszawa 106.2",
+    "url": "http://streaming01.technologicznie.net:8765/radio_warszawa.mp3",
+    "homepage": "http://www.radiowarszawa.com.pl/",
+    "favicon": "http://www.radiowarszawa.com.pl/wp-content/uploads/2016/09/logo_radio_warszawa-300x241.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Warszawa",
+    "bitrate": 192
+}

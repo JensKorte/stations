@@ -1,0 +1,14 @@
+{
+    "uuid": "4512f735-bea8-11e9-8502-52543be04c81",
+    "name": "Rocker Rádió",
+    "url": "http://rockerradio.online/live.mp3.m3u",
+    "homepage": "http://rockerradio.online/",
+    "favicon": "https://myonlineradio.hu/public/uploads/radio_img/rocker-radio/play_250_250.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "",
+    "tags": "rok,metal,hard rock,classic rock",
+    "state": "",
+    "bitrate": 192
+}

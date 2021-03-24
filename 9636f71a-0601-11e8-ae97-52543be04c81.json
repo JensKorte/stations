@@ -1,0 +1,14 @@
+{
+    "uuid": "9636f71a-0601-11e8-ae97-52543be04c81",
+    "name": "Deutschlandfunk Kultur [MP3 128kbit/s]",
+    "url": "http://www.deutschlandradio.de/streaming/dkultur.m3u",
+    "homepage": "http://www.deutschlandfunkkultur.de/",
+    "favicon": "http://www.deutschlandfunkkultur.de/themes/dradio/icons/dkultur/favicon-196x196.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "radioplay,hörspiel,culture,kultur,features,cultural news",
+    "state": "",
+    "bitrate": 0
+}

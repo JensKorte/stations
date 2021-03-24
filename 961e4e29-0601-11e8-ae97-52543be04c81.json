@@ -1,0 +1,14 @@
+{
+    "uuid": "961e4e29-0601-11e8-ae97-52543be04c81",
+    "name": "NPO Funx Arab",
+    "url": "http://icecast.omroep.nl:80/funx-arabfb-bb-mp3",
+    "homepage": "https://www.funx.nl",
+    "favicon": "http://www.funx.nl/templates/funx/img/funx_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "arabic",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "66fcbb95-d165-11e8-a54a-52543be04c81",
+    "name": "KBS World Chinese Radio",
+    "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8",
+    "homepage": "http://world.kbs.co.kr/",
+    "favicon": "http://world.kbs.co.kr/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Republic Of Korea",
+    "country_code": "KR",
+    "language": "chinese",
+    "tags": "",
+    "state": "Seoul",
+    "bitrate": 73
+}

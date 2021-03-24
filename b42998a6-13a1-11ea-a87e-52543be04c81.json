@@ -1,0 +1,14 @@
+{
+    "uuid": "b42998a6-13a1-11ea-a87e-52543be04c81",
+    "name": "Metalvoice Radio",
+    "url": "http://68.66.253.101:8000/stream/;",
+    "homepage": "http://radio.metalvoice.tv/",
+    "favicon": "http://radio.metalvoice.tv/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "",
+    "tags": "metal",
+    "state": "",
+    "bitrate": 128
+}

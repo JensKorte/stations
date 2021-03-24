@@ -1,0 +1,14 @@
+{
+    "uuid": "9618b789-0601-11e8-ae97-52543be04c81",
+    "name": "BNR Stara Zagora",
+    "url": "http://82.103.99.99:8000/radiosz",
+    "homepage": "http://bnr.bg/starazagora",
+    "favicon": "http://bnr.bg/img/logos/starazagora.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "stara zagora,bnr,public radio",
+    "state": "Stara Zagora",
+    "bitrate": 192
+}

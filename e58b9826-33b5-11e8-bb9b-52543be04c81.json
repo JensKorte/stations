@@ -1,0 +1,14 @@
+{
+    "uuid": "e58b9826-33b5-11e8-bb9b-52543be04c81",
+    "name": "Caracol Radio Cali (HJED, 820 kHz AM / HJK41, 104.0 MHz FM, Puerto Tejada, Cauca)",
+    "url": "http://17973.live.streamtheworld.com:3690/CR_CALI_SC",
+    "homepage": "http://caracol.com.co/emisora/cali/",
+    "favicon": "http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "culture,live sports,sports news,news talk,local talk,local news,news,full service",
+    "state": "Valle del Cauca",
+    "bitrate": 96
+}

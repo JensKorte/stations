@@ -1,0 +1,14 @@
+{
+    "uuid": "9617e858-0601-11e8-ae97-52543be04c81",
+    "name": "CHOW 105.3 \"Radio Boreale\" Amos, QC",
+    "url": "http://stream.statsradio.com:8022/stream",
+    "homepage": "http://www.radioboreale.com/",
+    "favicon": "http://www.radioboreale.com/wordpress/wp-content/uploads/2016/11/cropped-FaviconRB1053-192x192.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "amos,community radio",
+    "state": "Quebec",
+    "bitrate": 128
+}

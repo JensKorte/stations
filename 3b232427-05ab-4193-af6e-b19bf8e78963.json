@@ -1,0 +1,14 @@
+{
+    "uuid": "3b232427-05ab-4193-af6e-b19bf8e78963",
+    "name": "NPO Radio 4",
+    "url": "https://icecast.omroep.nl/radio4-bb-mp3.m3u",
+    "homepage": "https://www.nporadio4.nl/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NPO_Radio_4_logo_2014.svg/1200px-NPO_Radio_4_logo_2014.svg.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "dutch,public radio,classic",
+    "state": "",
+    "bitrate": 0
+}

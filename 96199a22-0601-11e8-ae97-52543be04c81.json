@@ -1,0 +1,14 @@
+{
+    "uuid": "96199a22-0601-11e8-ae97-52543be04c81",
+    "name": "Posto Emissor do Funchal FM",
+    "url": "http://centova.radio.com.pt:9426/;",
+    "homepage": "http://pef.pt/sitepef/inicio/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s84071q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "talk,news,local music",
+    "state": "Madeira",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9642b0c2-0601-11e8-ae97-52543be04c81",
+    "name": "Pop \u0026 Rock",
+    "url": "http://62.101.46.15:8000/poporock",
+    "homepage": "http://www.poporock.se/",
+    "favicon": "http://poporock.com/wp-content/uploads/2017/08/poporock-favicon-150x150.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "local radio",
+    "state": "Umeao",
+    "bitrate": 128
+}

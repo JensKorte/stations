@@ -1,0 +1,14 @@
+{
+    "uuid": "961f670f-0601-11e8-ae97-52543be04c81",
+    "name": "HRT Radio Pula",
+    "url": "http://playerservices.streamtheworld.com/m3u/PULAAAC.m3u",
+    "homepage": "http://radio.hrt.hr/radio-pula/",
+    "favicon": "http://radio.hrt.hr/static/img/noimg/radio-pula.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

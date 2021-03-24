@@ -1,0 +1,14 @@
+{
+    "uuid": "9615c387-0601-11e8-ae97-52543be04c81",
+    "name": "Heartbeat FM",
+    "url": "https://cast5.magicstreams.gr:2199/tunein/heartbeat.pls",
+    "homepage": "http://heartbeatfm.net/",
+    "favicon": "http://www.liveradio.ie/files/images/110066/resized/140x134c/heartbeat_fm.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "easy listening",
+    "state": "",
+    "bitrate": 128
+}

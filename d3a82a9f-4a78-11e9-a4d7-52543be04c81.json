@@ -1,0 +1,14 @@
+{
+    "uuid": "d3a82a9f-4a78-11e9-a4d7-52543be04c81",
+    "name": "i love radio - the dj by DJ MAG",
+    "url": "http://stream01.iloveradio.de/iloveradio4.mp3",
+    "homepage": "https://www.iloveradio.de/ilovethedj/",
+    "favicon": "https://www.iloveradio.de//typo3conf/ext/ep_channel/Resources/Public/img/favicon.php?bg=000000\u0026fg=ffffff",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "dj mag top 100 djs,all-time-classics,alle neuen clubhits",
+    "state": "",
+    "bitrate": 128
+}

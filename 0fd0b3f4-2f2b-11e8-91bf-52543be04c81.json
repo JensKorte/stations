@@ -1,0 +1,14 @@
+{
+    "uuid": "0fd0b3f4-2f2b-11e8-91bf-52543be04c81",
+    "name": "Beijing News Radio",
+    "url": "http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8",
+    "homepage": "http://www.rbc.cn/",
+    "favicon": "http://www.rbc.cn/_CMS_NEWS_IMG_/1/201712/18/d67218b1-ee9e-46e6-91af-f5dae891df7b.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "beijing",
+    "state": "Beijing",
+    "bitrate": 0
+}

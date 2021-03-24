@@ -1,0 +1,14 @@
+{
+    "uuid": "961af0bd-0601-11e8-ae97-52543be04c81",
+    "name": "W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio",
+    "url": "http://playerservices.streamtheworld.com/m3u/WRADIO.m3u",
+    "homepage": "http://wradio.com.co",
+    "favicon": "http://www.wradio.com.co/img/logo400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "news and talk,talk radio,news",
+    "state": "Bogotá",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "489df99e-66c1-11e9-af37-52543be04c81",
+    "name": "Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)",
+    "url": "http://195.154.133.107:8258/listen.pls",
+    "homepage": "https://www.radiovivafenix.com",
+    "favicon": "https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "culture,live sports,sports news,local talk,local news,local music,music,ipiales,news",
+    "state": "Nariño",
+    "bitrate": 48
+}

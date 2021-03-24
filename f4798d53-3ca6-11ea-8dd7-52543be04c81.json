@@ -1,0 +1,14 @@
+{
+    "uuid": "f4798d53-3ca6-11ea-8dd7-52543be04c81",
+    "name": "Hitradio center latin",
+    "url": "http://stream3.radiocenter.si:8200/;stream/1",
+    "homepage": "http://radiocenter.si/",
+    "favicon": "http://radiocenter.si//Public/assets/dist/img/150_center.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "spanish,english",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 128
+}

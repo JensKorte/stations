@@ -1,0 +1,14 @@
+{
+    "uuid": "96224885-0601-11e8-ae97-52543be04c81",
+    "name": "WBBR 1130 \"Bloomberg Radio\" New York, NY",
+    "url": "http://provisioning.streamtheworld.com/pls/WBBRAMaac.pls",
+    "homepage": "https://www.bloombergradio.com/",
+    "favicon": "http://db.radioline.fr/pictures/radio_ab760a871a26088c483578d181e7eeaa/logo200.jpg?size=600",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "economic news,business news",
+    "state": "New York",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "45bba36a-42b3-11e8-b74d-52543be04c81",
+    "name": "Beijing Communication Radio",
+    "url": "http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8",
+    "homepage": "http://www.rbc.cn/",
+    "favicon": "http://www.rbc.cn/_CMS_NEWS_IMG_/1/201712/18/f99c5112-1862-4683-a514-8f643b3aaf3f.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "beijing",
+    "state": "Beijing",
+    "bitrate": 0
+}

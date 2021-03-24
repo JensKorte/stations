@@ -1,0 +1,14 @@
+{
+    "uuid": "9624cea7-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Patmos",
+    "url": "http://46.28.53.118:7011/radio",
+    "homepage": "http://patmos.studio24.fi",
+    "favicon": "http://www.patmos.fi/filebank/na/player_3277_6586-RADIO-PATMOS-radioFI_kopio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "religion",
+    "state": "",
+    "bitrate": 128
+}

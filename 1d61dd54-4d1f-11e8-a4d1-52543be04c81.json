@@ -1,0 +1,14 @@
+{
+    "uuid": "1d61dd54-4d1f-11e8-a4d1-52543be04c81",
+    "name": "MFM",
+    "url": "http://radio.105fm.by:8005/mfm",
+    "homepage": "http://105fm.by/",
+    "favicon": "http://cdn.onlineradiobox.com/img/logo/0/69780.v4.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "hits,80s,90s,pop,rock",
+    "state": "Grodno",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962022df-0601-11e8-ae97-52543be04c81",
+    "name": "KAZU-HD2 Classical Stream - Pacific Grove, CA",
+    "url": "http://icecast.csumb.edu:8000/livehd2high",
+    "homepage": "http://kazu.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kazu/files/201507/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pacific grove,santa cruz,salinas,monterrey,classical,public radio",
+    "state": "California",
+    "bitrate": 128
+}

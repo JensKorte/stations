@@ -1,0 +1,14 @@
+{
+    "uuid": "9608a726-0601-11e8-ae97-52543be04c81",
+    "name": "Radio U1 Tirol",
+    "url": "http://streamplus42.leonex.de:24332/listen.pls",
+    "homepage": "http://www.u1-radio.at/",
+    "favicon": "http://www.u1-radio.at/fileadmin/templates/images/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "",
+    "tags": "",
+    "state": "Tirol",
+    "bitrate": 128
+}

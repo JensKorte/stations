@@ -1,0 +1,14 @@
+{
+    "uuid": "9632b884-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM Disco",
+    "url": "http://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3",
+    "homepage": "http://www.rougefm.com/webradios-disco/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/disco.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "disco",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

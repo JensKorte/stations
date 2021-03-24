@@ -1,0 +1,14 @@
+{
+    "uuid": "220f0cf1-029f-459f-bdee-890995f037b2",
+    "name": "WMR - World Music Radio",
+    "url": "https://stream.probroadcast.dk/wmr",
+    "homepage": "https://www.wmr.dk/#",
+    "favicon": "https://www.wmr.dk/logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "",
+    "tags": "world music",
+    "state": "",
+    "bitrate": 96
+}

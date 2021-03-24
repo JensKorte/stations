@@ -1,0 +1,14 @@
+{
+    "uuid": "96413b42-0601-11e8-ae97-52543be04c81",
+    "name": "Bit Express Digital Radio - Erlangen",
+    "url": "http://streaming.bitexpress.de:8010/heaac",
+    "homepage": "https://www.bitexpress.de/",
+    "favicon": "https://www.bitexpress.de/sites/all/themes/bitx10_website/images/bitexpress.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "erlangen,experimental",
+    "state": "",
+    "bitrate": 0
+}

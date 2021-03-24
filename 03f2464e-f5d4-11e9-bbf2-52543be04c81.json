@@ -1,0 +1,14 @@
+{
+    "uuid": "03f2464e-f5d4-11e9-bbf2-52543be04c81",
+    "name": "SNA Radio",
+    "url": "http://icecast-ruvr.cdnvideo.ru/rian.voicegerhi",
+    "homepage": "https://de.sputniknews.com/radio/",
+    "favicon": "https://de.sputniknews.com//i/sputnik.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "news,talk,[sputnik news],[sat/dab+/web]",
+    "state": "",
+    "bitrate": 0
+}

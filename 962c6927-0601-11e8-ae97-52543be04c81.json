@@ -1,0 +1,14 @@
+{
+    "uuid": "962c6927-0601-11e8-ae97-52543be04c81",
+    "name": "Sea fm",
+    "url": "http://s3.myradiostream.com:4976/listen.pls",
+    "homepage": "http://www.seafm.fi/",
+    "favicon": "http://livetaajuus.fi/media/logos/sea-fm.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

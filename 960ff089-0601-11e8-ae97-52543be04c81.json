@@ -1,0 +1,14 @@
+{
+    "uuid": "960ff089-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Krakow",
+    "url": "http://stream3.nadaje.com:9116/radiokrakow",
+    "homepage": "http://www.radiokrakow.pl/",
+    "favicon": "http://www.radiokrakow.pl/resource/img/favicon-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "local news",
+    "state": "Krakow",
+    "bitrate": 0
+}

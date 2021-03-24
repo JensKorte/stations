@@ -1,0 +1,14 @@
+{
+    "uuid": "96072324-0601-11e8-ae97-52543be04c81",
+    "name": "Raadio Tallinn",
+    "url": "http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3",
+    "homepage": "http://raadiotallinn.err.ee/",
+    "favicon": "http://raadiotallinn.err.ee/gfx/rtlogo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

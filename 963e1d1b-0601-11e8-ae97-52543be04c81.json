@@ -1,0 +1,14 @@
+{
+    "uuid": "963e1d1b-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Estel",
+    "url": "http://srv3021.lcinternet.com:8019/stream",
+    "homepage": "http://www.radioestel.com/",
+    "favicon": "http://www.radioestel.com/imatges/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "christian",
+    "state": "Barcelona",
+    "bitrate": 128
+}

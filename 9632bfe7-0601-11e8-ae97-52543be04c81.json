@@ -1,0 +1,14 @@
+{
+    "uuid": "9632bfe7-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM 80s",
+    "url": "http://rouge-80s.ice.infomaniak.ch/rouge-80s-128.mp3",
+    "homepage": "http://www.rougefm.com/webradios-80/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/80.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "80s",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

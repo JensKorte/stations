@@ -1,0 +1,14 @@
+{
+    "uuid": "54663c94-5a9d-11e8-b0ce-52543be04c81",
+    "name": "8K.NZ",
+    "url": "http://radio8k.out.airtime.pro:8000/radio8k_a.m3u",
+    "homepage": "http://8k.nz/8K/phone/index.html",
+    "favicon": "http://8k.nz/8K/OG/8K-STREAMING-OG8K.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "english",
+    "tags": "indie,community radio,eclectic,freeform",
+    "state": "",
+    "bitrate": 192
+}

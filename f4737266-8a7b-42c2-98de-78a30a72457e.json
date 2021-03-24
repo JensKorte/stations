@@ -1,0 +1,14 @@
+{
+    "uuid": "f4737266-8a7b-42c2-98de-78a30a72457e",
+    "name": "Otvoreni Radio - Chill",
+    "url": "https://stream.otvoreni.hr:443/chill",
+    "homepage": "https://www.otvoreni.hr/",
+    "favicon": "https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "chill,chillout",
+    "state": "Grad Zagreb",
+    "bitrate": 48
+}

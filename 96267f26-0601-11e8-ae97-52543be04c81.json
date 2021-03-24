@@ -1,0 +1,14 @@
+{
+    "uuid": "96267f26-0601-11e8-ae97-52543be04c81",
+    "name": "WRTU 89.7 Radio Universidad de Puerto Rico, San Juan",
+    "url": "http://streaming.radiouniversidad.pr:8062/;",
+    "homepage": "http://www.wrtu.pr/",
+    "favicon": "http://www2.wrtu.pr/wp-content/uploads/2016/04/RUPR-Logo-RU-mayo-2016-medium-web.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "language": "spanish",
+    "tags": "san juan,mayaguez,university radio,public radio",
+    "state": "",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3b3abbc8-4aa4-11e8-9b06-52543be04c81",
+    "name": "Seven FM",
+    "url": "http://streams.sevenfm.nl:8090/live",
+    "homepage": "http://www.sevenfm.nl/",
+    "favicon": "http://www.sevenfm.nl//ui/sevenfm/img/apple-touch-icon-180x180.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "christian rock,christian pop music,christian praise\u0026worship,christian contemporary,christian",
+    "state": "",
+    "bitrate": 0
+}

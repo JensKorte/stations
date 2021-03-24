@@ -1,0 +1,14 @@
+{
+    "uuid": "96129abd-0601-11e8-ae97-52543be04c81",
+    "name": "Raidió Fáilte 107.1fm",
+    "url": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1",
+    "homepage": "http://www.raidiofailte.com/",
+    "favicon": "http://www.raidiofailte.com/wp-content/uploads/2012/11/raidio-failte-logo-fav-icon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "irish",
+    "tags": "irish traditional,belfast",
+    "state": "Northern Ireland",
+    "bitrate": 128
+}

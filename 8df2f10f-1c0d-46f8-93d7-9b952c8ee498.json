@@ -1,0 +1,14 @@
+{
+    "uuid": "8df2f10f-1c0d-46f8-93d7-9b952c8ee498",
+    "name": "Radio Antenna Petrignano",
+    "url": "http://hydra.shoutca.st:8545/stream?type=http\u0026nocache=296",
+    "homepage": "https://www.antennaweb.it",
+    "favicon": "https://antennaweb.it/images/logos/radioantennapetrignano.png",
+    "creation": "2021-03-14 11:10:36",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "english,italian",
+    "tags": "arte,trasimeno,gubbio,ancona,terni,foligno,spoleto,sterpeto,spoleto,palazzo,umbra,bastia,subasio,italia,firenze,roma,umbria,perugia,assisi,petrignano,web,radio,antenna",
+    "state": "UMBRIA",
+    "bitrate": 320
+}

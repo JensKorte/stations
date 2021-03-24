@@ -1,0 +1,14 @@
+{
+    "uuid": "0e2d0b15-0652-4011-a5d7-0b94a85078ad",
+    "name": "Plus Radio CH",
+    "url": "http://stream.laut.fm/plusradio",
+    "homepage": "https://plusradio.ch",
+    "favicon": "https://plusradio.ch/wp-content/uploads/2020/12/PLUSRADIOv2.png",
+    "creation": "2021-02-20 18:30:12",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "english,german,swissgerman",
+    "tags": "",
+    "state": "Romanshorn",
+    "bitrate": 128
+}

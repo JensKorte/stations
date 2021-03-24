@@ -1,0 +1,14 @@
+{
+    "uuid": "9631571c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Touring 104",
+    "url": "http://onair20.xdevel.com:8074/;stream.aac",
+    "homepage": "http://www.touring104.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s16369q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "reggio calabria,pop,talk,news,sport",
+    "state": "Calabria",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "dde70e22-6745-11e9-af37-52543be04c81",
+    "name": "Radio nova",
+    "url": "https://www.nova.ie/radio-player/?pl=vlc\u0026c=Radio%20Nova",
+    "homepage": "https://www.nova.ie/",
+    "favicon": "https://www.nova.ie/wp-content/themes/Newspaper-child/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "80s,rock",
+    "state": "",
+    "bitrate": 128
+}

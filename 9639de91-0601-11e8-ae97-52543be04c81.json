@@ -1,0 +1,14 @@
+{
+    "uuid": "9639de91-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 2 (64 kbit/s)",
+    "url": "http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/64/stream.mp3",
+    "homepage": "https://www.swr.de/swr2/-/id=7576/otnbb1/index.html",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/SWR2.svg/320px-SWR2.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

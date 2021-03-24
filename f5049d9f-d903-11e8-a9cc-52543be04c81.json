@@ -1,0 +1,14 @@
+{
+    "uuid": "f5049d9f-d903-11e8-a9cc-52543be04c81",
+    "name": "Onda Madrid",
+    "url": "http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/bitrate_1.m3u8",
+    "homepage": "http://www.telemadrid.es/onda-madrid/",
+    "favicon": "https://metabolicos.es/wp-content/uploads/2017/09/el-violin-en-onda-madrid-audiciones-comentadas.jpeg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "noticias,actualidad",
+    "state": "Madrid",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960d4f91-0601-11e8-ae97-52543be04c81",
+    "name": "Veronica TOP1000 AllerTijden",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10AAC.aac",
+    "homepage": "http://www.radioveronica.nl",
+    "favicon": "http://www.radioveronica.nl/images/station/logo-top1000allertijden.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "top 1000,pop,classic rock",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "964bdb24-0601-11e8-ae97-52543be04c81",
+    "name": "Модель для сборки",
+    "url": "http://mds-station.com:8000/mds",
+    "homepage": "http://mds-station.com/",
+    "favicon": "http://mds-station.com//ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "рассказы,фантастика,аудиокниги",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "2e02dcee-6ae4-11e9-af37-52543be04c81",
+    "name": "CKBN \"VIA 90.5 FM\" Bécancour, QC",
+    "url": "http://stream.statsradio.com:8056/stream",
+    "homepage": "https://www.via905.fm/",
+    "favicon": "https://www.via905.fm/wp-content/uploads/2018/08/CKBN-Logo-VIA-FAVICON.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "becancour,community radio,radio communitaire",
+    "state": "Quebec",
+    "bitrate": 128
+}

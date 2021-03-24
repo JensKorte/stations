@@ -1,0 +1,14 @@
+{
+    "uuid": "961f3d06-0601-11e8-ae97-52543be04c81",
+    "name": "Valparaíso",
+    "url": "http://200.24.229.253:8250/;stream.nsv",
+    "homepage": "http://www.radiovalparaiso.cl/",
+    "favicon": "http://www.radiovalparaiso.cl/wp-content/uploads/perfil-face.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "news,local news",
+    "state": "Valparaíso",
+    "bitrate": 128
+}

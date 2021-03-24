@@ -1,0 +1,14 @@
+{
+    "uuid": "0d94bbc2-729d-11ea-b1cf-52543be04c81",
+    "name": "Deutschlandfunk Kultur [Opus 64kbit/s]",
+    "url": "https://st02.sslstream.dlf.de/dlf/02/high/opus/stream.opus",
+    "homepage": "https://www.deutschlandfunkkultur.de/",
+    "favicon": "https://www.deutschlandfunkkultur.de//favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "theater,social,kultur,culture,öffentlich-rechtlich,hörspiel,gesellschaft,werbefrei",
+    "state": "",
+    "bitrate": 0
+}

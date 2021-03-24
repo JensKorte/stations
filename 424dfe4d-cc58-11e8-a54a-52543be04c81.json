@@ -1,0 +1,14 @@
+{
+    "uuid": "424dfe4d-cc58-11e8-a54a-52543be04c81",
+    "name": "RZK",
+    "url": "http://stream.mjoy.ua:8000/rzk-aac",
+    "homepage": "http://mjoy.ua/radio/rzk/",
+    "favicon": "http://mjoy.ua/radio/rzk/favicons/fav.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "alternative,rock",
+    "state": "",
+    "bitrate": 0
+}

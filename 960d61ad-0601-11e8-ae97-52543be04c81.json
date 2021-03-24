@@ -1,0 +1,14 @@
+{
+    "uuid": "960d61ad-0601-11e8-ae97-52543be04c81",
+    "name": "UIS AM (HJR33, 670 kHz AM, Bucaramanga) Universidad Industrial de Santander",
+    "url": "http://emisoras.uis.edu.co:8000/mp3am",
+    "homepage": "http://emisoras.uis.edu.co",
+    "favicon": "http://emisoras.uis.edu.co/Stream%20Radio%20UIS_files/PAGINAS_RADIO_UIS_06.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "bucaramanga,college radio,university radio",
+    "state": "Sanyander",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9645e950-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Amore Campania",
+    "url": "http://onair11.xdevel.com:8002/;stream.mp3",
+    "homepage": "http://www.radioamore.it/",
+    "favicon": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "napoli,adult contemporary,gruppo radio amore",
+    "state": "Campania",
+    "bitrate": 128
+}

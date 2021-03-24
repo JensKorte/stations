@@ -1,0 +1,14 @@
+{
+    "uuid": "960bd565-0601-11e8-ae97-52543be04c81",
+    "name": "CJMI 105.7 \"myFM\" Strathroy, ON",
+    "url": "http://ice23.securenetsystems.net:80/MYFM",
+    "homepage": "http://www.strathroytoday.ca/",
+    "favicon": "http://www.myfmradio.ca/myfmradio.ca.hyperesources/Strathroy%201.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "strathroy,adult contemporary,commercial",
+    "state": "Ontario",
+    "bitrate": 32
+}

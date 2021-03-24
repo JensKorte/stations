@@ -1,0 +1,14 @@
+{
+    "uuid": "67a82a8c-9b4c-415f-a07a-9ec46c3e7d2c",
+    "name": "Українське радіо. Перший канал. (128 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-mp3-m",
+    "homepage": "http://ukr.radio/1channel_about",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "news",
+    "state": "Kyiv",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96423ff1-0601-11e8-ae97-52543be04c81",
+    "name": "1 Rock Bulgaria",
+    "url": "http://31.13.223.148:8000/1_rock.mp3",
+    "homepage": "http://www.radio1rock.bg/",
+    "favicon": "http://www.radio1rock.bg//themes/radio1rock/images/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian,english",
+    "tags": "rock",
+    "state": "Sofia",
+    "bitrate": 0
+}

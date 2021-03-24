@@ -1,0 +1,14 @@
+{
+    "uuid": "c3ae99cc-4d56-11e8-a4d1-52543be04c81",
+    "name": "Hunan Satellite TV",
+    "url": "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8",
+    "homepage": "http://www.mgtv.com/",
+    "favicon": "http://www.mgtv.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,hunan",
+    "state": "Hunan",
+    "bitrate": 0
+}

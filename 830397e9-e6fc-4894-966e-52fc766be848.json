@@ -1,0 +1,14 @@
+{
+    "uuid": "830397e9-e6fc-4894-966e-52fc766be848",
+    "name": "Radio Płock FM",
+    "url": "http://radia2.inten.pl:8006",
+    "homepage": "https://plock.fm/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "płock",
+    "state": "mazowieckie",
+    "bitrate": 128
+}

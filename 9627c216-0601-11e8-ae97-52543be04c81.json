@@ -1,0 +1,14 @@
+{
+    "uuid": "9627c216-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Salü in the Mix",
+    "url": "http://internetradio.salue.de:8000/channel1",
+    "homepage": "http://www.salue.de",
+    "favicon": "http://www.salue.de/musik/webradio/in-the-mix/logo-280.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "hits",
+    "state": "Saarland",
+    "bitrate": 0
+}

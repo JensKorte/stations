@@ -1,0 +1,14 @@
+{
+    "uuid": "96373d9b-0601-11e8-ae97-52543be04c81",
+    "name": "Tropicalisima FM Salsa",
+    "url": "http://tropicalisima.org:8020/stream",
+    "homepage": "http://tropicalisima.fm/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s108725q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "spanish",
+    "tags": "ridgewood,salsa",
+    "state": "New York",
+    "bitrate": 128
+}

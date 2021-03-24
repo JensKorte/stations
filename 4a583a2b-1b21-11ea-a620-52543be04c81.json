@@ -1,0 +1,14 @@
+{
+    "uuid": "4a583a2b-1b21-11ea-a620-52543be04c81",
+    "name": "CBC Raio 1 Montreal",
+    "url": "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8",
+    "homepage": "https://www.cbc.ca/listen/live/radio1/montreal",
+    "favicon": "http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french,english",
+    "tags": "economic news,cultural news,entertainment,quebec,montreal,sports news,local news,news",
+    "state": "Quebec",
+    "bitrate": 46
+}

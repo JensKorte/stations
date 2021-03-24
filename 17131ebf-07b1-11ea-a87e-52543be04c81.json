@@ -1,0 +1,14 @@
+{
+    "uuid": "17131ebf-07b1-11ea-a87e-52543be04c81",
+    "name": "WVTF Music",
+    "url": "https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio",
+    "homepage": "https://www.wvtf.org/",
+    "favicon": "https://www.wvtf.org//sites/all/themes/pilot/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "npr,classical,world music,music",
+    "state": "Virginia",
+    "bitrate": 56
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "01bdca7a-082d-4363-a366-927691eb5328",
+    "name": "Arabica TV",
+    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "homepage": "http://arabicagroup.tv/",
+    "favicon": "http://arabicagroup.tv/images/app1.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "language": "arabic",
+    "tags": "",
+    "state": "",
+    "bitrate": 2392
+}

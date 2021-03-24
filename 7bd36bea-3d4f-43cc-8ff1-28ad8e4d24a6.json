@@ -1,0 +1,14 @@
+{
+    "uuid": "7bd36bea-3d4f-43cc-8ff1-28ad8e4d24a6",
+    "name": "Radio Čas",
+    "url": "http://icecast6.play.cz/casradio128.mp3",
+    "homepage": "https://casradio.cz/",
+    "favicon": "https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "oldies,regional,pop",
+    "state": "Ostrava",
+    "bitrate": 0
+}

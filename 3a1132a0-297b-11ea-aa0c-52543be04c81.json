@@ -1,0 +1,14 @@
+{
+    "uuid": "3a1132a0-297b-11ea-aa0c-52543be04c81",
+    "name": "Radio Melody",
+    "url": "https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3",
+    "homepage": "https://www.radiomelody.ch",
+    "favicon": "https://www.radiomelody.ch/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german,swiss german",
+    "tags": "folk,oldies,schlager",
+    "state": "St. Gallen",
+    "bitrate": 128
+}

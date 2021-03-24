@@ -1,0 +1,14 @@
+{
+    "uuid": "96366cbf-0601-11e8-ae97-52543be04c81",
+    "name": "NDR 1 Niedersachsen (OS)",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_os.m3u",
+    "homepage": "http://www.ndr1niedersachsen.de",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/ndr_ndr1_ns.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies",
+    "state": "Lower Saxony",
+    "bitrate": 0
+}

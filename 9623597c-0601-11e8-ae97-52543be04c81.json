@@ -1,0 +1,14 @@
+{
+    "uuid": "9623597c-0601-11e8-ae97-52543be04c81",
+    "name": "Balaton Rádió",
+    "url": "http://91.82.85.41:8200/;",
+    "homepage": "http://www.balatonfm.hu/",
+    "favicon": "http://www.balatonfm.hu///templates/br14/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop",
+    "state": "Somogy",
+    "bitrate": 192
+}

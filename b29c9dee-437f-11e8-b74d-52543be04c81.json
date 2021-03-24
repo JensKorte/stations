@@ -1,0 +1,14 @@
+{
+    "uuid": "b29c9dee-437f-11e8-b74d-52543be04c81",
+    "name": "Nova Brasil FM Birigui, SP (ZYK697, 90,1 MHz)",
+    "url": "http://20323.live.streamtheworld.com:3690/NOVABRASIL_SPAAC.aac?tdsdk=js-2.9\u0026pname=TDSdk\u0026pversion=2.9\u0026banners=none\u0026sbmid=a9f7f3cf-2478-4c3e-8264-7b1660ae9554",
+    "homepage": "http://birigui.novabrasilfm.com.br/",
+    "favicon": "https://s3-us-west-1.amazonaws.com/nbfm/logos/logo_green_bi.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "music,brazilian pop,birigui,brazilian music,mpb",
+    "state": "São Paulo",
+    "bitrate": 48
+}

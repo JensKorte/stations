@@ -1,0 +1,14 @@
+{
+    "uuid": "8b78046f-2a55-4a50-a210-e6706669ff0b",
+    "name": "105.9 FM WMAL",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFMAAC.aac",
+    "homepage": "https://www.wmal.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WMAL.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Woodbridge VA",
+    "bitrate": 48
+}

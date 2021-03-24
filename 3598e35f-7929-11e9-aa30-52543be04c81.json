@@ -1,0 +1,14 @@
+{
+    "uuid": "3598e35f-7929-11e9-aa30-52543be04c81",
+    "name": "CHOD \"FM 92.1 Cornwall, ON",
+    "url": "http://stream2.statsradio.com:8032/live",
+    "homepage": "https://www.fm921.ca/",
+    "favicon": "https://www.fm921.ca/upload/design/5c9bbca66daff4.34114020.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "cornwall,radio communitaire,community radio",
+    "state": "Ontario",
+    "bitrate": 128
+}

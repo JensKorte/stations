@@ -1,0 +1,14 @@
+{
+    "uuid": "917a377d-7866-11e9-aa30-52543be04c81",
+    "name": "All Oldies Channel",
+    "url": "http://radio.alloldieschannel.com:8000/stream",
+    "homepage": "https://www.alloldieschannel.com",
+    "favicon": "https://www.alloldieschannel.com/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "oldies,pop,rock,folk",
+    "state": "Noord Brabant",
+    "bitrate": 192
+}

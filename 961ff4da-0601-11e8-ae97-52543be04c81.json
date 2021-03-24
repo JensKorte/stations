@@ -1,0 +1,14 @@
+{
+    "uuid": "961ff4da-0601-11e8-ae97-52543be04c81",
+    "name": "Kill Radio - Los Angeles, CA",
+    "url": "http://killradio.org:8000/killradio64.mp3.m3u",
+    "homepage": "http://www.killradio.org/",
+    "favicon": "http://www.killradio.org/KR_logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "los angeles,indie,eclectic",
+    "state": "California",
+    "bitrate": 128
+}

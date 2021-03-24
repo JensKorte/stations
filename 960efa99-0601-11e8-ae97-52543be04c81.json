@@ -1,0 +1,14 @@
+{
+    "uuid": "960efa99-0601-11e8-ae97-52543be04c81",
+    "name": "Reboot FM",
+    "url": "http://panel.klubradio.de/tunein.php/rebootfm/playlist.pls",
+    "homepage": "http://reboot.fm/",
+    "favicon": "http://reboot.fm/wp-content/themes/neutica-theme-109/neutica/img/reboot.fm.yellow.horizontal.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "experimental,electronic",
+    "state": "Berlin",
+    "bitrate": 192
+}

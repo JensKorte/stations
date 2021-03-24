@@ -1,0 +1,14 @@
+{
+    "uuid": "963e34cd-0601-11e8-ae97-52543be04c81",
+    "name": "Antena 1 Fado (RTP)",
+    "url": "http://radiocast.rtp.pt/antena1fado80a.mp3",
+    "homepage": "https://www.rtp.pt/play/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s157568d.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "fado",
+    "state": "Lisbon",
+    "bitrate": 0
+}

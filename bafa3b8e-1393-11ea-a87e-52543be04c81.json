@@ -1,0 +1,14 @@
+{
+    "uuid": "bafa3b8e-1393-11ea-a87e-52543be04c81",
+    "name": "BALATONICA RADIO",
+    "url": "http://balatonica.hu:8000/stream_high",
+    "homepage": "http://www.balatonica.hu/",
+    "favicon": "http://www.balatonica.hu//themes/2017/assets/ico/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "magyar",
+    "tags": "lounge,chillout",
+    "state": "",
+    "bitrate": 160
+}

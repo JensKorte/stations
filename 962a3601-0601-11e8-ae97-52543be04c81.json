@@ -1,0 +1,14 @@
+{
+    "uuid": "962a3601-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Vegit",
+    "url": "http://hyades.shoutca.st:8475/radiovegit_mp3",
+    "homepage": "http://www.radioveg.it/",
+    "favicon": "http://www.radioveg.it/images/logo-player.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "milano,pop,talk",
+    "state": "Lombardia",
+    "bitrate": 96
+}

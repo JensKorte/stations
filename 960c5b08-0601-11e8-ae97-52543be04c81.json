@@ -1,0 +1,14 @@
+{
+    "uuid": "960c5b08-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 1 BW",
+    "url": "http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3",
+    "homepage": "http://www.swr.de/swr1/bw/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/swr__swr1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies,pop",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

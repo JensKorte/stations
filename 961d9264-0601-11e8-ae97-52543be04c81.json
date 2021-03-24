@@ -1,0 +1,14 @@
+{
+    "uuid": "961d9264-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Brcko District",
+    "url": "http://91.191.0.45:8000/listen.pls",
+    "homepage": "http://www.radio-brcko.co.ba",
+    "favicon": "http://www.radio-brcko.co.ba/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Bosnia And Herzegovina",
+    "country_code": "BA",
+    "language": "bosnian",
+    "tags": "information,music",
+    "state": "",
+    "bitrate": 64
+}

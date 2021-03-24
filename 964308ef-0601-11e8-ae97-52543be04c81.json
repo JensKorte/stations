@@ -1,0 +1,14 @@
+{
+    "uuid": "964308ef-0601-11e8-ae97-52543be04c81",
+    "name": "CHLX \"WOW 97.1 Gatineau, QC (MP3)",
+    "url": "http://icecast-chlx.rncm.ca/chlx.mp3",
+    "homepage": "https://wowfm.ca/",
+    "favicon": "https://s3musictemplates.rncm.ca/chlx/LogoWowChlx1000.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "gatineau,ottawa,pop,top 40",
+    "state": "Quebec",
+    "bitrate": 128
+}

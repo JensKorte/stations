@@ -1,0 +1,14 @@
+{
+    "uuid": "3a6c23c0-a1b5-4b68-b1f6-0a6395423035",
+    "name": "Play Radio Soft",
+    "url": "https://stream.playradio.rs:8443/play.mp3",
+    "homepage": "https://playradio.rs/",
+    "favicon": "https://playradio.rs/images/playlogo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian,english",
+    "tags": "radioplay,soft music,belgrade,music",
+    "state": "",
+    "bitrate": 128
+}

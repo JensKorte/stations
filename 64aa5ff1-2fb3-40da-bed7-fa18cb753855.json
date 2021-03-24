@@ -1,0 +1,14 @@
+{
+    "uuid": "64aa5ff1-2fb3-40da-bed7-fa18cb753855",
+    "name": "Русское Радио Україна 98.5",
+    "url": "http://online.rusradio.ua/RusRadio",
+    "homepage": "https://www.rusradio.ua/",
+    "favicon": "https://static.rusradio.ua/rusradio/img/main_site/site_logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 128
+}

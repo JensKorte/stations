@@ -1,0 +1,14 @@
+{
+    "uuid": "963122af-0601-11e8-ae97-52543be04c81",
+    "name": "DBS Radio 88.1 Roseau",
+    "url": "http://dbsradio.primcast.com:6930/;",
+    "homepage": "http://listen.dbcradio.net/",
+    "favicon": "http://listen.dbcradio.net/wp-content/uploads/2015/11/dbs-fav.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Dominica",
+    "country_code": "DM",
+    "language": "english",
+    "tags": "roseau,news features,local news,news",
+    "state": "",
+    "bitrate": 96
+}

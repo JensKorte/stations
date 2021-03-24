@@ -1,0 +1,14 @@
+{
+    "uuid": "9641b4d8-0601-11e8-ae97-52543be04c81",
+    "name": "Folkradio.ru",
+    "url": "http://37.9.134.96:8000/stream/4/",
+    "homepage": "http://www.folkradio.ru/",
+    "favicon": "http://folkradio.ru/site.head/logo1.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "country music,folk music,folk,celtic",
+    "state": "Saint-Petersburg",
+    "bitrate": 128
+}

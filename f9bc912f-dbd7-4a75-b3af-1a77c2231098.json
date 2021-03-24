@@ -1,0 +1,14 @@
+{
+    "uuid": "f9bc912f-dbd7-4a75-b3af-1a77c2231098",
+    "name": "ORF Radio Kärnten",
+    "url": "http://ors-sn02.ors-shoutcast.at/ktn-q1a",
+    "homepage": "https://kaernten.orf.at/radio",
+    "favicon": "http://www.orf.at/mojo/1_1/storyserver/common/ms-metro-icon.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "de",
+    "tags": "orf,public radio,regional radio",
+    "state": "",
+    "bitrate": 0
+}

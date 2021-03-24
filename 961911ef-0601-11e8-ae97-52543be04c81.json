@@ -1,0 +1,14 @@
+{
+    "uuid": "961911ef-0601-11e8-ae97-52543be04c81",
+    "name": "Ultra FM",
+    "url": "http://centova.radio.com.pt:9506/;",
+    "homepage": "http://www.ultrafm.pt/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s87852q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "oldies,gospel,mix",
+    "state": "Lisbon",
+    "bitrate": 128
+}

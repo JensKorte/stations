@@ -1,0 +1,14 @@
+{
+    "uuid": "9611de16-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Salzburg",
+    "url": "http://streamplus20.leonex.de:24950",
+    "homepage": "http://antennesalzburg.oe24.at/",
+    "favicon": "http://images01.oe24.at/images/layout/antenne/logo_salzburg.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

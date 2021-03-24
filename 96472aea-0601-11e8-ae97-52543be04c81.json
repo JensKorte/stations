@@ -1,0 +1,14 @@
+{
+    "uuid": "96472aea-0601-11e8-ae97-52543be04c81",
+    "name": "XHCMS-FM \"Imagen 105.5\" Mexicali, BC",
+    "url": "http://mexicali.radio.wnsol.com:8340/;stream.mp3",
+    "homepage": "http://www.imagenmexicali.mx/",
+    "favicon": "http://www.imagenmexicali.mx/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "news talk,mexicali",
+    "state": "Baja California",
+    "bitrate": 128
+}

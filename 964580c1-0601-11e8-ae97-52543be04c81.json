@@ -1,0 +1,14 @@
+{
+    "uuid": "964580c1-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - 80s - Der  80er Channel",
+    "url": "http://streams.fluxfm.de/80er/aac-64/streams.fluxfm.de/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2014/02/80s_2_ohneclaim.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "80s",
+    "state": "Berlin",
+    "bitrate": 64
+}

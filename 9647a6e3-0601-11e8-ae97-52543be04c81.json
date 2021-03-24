@@ -1,0 +1,14 @@
+{
+    "uuid": "9647a6e3-0601-11e8-ae97-52543be04c81",
+    "name": "Business News Network Audio Channel",
+    "url": "http://provisioning.streamtheworld.com/pls/TV_BNNAAC.pls",
+    "homepage": "http://www.bnn.ca/",
+    "favicon": "http://www.bnn.ca//img/bnn/icons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "business programs,business news",
+    "state": "Ontario",
+    "bitrate": 40
+}

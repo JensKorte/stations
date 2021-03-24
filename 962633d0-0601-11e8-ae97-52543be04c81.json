@@ -1,0 +1,14 @@
+{
+    "uuid": "962633d0-0601-11e8-ae97-52543be04c81",
+    "name": "Siouxland Public Radio (KWIT, KOJI)",
+    "url": "http://playerservices.streamtheworld.com/m3u/KWITFM.m3u",
+    "homepage": "http://kwit.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kwit/files/201511/kwit-logo-2016-1_0.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "npr,public radio",
+    "state": "Iowa",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c46a3e1d-f1cc-457b-a4cd-2d9d1371a64b",
+    "name": "90.5 WASU FM The App",
+    "url": "https://live.wostreaming.net/manifest/wasu-wasuaac-ibc1",
+    "homepage": "https://www.wasuradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WASU-FM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "college radio",
+    "state": "Boone NC",
+    "bitrate": 64
+}

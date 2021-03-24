@@ -1,0 +1,14 @@
+{
+    "uuid": "4f2c60ee-227d-4f8a-8327-b53190e51a77",
+    "name": "Play Radio Party",
+    "url": "https://stream.playradio.rs:8443/party.mp3",
+    "homepage": "https://playradio.rs/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian,english",
+    "tags": "party,english,serbia",
+    "state": "",
+    "bitrate": 128
+}

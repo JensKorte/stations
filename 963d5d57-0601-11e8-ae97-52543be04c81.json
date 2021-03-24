@@ -1,0 +1,14 @@
+{
+    "uuid": "963d5d57-0601-11e8-ae97-52543be04c81",
+    "name": "R7P Ràdio",
+    "url": "http://streaming3.radiocat.net:80/",
+    "homepage": "http://www.cadenapirenaica.com/web/cadena-pirenaica-radio-i-televisio/els-nostres-mitjans/radio/#r7p",
+    "favicon": "http://www.cadenapirenaica.com/web/wp-content/uploads/2014/10/r7p-rac-1-exp-300x202.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Andorra",
+    "country_code": "AD",
+    "language": "catalan",
+    "tags": "talk,news",
+    "state": "",
+    "bitrate": 48
+}

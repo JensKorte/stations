@@ -1,0 +1,14 @@
+{
+    "uuid": "f8722251-47c2-45db-a452-9e7e6cd688c0",
+    "name": "Ràdio Sabadell",
+    "url": "http://online.radiosabadell.fm:8013/stream",
+    "homepage": "https://radiosabadell.fm/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,catalan",
+    "tags": "sabadell",
+    "state": "Catalunya",
+    "bitrate": 96
+}

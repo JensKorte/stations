@@ -1,0 +1,14 @@
+{
+    "uuid": "e822ed30-1b14-4a90-906f-a1267e3d761d",
+    "name": "Rádio Observador",
+    "url": "http://195.23.85.126:8455/listen.pls?sid=1",
+    "homepage": "https://observador.pt/",
+    "favicon": "https://observador.pt/wp-content/themes/observador-child/assets/build/img/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "",
+    "state": "Lisbon",
+    "bitrate": 128
+}

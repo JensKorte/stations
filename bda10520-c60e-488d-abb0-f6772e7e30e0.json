@@ -1,0 +1,14 @@
+{
+    "uuid": "bda10520-c60e-488d-abb0-f6772e7e30e0",
+    "name": "Radio Universidad Tecnica Federico Santa Maria (Valparaiso, Chile)",
+    "url": "https://streamssl.eu:1288/stream",
+    "homepage": "https://radio.usm.cl/",
+    "favicon": "https://www.usm.cl//assets/img/icon/favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish,español latino",
+    "tags": "concert,classical",
+    "state": "Valparaíso",
+    "bitrate": 128
+}

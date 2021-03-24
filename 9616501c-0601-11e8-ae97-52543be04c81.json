@@ -1,0 +1,14 @@
+{
+    "uuid": "9616501c-0601-11e8-ae97-52543be04c81",
+    "name": "KWVA 88.1 University of Oregon - Eugene, OR",
+    "url": "http://kwvaradio.uoregon.edu:8000/listen.pls?sid=1",
+    "homepage": "http://kwva.uoregon.edu/",
+    "favicon": "http://kwva.uoregon.edu/wp-content/themes/wp-kwva/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "eugene,freeform,university radio",
+    "state": "Oregon",
+    "bitrate": 128
+}

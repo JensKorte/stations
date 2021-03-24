@@ -1,0 +1,14 @@
+{
+    "uuid": "56d1e749-7313-11e8-83fa-52543be04c81",
+    "name": "Newsmax TV",
+    "url": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8",
+    "homepage": "http://www.newsmaxtv.com",
+    "favicon": "http://www.newsmaxtv.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "hls video",
+    "state": "New York",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7ec365b0-7b3c-11ea-8a3b-52543be04c81",
+    "name": "Chocolate FM HD",
+    "url": "http://streaming5.elitecomunicacion.es:8030/live.mp3",
+    "homepage": "https://www.chocolatefm.com",
+    "favicon": "https://chocolatefm.com/radio-browser-hd.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "hd,chr,pop,top 40,español,latin,reggaeton,pop latino,latino,dance,trap,latin music",
+    "state": "",
+    "bitrate": 320
+}

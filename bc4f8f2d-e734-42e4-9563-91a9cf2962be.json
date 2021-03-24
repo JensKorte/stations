@@ -1,0 +1,14 @@
+{
+    "uuid": "bc4f8f2d-e734-42e4-9563-91a9cf2962be",
+    "name": "ATOS [AAC]",
+    "url": "http://atosradio.com:8001/stream/3/",
+    "homepage": "https://atosradio.org/",
+    "favicon": "https://atosradio.org/atosradio/landing_files/atos_radio-fulla.jpg",
+    "creation": "2021-02-24 14:45:41",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "organ",
+    "state": "",
+    "bitrate": 128
+}

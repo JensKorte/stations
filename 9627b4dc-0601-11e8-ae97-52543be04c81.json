@@ -1,0 +1,14 @@
+{
+    "uuid": "9627b4dc-0601-11e8-ae97-52543be04c81",
+    "name": "Radio L'Olgiata BalloBello",
+    "url": "http://188.165.192.5:8064/stream",
+    "homepage": "http://www.radiololgiata.net/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s163981q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "dance",
+    "state": "Lazio",
+    "bitrate": 128
+}

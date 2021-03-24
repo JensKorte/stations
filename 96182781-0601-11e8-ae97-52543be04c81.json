@@ -1,0 +1,14 @@
+{
+    "uuid": "96182781-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Regenbogen - Top40",
+    "url": "http://scast.regenbogen.de/top40-128-mp3",
+    "homepage": "http://www.regenbogen.de/",
+    "favicon": "http://cdn.regenbogen.de//sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961b5efc-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Wroclaw Kultura",
+    "url": "http://stream4.nadaje.com:9230/rwkultura",
+    "homepage": "http://www.radiowroclawkultura.pl/",
+    "favicon": "http://www.radiowroclawkultura.pl/images/RKLogo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "cultural",
+    "state": "Wroclaw",
+    "bitrate": 0
+}

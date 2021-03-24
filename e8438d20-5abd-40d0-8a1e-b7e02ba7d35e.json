@@ -1,0 +1,14 @@
+{
+    "uuid": "e8438d20-5abd-40d0-8a1e-b7e02ba7d35e",
+    "name": "MIX Cancún - 93.1 FM - XHYI-FM - Grupo ACIR - Cancún, QR",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHYIFMAAC.aac",
+    "homepage": "https://www.iheart.com/live/mix-931-8108/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/c6d5e262-600f-457d-b681-b8b4da6f40d1?ops=fit(240%2C240)",
+    "creation": "2021-02-28 06:09:30",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "580,pop,2010s,2000s,90s,80s,80s,90s y más,mx,mex,méxico,quintana roo,cancún,am,580 am,93.1,93.1 fm,fm,estación,radio,acir,grupo acir,mix,mix fm",
+    "state": "Quintana Roo",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "01e968c1-c4bc-11e8-aaf2-52543be04c81",
+    "name": "Rai Radio Classica (AAC 128kbps)",
+    "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832",
+    "homepage": "http://www.radiofd5.rai.it/",
+    "favicon": "https://www.raiplayradio.it/dl/components/img/radio/loghi/radioclassica.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "public radio,rai,classical",
+    "state": "Lazio",
+    "bitrate": 125
+}

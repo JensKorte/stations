@@ -1,0 +1,14 @@
+{
+    "uuid": "963e4452-0601-11e8-ae97-52543be04c81",
+    "name": "Antena 1 Açores (RTP)",
+    "url": "http://radiocast.rtp.pt/antena1acores80a.mp3",
+    "homepage": "https://www.rtp.pt/play/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s2549d.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "local news,podcast,local music,live sports",
+    "state": "Lisbon",
+    "bitrate": 0
+}

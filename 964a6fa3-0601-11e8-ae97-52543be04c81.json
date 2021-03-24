@@ -1,0 +1,14 @@
+{
+    "uuid": "964a6fa3-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 88 Partille",
+    "url": "http://62.209.164.60:8000/mp128.mp3",
+    "homepage": "http://www.radio88partille.se/",
+    "favicon": "http://www.radio88partille.se/sites/default/files/radio88-hemsida.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

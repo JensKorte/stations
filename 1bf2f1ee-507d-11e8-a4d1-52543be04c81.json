@@ -1,0 +1,14 @@
+{
+    "uuid": "1bf2f1ee-507d-11e8-a4d1-52543be04c81",
+    "name": "Bloomberg TV",
+    "url": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8",
+    "homepage": "https://www.bloomberg.com/live/europe",
+    "favicon": "https://assets.bwbx.io/s3/multimedia/public/app/images/favicons/apple-touch-icon-57x57-b572ef8093.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 0
+}

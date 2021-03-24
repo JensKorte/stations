@@ -1,0 +1,14 @@
+{
+    "uuid": "b35d9d1a-a4b8-11e9-a787-52543be04c81",
+    "name": "LCI",
+    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_496.m3u8",
+    "homepage": "https://www.lci.fr/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/8/85/LCI.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "",
+    "tags": "news",
+    "state": "",
+    "bitrate": 0
+}

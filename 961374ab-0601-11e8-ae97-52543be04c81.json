@@ -1,0 +1,14 @@
+{
+    "uuid": "961374ab-0601-11e8-ae97-52543be04c81",
+    "name": "Radio U - Radio Campus Brest",
+    "url": "http://icecast.infini.fr:8000/radiou.mp3",
+    "homepage": "http://www.radio-u.org/",
+    "favicon": "http://www.radio-u.org/images/logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "campus radio",
+    "state": "Bretagne",
+    "bitrate": 320
+}

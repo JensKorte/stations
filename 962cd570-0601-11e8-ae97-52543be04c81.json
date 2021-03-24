@@ -1,0 +1,14 @@
+{
+    "uuid": "962cd570-0601-11e8-ae97-52543be04c81",
+    "name": "Latvijas Radio 2",
+    "url": "http://lr2mp1.latvijasradio.lv:8002/;",
+    "homepage": "http://lr2.lsm.lv/lv/lr2/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "public radio,pop,latvijas radio",
+    "state": "",
+    "bitrate": 128
+}

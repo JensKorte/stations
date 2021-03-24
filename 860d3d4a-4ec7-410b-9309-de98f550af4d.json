@@ -1,0 +1,14 @@
+{
+    "uuid": "860d3d4a-4ec7-410b-9309-de98f550af4d",
+    "name": "RPR1. Lounge (Traumfabrik)",
+    "url": "http://streams.rpr1.de/lounge-128-mp3",
+    "homepage": "https://www.rpr1.de/webradio/traumfabrik",
+    "favicon": "https://static.radio.at/images/broadcasts/32/28/37744/5/c300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,german",
+    "tags": "hits,lounge,pop,traumfabrik",
+    "state": "Rheinland-Pfalz",
+    "bitrate": 128
+}

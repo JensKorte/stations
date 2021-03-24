@@ -1,0 +1,14 @@
+{
+    "uuid": "431d4050-ee95-11e9-a96c-52543be04c81",
+    "name": "Mindalia Voz Buenos Aires",
+    "url": "http://188.165.131.13:7007/live",
+    "homepage": "http://www.mindaliaradio.com/escucha-mindalia-radio-voz/",
+    "favicon": "http://www.mindaliaradio.com/wp-content/uploads/mindalia-radio-voz-cabecera.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "information,science,talk,spiritual",
+    "state": "Buenos Aires",
+    "bitrate": 128
+}

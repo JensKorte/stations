@@ -1,0 +1,14 @@
+{
+    "uuid": "ae50bd4e-6975-11e9-af37-52543be04c81",
+    "name": "Radio 1",
+    "url": "http://stream2.radio1.hu/high.mp3",
+    "homepage": "http://www.radio1.hu/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/52/Radio1.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungary",
+    "tags": "",
+    "state": "Free",
+    "bitrate": 320
+}

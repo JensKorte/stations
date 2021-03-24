@@ -1,0 +1,14 @@
+{
+    "uuid": "961222db-0601-11e8-ae97-52543be04c81",
+    "name": "Offradio",
+    "url": "http://s3.yesstreaming.net:2199/tunein/offradio.pls",
+    "homepage": "http://www.offradio.gr/",
+    "favicon": "http://www.offradio.gr/sites/all/themes/offradio_theme/facebook.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "",
+    "tags": "variety",
+    "state": "",
+    "bitrate": 0
+}

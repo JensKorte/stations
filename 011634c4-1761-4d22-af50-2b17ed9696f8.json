@@ -1,0 +1,14 @@
+{
+    "uuid": "011634c4-1761-4d22-af50-2b17ed9696f8",
+    "name": "FM Globo Tijuana - 99.3 FM - XHOCL-FM - MVS Radio - Tijuana, BC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCLAAC.aac",
+    "homepage": "https://www.fmglobo.com/tijuana/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5f985f748c6781b794265f8e?ops=fit(240%2C240)",
+    "creation": "2021-03-01 02:15:03",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "pop en español,balada en español,balada,baladas en español,baladas,romántica,mex,mx,méxico,baja california,tijuana,radio,fm,99.3 fm,99.3,mvs,mvs radio,fm globo",
+    "state": "Baja California",
+    "bitrate": 48
+}

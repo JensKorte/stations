@@ -1,0 +1,14 @@
+{
+    "uuid": "b809226c-eb82-11e9-a96c-52543be04c81",
+    "name": "FIP Electro",
+    "url": "http://icecast.radiofrance.fr/fipelectro-hifi.aac",
+    "homepage": "https://www.fip.fr/electro/webradio",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/29044099-6469-4f2f-845c-54e607179806/200x200_fip-electro-ok.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,electro,public radio,aac",
+    "state": "",
+    "bitrate": 0
+}

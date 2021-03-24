@@ -1,0 +1,14 @@
+{
+    "uuid": "b75aafd8-33b6-11e8-bb9b-52543be04c81",
+    "name": "Caracol Radio Barranquilla (HJAT, 1100 kHz AM / HJQU, 90.1 MHz FM)",
+    "url": "http://17973.live.streamtheworld.com:3690/CR_BARRANQ_SC",
+    "homepage": "http://caracol.com.co/emisora/barranquilla",
+    "favicon": "http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "culture,live sports,sports news,local talk,local news,news,full service",
+    "state": "Atlántico",
+    "bitrate": 96
+}

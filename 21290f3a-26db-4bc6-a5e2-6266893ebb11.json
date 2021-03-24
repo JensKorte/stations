@@ -1,0 +1,14 @@
+{
+    "uuid": "21290f3a-26db-4bc6-a5e2-6266893ebb11",
+    "name": "Classical KUSC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCAAC64.aac",
+    "homepage": "https://www.kusc.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/Classical KUSC.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical",
+    "state": "Los Angeles CA",
+    "bitrate": 64
+}

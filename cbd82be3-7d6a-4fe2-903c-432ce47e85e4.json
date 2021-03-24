@@ -1,0 +1,14 @@
+{
+    "uuid": "cbd82be3-7d6a-4fe2-903c-432ce47e85e4",
+    "name": "БНР – Радио Стара Загора",
+    "url": "http://stream.bnr.bg:8034/radio-stara-zagora.aac",
+    "homepage": "https://bnr.bg/starazagora",
+    "favicon": "https://bnr.bg/img/logos/starazagora.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "български,bulgarian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

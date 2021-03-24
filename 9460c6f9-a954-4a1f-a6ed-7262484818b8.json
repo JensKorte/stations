@@ -1,0 +1,14 @@
+{
+    "uuid": "9460c6f9-a954-4a1f-a6ed-7262484818b8",
+    "name": "Radio 1",
+    "url": "http://icecast6.play.cz/radio1-128.mp3",
+    "homepage": "https://www.radio1.cz/",
+    "favicon": "https://www.radio1.cz/media/images/design/radio1-logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "hip-hop,electronica,beats,pop,house,indie,rock,electronic",
+    "state": "Prague",
+    "bitrate": 0
+}

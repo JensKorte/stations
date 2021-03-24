@@ -1,0 +1,14 @@
+{
+    "uuid": "f7c3e272-6632-46e8-a3ae-9265f94af020",
+    "name": "Radio 3Net",
+    "url": "http://media.3netmedia.ro:8000/Live128.m3u",
+    "homepage": "http://www.radio3net.ro/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "classic rock,folk",
+    "state": "",
+    "bitrate": 0
+}

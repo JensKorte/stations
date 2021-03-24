@@ -1,0 +1,14 @@
+{
+    "uuid": "96243c62-0601-11e8-ae97-52543be04c81",
+    "name": "WAYO-LP 104.3 Rochester, NY",
+    "url": "http://streaming.wayofm.org:8000/wayo-192",
+    "homepage": "https://wayofm.org/",
+    "favicon": "https://wayofm.org/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "rochester,freeform,community radio",
+    "state": "New York",
+    "bitrate": 192
+}

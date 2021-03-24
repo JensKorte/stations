@@ -1,0 +1,14 @@
+{
+    "uuid": "e2900e64-8447-4ab5-943d-9cb09b9370d4",
+    "name": "KMUC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD2.mp3",
+    "homepage": "https://www.kmuc.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KMUC.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classical",
+    "state": "Columbia MO",
+    "bitrate": 64
+}

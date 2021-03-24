@@ -1,0 +1,14 @@
+{
+    "uuid": "960b38a6-0601-11e8-ae97-52543be04c81",
+    "name": "Bay FM 99.9 Byron Bay, NSW",
+    "url": "http://2bay.amrapstream.com:8000/stream",
+    "homepage": "http://www.bayfm.org",
+    "favicon": "http://www.bayfm.org/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "byron bay,community radio",
+    "state": "New South Wales",
+    "bitrate": 128
+}

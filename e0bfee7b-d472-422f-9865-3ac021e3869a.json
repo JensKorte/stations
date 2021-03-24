@@ -1,0 +1,14 @@
+{
+    "uuid": "e0bfee7b-d472-422f-9865-3ac021e3869a",
+    "name": "Russian FM",
+    "url": "http://radio.russianfm.de:8000/;stream.mp3",
+    "homepage": "http://russianfm.de/",
+    "favicon": "http://russianfm.de/images/templates/Logo.png",
+    "creation": "2021-03-22 19:37:22",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "russian",
+    "tags": "russian pop,hits",
+    "state": "",
+    "bitrate": 128
+}

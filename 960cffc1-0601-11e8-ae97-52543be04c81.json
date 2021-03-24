@@ -1,0 +1,14 @@
+{
+    "uuid": "960cffc1-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne 80er Kulthits",
+    "url": "http://www.antenne.de/webradio/channels/80er-kulthits.m3u",
+    "homepage": "http://www.antenne.de",
+    "favicon": "http://www.antenne.de//assets/icons/antenne-de/mstile-144x144.png?v=2",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "80s",
+    "state": "",
+    "bitrate": 128
+}

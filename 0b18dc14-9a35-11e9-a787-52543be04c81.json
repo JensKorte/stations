@@ -1,0 +1,14 @@
+{
+    "uuid": "0b18dc14-9a35-11e9-a787-52543be04c81",
+    "name": "Radio Francigena",
+    "url": "http://radiofrancigena.out.airtime.pro:8000/radiofrancigena_b",
+    "homepage": "http://www.radiofrancigena.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s254166q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "milano,ambient,cultural,talk",
+    "state": "Lombardia",
+    "bitrate": 128
+}

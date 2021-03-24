@@ -1,0 +1,14 @@
+{
+    "uuid": "9649477b-0601-11e8-ae97-52543be04c81",
+    "name": "99drei Radio Mittweida",
+    "url": "http://netradio.ext.htwm.de:8000/live256",
+    "homepage": "http://www.radio-mittweida.de/",
+    "favicon": "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-1/p50x50/10157353_647440615305447_133191853_n.png?oh=c86a3cdf0abafb228cc8bb95dfff7c91\u0026oe=5AF38B1B",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "information,music,news",
+    "state": "Saxony",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960c1b33-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Free Peterborough",
+    "url": "http://trentradio.ca:8800/rfp",
+    "homepage": "http://radiofreepeterborough.ca",
+    "favicon": "http://radiofreepeterborough.ca//sites/radiofreepeterborough.ca/files/favicon_0.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "peterborough,community radio",
+    "state": "Ontario",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960fb5a3-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Italo4you",
+    "url": "http://s6.radiohost.pl:8080",
+    "homepage": "http://www.radioitalo4you.net/",
+    "favicon": "http://www.radioitalo4you.net//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "italo disco",
+    "state": "",
+    "bitrate": 256
+}

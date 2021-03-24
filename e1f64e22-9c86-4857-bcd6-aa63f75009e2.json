@@ -1,0 +1,14 @@
+{
+    "uuid": "e1f64e22-9c86-4857-bcd6-aa63f75009e2",
+    "name": "NOTS radio",
+    "url": "http://server-27.stream-server.nl:8734/stream",
+    "homepage": "https://streema.com/radios/NOTS_radio",
+    "favicon": "https://static-media.streema.com/media/cache/91/01/910195f69a43422e3b12d5152f28c4b2.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "english",
+    "tags": "rock,rnb,pop,indie,experimental,easy listening,alternative",
+    "state": "",
+    "bitrate": 0
+}

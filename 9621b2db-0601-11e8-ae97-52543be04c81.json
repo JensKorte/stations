@@ -1,0 +1,14 @@
+{
+    "uuid": "9621b2db-0601-11e8-ae97-52543be04c81",
+    "name": "CKNI 91.9 \"The Bend\" Moncton, NB",
+    "url": "http://ckni.streamon.fm:8000/CKNI-48k.aac",
+    "homepage": "http://www.919thebend.ca/",
+    "favicon": "http://www.919thebend.ca/sites/all/themes/ckni/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "moncton,adult contemporary,commercial",
+    "state": "New Brunswick",
+    "bitrate": 48
+}

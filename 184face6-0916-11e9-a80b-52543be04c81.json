@@ -1,0 +1,14 @@
+{
+    "uuid": "184face6-0916-11e9-a80b-52543be04c81",
+    "name": "Radio Pooki",
+    "url": "http://stream.bauermedia.fi/radiopooki/radiopooki_64.aac",
+    "homepage": "https://www.radiopooki.fi/",
+    "favicon": "https://www.radiopooki.fi/files/meta_images/pooki-fb-cover.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "finnish",
+    "state": "",
+    "bitrate": 64
+}

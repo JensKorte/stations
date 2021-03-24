@@ -1,0 +1,14 @@
+{
+    "uuid": "9623cf77-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 657 Western Plains, Dubbo, NSW (AAC)",
+    "url": "http://abcradiolivehls-lh.akamaihd.net/i/localdubbo_1@326229/master.m3u8",
+    "homepage": "http://www.abc.net.au/westernplains/",
+    "favicon": "https://resize.abcradio.net.au/IHQuY4rzGKwTeRb_MF0qg-HiceE=/100x100/center/middle/http://www.abc.net.au/radio/images/service/local_westernplains.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "m3u8,dubbo,abc,public radio,local news,information,news",
+    "state": "New South Wales",
+    "bitrate": 24
+}

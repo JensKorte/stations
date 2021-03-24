@@ -1,0 +1,14 @@
+{
+    "uuid": "c6e8772e-b1fe-11e9-acb2-52543be04c81",
+    "name": "Omroep West",
+    "url": "http://icecast.stream.bbvms.com/omroepwest_radio",
+    "homepage": "https://www.omroepwest.nl/radio",
+    "favicon": "https://www.omroepwest.nl/Content/Images/west/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "nederlands",
+    "tags": "",
+    "state": "Zuid-Holland",
+    "bitrate": 0
+}

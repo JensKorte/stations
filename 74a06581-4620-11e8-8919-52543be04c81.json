@@ -1,0 +1,14 @@
+{
+    "uuid": "74a06581-4620-11e8-8919-52543be04c81",
+    "name": "Sian TV-1 News",
+    "url": "http://stream2.xiancity.cn/xatv1/sd/live.m3u8",
+    "homepage": "http://www.xantv.cn/",
+    "favicon": "http://www.xantv.cn/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,shensi",
+    "state": "Shensi",
+    "bitrate": 0
+}

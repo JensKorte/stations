@@ -1,0 +1,14 @@
+{
+    "uuid": "9815879b-caf7-4bd7-8f9c-7f732a040cbe",
+    "name": "105.1 WBNH",
+    "url": "http://209.95.50.189:8178/stream",
+    "homepage": "https://www.bedfordnh.org/436/WBNH-LP",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WBNH.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "alternative",
+    "state": "Bedford NH",
+    "bitrate": 128
+}

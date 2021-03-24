@@ -1,0 +1,14 @@
+{
+    "uuid": "961141a7-0601-11e8-ae97-52543be04c81",
+    "name": "WALO 1240 \"Radio Oriental\" Humacao",
+    "url": "http://68.235.35.243:9031/stream?type=.mp3",
+    "homepage": "http://waloradio.com/",
+    "favicon": "http://waloradio.com/wp-content/uploads/2015/06/logo-waloweb2.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "language": "spanish",
+    "tags": "music,variety,news,local news",
+    "state": "",
+    "bitrate": 128
+}

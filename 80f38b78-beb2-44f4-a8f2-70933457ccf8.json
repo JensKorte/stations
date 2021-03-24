@@ -1,0 +1,14 @@
+{
+    "uuid": "80f38b78-beb2-44f4-a8f2-70933457ccf8",
+    "name": "BBC Radio 3",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+    "homepage": "https://www.bbc.co.uk/radio3",
+    "favicon": "https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_three_colour.svg",
+    "creation": "2021-03-23 15:57:25",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "classical,bbc",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5d9aaeda-245f-4c6d-a771-9d5dacb61a51",
+    "name": "90FM",
+    "url": "http://90.cdnwz.net/90fm",
+    "homepage": "https://www.90fm.co.il/",
+    "favicon": "https://www.90fm.co.il/resource/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Israel",
+    "country_code": "IL",
+    "language": "עברית,hebrew",
+    "tags": "ilstations",
+    "state": "",
+    "bitrate": 128
+}

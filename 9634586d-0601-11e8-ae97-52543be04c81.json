@@ -1,0 +1,14 @@
+{
+    "uuid": "9634586d-0601-11e8-ae97-52543be04c81",
+    "name": "Burj FM",
+    "url": "http://82.213.26.67:8000/stream",
+    "homepage": "http://www.palestinetradetower.com/burjfm/",
+    "favicon": "http://p3.radiocdn.com/files/images/albumart/21490-10922675_886718724725297_7960142938179799350_n.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "State Of Palestine",
+    "country_code": "PS",
+    "language": "arabic",
+    "tags": "arabic music",
+    "state": "West Bank",
+    "bitrate": 96
+}

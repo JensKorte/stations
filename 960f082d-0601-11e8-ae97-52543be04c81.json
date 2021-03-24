@@ -1,0 +1,14 @@
+{
+    "uuid": "960f082d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Viva Metropol",
+    "url": "http://stream.sepia.sk:8000/viva128.mp3",
+    "homepage": "http://www.radioviva.sk",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "local radio,local news,pop",
+    "state": "Bratislava",
+    "bitrate": 0
+}

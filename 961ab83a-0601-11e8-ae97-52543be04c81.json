@@ -1,0 +1,14 @@
+{
+    "uuid": "961ab83a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Cristal",
+    "url": "http://stream.inovacast.fr:8888/stream",
+    "homepage": "http://www.radiocristal.org/",
+    "favicon": "http://www.radiocristal.org///templates/sandal/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Grand Est",
+    "bitrate": 192
+}

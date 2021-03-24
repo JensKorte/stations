@@ -1,0 +1,14 @@
+{
+    "uuid": "960ef35c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 1",
+    "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
+    "homepage": "https://radio1.be/",
+    "favicon": "http://is1.mzstatic.com/image/thumb/Purple128/v4/d5/2b/2f/d52b2ffe-cc10-1dec-1cf6-f6811949b5ed/source/512x512bb.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "vrt,pop",
+    "state": "",
+    "bitrate": 0
+}

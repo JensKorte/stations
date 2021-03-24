@@ -1,0 +1,14 @@
+{
+    "uuid": "602a363b-7683-11ea-b1cf-52543be04c81",
+    "name": "Radio BIP",
+    "url": "http://flux1.radiobip.fr:8000/live",
+    "homepage": "http://radiobip.fr/site/",
+    "favicon": "http://radiobip.fr/site/wp-content/uploads/2015/12/cropped-Logo_Radio_BIP_96.9FM_Besançon-300x300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français,french",
+    "tags": "local news,local radio",
+    "state": "",
+    "bitrate": 128
+}

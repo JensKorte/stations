@@ -1,0 +1,14 @@
+{
+    "uuid": "06bf4132-ee09-4a41-a63e-8fc45d4d986a",
+    "name": "Polskie Radio",
+    "url": "http://198.105.216.204:8176/stream",
+    "homepage": "https://www.polskieradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/pol-radio.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "ethnic",
+    "state": "New City NY",
+    "bitrate": 128
+}

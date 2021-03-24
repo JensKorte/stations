@@ -1,0 +1,14 @@
+{
+    "uuid": "961bb746-0601-11e8-ae97-52543be04c81",
+    "name": "Радио СПУТНИК / Radio Sputnik",
+    "url": "http://online.sputnikfm.ru:8000/sputnik_mp3",
+    "homepage": "http://sputnikfm.ru/",
+    "favicon": "https://pp.userapi.com/c624121/v624121902/14065/xdT7fJAgoWI.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "russian programming,russian pop",
+    "state": "Volgograd",
+    "bitrate": 0
+}

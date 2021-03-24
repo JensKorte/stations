@@ -1,0 +1,14 @@
+{
+    "uuid": "e7301213-0e96-11e8-ae97-52543be04c81",
+    "name": "Radio Ognjišče Opus stream",
+    "url": "http://radio.ognjisce.si/ognjisce/iradio/ognjisceopus.m3u",
+    "homepage": "http://radio.ognjisce.si/",
+    "favicon": "http://radio.ognjisce.si/ognjisce/ro_logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "katoliška,radijska postaja,slovenska",
+    "state": "Slovenia",
+    "bitrate": 128
+}

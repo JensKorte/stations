@@ -1,0 +1,14 @@
+{
+    "uuid": "b4abcaa9-f5aa-11e9-bbf2-52543be04c81",
+    "name": "CBC Radio 1 (Toronto)",
+    "url": "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8",
+    "homepage": "https://www.cbc.ca/listen/live-radio?radio_one=toronto\u0026cbc_music=toronto",
+    "favicon": "http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Ontario",
+    "bitrate": 46
+}

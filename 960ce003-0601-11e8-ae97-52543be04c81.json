@@ -1,0 +1,14 @@
+{
+    "uuid": "960ce003-0601-11e8-ae97-52543be04c81",
+    "name": "AGF Radio",
+    "url": "http://service.pop-stream.de:4000/;",
+    "homepage": "https://www.radionomy.com/en/radio/AgFRadio/index",
+    "favicon": "https://i3.radionomy.com/radios/400/79d4f12c-ecdc-4d8c-9a5f-e9142f09b694.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "deutschrock",
+    "state": "",
+    "bitrate": 128
+}

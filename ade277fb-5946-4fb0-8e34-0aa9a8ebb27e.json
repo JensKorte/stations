@@ -1,0 +1,14 @@
+{
+    "uuid": "ade277fb-5946-4fb0-8e34-0aa9a8ebb27e",
+    "name": "BBC Radio 1 Dance (96 kbps HLS)",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/llnw/bbc_radio_one_dance.m3u8",
+    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_one_dance",
+    "favicon": "https://sounds.files.bbci.co.uk/2.2.14/networks/bbc_radio_one_dance/colour_default.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "bbc,dance",
+    "state": "",
+    "bitrate": 101
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ceeb2d67-e314-4b8b-ba37-5a8de49d7e15",
+    "name": "Radio Hagen",
+    "url": "https://radiohagen-ais-edge-3001-fra-eco-cdn.cast.addradio.de/radiohagen/simulcast/high/stream.mp3",
+    "homepage": "https://www.radiohagen.de/",
+    "favicon": "https://www.radiohagen.de/assets/images/favicons/radiohagen/favicon_x96.png",
+    "creation": "2021-02-23 11:21:05",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,german",
+    "tags": "pop,local radio",
+    "state": "",
+    "bitrate": 192
+}

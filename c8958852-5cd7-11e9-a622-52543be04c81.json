@@ -1,0 +1,14 @@
+{
+    "uuid": "c8958852-5cd7-11e9-a622-52543be04c81",
+    "name": "Radio La Chola 94.1 FM",
+    "url": "https://streamingecuador.net:8020/lacholafm.m3u",
+    "homepage": "https://lacholafm.com/",
+    "favicon": "https://lacholafm.com/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "noticias,news,musica,music",
+    "state": "Santa Elena",
+    "bitrate": 0
+}

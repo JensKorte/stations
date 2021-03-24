@@ -1,0 +1,14 @@
+{
+    "uuid": "9628fcf0-0601-11e8-ae97-52543be04c81",
+    "name": "Undertow Radio (Music supplied by Free Music Archieve)",
+    "url": "http://139.162.245.57:8189/stream",
+    "homepage": "https://freemusicarchive.org/",
+    "favicon": "http://freemusicarchive.org/img/generic/fma-logo-notext.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "open source",
+    "state": "",
+    "bitrate": 128
+}

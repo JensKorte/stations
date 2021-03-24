@@ -1,0 +1,14 @@
+{
+    "uuid": "9628582d-0601-11e8-ae97-52543be04c81",
+    "name": "RockFM 96.9",
+    "url": "http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/playlist.m3u8",
+    "homepage": "http://www.rockfm.gr/",
+    "favicon": "http://www.rockfm.gr//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek,english",
+    "tags": "athens,rock",
+    "state": "Athens",
+    "bitrate": 98
+}

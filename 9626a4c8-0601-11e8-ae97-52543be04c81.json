@@ -1,0 +1,14 @@
+{
+    "uuid": "9626a4c8-0601-11e8-ae97-52543be04c81",
+    "name": "Érd FM",
+    "url": "http://stream.erdfm.hu:8000/stream",
+    "homepage": "http://erdmost.hu/radio/",
+    "favicon": "http://erdijazzfesztival.hu/img/images/ErdFM.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop",
+    "state": "Pest",
+    "bitrate": 192
+}

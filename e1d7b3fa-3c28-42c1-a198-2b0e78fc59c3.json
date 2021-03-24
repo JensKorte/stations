@@ -1,0 +1,14 @@
+{
+    "uuid": "e1d7b3fa-3c28-42c1-a198-2b0e78fc59c3",
+    "name": "Antena 3",
+    "url": "https://streaming-live.rtp.pt/liveradio/antena380a/chunklist_DVR.m3u8",
+    "homepage": "https://media.rtp.pt/antena3/",
+    "favicon": "https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_negativo_vert_RGB.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 0
+}

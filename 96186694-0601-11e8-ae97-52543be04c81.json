@@ -1,0 +1,14 @@
+{
+    "uuid": "96186694-0601-11e8-ae97-52543be04c81",
+    "name": "Linux in the Ham Shack",
+    "url": "http://stream.lhspodcast.info:8008/lhs-mp3",
+    "homepage": "http://lhspodcast.info/",
+    "favicon": "http://hamwaves.com/podcasts/images/linux.ham.shack.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk,computer,tech,linux,ham radio",
+    "state": "Missouri",
+    "bitrate": 64
+}

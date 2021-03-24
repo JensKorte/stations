@@ -1,0 +1,14 @@
+{
+    "uuid": "963690ec-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Islam International",
+    "url": "http://listen.radioislam.co.za:8080/radioislam.mp3",
+    "homepage": "http://www.radioislam.org.za/",
+    "favicon": "https://pbs.twimg.com/profile_images/850247720543461377/xKyI7rwU.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "language": "english",
+    "tags": "islamic,talk,community",
+    "state": "Gauteng",
+    "bitrate": 64
+}

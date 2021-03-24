@@ -1,0 +1,14 @@
+{
+    "uuid": "d535f353-3509-4c46-a303-6172ed4f6aee",
+    "name": "WDIG Radio, 1450 AM",
+    "url": "http://janus.cdnstream.com:5423/stream",
+    "homepage": "https://www.wdigradio.com/",
+    "favicon": "http://cdn-profiles.tunein.com/s23824/images/logog.png?t=157478",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "oldies",
+    "state": "Alabama",
+    "bitrate": 0
+}

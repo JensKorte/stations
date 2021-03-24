@@ -1,0 +1,14 @@
+{
+    "uuid": "40e7c8ef-75a6-401d-9143-b2d30d3fcd5a",
+    "name": "delta radio - Deutsch",
+    "url": "http://streams.deltaradio.de/delta-deutsch/mp3-192/mediaplayer/",
+    "homepage": "https://www.deltaradio.de/streams/delta-radio-deutsch",
+    "favicon": "https://www.deltaradio.de/frontend/theme-delta/design/logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "deutsch",
+    "state": "Hamburg",
+    "bitrate": 192
+}

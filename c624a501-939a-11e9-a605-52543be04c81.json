@@ -1,0 +1,14 @@
+{
+    "uuid": "c624a501-939a-11e9-a605-52543be04c81",
+    "name": "KUSC 91.5 Los Angeles, CA (96kbps AAC)",
+    "url": "http://96.aac.pls.kusc.live/",
+    "homepage": "http://www.kusc.org/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e2/KUSC_Logo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "los angeles,classical,public radio",
+    "state": "California",
+    "bitrate": 96
+}

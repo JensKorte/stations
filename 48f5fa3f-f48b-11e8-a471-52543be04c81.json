@@ -1,0 +1,14 @@
+{
+    "uuid": "48f5fa3f-f48b-11e8-a471-52543be04c81",
+    "name": "rockXradio",
+    "url": "http://158.69.227.214:8000/stream",
+    "homepage": "https://rockxradio.com/",
+    "favicon": "https://rockxradio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "metal,hard rock,metalcore",
+    "state": "",
+    "bitrate": 128
+}

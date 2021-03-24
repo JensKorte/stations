@@ -1,0 +1,14 @@
+{
+    "uuid": "44aedca3-a269-4961-b2fe-aebe7b72b6e6",
+    "name": "radioeins",
+    "url": "https://www.radioeins.de/live.m3u",
+    "homepage": "http://www.radioeins.de/",
+    "favicon": "http://img.ardmediathek.de/img/standard/00/42/91/80/68/2121327408/1x1/320?mandant=ard",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock,pop,talk,information,rbb,ard,public radio",
+    "state": "Berlin",
+    "bitrate": 0
+}

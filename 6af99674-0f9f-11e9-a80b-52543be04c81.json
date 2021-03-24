@@ -1,0 +1,14 @@
+{
+    "uuid": "6af99674-0f9f-11e9-a80b-52543be04c81",
+    "name": "Radio Capsule 160kbps",
+    "url": "http://airtime2.radiocapsule.com:15000/radio160.mp3",
+    "homepage": "http://www.radiocapsule.com",
+    "favicon": "http://radiocapsule.com/images/Logo02.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "electronic",
+    "state": "",
+    "bitrate": 160
+}

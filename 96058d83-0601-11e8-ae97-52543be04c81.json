@@ -1,0 +1,14 @@
+{
+    "uuid": "96058d83-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Münster",
+    "url": "http://stream.antennemuenster.de:8000/am128k",
+    "homepage": "http://www.antennemuenster.de/",
+    "favicon": "http://www.antennemuenster.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "cccc0023-9bf8-46cc-b9f3-64ebf446a564",
+    "name": "BR Schlager (AAC)",
+    "url": "http://br-brschlager-live.cast.addradio.de/br/brschlager/live/aac/low",
+    "homepage": "https://www.br.de/radio/br-schlager/index.html",
+    "favicon": "https://www.br.de/favicon.ico",
+    "creation": "2021-02-26 10:25:30",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "easy listening,schlager",
+    "state": "Bavaria",
+    "bitrate": 0
+}

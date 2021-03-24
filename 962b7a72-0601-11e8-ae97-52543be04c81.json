@@ -1,0 +1,14 @@
+{
+    "uuid": "962b7a72-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Carina",
+    "url": "http://audio.streamshow.it:8006/stream",
+    "homepage": "http://www.radiocarina.it/",
+    "favicon": "http://www.gruppoemmedue.com/assets/radiocarina_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "potenza,top 40,pop,adult contemporary,local music",
+    "state": "Basilicata",
+    "bitrate": 128
+}

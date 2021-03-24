@@ -1,0 +1,14 @@
+{
+    "uuid": "960a0ac7-0601-11e8-ae97-52543be04c81",
+    "name": "Top FM Radio 106.8 Belgrade",
+    "url": "http://live64.topfm.rs:8000/",
+    "homepage": "http://www.topfm.rs/",
+    "favicon": "http://www.topfm.rs/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "belgrade,top 40,dance",
+    "state": "",
+    "bitrate": 64
+}

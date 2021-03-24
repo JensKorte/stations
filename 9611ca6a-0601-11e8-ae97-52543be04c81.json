@@ -1,0 +1,14 @@
+{
+    "uuid": "9611ca6a-0601-11e8-ae97-52543be04c81",
+    "name": "ESC Radio (Eurovision Song Contest Radio)",
+    "url": "http://stream.escradio.com:8030",
+    "homepage": "http://escradio.com",
+    "favicon": "https://pbs.twimg.com/profile_images/568180989629698048/CjpFYFQX.jpeg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english",
+    "tags": "eurovision,eurovision song contest,rock,pop,eurovision song contest",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d4a13b99-0f4c-42df-8e3d-793301a2b7f9",
+    "name": "Nexxo TV",
+    "url": "https://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8",
+    "homepage": "http://nexxo.tv/",
+    "favicon": "http://192.157.238.244:5016/images/brand/pgblocks-logo-nostrap_1.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Dominican Republic",
+    "country_code": "DO",
+    "language": "spanish,español latino",
+    "tags": "entretenimiento,cine",
+    "state": "Santiago",
+    "bitrate": 0
+}

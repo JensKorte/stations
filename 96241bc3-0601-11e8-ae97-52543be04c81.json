@@ -1,0 +1,14 @@
+{
+    "uuid": "96241bc3-0601-11e8-ae97-52543be04c81",
+    "name": "ITU College Radio -Classical",
+    "url": "http://160.75.86.29:8088/stream/5/",
+    "homepage": "http://www.radyo.itu.edu.tr/",
+    "favicon": "http://radyo.itu.edu.tr/images/error5.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "istanbul teknik universitesi,istanbul,classical,college radio",
+    "state": "",
+    "bitrate": 128
+}

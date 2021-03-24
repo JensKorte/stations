@@ -1,0 +1,14 @@
+{
+    "uuid": "40ab30c5-2f00-432b-bfb7-8f6e5423d42c",
+    "name": "New Radio Network",
+    "url": "http://nr5.newradio.it:8683/stream",
+    "homepage": "http://newradionetwork.com",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "",
+    "state": "CAMPANIA",
+    "bitrate": 128
+}

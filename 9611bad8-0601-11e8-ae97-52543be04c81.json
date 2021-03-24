@@ -1,0 +1,14 @@
+{
+    "uuid": "9611bad8-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Weekend FM",
+    "url": "http://stream.weekendfm.pl:8000/weekendfm_najlepsza.aac",
+    "homepage": "http://weekendfm.pl/#",
+    "favicon": "http://weekendfm.pl/#/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Chojnice",
+    "bitrate": 96
+}

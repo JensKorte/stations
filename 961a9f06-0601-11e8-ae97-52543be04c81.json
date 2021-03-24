@@ -1,0 +1,14 @@
+{
+    "uuid": "961a9f06-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Liberté",
+    "url": "http://radioliberte.ice.infomaniak.ch/radioliberte-128.mp3",
+    "homepage": "http://www.radio-liberte.net/",
+    "favicon": "http://www.radio-liberte.net/upload/design/5aaa4480f07293.61590758.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "community radio",
+    "state": "Grand Est",
+    "bitrate": 128
+}

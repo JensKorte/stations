@@ -1,0 +1,14 @@
+{
+    "uuid": "3deff1ed-3854-11e9-9b4e-52543be04c81",
+    "name": "Nouvelle-Calédonie La Première",
+    "url": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+    "homepage": "http://nouvellecaledonie.la1ere.fr/radio/",
+    "favicon": "https://la1ere.francetvinfo.fr/nouvellecaledonie/sites/regions_outremer/themes/outremer/images/logo_200x200.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "New Caledonia",
+    "country_code": "NC",
+    "language": "french",
+    "tags": "talk,music",
+    "state": "Nouméa",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96193bb3-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 24",
+    "url": "http://icecast.luxnet.ua/radio24",
+    "homepage": "https://radio24.ua/",
+    "favicon": "https://radio24.ua//assets/images/favicons/mstile-70x70.png?v1.0b23r3",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "news,music",
+    "state": "Kyiv",
+    "bitrate": 0
+}

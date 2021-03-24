@@ -1,0 +1,14 @@
+{
+    "uuid": "6ddfea21-ae7c-11e8-aa67-52543be04c81",
+    "name": "Radio nova",
+    "url": "http://stream.bauermedia.fi/radionova/radionova_128.mp3",
+    "homepage": "https://www.radionova.fi/",
+    "favicon": "https://www.radionova.fi/files/meta_images/radionova-fb-cover.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

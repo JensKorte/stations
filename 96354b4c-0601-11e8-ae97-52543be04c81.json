@@ -1,0 +1,14 @@
+{
+    "uuid": "96354b4c-0601-11e8-ae97-52543be04c81",
+    "name": "CEU Medieval Radio",
+    "url": "http://137.74.85.85:7020/;stream",
+    "homepage": "http://www.medievalradio.org/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s169439q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "english",
+    "tags": "medieval,classical,history",
+    "state": "Budapest",
+    "bitrate": 128
+}

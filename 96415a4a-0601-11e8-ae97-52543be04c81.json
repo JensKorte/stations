@@ -1,0 +1,14 @@
+{
+    "uuid": "96415a4a-0601-11e8-ae97-52543be04c81",
+    "name": "Concertzender Gregoriaans",
+    "url": "http://streams.greenhost.nl:8080/gregoriaans",
+    "homepage": "https://www.concertzender.nl/programma_genre/oude-muziek/",
+    "favicon": "http://db.radioline.fr/pictures/radio_656430fa1b6ca511e8967b5ba5689b43/logo200.jpg?size=200",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch,english",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 128
+}

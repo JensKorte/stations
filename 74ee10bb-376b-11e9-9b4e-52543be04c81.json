@@ -1,0 +1,14 @@
+{
+    "uuid": "74ee10bb-376b-11e9-9b4e-52543be04c81",
+    "name": "UA: Радіо Промінь - UR-2",
+    "url": "http://radio.nrcu.gov.ua:8000/ur2-mp3",
+    "homepage": "http://www.nrcu.gov.ua/",
+    "favicon": "http://nrcu.gov.ua/images/stat-page/big/sp_1550735956_5c6e5a54e3f30.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "sports news,cultural news,talkshow,news talk,news,talk",
+    "state": "Kyiv",
+    "bitrate": 192
+}

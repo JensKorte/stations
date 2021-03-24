@@ -1,0 +1,14 @@
+{
+    "uuid": "ec3f930b-238e-11e9-a80b-52543be04c81",
+    "name": "Vmeste RF TV",
+    "url": "http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8",
+    "homepage": "http://www.vmeste-rf.tv/",
+    "favicon": "http://www.vmeste-rf.tv//local/templates/main/tpl/img/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "",
+    "state": "Moscow",
+    "bitrate": 9220
+}

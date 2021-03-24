@@ -1,0 +1,14 @@
+{
+    "uuid": "1ee4e463-12b5-4145-a553-27e65a625beb",
+    "name": "Yoga radio",
+    "url": "http://play.yogaradio.fm:8000/YOGAr256.m3u",
+    "homepage": "https://yogaradio.fm/",
+    "favicon": "https://yogaradio.fm/templates/newradio/images/logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "",
+    "tags": "meditation,relax,yoga",
+    "state": "",
+    "bitrate": 256
+}

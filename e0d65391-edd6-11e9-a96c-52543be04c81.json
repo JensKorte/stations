@@ -1,0 +1,14 @@
+{
+    "uuid": "e0d65391-edd6-11e9-a96c-52543be04c81",
+    "name": "RTL 102.5 [HLS]",
+    "url": "https://rtl-radio1-stream.thron.com/live/radio1/radio1/chunklist.m3u8",
+    "homepage": "https://www.rtl.it/",
+    "favicon": "https://cdn.rtl.it/RTLFM/website/assets/img/logo/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "",
+    "state": "Lombardia",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "60ad9c18-d6ee-4cb2-9d8e-e1ae34fa466a",
+    "name": "Play Radio Soft 2",
+    "url": "https://stream.playradio.rs:8443/soft.mp3",
+    "homepage": "https://playradio.rs/",
+    "favicon": "https://playradio.rs/images/playlogo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "english,serbian",
+    "tags": "play radio,belgrade,soft music,internet radio",
+    "state": "",
+    "bitrate": 128
+}

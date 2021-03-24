@@ -1,0 +1,14 @@
+{
+    "uuid": "960c8887-0601-11e8-ae97-52543be04c81",
+    "name": "NDR Info (Schleswig-Holstein)",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u",
+    "homepage": "http://www.ndr.de/info/",
+    "favicon": "http://static.radio.de/images/broadcasts/20/c9/2348/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "news,culture,kultur,regional,local news,information,news",
+    "state": "Schleswig-Holstein",
+    "bitrate": 0
+}

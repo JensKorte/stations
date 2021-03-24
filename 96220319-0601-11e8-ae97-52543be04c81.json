@@ -1,0 +1,14 @@
+{
+    "uuid": "96220319-0601-11e8-ae97-52543be04c81",
+    "name": "CKDR 92.7 Dryden, ON",
+    "url": "http://ckdr.streamon.fm:8000/CKDR-48k.aac",
+    "homepage": "http://www.ckdr.net/",
+    "favicon": "http://www.ckdr.net/sites/all/themes/ckdr/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "red lake,ear falls,hudson,sioux lookout,ignace,dryden,adult contemporary,commercial",
+    "state": "Ontario",
+    "bitrate": 48
+}

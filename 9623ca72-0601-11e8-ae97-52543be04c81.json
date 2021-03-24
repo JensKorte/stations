@@ -1,0 +1,14 @@
+{
+    "uuid": "9623ca72-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 91.7 Northern Tasmania AAC",
+    "url": "http://www.abc.net.au/res/streaming/audio/aac/local_northtas.pls",
+    "homepage": "https://radio.abc.net.au/stations/local_northtas/live",
+    "favicon": "https://resize.abcradio.net.au/-CCYCu_YjSlugG8WCX6tzoM-VyQ=/100x100/center/middle/http://www.abc.net.au/radio/images/service/local_northtas.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "northern tasmania,launceston,launceston,local,public,local,information,news,abc",
+    "state": "Tasmania",
+    "bitrate": 64
+}

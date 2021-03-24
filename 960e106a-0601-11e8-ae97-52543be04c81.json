@@ -1,0 +1,14 @@
+{
+    "uuid": "960e106a-0601-11e8-ae97-52543be04c81",
+    "name": "WESU 88.1 Middletown, CT",
+    "url": "http://radio.wesleyan.edu:8000/stream",
+    "homepage": "http://wesufm.org/",
+    "favicon": "http://wesufm.org/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pacifica,pri,npr,community radio,college radio,middletown",
+    "state": "Connecticut",
+    "bitrate": 128
+}

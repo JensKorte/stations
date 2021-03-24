@@ -1,0 +1,14 @@
+{
+    "uuid": "96162c57-0601-11e8-ae97-52543be04c81",
+    "name": "Littoral FM",
+    "url": "http://heberg.radioludo.com:8005/stream.mp3",
+    "homepage": "http://www.littoralfm.com/",
+    "favicon": "http://www.littoralfm.com//favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Occitanie",
+    "bitrate": 192
+}

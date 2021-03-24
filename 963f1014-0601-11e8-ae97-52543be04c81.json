@@ -1,0 +1,14 @@
+{
+    "uuid": "963f1014-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sora",
+    "url": "http://radio-sora.si:8000/radio-sora.mp3",
+    "homepage": "http://www.radio-sora.si/",
+    "favicon": "http://www.radio-sora.si/images/favico2/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

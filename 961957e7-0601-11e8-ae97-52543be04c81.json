@@ -1,0 +1,14 @@
+{
+    "uuid": "961957e7-0601-11e8-ae97-52543be04c81",
+    "name": "MNM",
+    "url": "http://icecast.vrtcdn.be/mnm-high.mp3",
+    "homepage": "https://www.mnm.be/",
+    "favicon": "https://www.mnm.be//images/ios/touch-icon-iphone.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "vrt,pop",
+    "state": "",
+    "bitrate": 0
+}

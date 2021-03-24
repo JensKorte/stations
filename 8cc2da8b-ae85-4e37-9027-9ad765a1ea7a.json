@@ -1,0 +1,14 @@
+{
+    "uuid": "8cc2da8b-ae85-4e37-9027-9ad765a1ea7a",
+    "name": "Los 40 Urban",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
+    "homepage": "https://los40.com/seccion/los40urban/",
+    "favicon": "https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40_urban.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español",
+    "tags": "pop,dance,urban,music",
+    "state": "Madrid",
+    "bitrate": 128
+}

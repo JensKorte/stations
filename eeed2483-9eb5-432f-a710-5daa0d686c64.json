@@ -1,0 +1,14 @@
+{
+    "uuid": "eeed2483-9eb5-432f-a710-5daa0d686c64",
+    "name": "EsRadio Asturias",
+    "url": "http://server9.emitironline.com:8822/radio",
+    "homepage": "https://www.esradioasturias.fm/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "información",
+    "state": "Asturias",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9633f1f6-0601-11e8-ae97-52543be04c81",
+    "name": "SKY Rádio",
+    "url": "http://stream.skyradio.sk:8000/sky128",
+    "homepage": "http://skyradio.sk",
+    "favicon": "http://skyradio.sk/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "local news,news,pop",
+    "state": "Prešov",
+    "bitrate": 0
+}

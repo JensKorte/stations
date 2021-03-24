@@ -1,0 +1,14 @@
+{
+    "uuid": "442bb2bf-0a35-11e8-ae97-52543be04c81",
+    "name": "RMC",
+    "url": "http://chai5she.cdn.dvmr.fr:80/rmcinfo",
+    "homepage": "http://rmc.bfmtv.com/",
+    "favicon": "http://static.bfmtv.com/ressources/img/header/rmc.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "information,talk,sport,news",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ab858b85-701f-11ea-b1cf-52543be04c81",
+    "name": "NRG Radio",
+    "url": "http://stream.smanelcast.com:8000/radio.mp3",
+    "homepage": "https://nrg.radio",
+    "favicon": "https://nrg.radio/wp-content/uploads/2018/04/NRG-Radio-91.3-FM-Kenya-Logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Kenya",
+    "country_code": "KE",
+    "language": "sheng,swahili,english",
+    "tags": "reggae,dance,christian contemporary,hiphop,pop rock,pop",
+    "state": "",
+    "bitrate": 128
+}

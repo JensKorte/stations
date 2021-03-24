@@ -1,0 +1,14 @@
+{
+    "uuid": "96341123-0601-11e8-ae97-52543be04c81",
+    "name": "Radio PSR Partymix",
+    "url": "http://regiocast.hoerradar.de/psr-partymix-mp3-hq",
+    "homepage": "http://www.radiopsr.de/",
+    "favicon": "http://www.radiopsr.de/frontend/theme-psr/design/touch-icon_192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "party,dance",
+    "state": "Saxony",
+    "bitrate": 192
+}

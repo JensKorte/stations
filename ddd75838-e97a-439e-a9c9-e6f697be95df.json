@@ -1,0 +1,14 @@
+{
+    "uuid": "ddd75838-e97a-439e-a9c9-e6f697be95df",
+    "name": "France Musique Opéra",
+    "url": "https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac",
+    "homepage": "https://www.francemusique.fr/opera",
+    "favicon": "https://www.radiofrance.com/sites/default/files/press_releases/3873.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "france",
+    "tags": "radio france,public radio,opera",
+    "state": "",
+    "bitrate": 0
+}

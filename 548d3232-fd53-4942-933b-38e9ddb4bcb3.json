@@ -1,0 +1,14 @@
+{
+    "uuid": "548d3232-fd53-4942-933b-38e9ddb4bcb3",
+    "name": "EldoPop FM",
+    "url": "http://stm10.srvstm.com:34794/stream",
+    "homepage": "http://eldopopfm.com/",
+    "favicon": "http://eldopopfm.com/admin/assets/img/logo.png",
+    "creation": "2021-03-03 17:33:11",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "brazilian portuguese",
+    "tags": "hard rock,progressive rock",
+    "state": "Rio de Janeiro",
+    "bitrate": 48
+}

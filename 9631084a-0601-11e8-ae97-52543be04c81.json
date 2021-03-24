@@ -1,0 +1,14 @@
+{
+    "uuid": "9631084a-0601-11e8-ae97-52543be04c81",
+    "name": "harmony.fm Schlager Radio",
+    "url": "http://mp3.harmonyfm.de/hrmchannels/schlager.aac",
+    "homepage": "https://webradio.harmonyfm.de/schlager",
+    "favicon": "https://webradio.harmonyfm.de/custom/images/socialmedia/harmony_schlager.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "",
+    "bitrate": 48
+}

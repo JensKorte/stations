@@ -1,0 +1,14 @@
+{
+    "uuid": "960c3ba7-0601-11e8-ae97-52543be04c81",
+    "name": "Rai Radio Classica",
+    "url": "http://icestreaming.rai.it/5.mp3",
+    "homepage": "http://www.radiofd5.rai.it",
+    "favicon": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/18920521_1568261306577844_1177479534592145058_n.jpg?oh=337590c71718000750345878e3973a78\u0026oe=5ABC98FC",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rai,public radio,classical",
+    "state": "Lazio",
+    "bitrate": 0
+}

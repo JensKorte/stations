@@ -1,0 +1,14 @@
+{
+    "uuid": "961f7ff3-0601-11e8-ae97-52543be04c81",
+    "name": "KWSU 1250 Northwest Public Radio NPR News - Pullman, WA",
+    "url": "http://streams.nwpr.org:8000/NWPRNEWS",
+    "homepage": "http://nwpr.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/nwpr/files/201505/logo_fid.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,apm,pri,npr,public radio",
+    "state": "Washington",
+    "bitrate": 75
+}

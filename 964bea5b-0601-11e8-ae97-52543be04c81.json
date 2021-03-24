@@ -1,0 +1,14 @@
+{
+    "uuid": "964bea5b-0601-11e8-ae97-52543be04c81",
+    "name": "Mex Rádió",
+    "url": "http://stream.diazol.hu:31000/live.mp3",
+    "homepage": "http://mexradio.hu/",
+    "favicon": "https://onlinestream.hu/logos/s5685.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

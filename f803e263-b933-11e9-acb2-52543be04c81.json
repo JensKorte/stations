@@ -1,0 +1,14 @@
+{
+    "uuid": "f803e263-b933-11e9-acb2-52543be04c81",
+    "name": "XRAY.fm",
+    "url": "http://listen.xray.fm:8000/stream",
+    "homepage": "https://xray.fm",
+    "favicon": "https://xray.fm/theme/107/img/logo1_white-on-black_399.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "indie,independent,local,music,talk,humor,comedy,jokes,news,events,video,podcasts,tv,television,live,portland,oregon",
+    "state": "Oregon",
+    "bitrate": 256
+}

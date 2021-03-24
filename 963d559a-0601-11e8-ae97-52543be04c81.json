@@ -1,0 +1,14 @@
+{
+    "uuid": "963d559a-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Montornès",
+    "url": "http://188.165.187.84:8008/;",
+    "homepage": "http://radio.montornes.cat/",
+    "favicon": "http://radio.montornes.cat/recursos/images/logotip.gif?v=1468919259",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "montornès del vallès",
+    "state": "Barcelona",
+    "bitrate": 128
+}

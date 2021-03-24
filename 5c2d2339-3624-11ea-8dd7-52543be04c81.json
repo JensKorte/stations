@@ -1,0 +1,14 @@
+{
+    "uuid": "5c2d2339-3624-11ea-8dd7-52543be04c81",
+    "name": "SWR 3 (96 kbits/s aac)",
+    "url": "https://swr-swr-raka04.cast.addradio.de/swr/swr/raka04/aac/96/stream.aac",
+    "homepage": "https://www.swr3.de/",
+    "favicon": "https://www.swr3.de//static/dist/images/icons/apple-touch-icon.png?r=rjpJolk",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

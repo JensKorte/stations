@@ -1,0 +1,14 @@
+{
+    "uuid": "de11ceb8-6ef9-11ea-b1cf-52543be04c81",
+    "name": "Coast Access Radio",
+    "url": "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8",
+    "homepage": "https://www.coastaccessradio.org.nz/index.aspx",
+    "favicon": "https://www.coastaccessradio.org.nz//Styles/Images/ICO-Logo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "english",
+    "tags": "community radio",
+    "state": "",
+    "bitrate": 148
+}

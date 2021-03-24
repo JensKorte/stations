@@ -1,0 +1,14 @@
+{
+    "uuid": "964766d8-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Comas AM (OAX-4S, 1300 kHz AM, Lima)",
+    "url": "http://65.60.2.26:8046/;",
+    "homepage": "http://www.radiocomas.com.pe/",
+    "favicon": "https://1.bp.blogspot.com/-Rn47t5Gqo6w/UI2G2JQsETI/AAAAAAAAAjg/EcsZuqaAWC0/s120/radio-comas.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "spanish pop,talk",
+    "state": "Lima",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c5e21a84-fbb9-11e9-bbf2-52543be04c81",
+    "name": "starfm Nürnberg",
+    "url": "http://85.25.209.152:80/nuernberg.aac",
+    "homepage": "https://nbg.starfm.de/star-fm/",
+    "favicon": "https://nbg.starfm.de/fileadmin/img/global/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "heavy metal,hard rock,rock",
+    "state": "Bayern",
+    "bitrate": 63
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "dad86292-f748-42bc-9479-224bd39f034d",
+    "name": "RUC Rádio Universidade de Coimbra",
+    "url": "http://ruc2.cidadedecoimbra.com:8000/",
+    "homepage": "https://www.ruc.pt/",
+    "favicon": "https://ruc.pt/favicon-32x32.png",
+    "creation": "2021-02-26 23:52:49",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "pt",
+    "tags": "portugal,student radio,alternative,university radio",
+    "state": "",
+    "bitrate": 320
+}

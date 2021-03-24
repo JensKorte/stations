@@ -1,0 +1,14 @@
+{
+    "uuid": "939716a6-5233-11ea-be63-52543be04c81",
+    "name": "Virgin Tonic Radio",
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr6.aac",
+    "homepage": "https://www.virginradio.fr/webradios/",
+    "favicon": "https://media.virginradio.fr/3281733/media.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français,french",
+    "tags": "",
+    "state": "",
+    "bitrate": 133
+}

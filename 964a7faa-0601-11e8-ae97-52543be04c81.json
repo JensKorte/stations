@@ -1,0 +1,14 @@
+{
+    "uuid": "964a7faa-0601-11e8-ae97-52543be04c81",
+    "name": "Star FM 90er Rock",
+    "url": "http://85.25.43.55/90er_rock.mp3",
+    "homepage": "https://berlin.starfm.de/star-fm/",
+    "favicon": "https://berlin.starfm.de/fileadmin/zusammen/STREAMS/90s_Rock/90sRock_klBox.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "90s,rock",
+    "state": "Berlin",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "098b59e9-309d-11e9-8f31-52543be04c81",
+    "name": "Radio Otočac",
+    "url": "http://s8.iqstreaming.com:8024/stream",
+    "homepage": "https://hrvatski-radio-otocac.hr/radio/",
+    "favicon": "https://hrvatski-radio-otocac.hr/radio/wp-content/uploads/2017/11/hro_logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "local",
+    "state": "",
+    "bitrate": 96
+}

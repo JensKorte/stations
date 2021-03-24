@@ -1,0 +1,14 @@
+{
+    "uuid": "962bac7b-0601-11e8-ae97-52543be04c81",
+    "name": "Tonic Fitness Radio La Spezia",
+    "url": "http://radioserver-professional.it:8000/radio-014",
+    "homepage": "http://tonicnet.it/i-nostri-club/tonic-club-la-spezia/",
+    "favicon": "http://tonicnet.it/tonicnew/wp-content/themes/tonicnew/img/logo-tonic.svg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40,pop,electronica",
+    "state": "Liguria",
+    "bitrate": 128
+}

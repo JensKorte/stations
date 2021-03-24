@@ -1,0 +1,14 @@
+{
+    "uuid": "961bde2c-0601-11e8-ae97-52543be04c81",
+    "name": "CFAK 88.3 Universite de Sherbrooke, QC",
+    "url": "http://streamer01.sti.usherbrooke.ca:8000/cfak.mp3",
+    "homepage": "https://cfak883.usherbrooke.ca/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/a/a2/CFAK_88.3FM_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "university radio,community radio,sherbrooke",
+    "state": "Quebec",
+    "bitrate": 0
+}

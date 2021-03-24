@@ -1,0 +1,14 @@
+{
+    "uuid": "962b5166-0601-11e8-ae97-52543be04c81",
+    "name": "DM Pulse",
+    "url": "http://samcloud.spacial.com/api/listen?sid=78384\u0026rid=140033\u0026f=mp3,any\u0026br=128000,any\u0026m=pls",
+    "homepage": "http://dmpulse.com/",
+    "favicon": "http://dmpulse.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "online,commercial-free,alternative,indie,waterloo",
+    "state": "Iowa",
+    "bitrate": 192
+}

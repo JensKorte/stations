@@ -1,0 +1,14 @@
+{
+    "uuid": "9b8557b3-565b-11e8-b0ce-52543be04c81",
+    "name": "OverRock Rádio (Brasil)",
+    "url": "http://streaming06.hstbr.net:8008/live.m3u",
+    "homepage": "http://overrock.mus.br",
+    "favicon": "http://overrock.mus.br/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "rock,christian rock",
+    "state": "",
+    "bitrate": 64
+}

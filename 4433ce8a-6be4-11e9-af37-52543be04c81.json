@@ -1,0 +1,14 @@
+{
+    "uuid": "4433ce8a-6be4-11e9-af37-52543be04c81",
+    "name": "Radio Cantinho da Madeira",
+    "url": "http://109.71.41.6:8129/stream",
+    "homepage": "http://www.cantinhodamadeira.pt/",
+    "favicon": "http://www.cantinhodamadeira.pt///images/faviconcm.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguesa",
+    "tags": "local radio,local music",
+    "state": "Madeira",
+    "bitrate": 96
+}

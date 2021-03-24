@@ -1,0 +1,14 @@
+{
+    "uuid": "477d5e54-24b0-48dd-97f0-5cf4f047eb55",
+    "name": "ORF Tirol http",
+    "url": "http://orf-live.ors-shoutcast.at/tir-q2a",
+    "homepage": "https://tirol.orf.at/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "volkstümlich,local radio",
+    "state": "Tirol",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9645e78f-0601-11e8-ae97-52543be04c81",
+    "name": "RLV Radio Levanto Val di Vara",
+    "url": "http://onair15.xdevel.com:8430/;stream.mp3",
+    "homepage": "http://www.rlv.it/",
+    "favicon": "http://rlv.it/pagine/Sfondi/Logotop.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "levanto,adult contemporary",
+    "state": "Liguria",
+    "bitrate": 128
+}

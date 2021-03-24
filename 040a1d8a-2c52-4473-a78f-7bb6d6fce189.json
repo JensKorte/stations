@@ -1,0 +1,14 @@
+{
+    "uuid": "040a1d8a-2c52-4473-a78f-7bb6d6fce189",
+    "name": "World Music Radio",
+    "url": "http://stream.wlmm.dk:8010/wmr",
+    "homepage": "http://www.wmr.radio/",
+    "favicon": "https://cdn.onlineradiobox.com/img/logo/2/87222.v2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "english",
+    "tags": "rock,pop",
+    "state": "Copenhague",
+    "bitrate": 128
+}

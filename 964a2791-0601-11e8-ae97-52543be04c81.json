@@ -1,0 +1,14 @@
+{
+    "uuid": "964a2791-0601-11e8-ae97-52543be04c81",
+    "name": "WRCN 103.9 \"LI News Radio\" Riverhead, NY",
+    "url": "http://provisioning.streamtheworld.com/pls/WRCNFM.pls",
+    "homepage": "http://linewsradio.com/",
+    "favicon": "https://static-media.streema.com/media/cache/41/7d/417d4bb541d443b20b1c0500318b625b.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news talk,long island,riverhead",
+    "state": "New York",
+    "bitrate": 32
+}

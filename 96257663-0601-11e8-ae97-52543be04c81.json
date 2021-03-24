@@ -1,0 +1,14 @@
+{
+    "uuid": "96257663-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Aurora",
+    "url": "http://sr2.inmystream.info:8078/stream",
+    "homepage": "http://www.radioaurora.it/",
+    "favicon": "http://www.inmystream.info/play/mondoradioaurora/tmp/images/radio.aurora.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop,60s,70s,80s,90s",
+    "state": "Puglia",
+    "bitrate": 96
+}

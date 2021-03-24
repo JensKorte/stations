@@ -1,0 +1,14 @@
+{
+    "uuid": "7a551c3a-5b3b-4536-aa6b-604d0c0a8434",
+    "name": "Radio Ontinyent F.M. SER",
+    "url": "http://51.210.182.45:8000/serfm",
+    "homepage": "https://play.cadenaser.com/emisora/radio_ontinyent/",
+    "favicon": "https://radioontinyent.com/media/emisoras/2020/10/ser-fm-icon-1.jpg",
+    "creation": "2021-02-14 21:31:36",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "castellano,español,valencià,valencian,spanish",
+    "tags": "albaida,vall d'albaida,ontinyent,notícies,noticias,news,mainstream",
+    "state": "Valencian Community",
+    "bitrate": 64
+}

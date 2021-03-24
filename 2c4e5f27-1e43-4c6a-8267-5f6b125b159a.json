@@ -1,0 +1,14 @@
+{
+    "uuid": "2c4e5f27-1e43-4c6a-8267-5f6b125b159a",
+    "name": "Doble Nueve - Classic",
+    "url": "http://149.56.241.147:8008/stream?icy=http",
+    "homepage": "http://www.radiodoblenueve.com/",
+    "favicon": "https://reproplay.com/doblenueve/classic/img/noimageavailable.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "classic rock",
+    "state": "Lima",
+    "bitrate": 36
+}

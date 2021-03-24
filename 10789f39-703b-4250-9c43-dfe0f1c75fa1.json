@@ -1,0 +1,14 @@
+{
+    "uuid": "10789f39-703b-4250-9c43-dfe0f1c75fa1",
+    "name": "Dein Deutsch Pop Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deindeutschpop/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-deutschpop",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-deutschpop.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "pop,deutsch,deutsch pop",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 128
+}

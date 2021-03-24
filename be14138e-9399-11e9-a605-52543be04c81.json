@@ -1,0 +1,14 @@
+{
+    "uuid": "be14138e-9399-11e9-a605-52543be04c81",
+    "name": "KQAC 89.9 \"All Classical Portland\" Portland, OR (96 kbps AAC)",
+    "url": "http://allclassical-ice.streamguys.com:80/ac96k",
+    "homepage": "http://www.allclassical.org/",
+    "favicon": "http://www.allclassical.org/wp-content/themes/acp-theme/img/acp_logo_500x280.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "portland,classical,public radio,community radio",
+    "state": "Oregon",
+    "bitrate": 96
+}

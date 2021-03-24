@@ -1,0 +1,14 @@
+{
+    "uuid": "2e40ad42-8810-11e9-aa30-52543be04c81",
+    "name": "KBS N Sports TV",
+    "url": "http://live.kbskme.gscdn.com/www_kbsn_sports/_definst_/kbsn_sports_5.stream/playlist.m3u8",
+    "homepage": "http://www.kbsn.co.kr/",
+    "favicon": "http://nettv.live/uploads/18/1-1P50315012b51.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Republic Of Korea",
+    "country_code": "KR",
+    "language": "korean",
+    "tags": "",
+    "state": "Seoul",
+    "bitrate": 250
+}

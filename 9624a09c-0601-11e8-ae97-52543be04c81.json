@@ -1,0 +1,14 @@
+{
+    "uuid": "9624a09c-0601-11e8-ae97-52543be04c81",
+    "name": "KRUI Radio 89.7 Iowa City, IA",
+    "url": "http://krui.student-services.uiowa.edu:8000/listen",
+    "homepage": "http://krui.fm/",
+    "favicon": "http://krui.fm/wordpress/wp-content/uploads/2016/09/krui-og.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "variety,student radio,iowa city",
+    "state": "Iowa",
+    "bitrate": 320
+}

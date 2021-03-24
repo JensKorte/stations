@@ -1,0 +1,14 @@
+{
+    "uuid": "b506cb9c-fa13-489b-a2ba-b1f74c0e37ed",
+    "name": "Radio Diefflen",
+    "url": "https://stream.laut.fm/radiodiefflen.m3u",
+    "homepage": "https://radiodiefflen.de",
+    "favicon": "https://radiodiefflen.de/____impro/1/onewebmedia/logo_radiodiefflen.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "metal,alternative,pop,rock",
+    "state": "Saarland",
+    "bitrate": 128
+}

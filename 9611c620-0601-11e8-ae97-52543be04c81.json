@@ -1,0 +1,14 @@
+{
+    "uuid": "9611c620-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Vorarlberg",
+    "url": "http://webradio.antennevorarlberg.at/live",
+    "homepage": "http://www.antennevorarlberg.at/",
+    "favicon": "http://www.antennevorarlberg.at/wp-content/themes/antenne/images/Logo-mit-Endorsement.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "live",
+    "state": "Vorarlberg",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "76e3a4ff-a969-42c8-9343-bd638e37fa20",
+    "name": "RolandRadio",
+    "url": "http://streaming.rolandradio.net/rolandradio.64.stereo.m3u",
+    "homepage": "https://rolandradio.net",
+    "favicon": "https://rolandradio.net/rolandradio_layout/logos/rrf.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english",
+    "tags": "chiptune",
+    "state": "",
+    "bitrate": 64
+}

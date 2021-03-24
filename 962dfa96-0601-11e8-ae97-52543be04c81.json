@@ -1,0 +1,14 @@
+{
+    "uuid": "962dfa96-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Romantica",
+    "url": "http://5.196.75.187:8004/stream",
+    "homepage": "http://www.radioromantica.net/",
+    "favicon": "http://www.radioromantica.net/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "trieste,love songs",
+    "state": "Friuli-Venezia Giulia",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "4b0cff91-d19c-11e9-a861-52543be04c81",
+    "name": "MFM Guadeloupe",
+    "url": "http://163.172.16.107:5000/;stream.mp3",
+    "homepage": "https://www.mfmmadras.gp",
+    "favicon": "https://www.mfmmadras.gp/wp-content/themes/music-musicians-theme-facebook-app/images/bpr.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Guadeloupe",
+    "country_code": "GP",
+    "language": "french,creole",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

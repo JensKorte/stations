@@ -1,0 +1,14 @@
+{
+    "uuid": "775675f5-4262-11ea-a95e-52543be04c81",
+    "name": "Radio Italia Anni 60 - Piemonte",
+    "url": "http://ice12.fluidstream.net/ria60_to.aac",
+    "homepage": "https://www.radioitaliaanni60.it/index.php/piemonte-home",
+    "favicon": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "60s,70s,80s,90s,torino",
+    "state": "Piemonte",
+    "bitrate": 64
+}

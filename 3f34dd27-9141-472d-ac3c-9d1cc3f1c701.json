@@ -1,0 +1,14 @@
+{
+    "uuid": "3f34dd27-9141-472d-ac3c-9d1cc3f1c701",
+    "name": "Pontevedra Viva",
+    "url": "https://server8.emitironline.com:9402/radio",
+    "homepage": "https://pontevedraviva.com/radio/",
+    "favicon": "https://pontevedraviva.com/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "galician,spanish",
+    "tags": "local news,talk,pontevedra",
+    "state": "Galicia",
+    "bitrate": 64
+}

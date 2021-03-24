@@ -1,0 +1,14 @@
+{
+    "uuid": "22ff801f-699b-41a8-990a-ea5fc003ee21",
+    "name": "Hotmixradio Lounge [128kbps]",
+    "url": "http://streamingads.hotmixradio.fm:8000/hotmixradio-lounge-128.mp3",
+    "homepage": "http://www.hotmixradio.fr/lounge",
+    "favicon": "http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Lounge.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "00aa8700-5ffd-11e9-a622-52543be04c81",
+    "name": "Radio 1",
+    "url": "https://gpb-stream.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8",
+    "homepage": "https://1tv.ge/radio/",
+    "favicon": "https://1tv.ge/app/themes/wi-theme/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Georgia",
+    "country_code": "GE",
+    "language": "georgian",
+    "tags": "folk,pop,news",
+    "state": "",
+    "bitrate": 0
+}

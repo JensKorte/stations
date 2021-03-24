@@ -1,0 +1,14 @@
+{
+    "uuid": "8ed0ce4e-d1c5-11e8-a54a-52543be04c81",
+    "name": "Power Türk",
+    "url": "http://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;",
+    "homepage": "https://www.powerapp.com.tr",
+    "favicon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v2/inverse/logo_34.png?v=1",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 256
+}

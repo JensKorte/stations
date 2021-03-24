@@ -1,0 +1,14 @@
+{
+    "uuid": "19851a5e-a34c-11e9-a787-52543be04c81",
+    "name": "Vorterix",
+    "url": "http://104.131.4.100:8000/stream",
+    "homepage": "https://www.vorterix.com",
+    "favicon": "https://vorterix.com/assets/img/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "vorterix,rock",
+    "state": "Buenos Aires",
+    "bitrate": 64
+}

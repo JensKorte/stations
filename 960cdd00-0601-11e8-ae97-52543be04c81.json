@@ -1,0 +1,14 @@
+{
+    "uuid": "960cdd00-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Salü",
+    "url": "http://internetradio.salue.de:8000/salue.mp3",
+    "homepage": "http://www.salue.de/",
+    "favicon": "http://www.salue.de/radioplayer/img/station-logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Saarland",
+    "bitrate": 128
+}

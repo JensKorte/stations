@@ -1,0 +1,14 @@
+{
+    "uuid": "ee8e44a5-b1d0-11e8-afe1-52543be04c81",
+    "name": "Авторадио",
+    "url": "http://live.humorfm.by:8000/rock",
+    "homepage": "http://avtoradio.by/",
+    "favicon": "http://avtoradio.by/media/cache/player_current/empty.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "rock hits,classic rock,rock",
+    "state": "Minsk",
+    "bitrate": 64
+}

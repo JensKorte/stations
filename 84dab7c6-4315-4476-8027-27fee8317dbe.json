@@ -1,0 +1,14 @@
+{
+    "uuid": "84dab7c6-4315-4476-8027-27fee8317dbe",
+    "name": "ZDF HD",
+    "url": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
+    "homepage": "https://www.zdf.de/",
+    "favicon": "http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "germany,deutsch,fernsehen,tv",
+    "state": "",
+    "bitrate": 638
+}

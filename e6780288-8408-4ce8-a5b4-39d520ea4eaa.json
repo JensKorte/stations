@@ -1,0 +1,14 @@
+{
+    "uuid": "e6780288-8408-4ce8-a5b4-39d520ea4eaa",
+    "name": "Beat rádió",
+    "url": "http://79.172.194.189:9010/live.mp3",
+    "homepage": "http://www.beatradiohungary.hu/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "beat",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962e79c5-0601-11e8-ae97-52543be04c81",
+    "name": "SW-Radio Plautdietsch",
+    "url": "http://www.segenswelle.de:8000/plautdietsch",
+    "homepage": "http://www.sw-radio.com/",
+    "favicon": "http://www.sw-radio.com///templates/yoo_katana/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "plautdietsch",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 64
+}

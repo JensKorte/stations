@@ -1,0 +1,14 @@
+{
+    "uuid": "9624c802-0601-11e8-ae97-52543be04c81",
+    "name": "KNBA 90.3 Koahnic Broadcasting - Anchorage, AK",
+    "url": "http://playerservices.streamtheworld.com/m3u/KNBAFM.m3u",
+    "homepage": "http://knba.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kbc/files/201505/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pri,npr,aboriginal,public radio",
+    "state": "Alaska",
+    "bitrate": 96
+}

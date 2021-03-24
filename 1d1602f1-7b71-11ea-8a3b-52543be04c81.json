@@ -1,0 +1,14 @@
+{
+    "uuid": "1d1602f1-7b71-11ea-8a3b-52543be04c81",
+    "name": "Fango Radio",
+    "url": "https://azuracast.streams.ovh/radio/8090/radio.mp3",
+    "homepage": "https://www.fangoradio.com",
+    "favicon": "https://www.fangoradio.com/img/fango-03.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "english,italian",
+    "tags": "independent,experimental,talk,electronic",
+    "state": "",
+    "bitrate": 320
+}

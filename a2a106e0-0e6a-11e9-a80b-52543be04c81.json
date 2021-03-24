@@ -1,0 +1,14 @@
+{
+    "uuid": "a2a106e0-0e6a-11e9-a80b-52543be04c81",
+    "name": "Милицейская Волна",
+    "url": "http://radio.mvd.ru:8000/mv128.mp3",
+    "homepage": "http://radiomv.ru",
+    "favicon": "http://images.vfl.ru/ii/1546418224/62367eef/24795440.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "pop,80s,90s",
+    "state": "Moscow",
+    "bitrate": 256
+}

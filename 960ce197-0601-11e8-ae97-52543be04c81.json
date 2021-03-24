@@ -1,0 +1,14 @@
+{
+    "uuid": "960ce197-0601-11e8-ae97-52543be04c81",
+    "name": "Slay Radio",
+    "url": "http://relay3.slayradio.org:8000/",
+    "homepage": "https://www.slayradio.org",
+    "favicon": "http://www.slayradio.org/images/fb_icon.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "english",
+    "tags": "chiptune,demoscene,electro,instrumental,electronic,c64",
+    "state": "",
+    "bitrate": 128
+}

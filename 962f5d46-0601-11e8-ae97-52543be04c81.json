@@ -1,0 +1,14 @@
+{
+    "uuid": "962f5d46-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Kaos Italy",
+    "url": "http://nr6.newradio.it:9136/stream",
+    "homepage": "http://www.radiokaositaly.com/",
+    "favicon": "http://www.radiokaositaly.com/wp-content/uploads/2016/10/Radio-Kaos-Italy-logo-com_110.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rock,punk,alternative,indie",
+    "state": "Lazio",
+    "bitrate": 128
+}

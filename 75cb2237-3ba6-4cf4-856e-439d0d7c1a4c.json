@@ -1,0 +1,14 @@
+{
+    "uuid": "75cb2237-3ba6-4cf4-856e-439d0d7c1a4c",
+    "name": "Eldorado",
+    "url": "https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/master.m3u8",
+    "homepage": "https://eldorado.estadao.com.br/",
+    "favicon": "https://eldorado.estadao.com.br/static/eldorado/assets/imgs/logo-eldorado.png",
+    "creation": "2021-02-27 12:43:51",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese_br",
+    "tags": "são paulo,melhores ouvintes",
+    "state": "São Paulo",
+    "bitrate": 64
+}

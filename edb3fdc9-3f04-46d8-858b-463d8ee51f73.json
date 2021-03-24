@@ -1,0 +1,14 @@
+{
+    "uuid": "edb3fdc9-3f04-46d8-858b-463d8ee51f73",
+    "name": "DJ FM 96.8",
+    "url": "http://media2.brg.ua:8000/djfm_l",
+    "homepage": "https://www.djfm.ua/",
+    "favicon": "https://www.djfm.ua/img/new/logo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 160
+}

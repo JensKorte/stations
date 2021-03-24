@@ -1,0 +1,14 @@
+{
+    "uuid": "727f41c0-b68b-4b8c-9384-b35854eac4ef",
+    "name": "Radio Prkos",
+    "url": "http://eu7.fastcast4u.com:6124/stream",
+    "homepage": "http://www.radioprkos.hr/",
+    "favicon": "http://www.radioprkos.hr/images/header-logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 128
+}

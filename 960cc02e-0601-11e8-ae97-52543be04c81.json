@@ -1,0 +1,14 @@
+{
+    "uuid": "960cc02e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ostfriesland 94.0",
+    "url": "http://fra.radiostream.de:36949/;*.nsv",
+    "homepage": "http://ww2.radio-ostfriesland.de/",
+    "favicon": "http://static.radio.de/images/broadcasts/17/eb/2914/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

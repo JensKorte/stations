@@ -1,0 +1,14 @@
+{
+    "uuid": "edaa4ad7-bdf3-11e8-aaf2-52543be04c81",
+    "name": "DNBRadio Main channel 192k",
+    "url": "http://ildnb1.dnbradio.com:8000/dnbradio_main.mp3",
+    "homepage": "https://dnbradio.com",
+    "favicon": "https://dnbradio.com/img/logotags.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english",
+    "tags": "drum \u0026 bass,drum and bass,dubstep,tech step,neurofunk",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9625eb3d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Onda Libera",
+    "url": "http://onair15.xdevel.com:8078/listen.pls",
+    "homepage": "http://www.radioondalibera.it/",
+    "favicon": "http://www.radioondalibera.it/wp-content/themes/theme47829/images/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Umbria",
+    "bitrate": 128
+}

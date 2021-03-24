@@ -1,0 +1,14 @@
+{
+    "uuid": "ed28002d-6bfe-4327-badc-5545333d5a73",
+    "name": "Radio No9",
+    "url": "http://www.radio-no9.de:4000/;stream.mp3",
+    "homepage": "http://www.radio-no9.de",
+    "favicon": "https://radio-no9.de/templates/allrounder-3/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "synthpop,darkwave,community radio,misc,germany,classic rock,metal,rock,community,soccer,hattrick",
+    "state": "",
+    "bitrate": 192
+}

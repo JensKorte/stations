@@ -1,0 +1,14 @@
+{
+    "uuid": "9792b20a-2d35-4bce-b27e-f9d8aeeefd5b",
+    "name": "Mouv' Kids 'n Family",
+    "url": "https://icecast.radiofrance.fr/mouvkidsnfamily-hifi.aac",
+    "homepage": "https://www.mouv.fr/stream-radios/kids-n-family",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/08/20b36ec0-fd19-4d92-b393-7977277e1452/300x300_mouv_webradio_kids_n_family.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "international",
+    "tags": "aac,webradio,public radio,rap,hip-hop,radio france",
+    "state": "",
+    "bitrate": 192
+}

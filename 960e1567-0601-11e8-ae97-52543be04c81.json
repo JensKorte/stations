@@ -1,0 +1,14 @@
+{
+    "uuid": "960e1567-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bielefeld",
+    "url": "http://mp3.radiobielefeld.c.nmdn.net/radiobielefeld/livestream.mp3",
+    "homepage": "http://www.radiobielefeld.de",
+    "favicon": "http://www.radiobielefeld.de/fileadmin/ams/Shared/Public/custom/img/rabi-square-500.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "local radio,bielefeld",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

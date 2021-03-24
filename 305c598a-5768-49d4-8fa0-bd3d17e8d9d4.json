@@ -1,0 +1,14 @@
+{
+    "uuid": "305c598a-5768-49d4-8fa0-bd3d17e8d9d4",
+    "name": "BraveFM #rap",
+    "url": "http://stream.laut.fm/bravefmrap",
+    "homepage": "https://bravefm.de",
+    "favicon": "https://bravefm.de/images/rap.png",
+    "creation": "2021-03-01 14:49:27",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "radio,bravefm,rap",
+    "state": "Deutschland (Germany)",
+    "bitrate": 128
+}

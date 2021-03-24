@@ -1,0 +1,14 @@
+{
+    "uuid": "d343af02-2f2c-4652-82b4-cf833eb0714a",
+    "name": "Universidad de Concepción",
+    "url": "https://unlimited11-cl.dps.live/udec/aac/icecast.audio",
+    "homepage": "https://www.radioudec.cl",
+    "favicon": "https://www.radioudec.cl/wp-content/uploads/2020/02/radio_udec.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "español",
+    "tags": "pop,noticias y comentarios,clasica",
+    "state": "Concepción",
+    "bitrate": 64
+}

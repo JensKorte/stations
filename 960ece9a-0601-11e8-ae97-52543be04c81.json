@@ -1,0 +1,14 @@
+{
+    "uuid": "960ece9a-0601-11e8-ae97-52543be04c81",
+    "name": "Country Radio",
+    "url": "http://icecast2.play.cz:8000/country128aac",
+    "homepage": "http://www.countryradio.cz",
+    "favicon": "http://www.countryradio.cz/assets/favicon/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "country",
+    "state": "",
+    "bitrate": 0
+}

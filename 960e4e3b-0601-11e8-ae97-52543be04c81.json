@@ -1,0 +1,14 @@
+{
+    "uuid": "960e4e3b-0601-11e8-ae97-52543be04c81",
+    "name": "Hit Radio N1",
+    "url": "http://webstream.hitradion1.de/hitradion1",
+    "homepage": "http://www.hitradion1.de/index.php",
+    "favicon": "http://www.funkhaus.de/non_cms/webradio/hitradion1/img/station-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "disco",
+    "state": "",
+    "bitrate": 128
+}

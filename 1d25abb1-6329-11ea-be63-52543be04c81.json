@@ -1,0 +1,14 @@
+{
+    "uuid": "1d25abb1-6329-11ea-be63-52543be04c81",
+    "name": "Onda Guillena Radio",
+    "url": "http://w2.guillena.org:8000/ondaguillenaradio.mp3",
+    "homepage": "http://onda.guillena.org/",
+    "favicon": "http://onda.guillena.org/wp-content/storage/2018/06/cropped-ondaguillenaicon-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "flamenco,talk,community radio,pop",
+    "state": "Sevilla",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961e5957-0601-11e8-ae97-52543be04c81",
+    "name": "The Sound",
+    "url": "http://livestream.mediaworks.nz/radio_origin/sound_128kbps/playlist.m3u8",
+    "homepage": "http://www.thesound.co.nz/",
+    "favicon": "http://www.thesound.co.nz//design/images/icons/favicon.192.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "language": "english",
+    "tags": "m3u8,classic rock",
+    "state": "Auckland",
+    "bitrate": 149
+}

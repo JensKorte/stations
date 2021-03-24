@@ -1,0 +1,14 @@
+{
+    "uuid": "963ad02f-0601-11e8-ae97-52543be04c81",
+    "name": "LBC London (National stream)",
+    "url": "http://media-ice.musicradio.com/LBCUKMP3Low",
+    "homepage": "http://lbc.co.uk",
+    "favicon": "https://static.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "talk,news",
+    "state": "London",
+    "bitrate": 48
+}

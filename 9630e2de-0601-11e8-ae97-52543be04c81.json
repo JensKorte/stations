@@ -1,0 +1,14 @@
+{
+    "uuid": "9630e2de-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 016 Leskovac",
+    "url": "http://radiostreaming.ninet.rs:8400/stream/1/",
+    "homepage": "http://radio016.net/",
+    "favicon": "http://radio016.net/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "serbian music,radio 016,leskovac 016",
+    "state": "",
+    "bitrate": 128
+}

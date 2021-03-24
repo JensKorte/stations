@@ -1,0 +1,14 @@
+{
+    "uuid": "6397fc3c-fca0-11e9-bbf2-52543be04c81",
+    "name": "Radio4",
+    "url": "http://netradio.radio4.dk/radio4",
+    "homepage": "https://radio4.dk/",
+    "favicon": "https://radio4.dk/wp-content/uploads/2019/06/iconx152.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "talk,news",
+    "state": "",
+    "bitrate": 192
+}

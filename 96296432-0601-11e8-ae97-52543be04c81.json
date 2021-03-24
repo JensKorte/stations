@@ -1,0 +1,14 @@
+{
+    "uuid": "96296432-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Pianeta",
+    "url": "http://5.196.74.6:8000/stream",
+    "homepage": "http://www.radiopianeta.it/",
+    "favicon": "http://www.radiopianeta.it/images/Pianetalogoclaim-noombra.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cividate al piano,top 40,pop",
+    "state": "Lombardia",
+    "bitrate": 128
+}

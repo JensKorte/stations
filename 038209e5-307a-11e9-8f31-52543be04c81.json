@@ -1,0 +1,14 @@
+{
+    "uuid": "038209e5-307a-11e9-8f31-52543be04c81",
+    "name": "Radio Slatina",
+    "url": "http://85.17.172.242:8020/live2.mp3",
+    "homepage": "https://www.radioslatina.hr/",
+    "favicon": "https://www.radioslatina.hr/wp-content/uploads/2017/02/cropped-photo-270x270.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "slavonija,hrvatska,domaca glazba,slatina",
+    "state": "Slavonija",
+    "bitrate": 0
+}

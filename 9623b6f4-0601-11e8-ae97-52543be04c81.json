@@ -1,0 +1,14 @@
+{
+    "uuid": "9623b6f4-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 105.7 Darwin, NT (MP3)",
+    "url": "http://live-radio01.mediahubaustralia.com/8LRW/mp3/",
+    "homepage": "http://www.abc.net.au/darwin/",
+    "favicon": "https://resize.abcradio.net.au/wxuvYhCQ6zq3nvCGbOPaoD2wf2A=/100x100/center/middle/http://www.abc.net.au/radio/images/service/ABC-Radio-Darwin.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "darwin,abc,public radio,local news,information,news",
+    "state": "Northern Territory",
+    "bitrate": 64
+}

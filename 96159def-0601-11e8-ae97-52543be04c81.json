@@ -1,0 +1,14 @@
+{
+    "uuid": "96159def-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Helsinki (128 kb/s)",
+    "url": "http://radio.radiohelsinki.fi",
+    "homepage": "http://www.radiohelsinki.fi",
+    "favicon": "http://www.radiohelsinki.fi/wp-content/uploads/2017/02/radio-helsinki-facebook-03.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "Uusimaa",
+    "bitrate": 128
+}

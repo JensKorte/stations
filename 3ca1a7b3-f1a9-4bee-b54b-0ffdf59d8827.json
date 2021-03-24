@@ -1,0 +1,14 @@
+{
+    "uuid": "3ca1a7b3-f1a9-4bee-b54b-0ffdf59d8827",
+    "name": "Radio Fréquence Plus",
+    "url": "http://192.162.68.160:8080/stream",
+    "homepage": "http://frequenceplus.mg/",
+    "favicon": "https://ca0-cdn.onlineradiobox.com/img/logo/9/74919.v4.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "language": "malgache,malagasy",
+    "tags": "antananarivo",
+    "state": "",
+    "bitrate": 0
+}

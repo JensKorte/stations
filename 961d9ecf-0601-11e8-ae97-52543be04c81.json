@@ -1,0 +1,14 @@
+{
+    "uuid": "961d9ecf-0601-11e8-ae97-52543be04c81",
+    "name": "Guldkanalen Helsingborg",
+    "url": "http://stream.dbmedia.se/gkhbg96",
+    "homepage": "http://www.guldkanalen.se",
+    "favicon": "http://static.radio.se/images/broadcasts/29/e4/32298/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "oldies",
+    "state": "Helsingborg",
+    "bitrate": 96
+}

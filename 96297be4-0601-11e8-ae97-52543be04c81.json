@@ -1,0 +1,14 @@
+{
+    "uuid": "96297be4-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 51",
+    "url": "http://ice04.fluidstream.net/fluid0406.aac",
+    "homepage": "http://www.51news.it/radio51news",
+    "favicon": "http://www.51news.it/images/loghi/logo_facebook.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "news,top 40,pop",
+    "state": "Lombardia",
+    "bitrate": 96
+}

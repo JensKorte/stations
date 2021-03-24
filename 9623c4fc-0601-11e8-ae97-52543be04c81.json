@@ -1,0 +1,14 @@
+{
+    "uuid": "9623c4fc-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 1233 Newcastle, NSW (AAC)",
+    "url": "http://live-radio01.mediahubaustralia.com/2NEWW/aac/",
+    "homepage": "http://www.abc.net.au/newcastle/",
+    "favicon": "https://resize.abcradio.net.au/DTizMvFZLiy7f2ghi5e1eUxyPpw=/100x100/center/middle/http://www.abc.net.au/radio/images/service/local_newcastle.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "newcastle,abc,public radio,local news,information,news",
+    "state": "New South Wales",
+    "bitrate": 48
+}

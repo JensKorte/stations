@@ -1,0 +1,14 @@
+{
+    "uuid": "961bc5b4-0601-11e8-ae97-52543be04c81",
+    "name": "NOVA",
+    "url": "http://stream.novafm.dk/nova128",
+    "homepage": "http://www.radioplay.dk/nova",
+    "favicon": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/174.jpg?ver=1490690222",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

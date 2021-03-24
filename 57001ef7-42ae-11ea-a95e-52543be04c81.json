@@ -1,0 +1,14 @@
+{
+    "uuid": "57001ef7-42ae-11ea-a95e-52543be04c81",
+    "name": "City FM Classic-Rock",
+    "url": "http://streams.cityfm.nl:8045/listen.pls",
+    "homepage": "http://www.cityfm.nl/",
+    "favicon": "http://www.cityfm.nl/images/facebook_still.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "netherlands",
+    "tags": "classic-rock",
+    "state": "",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9647eaef-0601-11e8-ae97-52543be04c81",
+    "name": "Freies Radio StHörfunk",
+    "url": "http://stream.sthoerfunk.de:7000/sthoerfunk.mp3",
+    "homepage": "http://www.sthoerfunk.de/",
+    "favicon": "http://www.sthoerfunk.de//perch/addons/feathers/startblock/img/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 320
+}

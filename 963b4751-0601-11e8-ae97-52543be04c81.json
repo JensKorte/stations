@@ -1,0 +1,14 @@
+{
+    "uuid": "963b4751-0601-11e8-ae97-52543be04c81",
+    "name": "L'Unico",
+    "url": "http://icecast.l-uni.co:8001/lunico_high_mp3",
+    "homepage": "http://l-unico.de",
+    "favicon": "https://l-uni.co/wp-content/uploads/2016/07/LUniCo-Logo-RGB-cut.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "university,indie,indie rock",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 192
+}

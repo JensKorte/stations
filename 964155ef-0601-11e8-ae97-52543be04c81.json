@@ -1,0 +1,14 @@
+{
+    "uuid": "964155ef-0601-11e8-ae97-52543be04c81",
+    "name": "CJKS 93.5 \"Jukasa Radio\"  Ohsweken, ON",
+    "url": "http://ca2.radioboss.fm:8018/stream",
+    "homepage": "http://jukasaradio.ca/",
+    "favicon": "http://jukasaradio.ca/wp-content/uploads/2016/01/5037_JukasaRadio_Logo_FINAL.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "ohsweken,hiphop,aboriginal,community radio",
+    "state": "Ontario",
+    "bitrate": 128
+}

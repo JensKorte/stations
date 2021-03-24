@@ -1,0 +1,14 @@
+{
+    "uuid": "964fdb0f-0601-11e8-ae97-52543be04c81",
+    "name": "Virgin Radio Switzerland Rock",
+    "url": "http://icecast.argovia.ch/vrock",
+    "homepage": "http://www.virginradio.ch/",
+    "favicon": "http://www.virginradio.ch//__radio__/1.8.1/__static__/dist/virgin/device-icons/mstile-70x70.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "rock",
+    "state": "Zürich",
+    "bitrate": 128
+}

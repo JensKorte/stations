@@ -1,0 +1,14 @@
+{
+    "uuid": "e95bc4d4-29e4-11e8-91bf-52543be04c81",
+    "name": "radiotell",
+    "url": "http://stream.radiotell.ch/radiotell.mp3.m3u",
+    "homepage": "http://radiotell.ch/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

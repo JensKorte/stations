@@ -1,0 +1,14 @@
+{
+    "uuid": "961fb7de-0601-11e8-ae97-52543be04c81",
+    "name": "Sunrise Radio",
+    "url": "http://server2.blitz-stream.de:7920/",
+    "homepage": "http://www.sunrise-radio.net/",
+    "favicon": "http://www.sunrise-radio.net/images/site/phpkit.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,rock",
+    "state": "",
+    "bitrate": 128
+}

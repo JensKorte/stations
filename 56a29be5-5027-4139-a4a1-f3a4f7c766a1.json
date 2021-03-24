@@ -1,0 +1,14 @@
+{
+    "uuid": "56a29be5-5027-4139-a4a1-f3a4f7c766a1",
+    "name": "Radio Fontaine",
+    "url": "http://live.francra.org:8000/RadioFontaine",
+    "homepage": "http://www.radiofontaine.fr/",
+    "favicon": "http://www.radiofontaine.fr/logo-Fontaine.jpg?v=1zyeuwkkos9hv9",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "francais,french,fr",
+    "tags": "culture,french music,local news,radio associative",
+    "state": "Auvergne-Rhône-Alpes",
+    "bitrate": 128
+}

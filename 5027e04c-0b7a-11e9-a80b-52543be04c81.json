@@ -1,0 +1,14 @@
+{
+    "uuid": "5027e04c-0b7a-11e9-a80b-52543be04c81",
+    "name": "Symphony 924 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac",
+    "homepage": "http://www.meradio.sg/radio/symphony924",
+    "favicon": "http://www.meradio.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony924-logoImage.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Singapore",
+    "country_code": "SG",
+    "language": "english",
+    "tags": "",
+    "state": "Singapore",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "0efe50ba-3b6a-11e9-9b4e-52543be04c81",
+    "name": "France Inter",
+    "url": "http://direct.franceinter.fr/live/franceinter-lofi.mp3",
+    "homepage": "https://www.franceinter.fr/",
+    "favicon": "https://www.franceinter.fr//img/touch-icon-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "news talk",
+    "state": "",
+    "bitrate": 0
+}

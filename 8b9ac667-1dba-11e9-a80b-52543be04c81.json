@@ -1,0 +1,14 @@
+{
+    "uuid": "8b9ac667-1dba-11e9-a80b-52543be04c81",
+    "name": "Pécs FM",
+    "url": "http://pecs.fm:8000/1017.mp3",
+    "homepage": "https://pecs.fm/",
+    "favicon": "http://player.pecs.fm/media/img/logo_pfm.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop",
+    "state": "Baranya",
+    "bitrate": 256
+}

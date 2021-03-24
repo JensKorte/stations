@@ -1,0 +1,14 @@
+{
+    "uuid": "285e2990-6cc1-11e9-af37-52543be04c81",
+    "name": "jö.live",
+    "url": "http://clubradio.joelive.at/",
+    "homepage": "https://www.joe-club.at/stream",
+    "favicon": "https://www.joe-club.at/static/images/radio/radio_logo_501x501.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "instore radio,dab+",
+    "state": "Vienna",
+    "bitrate": 0
+}

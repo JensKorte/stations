@@ -1,0 +1,14 @@
+{
+    "uuid": "bdc9d91d-58e5-4101-adbb-94f0f6016d69",
+    "name": "BigFM RadioSocial",
+    "url": "http://media.login.in.th:8195/;stream.mp3",
+    "homepage": "http://www.bigfm.fm",
+    "favicon": "http://www.bigfm.fm/_nuxt/img/11e096c.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "variety",
+    "state": "Bangkok",
+    "bitrate": 128
+}

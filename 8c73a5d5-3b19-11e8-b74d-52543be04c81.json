@@ -1,0 +1,14 @@
+{
+    "uuid": "8c73a5d5-3b19-11e8-b74d-52543be04c81",
+    "name": "Son Galiza Radio",
+    "url": "http://crtvg-songalicia.stream.flumotion.com/songalicia/live.mp3.m3u",
+    "homepage": "http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia",
+    "favicon": "http://www.crtvg.es/static/v2_img/icons/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "galician",
+    "tags": "",
+    "state": "Galicia",
+    "bitrate": 185
+}

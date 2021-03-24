@@ -1,0 +1,14 @@
+{
+    "uuid": "4bbd05bd-9bbb-4632-90b4-1fd3649a1b40",
+    "name": "Mouv' DanceHall",
+    "url": "https://icecast.radiofrance.fr/mouvdancehall-hifi.aac",
+    "homepage": "https://www.mouv.fr/stream-radios/dancehall",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/9d04e918-c907-4627-a332-1071bdc2366e/300x300_dancehall.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "aac,webradio,public radio,dancehall,radio france",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ea811201-a479-446c-9889-b85b084f3136",
+    "name": "Radio Expres SK",
+    "url": "https://stream.expres.sk/128.mp3",
+    "homepage": "https://www.expres.sk",
+    "favicon": "https://www.expres.sk/wp-content/themes/expres-theme/images/logo_re.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

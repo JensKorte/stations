@@ -1,0 +1,14 @@
+{
+    "uuid": "961f4669-0601-11e8-ae97-52543be04c81",
+    "name": "RzK (Ukraine) - 64kb/s",
+    "url": "http://stream.mjoy.ua:8000/rzk-aac.m3u",
+    "homepage": "http://mjoy.ua/radio/rzk/",
+    "favicon": "http://mjoy.ua/radio/rzk/favicons/fav.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "folk,rock",
+    "state": "Lviv",
+    "bitrate": 0
+}

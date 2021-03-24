@@ -1,0 +1,14 @@
+{
+    "uuid": "345cc08c-a5e3-43d9-9543-0626f2081177",
+    "name": "Bons Tempos FM",
+    "url": "https://server02.ouvir.radio.br:8050/stream?1609720768800",
+    "homepage": "https://www.radios.com.br/aovivo/bons-tempos-fm/37027",
+    "favicon": "https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português,português do brasil,portuguese",
+    "tags": "romantic,rock,nostalgic,nostalgia",
+    "state": "",
+    "bitrate": 48
+}

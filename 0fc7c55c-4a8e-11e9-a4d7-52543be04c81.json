@@ -1,0 +1,14 @@
+{
+    "uuid": "0fc7c55c-4a8e-11e9-a4d7-52543be04c81",
+    "name": "Olympia Radio",
+    "url": "http://streams.olympia-radio.nl:80/olympia",
+    "homepage": "https://www.olympia-radio.nl/",
+    "favicon": "https://www.olympia-radio.nl/assets/themes/olympia-radio_nl/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "nederlands",
+    "tags": "piratenhits",
+    "state": "",
+    "bitrate": 192
+}

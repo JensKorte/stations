@@ -1,0 +1,14 @@
+{
+    "uuid": "0bf2d627-51c8-4951-b4ac-c931748b7098",
+    "name": "LOS40 Guadalajara - 102.7 FM - XEHL-FM - Radiópolis - Guadalajara, JC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_GDLAAC.aac",
+    "homepage": "https://escucha.los40.com.mx/emisora/40p_guadalajara/",
+    "favicon": "http://cdn-profiles.tunein.com/s2753/images/logoq.jpg",
+    "creation": "2021-03-01 06:02:10",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "entretenimiento,música pop,juvenil,pop,pop music,música,estación,102.7 fm,102.7,fm,radio,mex,mx,méxico,jalisco,guadalajara,radiópolis,los40",
+    "state": "Jalisco",
+    "bitrate": 56
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9935c57f-7cbd-11e9-aa30-52543be04c81",
+    "name": "Krypton Radio",
+    "url": "http://station.kryptonradio.com:2199/tunein/kryptonradio.pls",
+    "homepage": "https://kryptonradio.com/",
+    "favicon": "https://kryptonradio.com/wp-content/uploads/2017/02/kryptonRadioAlexaSkill.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "science fiction,soundtracks",
+    "state": "",
+    "bitrate": 128
+}

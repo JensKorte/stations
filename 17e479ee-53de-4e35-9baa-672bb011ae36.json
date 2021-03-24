@@ -1,0 +1,14 @@
+{
+    "uuid": "17e479ee-53de-4e35-9baa-672bb011ae36",
+    "name": "WCBM 680",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCBMAM.mp3",
+    "homepage": "https://www.wcbm.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WCBM.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,talk",
+    "state": "Baltimore MD",
+    "bitrate": 32
+}

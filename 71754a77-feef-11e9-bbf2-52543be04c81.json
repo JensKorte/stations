@@ -1,0 +1,14 @@
+{
+    "uuid": "71754a77-feef-11e9-bbf2-52543be04c81",
+    "name": "SLAY Radio (AAC)",
+    "url": "http://relay3.slayradio.org:8300/",
+    "homepage": "https://www.slayradio.org/",
+    "favicon": "http://www.slayradio.org/images/fb_icon_220.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "",
+    "tags": "c64,remixes,chiptunes,8bit",
+    "state": "",
+    "bitrate": 128
+}

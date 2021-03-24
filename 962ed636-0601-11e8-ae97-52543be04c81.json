@@ -1,0 +1,14 @@
+{
+    "uuid": "962ed636-0601-11e8-ae97-52543be04c81",
+    "name": "Calm Radio - Baroque",
+    "url": "http://streams.calmradio.com:3328/stream",
+    "homepage": "https://www.calmradio.com/",
+    "favicon": "https://i3.radionomy.com/radios/400/c6640d0b-f094-45fb-8de5-83a2af18557d.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "classical,baroque",
+    "state": "Ontario",
+    "bitrate": 128
+}

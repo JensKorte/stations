@@ -1,0 +1,14 @@
+{
+    "uuid": "960e3ddc-0601-11e8-ae97-52543be04c81",
+    "name": "BFBS Radio Germany",
+    "url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs5.aac",
+    "homepage": "http://www.bfbs.com/radio/locations/germany",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english",
+    "tags": "pop,british forces",
+    "state": "",
+    "bitrate": 0
+}

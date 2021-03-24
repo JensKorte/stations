@@ -1,0 +1,14 @@
+{
+    "uuid": "961de267-0601-11e8-ae97-52543be04c81",
+    "name": "Geras FM",
+    "url": "http://82.135.234.195:8000/gerasfm.mp3.m3u",
+    "homepage": "http://www.gerasfm.lt/",
+    "favicon": "https://www.google.com/s2/favicons?domain=www.gerasfm.lt",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "uab geruda,geras fm vilnius,geras fm",
+    "state": "Vilniaus m.",
+    "bitrate": 0
+}

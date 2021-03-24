@@ -1,0 +1,14 @@
+{
+    "uuid": "51776cfa-6cca-11ea-b1cf-52543be04c81",
+    "name": "CBN Joao Pessoa FM 101.7MHz",
+    "url": "http://audio.cabobranco.tv.br:8000/cbn",
+    "homepage": "http://cbnjoaopessoa.com.br/",
+    "favicon": "http://cbnjoaopessoa.com.br/wp-content/themes/cbn/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "pt_br",
+    "tags": "webradio,brasil,local news,news",
+    "state": "Paraiba",
+    "bitrate": 16
+}

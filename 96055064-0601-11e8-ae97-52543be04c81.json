@@ -1,0 +1,14 @@
+{
+    "uuid": "96055064-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Unerhört Marburg",
+    "url": "http://stream.radio-rum.de:8000/rum.mp3.m3u",
+    "homepage": "http://www.radio-rum.de/",
+    "favicon": "http://www.radio-rum.de/blog/wp-content/uploads/2015/10/cropped-piradio_Amod_col-270x270.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Hessen",
+    "bitrate": 128
+}

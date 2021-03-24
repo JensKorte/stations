@@ -1,0 +1,14 @@
+{
+    "uuid": "560972ef-2dfa-480f-88fb-b1a6e95fb7fa",
+    "name": "ESPN Radio",
+    "url": "http://edge.espn.cdn.abacast.net/espn-networkmp3-48?",
+    "homepage": "http://www.espn.com/espnradio/",
+    "favicon": "http://www.espn.com/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "sports",
+    "state": " ",
+    "bitrate": 48
+}

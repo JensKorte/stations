@@ -1,0 +1,14 @@
+{
+    "uuid": "872382ab-bb96-4257-a860-86e46703b752",
+    "name": "RADIO VENETO UNO",
+    "url": "http://streaming.venetouno.it:80/live",
+    "homepage": "http://www.venetouno.it/",
+    "favicon": "http://www.venetouno.it/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

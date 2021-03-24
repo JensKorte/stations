@@ -1,0 +1,14 @@
+{
+    "uuid": "fc77de50-a04a-11e9-a787-52543be04c81",
+    "name": "Radio Metro",
+    "url": "http://stream.radiometro.no/metro128.mp3",
+    "homepage": "https://www.radiometro.no/",
+    "favicon": "https://www.radiometro.no/wp-content/uploads/2017/09/cropped-favicon-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "norwegian,local radio",
+    "state": "",
+    "bitrate": 128
+}

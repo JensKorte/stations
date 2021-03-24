@@ -1,0 +1,14 @@
+{
+    "uuid": "1928d18d-0ece-11e9-a80b-52543be04c81",
+    "name": "Radio 2 Limburg",
+    "url": "http://icecast.vrtcdn.be/ra2lim-high.mp3",
+    "homepage": "https://radio2.be/",
+    "favicon": "https://radio2.be//modules/vrt/radio2/radio2_core/images/manifest/icon-512.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "",
+    "state": "Limburg",
+    "bitrate": 0
+}

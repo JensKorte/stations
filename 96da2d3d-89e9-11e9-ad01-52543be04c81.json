@@ -1,0 +1,14 @@
+{
+    "uuid": "96da2d3d-89e9-11e9-ad01-52543be04c81",
+    "name": "Italo Sound Radio",
+    "url": "http://stream.italosound.com:8000/italosound",
+    "homepage": "https://italosound.com/",
+    "favicon": "https://italosound.com/logo-cover.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "english",
+    "tags": "milano,electronic,dance,italo dance,italo disco",
+    "state": "Lombardia",
+    "bitrate": 0
+}

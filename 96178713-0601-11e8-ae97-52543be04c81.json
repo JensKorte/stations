@@ -1,0 +1,14 @@
+{
+    "uuid": "96178713-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ton - Verkehr",
+    "url": "http://live.radioton.de:80/rt-verkehr",
+    "homepage": "http://www.radioton.de/",
+    "favicon": "http://www.radioton.de/fileadmin/default/images/layout/Logo_RadioTon.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

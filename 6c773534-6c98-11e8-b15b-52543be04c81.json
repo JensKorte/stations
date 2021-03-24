@@ -1,0 +1,14 @@
+{
+    "uuid": "6c773534-6c98-11e8-b15b-52543be04c81",
+    "name": "egoFM",
+    "url": "https://egofm-live.cast.addradio.de/egofm/live/mp3/high/stream.mp3",
+    "homepage": "https://www.egofm.de/",
+    "favicon": "https://player.egofm.de/radioplayer/img/egofm.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "indie",
+    "state": "Bavaria",
+    "bitrate": 128
+}

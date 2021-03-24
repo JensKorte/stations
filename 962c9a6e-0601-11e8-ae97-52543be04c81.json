@@ -1,0 +1,14 @@
+{
+    "uuid": "962c9a6e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Vicenza",
+    "url": "http://players.fluidstream.net/radiovicenzafm.pls",
+    "homepage": "https://www.radiovicenza.com/",
+    "favicon": "https://www.radiovicenza.com/wp-content/uploads/2015/06/cropped-ico-192x192.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "music,news",
+    "state": "Veneto",
+    "bitrate": 128
+}

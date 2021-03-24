@@ -1,0 +1,14 @@
+{
+    "uuid": "960e4195-0601-11e8-ae97-52543be04c81",
+    "name": "BRF1",
+    "url": "http://streaming.brf.be:80/brf1-high.mp3",
+    "homepage": "http://1.brf.be/",
+    "favicon": "http://1.brf.be/wp-content/themes/brf-eins/assets/img/favicons/Icon-60@3x.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "german",
+    "tags": "regional",
+    "state": "Eupen/Eifel",
+    "bitrate": 128
+}

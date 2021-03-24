@@ -1,0 +1,14 @@
+{
+    "uuid": "960969eb-0601-11e8-ae97-52543be04c81",
+    "name": "Virgin Radio Türkiye",
+    "url": "http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls",
+    "homepage": "http://www.virginradioturkiye.com/",
+    "favicon": "http://mediacdn.karnaval.com/media/station_media/15/logos/meta_image.png?v=280316053238",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "pop rock",
+    "state": "",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3ed65c3e-6f5c-481e-b418-0de93ab5f38b",
+    "name": "Радио Центр",
+    "url": "http://stream.radiocenter.net:9960",
+    "homepage": "http://www.radiocenter.net/",
+    "favicon": "http://www.radiocenter.net/img/logosm.gif",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

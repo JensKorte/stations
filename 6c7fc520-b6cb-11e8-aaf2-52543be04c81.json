@@ -1,0 +1,14 @@
+{
+    "uuid": "6c7fc520-b6cb-11e8-aaf2-52543be04c81",
+    "name": "Radio ici et maintenant",
+    "url": "http://radio.rim952.fr:8000/stream.mp3",
+    "homepage": "http://icietmaintenant.com/index.php",
+    "favicon": "http://icietmaintenant.com/images/histoire/icietmaintenant.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "francais",
+    "tags": "ovni santé spiritualité politique",
+    "state": "Paris",
+    "bitrate": 192
+}

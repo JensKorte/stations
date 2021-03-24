@@ -1,0 +1,14 @@
+{
+    "uuid": "961924a9-0601-11e8-ae97-52543be04c81",
+    "name": "YLE X3M",
+    "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/master.m3u8",
+    "homepage": "https://svenska.yle.fi/x3m",
+    "favicon": "http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/YLE_X3M.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "swedish",
+    "tags": "eclectic,m3u8",
+    "state": "",
+    "bitrate": 62
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e42f8419-3735-4154-8af8-997e30ae8200",
+    "name": "Radio Malta",
+    "url": "http://s38.myradiostream.com:6982",
+    "homepage": "https://www.tvm.com.mt/mt/radju/",
+    "favicon": "https://www.tvm.com.mt/_favicons/favicon-96x96.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Malta",
+    "country_code": "MT",
+    "language": "maltese",
+    "tags": "music,entertainment,local news,general",
+    "state": "",
+    "bitrate": 192
+}

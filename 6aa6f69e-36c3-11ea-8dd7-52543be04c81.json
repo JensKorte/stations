@@ -1,0 +1,14 @@
+{
+    "uuid": "6aa6f69e-36c3-11ea-8dd7-52543be04c81",
+    "name": "ČRo D-dur",
+    "url": "http://icecast1.play.cz:8000/croddur32aac",
+    "homepage": "https://www.rozhlas.cz/d-dur/",
+    "favicon": "https://api.play.cz/static/radio_logo/t200/croddur.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,public radio,classical,32k,aac+",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3eba933a-a037-447b-b3ca-ffeb8ca90b08",
+    "name": "Radio Križevci",
+    "url": "https://s8.iqstreaming.com:8048/stream",
+    "homepage": "https://radiokrizevci.hr/",
+    "favicon": "https://radiokrizevci.hr/wp-content/uploads/2018/09/Logo-Hedder-1-1-65x65.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 128
+}

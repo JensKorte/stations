@@ -1,0 +1,14 @@
+{
+    "uuid": "90e4ab70-344e-11e8-bb9b-52543be04c81",
+    "name": "Radio Mucodec (100.3 MHz FM, Brazzaville)",
+    "url": "http://rsfradio.streamakaci.com/;stream.mp3",
+    "homepage": "https://www.mucodec.com/mucodec_radio.php",
+    "favicon": "https://www.mucodec.com/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Congo",
+    "country_code": "CG",
+    "language": "french",
+    "tags": "african music,music,sports news,full service,local news,news",
+    "state": "Brazzaville",
+    "bitrate": 128
+}

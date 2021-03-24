@@ -1,0 +1,14 @@
+{
+    "uuid": "962607c7-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Marconi 2 \"Musica Clasica\"",
+    "url": "http://onair22.streaming.xdevel.com:7598/;stream.mp3",
+    "homepage": "http://www.radiomarconi.info/",
+    "favicon": "http://www.cidim.it:8080/dwnld/bwbnw/image/347320/radiomarconimicrofono.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "classical",
+    "state": "Lombardia",
+    "bitrate": 192
+}

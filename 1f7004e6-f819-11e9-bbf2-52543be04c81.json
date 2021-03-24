@@ -1,0 +1,14 @@
+{
+    "uuid": "1f7004e6-f819-11e9-bbf2-52543be04c81",
+    "name": "IRIB Radio Ava - رادیو آوا",
+    "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-ava/playlist.m3u8",
+    "homepage": "http://radioava.ir/",
+    "favicon": "http://radio.iranseda.ir/ImagesDynamic?c=radio-Ava",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Islamic Republic Of Iran",
+    "country_code": "IR",
+    "language": "farsi",
+    "tags": "religion,tehran,ava",
+    "state": "Tehran",
+    "bitrate": 307
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3034a8dc-c4df-11e8-aaf2-52543be04c81",
+    "name": "Rclasicos",
+    "url": "http://s1.radiosonorense.com:9100/stream",
+    "homepage": "http://rclasicos.com",
+    "favicon": "http://rclasicos.com/icon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "",
+    "state": "Sonora",
+    "bitrate": 128
+}

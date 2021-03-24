@@ -1,0 +1,14 @@
+{
+    "uuid": "961cf3a0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Vatikan Kanal 10 - Deutsche Übertragungen",
+    "url": "http://live.vaticanwebradio.org/channel10.mp3",
+    "homepage": "http://de.radiovaticana.va",
+    "favicon": "http://en.radiovaticana.va/Modules/Presentation/Styles/images-common/loghi-canali/RV10-channel.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Holy See",
+    "country_code": "VA",
+    "language": "german",
+    "tags": "religion,catholic,christian",
+    "state": "",
+    "bitrate": 64
+}

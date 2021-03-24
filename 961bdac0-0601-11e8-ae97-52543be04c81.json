@@ -1,0 +1,14 @@
+{
+    "uuid": "961bdac0-0601-11e8-ae97-52543be04c81",
+    "name": "LBC London (London stream) MP3",
+    "url": "http://media-ice.musicradio.com/LBCLondonMP3Low",
+    "homepage": "http://www.lbc.co.uk/online-listen-live-faq-3608",
+    "favicon": "http://lbc.gcstatic.com/assets_v4r/lbc/img/apple-touch-icon-57x57.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "london,talk,news",
+    "state": "",
+    "bitrate": 48
+}

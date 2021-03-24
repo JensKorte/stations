@@ -1,0 +1,14 @@
+{
+    "uuid": "9628ad7c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Alfa",
+    "url": "http://s3.mediastreaming.it:7480/listen.pls",
+    "homepage": "http://www.radioalfanet.it/",
+    "favicon": "http://www.radioalfanet.it/wp-content/uploads/2016/04/logoalfa3.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "variety",
+    "state": "Lombardia",
+    "bitrate": 128
+}

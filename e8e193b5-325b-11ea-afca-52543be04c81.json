@@ -1,0 +1,14 @@
+{
+    "uuid": "e8e193b5-325b-11ea-afca-52543be04c81",
+    "name": "TrekStation Cafe Elle",
+    "url": "https://fred.torontocast.com:2305/stream",
+    "homepage": "https://www.trekstation.torontocast.stream/cafe-elle.html",
+    "favicon": "https://www.trekstation.torontocast.stream/mstile-144x144-20200108114952.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 256
+}

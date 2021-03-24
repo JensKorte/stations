@@ -1,0 +1,14 @@
+{
+    "uuid": "f31ae7e2-d5e6-4c88-9445-edf00f6cba40",
+    "name": "BNR Nieuwsradio",
+    "url": "https://stream.bnr.nl/bnr_aac_96_20",
+    "homepage": "https://www.bnr.nl",
+    "favicon": "https://www.bnr.nl/img/bnr/static/logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "business,netherlands,business news,news",
+    "state": "",
+    "bitrate": 96
+}

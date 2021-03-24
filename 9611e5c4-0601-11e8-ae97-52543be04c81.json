@@ -1,0 +1,14 @@
+{
+    "uuid": "9611e5c4-0601-11e8-ae97-52543be04c81",
+    "name": "Eldoradio Chill",
+    "url": "http://sc-eldochill.newmedia.lu:80/",
+    "homepage": "http://radio.eldo.lu/",
+    "favicon": "http://www.eldo.lu/assets/images/favicons/114x114.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "language": "luxembourgish",
+    "tags": "chillout",
+    "state": "",
+    "bitrate": 256
+}

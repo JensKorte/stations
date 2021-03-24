@@ -1,0 +1,14 @@
+{
+    "uuid": "960f3936-0601-11e8-ae97-52543be04c81",
+    "name": "KRCU 90.9 \"Southeast Public Radio\" Cape Girardeau, MO",
+    "url": "http://krculive.semo.edu:8000/128k",
+    "homepage": "http://krcu.org/",
+    "favicon": "http://krcu.org//sites/all/themes/pilot/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "cape girardeau,classical,apm,pri,npr,public radio",
+    "state": "Missouri",
+    "bitrate": 0
+}

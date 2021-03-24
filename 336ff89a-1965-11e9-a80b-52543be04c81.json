@@ -1,0 +1,14 @@
+{
+    "uuid": "336ff89a-1965-11e9-a80b-52543be04c81",
+    "name": "Tientsin Satellite TV",
+    "url": "http://117.169.120.133:8080/live/hdtianjinstv/playlist.m3u8",
+    "homepage": "http://tjtv.enorth.com.cn/",
+    "favicon": "http://www.haoqu.net/d/file/2016/1107/b07ac3b17af177a9cbfc42de044e269b.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "",
+    "state": "Tientsin",
+    "bitrate": 0
+}

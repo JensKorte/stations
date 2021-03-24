@@ -1,0 +1,14 @@
+{
+    "uuid": "1dd87c07-f5b6-4801-b148-3a2ddd9949cd",
+    "name": "Norte FM - Londrina",
+    "url": "https://servidor17.brlogic.com:9394/live",
+    "homepage": "https://radionortelondrina.com.br/",
+    "favicon": "https://radionortelondrina.com.br/images/sampledata/logos/logo.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "eclectic",
+    "state": "Parana",
+    "bitrate": 0
+}

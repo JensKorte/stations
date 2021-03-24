@@ -1,0 +1,14 @@
+{
+    "uuid": "f021636a-7bf0-11ea-8a3b-52543be04c81",
+    "name": "Радио Олдхит",
+    "url": "http://radio.oldxit.ru:8030/radio",
+    "homepage": "http://radio.oldxit.ru/",
+    "favicon": "http://radio.oldxit.ru/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "хиты прошлых лет",
+    "state": "",
+    "bitrate": 320
+}

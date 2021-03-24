@@ -1,0 +1,14 @@
+{
+    "uuid": "962280df-0601-11e8-ae97-52543be04c81",
+    "name": "City-radio 88.6",
+    "url": "http://s8.iqstreaming.com:8058/stream;",
+    "homepage": "http://city-radio.hr/",
+    "favicon": "http://city-radio.hr/wp-content/uploads/2017/01/city-logo2.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "local music",
+    "state": "Zagrebačka županija",
+    "bitrate": 128
+}

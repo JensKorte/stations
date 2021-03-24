@@ -1,0 +1,14 @@
+{
+    "uuid": "86e778c7-7ca4-4008-a578-bd7cf2a54bd4",
+    "name": "BBC 1",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8",
+    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_one",
+    "favicon": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_one",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 339
+}

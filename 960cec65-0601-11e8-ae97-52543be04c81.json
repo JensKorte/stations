@@ -1,0 +1,14 @@
+{
+    "uuid": "960cec65-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Karlovy Vary",
+    "url": "http://icecast2.play.cz/crokv128.mp3",
+    "homepage": "http://www.rozhlas.cz/kv/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/croregionvysocina.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,čro region,public radio,oldies,local news",
+    "state": "",
+    "bitrate": 0
+}

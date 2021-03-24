@@ -1,0 +1,14 @@
+{
+    "uuid": "9618d7b9-0601-11e8-ae97-52543be04c81",
+    "name": "High Plains Public Radio - 91.1 KANZ",
+    "url": "http://playerservices.streamtheworld.com/m3u/KANZFM_HPPR.m3u",
+    "homepage": "http://hppr.org",
+    "favicon": "http://mediad.publicbroadcasting.net/p/hppr/files/styles/medium/public/201607/hppr_logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "npr,public radio,folk,classical",
+    "state": "Kansas",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "61894f8f-86a3-440a-b0a3-97bf2fe5f143",
+    "name": "Erdély FM",
+    "url": "https://efm.radioca.st/stream",
+    "homepage": "https://erdelyfm.ro/",
+    "favicon": "https://erdelyfm.ro/wp-content/uploads/2020/07/erdelyFM_LOGO-1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "hungarian",
+    "tags": "indie,rock,alternative",
+    "state": "Mureș",
+    "bitrate": 128
+}

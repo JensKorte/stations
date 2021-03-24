@@ -1,0 +1,14 @@
+{
+    "uuid": "96368a4d-0601-11e8-ae97-52543be04c81",
+    "name": "Spektra FM Valencia",
+    "url": "http://stm1.emiteonline.com:8008/spektrafm",
+    "homepage": "https://www.spektrafm.es/",
+    "favicon": "https://s3.amazonaws.com/cdn.emisoras.com/upload/radio_logo/20/3_1342035043_SPEKTRA-LOGO.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "",
+    "state": "Valencia",
+    "bitrate": 128
+}

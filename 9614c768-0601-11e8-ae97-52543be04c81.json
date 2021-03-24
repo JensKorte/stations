@@ -1,0 +1,14 @@
+{
+    "uuid": "9614c768-0601-11e8-ae97-52543be04c81",
+    "name": "Cree Radio Network",
+    "url": "http://jbccs.streamon.fm:8000/JBCCS-24k.aac",
+    "homepage": "http://www.creeradio.com/",
+    "favicon": "http://jbccs.streamon.fm/custom/images/jbccs-logo-20151118152046.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "whapmagoostui,chisasibi,wemindji,eastmain,waskaganish,oujebougamau,waswanipi,nemaska,mistissini,rock,aboriginal,community radio",
+    "state": "Quebec",
+    "bitrate": 23
+}

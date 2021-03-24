@@ -1,0 +1,14 @@
+{
+    "uuid": "964c3c27-0601-11e8-ae97-52543be04c81",
+    "name": "Bravo FM",
+    "url": "http://streaming.orion.rs:8030/",
+    "homepage": "http://www.bravofm.net/",
+    "favicon": "http://www.bravofm.net///templates/rt_gantry/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "local programming",
+    "state": "",
+    "bitrate": 128
+}

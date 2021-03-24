@@ -1,0 +1,14 @@
+{
+    "uuid": "a46e2092-0b7a-11e9-a80b-52543be04c81",
+    "name": "Ria 897 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+    "homepage": "http://www.meradio.sg/radio/ria-897",
+    "favicon": "http://www.meradio.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria897fm-logoImage.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Singapore",
+    "country_code": "SG",
+    "language": "malay",
+    "tags": "",
+    "state": "Singapore",
+    "bitrate": 48
+}

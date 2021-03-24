@@ -1,0 +1,14 @@
+{
+    "uuid": "13645097-655a-11e8-b15b-52543be04c81",
+    "name": "Radio Siebenbürgen - Sachsesch Kanal",
+    "url": "http://www.radio-siebenbuergen.de:8080/mp3?type=http\u0026nocache=1250",
+    "homepage": "http://radio-siebenbuergen.de/sachseschkanal/",
+    "favicon": "http://radio-siebenbuergen.de/wp-content/uploads/2018/05/cropped-RS_Hauptlogo-270x270.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "volkstümlich,volksmusik",
+    "state": "",
+    "bitrate": 128
+}

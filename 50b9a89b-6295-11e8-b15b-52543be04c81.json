@@ -1,0 +1,14 @@
+{
+    "uuid": "50b9a89b-6295-11e8-b15b-52543be04c81",
+    "name": "La Fresca FM",
+    "url": "http://stream.produccionesdale.com:8899/moviles",
+    "homepage": "http://www.lafresca.fm/",
+    "favicon": "https://assets.lafresca.es/ms-icon-144x144.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español",
+    "tags": "reggaeton,top 40",
+    "state": "Andalucía",
+    "bitrate": 56
+}

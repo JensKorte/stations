@@ -1,0 +1,14 @@
+{
+    "uuid": "962d9975-0601-11e8-ae97-52543be04c81",
+    "name": "Jazzradio.nl On the Rocks",
+    "url": "http://mediaserv30.live-streams.nl:8007/stream",
+    "homepage": "http://www.jazzradio.nl/",
+    "favicon": "http://jazzradio.nl/images/share.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "",
+    "tags": "jazz",
+    "state": "",
+    "bitrate": 128
+}

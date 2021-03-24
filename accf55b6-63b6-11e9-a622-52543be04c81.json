@@ -1,0 +1,14 @@
+{
+    "uuid": "accf55b6-63b6-11e9-a622-52543be04c81",
+    "name": "Radio Frontera 93.3 FM",
+    "url": "http://108.163.138.140:8008/listen.pls",
+    "homepage": "http://www.radiofrontera.ec/",
+    "favicon": "https://pbs.twimg.com/profile_images/456585141880496128/3CbtDhHN_400x400.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "musica,news,noticias,music,music",
+    "state": "Carchi",
+    "bitrate": 48
+}

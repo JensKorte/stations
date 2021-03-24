@@ -1,0 +1,14 @@
+{
+    "uuid": "71f09598-5bf8-4bd6-aeb7-24f9723a4f39",
+    "name": "Radio SRF 4 News",
+    "url": "http://stream.srg-ssr.ch/drs3/aacp_96.ram",
+    "homepage": "https://www.srf.ch/play/radio/livepopup/radio-srf-4-news",
+    "favicon": "https://www.srf.ch/var/storage/assets/webpack/images/radio-srf-4-square.fd53e28e.svg",
+    "creation": "2021-02-20 22:38:39",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german,swiss german",
+    "tags": "high quality audio,srg ssr",
+    "state": "",
+    "bitrate": 0
+}

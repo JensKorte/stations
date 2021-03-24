@@ -1,0 +1,14 @@
+{
+    "uuid": "961949f3-0601-11e8-ae97-52543be04c81",
+    "name": "Hit FM (UKraine) - 128kb/s",
+    "url": "http://195.95.206.17/HitFM",
+    "homepage": "http://www.hitfm.ua/",
+    "favicon": "http://www.hitfm.ua/static/img/HitFM_1200x630.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian,russian",
+    "tags": "dance,rock,pop",
+    "state": "Kiev",
+    "bitrate": 128
+}

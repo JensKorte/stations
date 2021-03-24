@@ -1,0 +1,14 @@
+{
+    "uuid": "e8f49fa4-5468-11ea-be63-52543be04c81",
+    "name": "IQ Radio",
+    "url": "http://rtvhd.net:9942/;stream/1",
+    "homepage": "http://www.iqmedios.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s50287q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "language": "ingles,english,español,spanish",
+    "tags": "alternative,rock,pop,costa rica",
+    "state": "",
+    "bitrate": 64
+}

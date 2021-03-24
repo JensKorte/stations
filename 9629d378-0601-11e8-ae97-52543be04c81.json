@@ -1,0 +1,14 @@
+{
+    "uuid": "9629d378-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Panda",
+    "url": "http://nr2.newradio.it:8038/stream",
+    "homepage": "http://www.radiopanda.net/",
+    "favicon": "http://play5.newradio.it/uploads/logo-10612.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "garbagnate milanese,adult contemporary",
+    "state": "Lombardia",
+    "bitrate": 64
+}

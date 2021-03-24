@@ -1,0 +1,14 @@
+{
+    "uuid": "05435fe0-f3dd-4ffe-9e30-50897d0fd214",
+    "name": "LT7 Radio Provincia de Corrientes",
+    "url": "http://turadioenvivo.com:11045/stream",
+    "homepage": "http://www.radiolt7.com",
+    "favicon": "http://www.radiolt7.com/assets/img/logo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español latino",
+    "tags": "local news",
+    "state": "Corrientes",
+    "bitrate": 48
+}

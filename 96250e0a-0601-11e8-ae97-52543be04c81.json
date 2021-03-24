@@ -1,0 +1,14 @@
+{
+    "uuid": "96250e0a-0601-11e8-ae97-52543be04c81",
+    "name": "AP Radio News",
+    "url": "http://apnews.streamguys1.com/apnews",
+    "homepage": "http://bigstory.ap.org/",
+    "favicon": "https://ap.org//assets/images/framework/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "ap,associated press,talk,news",
+    "state": "New York",
+    "bitrate": 64
+}

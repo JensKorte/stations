@@ -1,0 +1,14 @@
+{
+    "uuid": "9615aff4-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Méga",
+    "url": "http://live.francra.org:8000/Radio-Mega",
+    "homepage": "http://www.radio-mega.com/",
+    "favicon": "http://www.radio-mega.com/templates/signweb/images/favicon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Auvergne-Rhône-Alpes",
+    "bitrate": 128
+}

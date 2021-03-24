@@ -1,0 +1,14 @@
+{
+    "uuid": "96266f8d-0601-11e8-ae97-52543be04c81",
+    "name": "Carnaval-Radio",
+    "url": "http://185.80.220.12:2199/tunein/scarna00.pls",
+    "homepage": "http://carnaval-radio.nl",
+    "favicon": "http://carnaval-radio.nl/themes/CarnavalRadio/img/fav32.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "limburg,vastelaovend,carnaval,netherlands",
+    "state": "",
+    "bitrate": 128
+}

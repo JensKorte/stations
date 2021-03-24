@@ -1,0 +1,14 @@
+{
+    "uuid": "973e5d14-c2de-11e8-aaf2-52543be04c81",
+    "name": "Radio Val Canale",
+    "url": "https://server1.cityedv.at:2199/tunein/radcanale_ic.pls",
+    "homepage": "http://www.radio-val-canale.at",
+    "favicon": "http://www.radio-val-canale.at/Radionext/Bilder.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "Steiermark",
+    "bitrate": 128
+}

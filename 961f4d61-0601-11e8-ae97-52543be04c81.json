@@ -1,0 +1,14 @@
+{
+    "uuid": "961f4d61-0601-11e8-ae97-52543be04c81",
+    "name": "Klubrádió",
+    "url": "http://stream.klubradio.hu:8080/bpstream",
+    "homepage": "http://klubradio.hu",
+    "favicon": "http://www.popularis.hu/radio/klub.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "talk,news",
+    "state": "Budapest",
+    "bitrate": 0
+}

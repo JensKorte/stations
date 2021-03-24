@@ -1,0 +1,14 @@
+{
+    "uuid": "96160416-0601-11e8-ae97-52543be04c81",
+    "name": "Smart Radio",
+    "url": "http://stream.glueckserver.de:8000/smartradio.mp3",
+    "homepage": "http://www.smartradio.de/",
+    "favicon": "http://stream.glueck-media.com/player/smart/images/smart2-small.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "soul,lounge,jazz,electro swing,augsburg",
+    "state": "Bavaria",
+    "bitrate": 128
+}

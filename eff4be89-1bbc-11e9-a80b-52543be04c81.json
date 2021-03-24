@@ -1,0 +1,14 @@
+{
+    "uuid": "eff4be89-1bbc-11e9-a80b-52543be04c81",
+    "name": "Crete TV",
+    "url": "http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8",
+    "homepage": "http://www.cretetv.gr",
+    "favicon": "http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "",
+    "state": "Crete",
+    "bitrate": 1815
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "22d5aa54-d84d-431b-8644-bb3459fe95c8",
+    "name": "Ретро FM Санкт-Петербург (128 kbps, m3u8)",
+    "url": "http://hls-01-retro.emgsound.ru/12/128/playlist.m3u8",
+    "homepage": "https://spb.retrofm.ru/online/player.php",
+    "favicon": "https://spb.retrofm.ru/online/multiplayer/core/ext/logo_rfm.png",
+    "creation": "2021-03-23 08:33:43",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "rock,pop,disco",
+    "state": "Saint-Petersburg",
+    "bitrate": 0
+}

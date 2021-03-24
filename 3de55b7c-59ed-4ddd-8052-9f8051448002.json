@@ -1,0 +1,14 @@
+{
+    "uuid": "3de55b7c-59ed-4ddd-8052-9f8051448002",
+    "name": "KBZE 105.9 FM",
+    "url": "http://173.193.205.96:7477/stream",
+    "homepage": "https://www.kbze.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/6794.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "urban contemporary",
+    "state": "Berwick LA",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "6ca20478-5c98-11e9-a622-52543be04c81",
+    "name": "Radio Punto Rojo 89.7 FM",
+    "url": "https://streamingecuador.net:9086/stream.m3u",
+    "homepage": "http://www.radiopuntorojo.com/",
+    "favicon": "https://streamingecuador.net/makrostreaming/radiopuntorojo/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "reggaeton,musica latina,latin,latin music,noticias,musica,news,music",
+    "state": "Guayaquil",
+    "bitrate": 32
+}

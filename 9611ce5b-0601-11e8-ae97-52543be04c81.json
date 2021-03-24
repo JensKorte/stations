@@ -1,0 +1,14 @@
+{
+    "uuid": "9611ce5b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Köln",
+    "url": "http://www.vtuner.com/vtunerweb/mms/m3u7508.m3u",
+    "homepage": "http://radiokoeln.de/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Radio_K%C3%B6ln.svg/800px-Logo_Radio_K%C3%B6ln.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40,adult contemporary",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

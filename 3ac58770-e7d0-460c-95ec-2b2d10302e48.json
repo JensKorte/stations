@@ -1,0 +1,14 @@
+{
+    "uuid": "3ac58770-e7d0-460c-95ec-2b2d10302e48",
+    "name": "WCTS Radio",
+    "url": "http://107.182.231.73:7150/;",
+    "homepage": "https://wctsradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WCTS.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "religious",
+    "state": "Maplewood MN",
+    "bitrate": 128
+}

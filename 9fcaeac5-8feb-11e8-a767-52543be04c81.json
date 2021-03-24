@@ -1,0 +1,14 @@
+{
+    "uuid": "9fcaeac5-8feb-11e8-a767-52543be04c81",
+    "name": "RTL",
+    "url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+    "homepage": "https://www.rtl.fr/",
+    "favicon": "https://cdn-static.rtl.fr/versions/www/6.0.690/img/rtl_fb.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "francais",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

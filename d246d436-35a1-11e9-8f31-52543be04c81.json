@@ -1,0 +1,14 @@
+{
+    "uuid": "d246d436-35a1-11e9-8f31-52543be04c81",
+    "name": "Top Italia Radio",
+    "url": "http://streaming.cst98.com:8000/tir.mp3",
+    "homepage": "https://www.topitaliaradio.it/",
+    "favicon": "https://www.topitaliaradio.it/wp-content/uploads/2018/06/cropped-Logo-Tir_2018_-270x270.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "aosta,top 40,pop",
+    "state": "Valle d'Aosta",
+    "bitrate": 128
+}

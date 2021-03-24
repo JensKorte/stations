@@ -1,0 +1,14 @@
+{
+    "uuid": "0f2a7faf-a2c1-4db9-acd5-685cf3d47164",
+    "name": "CNN News in slow Morse Code",
+    "url": "http://cw.dimebank.com:8080/CNNslow.m3u",
+    "homepage": "http://cw.dimebank.com:8080/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news",
+    "state": "",
+    "bitrate": 8
+}

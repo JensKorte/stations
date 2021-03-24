@@ -1,0 +1,14 @@
+{
+    "uuid": "b28ed0ea-bbc5-4127-a456-0a29a051e78c",
+    "name": "Super FM",
+    "url": "http://stream.super.fm:8000/superfm.mp3",
+    "homepage": "http://www.super.fm/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 0
+}

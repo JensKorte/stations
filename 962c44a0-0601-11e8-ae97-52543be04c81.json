@@ -1,0 +1,14 @@
+{
+    "uuid": "962c44a0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Moreeni",
+    "url": "http://153.1.15.29:8080/moreeni.mp3",
+    "homepage": "https://radio.uta.fi/",
+    "favicon": "https://radio.uta.fi/content/uploads/2014/08/MoreenilogoWeb_300_2014.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "university radio",
+    "state": "Tampere",
+    "bitrate": 0
+}

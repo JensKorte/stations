@@ -1,0 +1,14 @@
+{
+    "uuid": "4cf99ab0-79f3-45bf-8dca-7fa71002c716",
+    "name": "Rádio 7 32kb",
+    "url": "http://icecast1.play.cz:8000/radio7cz32.mp3",
+    "homepage": "https://radio7.cz/",
+    "favicon": "https://radio7.cz/images/r7_logo_transp.png",
+    "creation": "2021-02-24 20:56:11",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "",
+    "state": "Czech Republic",
+    "bitrate": 0
+}

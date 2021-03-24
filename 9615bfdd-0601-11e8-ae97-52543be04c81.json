@@ -1,0 +1,14 @@
+{
+    "uuid": "9615bfdd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Canto Grande (OAR-4H, 97.7 MHz, Lima [eastern])",
+    "url": "http://65.60.2.26:8050/;",
+    "homepage": "http://www.cantograndefm.com",
+    "favicon": "https://cesaraching.files.wordpress.com/2016/01/radio-canto-grande.jpg?w=700",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "variety",
+    "state": "Lima",
+    "bitrate": 96
+}

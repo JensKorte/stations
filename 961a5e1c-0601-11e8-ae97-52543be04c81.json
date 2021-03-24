@@ -1,0 +1,14 @@
+{
+    "uuid": "961a5e1c-0601-11e8-ae97-52543be04c81",
+    "name": "CFTX \"Pop 96.5\" Gatineau, QC",
+    "url": "http://icecast-cftx.rncm.ca/cftx.mp3",
+    "homepage": "https://popradio.ca/",
+    "favicon": "https://s3musictemplates.rncm.ca/cftx/logo-pop965-500px.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "gatineau,classic hits,commercial",
+    "state": "Quebec",
+    "bitrate": 128
+}

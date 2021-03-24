@@ -1,0 +1,14 @@
+{
+    "uuid": "96500dc3-0601-11e8-ae97-52543be04c81",
+    "name": "Great Lakes FM 101.5 Tuncurry",
+    "url": "http://198.74.51.37:8030/listen.pls",
+    "homepage": "http://www.greatlakesfm.org.au/",
+    "favicon": "http://www.greatlakesfm.org.au/wp-content/uploads/GLFM_image_small.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "mixed programming,community radio",
+    "state": "New South Wales",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a2e2d5db-d0be-11e8-a54a-52543be04c81",
+    "name": "Radio Leipzig 2",
+    "url": "http://streams.bcs-systems.de/slp/zwei/leipzig/mp3/web/playlist.m3u",
+    "homepage": "http://webradio.radioleipzig.de",
+    "favicon": "https://webradio.radioleipzig.de/local/FB_Livestream_300x300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Sachsen",
+    "bitrate": 192
+}

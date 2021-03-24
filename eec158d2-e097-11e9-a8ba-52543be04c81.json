@@ -1,0 +1,14 @@
+{
+    "uuid": "eec158d2-e097-11e9-a8ba-52543be04c81",
+    "name": "Rock Radia",
+    "url": "http://ice.abradio.cz/rockradio128.mp3",
+    "homepage": "https://rockovyradio.cz",
+    "favicon": "https://radia.cz/data/station_logo_svg/0001/01/rock-radio-logo-svg-1561622588.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "czech",
+    "tags": "rock,metal,punk",
+    "state": "Czech Republic",
+    "bitrate": 128
+}

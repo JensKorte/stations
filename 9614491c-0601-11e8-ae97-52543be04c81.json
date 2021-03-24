@@ -1,0 +1,14 @@
+{
+    "uuid": "9614491c-0601-11e8-ae97-52543be04c81",
+    "name": "KUER 90.1 FM/HD1 Salt Lake City, UT (NPR Utah) [high]",
+    "url": "http://audio.kuer.org:8000/high",
+    "homepage": "http://www.kuer.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kuer/files/201412/favicon_0.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "public,npr,talk,news",
+    "state": "Utah",
+    "bitrate": 0
+}

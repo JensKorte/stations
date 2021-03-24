@@ -1,0 +1,14 @@
+{
+    "uuid": "961d72de-0601-11e8-ae97-52543be04c81",
+    "name": "Demoiselle Saintes",
+    "url": "http://stream.demoisellefm.com:8000/saintes-192.mp3",
+    "homepage": "http://www.demoisellefm.net/",
+    "favicon": "http://www.demoisellefm.net//demoiselle/images/favicon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Nouvelle-Aquitaine",
+    "bitrate": 192
+}

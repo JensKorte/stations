@@ -1,0 +1,14 @@
+{
+    "uuid": "3e1a74a1-f54d-4813-aa5e-98dec89646eb",
+    "name": "Palmos Patras",
+    "url": "http://i.streams.ovh:9521/stream",
+    "homepage": "http://www.palmospatras.gr",
+    "favicon": "http://www.palmospatras.gr/palmoslogo1.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "greek",
+    "state": "",
+    "bitrate": 128
+}

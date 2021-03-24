@@ -1,0 +1,14 @@
+{
+    "uuid": "605d5127-46b5-11e9-aa55-52543be04c81",
+    "name": "M-80's Radio",
+    "url": "http://lynx.prostreaming.net:2199/tunein/m80s-stream.pls",
+    "homepage": "http://www.myradiozone.com/",
+    "favicon": "https://static.wixstatic.com/media/ea343e_476a6fe63e76475f9b6d84ca6546653b~mv2.jpg/v1/fill/w_118,h_118,al_c,q_80,usm_0.66_1.00_0.01/M80s%20Logo.webp",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "80s",
+    "state": "",
+    "bitrate": 128
+}

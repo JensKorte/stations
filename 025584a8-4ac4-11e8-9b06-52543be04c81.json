@@ -1,0 +1,14 @@
+{
+    "uuid": "025584a8-4ac4-11e8-9b06-52543be04c81",
+    "name": "TVM3.TV",
+    "url": "http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8",
+    "homepage": "http://www.tvm3.tv/",
+    "favicon": "http://www.tvm3.tv///templates/yoo_venice/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 2727
+}

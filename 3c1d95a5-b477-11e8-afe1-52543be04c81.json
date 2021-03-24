@@ -1,0 +1,14 @@
+{
+    "uuid": "3c1d95a5-b477-11e8-afe1-52543be04c81",
+    "name": "Rádio Bossa Nova Brazil",
+    "url": "http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil",
+    "homepage": "http://www.vip-radios.fm/station/bossa-nova-brazil/",
+    "favicon": "https://cdn-profiles.tunein.com/s304824/images/logoq.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "bossa nova,brazilian music",
+    "state": "",
+    "bitrate": 128
+}

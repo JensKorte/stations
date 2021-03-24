@@ -1,0 +1,14 @@
+{
+    "uuid": "96258020-0601-11e8-ae97-52543be04c81",
+    "name": "WGCS 91.1 \"The Globe\" Goshen, IN",
+    "url": "http://icecast.goshen.edu:8000/wgcs-128vbr",
+    "homepage": "http://www.globeradio.org/",
+    "favicon": "http://www.globeradio.org/static/img/globe-brand.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "goshen,bluegrass,college radio",
+    "state": "Indiana",
+    "bitrate": 170
+}

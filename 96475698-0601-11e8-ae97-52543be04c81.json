@@ -1,0 +1,14 @@
+{
+    "uuid": "96475698-0601-11e8-ae97-52543be04c81",
+    "name": "Light FM 90.5 \u0026 90.7 Beirut",
+    "url": "http://provisioning.streamtheworld.com/pls/LIGHTFMAAC.pls",
+    "homepage": "http://www.lightfmlebanon.com/",
+    "favicon": "http://www.radiolightfm.com/file/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "language": "french,english",
+    "tags": "beirut,world music,pop",
+    "state": "",
+    "bitrate": 48
+}

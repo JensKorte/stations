@@ -1,0 +1,14 @@
+{
+    "uuid": "a2c199e5-cff2-11e8-a54a-52543be04c81",
+    "name": "TOPradio Belgium",
+    "url": "http://str.topradio.be:80/topradio.mp3",
+    "homepage": "https://www.topradio.be/",
+    "favicon": "https://www.topradio.be//images/apple-touch-icon-114x114.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

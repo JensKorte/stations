@@ -1,0 +1,14 @@
+{
+    "uuid": "55275efc-1ee2-4a52-9aef-7fb632c7f3e8",
+    "name": "Радіо Максимум 94.2",
+    "url": "http://icecastdc.luxnet.ua/maximum_mp3_128",
+    "homepage": "https://maximum.fm/",
+    "favicon": "https://maximum.fm/assets/images/favicons/apple-icon-144x144.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "music",
+    "state": "Kyiv",
+    "bitrate": 128
+}

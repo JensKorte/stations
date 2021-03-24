@@ -1,0 +1,14 @@
+{
+    "uuid": "9a4bceb1-bb87-45fa-aa2c-5e499a641c4e",
+    "name": "WSRF Radio",
+    "url": "https://vofile.ru/usa/WSRF/icecast.audio",
+    "homepage": "https://wsrf.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WSRF.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "caribbean",
+    "state": "Fort Lauderdale FL",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "19e22e61-e23b-4c78-aab6-2f0d166a0347",
+    "name": "Celtic Moon Radio",
+    "url": "http://jenny.torontocast.com:2000/tunein/CelticMoon/stream/pls",
+    "homepage": "https://celticradio.one/moon_index.php",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "celtic,irish",
+    "state": "",
+    "bitrate": 128
+}

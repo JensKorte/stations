@@ -1,0 +1,14 @@
+{
+    "uuid": "9610c454-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern - Chillout",
+    "url": "http://mp3channels.webradio.antenne.de/chillout",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "http://www.chip.de/ii/1/5/5/8/2/8/6/7/3dff994f8c5b7352.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "chillout",
+    "state": "Bavaria",
+    "bitrate": 128
+}

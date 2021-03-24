@@ -1,0 +1,14 @@
+{
+    "uuid": "9fe6f713-d069-4611-8e1f-4f59bae39484",
+    "name": "BBN Japanese (AAC)",
+    "url": "http://stream2.bbnradio.org:8000/japanese.aac",
+    "homepage": "https://bbn1.bbnradio.org/japanese/",
+    "favicon": "",
+    "creation": "2021-03-17 14:15:02",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "japanese",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 48
+}

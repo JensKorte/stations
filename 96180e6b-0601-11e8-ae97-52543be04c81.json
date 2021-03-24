@@ -1,0 +1,14 @@
+{
+    "uuid": "96180e6b-0601-11e8-ae97-52543be04c81",
+    "name": "Vatican Radio Channel 8",
+    "url": "http://live.vaticanwebradio.org/channel8.mp3",
+    "homepage": "http://www.radiovaticana.va/",
+    "favicon": "http://en.radiovaticana.va/Modules/Presentation/Styles/images-common/loghi-canali/RV08-channel.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Holy See",
+    "country_code": "VA",
+    "language": "multilingual",
+    "tags": "religion,catholic,christian",
+    "state": "",
+    "bitrate": 64
+}

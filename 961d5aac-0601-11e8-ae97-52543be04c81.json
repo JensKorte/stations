@@ -1,0 +1,14 @@
+{
+    "uuid": "961d5aac-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Norte Bahia",
+    "url": "http://icecast.hostingbahia.com.ar:8002/live?1475282235673",
+    "homepage": "http://www.radionortefm.com",
+    "favicon": "http://www.radionortefm.com.ar/inicio/wp-content/uploads/2014/03/favicom-norte-web.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "entretenimiento,noticias cortas,musica",
+    "state": "Bahía Blanca",
+    "bitrate": 64
+}

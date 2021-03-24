@@ -1,0 +1,14 @@
+{
+    "uuid": "79a998ae-5cfb-11e8-b0ce-52543be04c81",
+    "name": "Jincheng News TV",
+    "url": "http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8",
+    "homepage": "http://www.jcbctv.com/",
+    "favicon": "http://www.haoqu.net/d/file/2016/1025/7ae128aff9b54ebe8e17b3fd365c5baa.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,shansi",
+    "state": "Shansi",
+    "bitrate": 0
+}

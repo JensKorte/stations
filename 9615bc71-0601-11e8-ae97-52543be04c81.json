@@ -1,0 +1,14 @@
+{
+    "uuid": "9615bc71-0601-11e8-ae97-52543be04c81",
+    "name": "Focus FM",
+    "url": "http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u",
+    "homepage": "http://www.focusfm.ro/",
+    "favicon": "https://i3.radionomy.com/radios/400/cb45a2e8-2ace-4182-97b2-6c19408d14d3.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "regional",
+    "state": "",
+    "bitrate": 128
+}

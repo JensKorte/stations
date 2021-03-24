@@ -1,0 +1,14 @@
+{
+    "uuid": "96231de1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 10",
+    "url": "http://radio10.stweb.tv:1935/radio10/live/playlist.m3u8",
+    "homepage": "https://www.minutouno.com/adjuntos/m1radios/radio10/index.php",
+    "favicon": "https://www.stweb.tv/indalo/radio10/r10.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "talk,news,noticias",
+    "state": "Buenos Aires",
+    "bitrate": 66
+}

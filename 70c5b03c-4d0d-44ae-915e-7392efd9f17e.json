@@ -1,0 +1,14 @@
+{
+    "uuid": "70c5b03c-4d0d-44ae-915e-7392efd9f17e",
+    "name": "Radiopolis",
+    "url": "http://rs01.swissnwx.ch:20080/stream",
+    "homepage": "http://radiopolis.ch/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "deutsch",
+    "tags": "",
+    "state": "Basel",
+    "bitrate": 128
+}

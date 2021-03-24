@@ -1,0 +1,14 @@
+{
+    "uuid": "9623b33d-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Jazz (MP3)",
+    "url": "http://live-radio01.mediahubaustralia.com/JAZW/mp3/",
+    "homepage": "http://abcjazz.net.au/",
+    "favicon": "https://resize.abcradio.net.au/FC3Fs-IEYwfjVqQz8fxKBPJ7U2c=/100x100/center/middle/http://www.abc.net.au/radio/images/service/jazz.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "abc,public radio,jazz",
+    "state": "",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "77fd1537-bca2-48a0-831c-9f0b9eff4a55",
+    "name": "Rock FM 96.9 - Athens",
+    "url": "http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/playlist.m3u8",
+    "homepage": "http://www.rockfm.gr/",
+    "favicon": "http://www.rockfm.gr/Content/assets/logos-icons/station-logo.svg",
+    "creation": "2021-03-15 07:18:11",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "english,greek",
+    "tags": "rock",
+    "state": "Attiki",
+    "bitrate": 98
+}

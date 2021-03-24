@@ -1,0 +1,14 @@
+{
+    "uuid": "96230a53-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 106.5 Northwest Queensland (AAC)",
+    "url": "http://abcradiolivehls-lh.akamaihd.net/i/localmtisa_1@326234/master.m3u8",
+    "homepage": "http://www.abc.net.au/northwest/",
+    "favicon": "https://resize.abcradio.net.au/n1kUCBIdMroJsudSjVeekK5QxfI=/100x100/center/middle/http://www.abc.net.au/radio/images/service/local_northwest.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "m3u8,mount isa,abc,public radio,local news,information,news",
+    "state": "Queensland",
+    "bitrate": 24
+}

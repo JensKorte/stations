@@ -1,0 +1,14 @@
+{
+    "uuid": "004ff897-7411-11ea-b1cf-52543be04c81",
+    "name": "radioeins | RBB | 56 kbit/s",
+    "url": "http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/48/stream.mp3",
+    "homepage": "https://www.radioeins.de/homepage/",
+    "favicon": "https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "berlin,eclectic,rock,pop,alternative,indie,electronic,kultur,sport,news",
+    "state": "Berlin",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9648b5e5-0601-11e8-ae97-52543be04c81",
+    "name": "Radio WSW",
+    "url": "http://87.98.217.63:24094/stream",
+    "homepage": "http://www.radiowsw.de/",
+    "favicon": "http://www.radiowsw.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "variety",
+    "state": "",
+    "bitrate": 192
+}

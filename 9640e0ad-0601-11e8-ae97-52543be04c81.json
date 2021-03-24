@@ -1,0 +1,14 @@
+{
+    "uuid": "9640e0ad-0601-11e8-ae97-52543be04c81",
+    "name": "XEWK \"W Radio\" 1190 AM Guadalajara, JA",
+    "url": "http://provisioning.streamtheworld.com/pls/WRADIO_GDLAAC.pls",
+    "homepage": "http://wradio.com.mx/emisora/guadalajara/",
+    "favicon": "http://wrmx00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "guadalajara,information,news",
+    "state": "Jalisco",
+    "bitrate": 56
+}

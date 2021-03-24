@@ -1,0 +1,14 @@
+{
+    "uuid": "b79e82fd-f0b1-11e9-a96c-52543be04c81",
+    "name": "Radio Sportiva",
+    "url": "http://46.105.114.57:8000/stream",
+    "homepage": "http://www.radiosportiva.com",
+    "favicon": "https://www.radiosportiva.com/foto/grandi/sportiva.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "talk,sports news,sport",
+    "state": "Toscana",
+    "bitrate": 128
+}

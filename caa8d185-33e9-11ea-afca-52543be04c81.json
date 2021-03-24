@@ -1,0 +1,14 @@
+{
+    "uuid": "caa8d185-33e9-11ea-afca-52543be04c81",
+    "name": "Opera Radio Budapest",
+    "url": "http://onair7.xdevel.com:7126/1/",
+    "homepage": "http://www.opera.hu/radio/",
+    "favicon": "http://www.opera.hu//static/default/img/win-70x70.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "magyar",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

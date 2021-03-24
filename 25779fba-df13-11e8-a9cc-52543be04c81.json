@@ -1,0 +1,14 @@
+{
+    "uuid": "25779fba-df13-11e8-a9cc-52543be04c81",
+    "name": "NBT World TV",
+    "url": "http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8",
+    "homepage": "http://thainews.prd.go.th/",
+    "favicon": "http://thainews.prd.go.th/uploads/banner/a786a8dfe97084dbf08c263cbdd9ad6e.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "english",
+    "tags": "",
+    "state": "Bangkok",
+    "bitrate": 2573
+}

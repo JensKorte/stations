@@ -1,0 +1,14 @@
+{
+    "uuid": "a3af78b0-5c26-11e8-b0ce-52543be04c81",
+    "name": "Changchow TV-1 News",
+    "url": "http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8",
+    "homepage": "http://www.zztv.fj.cn/",
+    "favicon": "http://www.haoqu.net/d/file/2018/0124/small4ea2cbef483f43fa87812b2afd0756ac1516774297.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,fukien",
+    "state": "Fukien",
+    "bitrate": 0
+}

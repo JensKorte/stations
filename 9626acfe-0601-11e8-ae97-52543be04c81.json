@@ -1,0 +1,14 @@
+{
+    "uuid": "9626acfe-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bari",
+    "url": "http://s6.mediastreaming.it:9062/listen.pls",
+    "homepage": "http://www.radiobari.net/",
+    "favicon": "http://www.radiobari.net///templates/colorshop/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "disco,classic hits,adult contemporary,news",
+    "state": "Puglia",
+    "bitrate": 128
+}

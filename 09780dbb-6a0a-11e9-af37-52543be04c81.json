@@ -1,0 +1,14 @@
+{
+    "uuid": "09780dbb-6a0a-11e9-af37-52543be04c81",
+    "name": "CILS 107.9 \"Radio Victoria\" Victoria, BC",
+    "url": "http://stream2.statsradio.com:8012/stream",
+    "homepage": "https://radiovictoria.ca/",
+    "favicon": "https://radiovictoria.ca/wp-content/uploads/2019/02/cropped-logo-radiovictoria-option2-bw-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "victoria,community radio",
+    "state": "British Columbia",
+    "bitrate": 256
+}

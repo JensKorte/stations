@@ -1,0 +1,14 @@
+{
+    "uuid": "9610d15d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Victoria",
+    "url": "http://stream.v4.radiovictoria.pl:8176/;",
+    "homepage": "http://www.radiovictoria.pl/",
+    "favicon": "http://www.radiovictoria.pl//img/ikonka.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Lowicz",
+    "bitrate": 128
+}

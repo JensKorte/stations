@@ -1,0 +1,14 @@
+{
+    "uuid": "96259611-0601-11e8-ae97-52543be04c81",
+    "name": "WFIU 103.7 Indiana Public Media - Bloomington, IN",
+    "url": "http://hannibal.ucs.indiana.edu:8000/wfiu_hi",
+    "homepage": "http://indianapublicmedia.org/radio/",
+    "favicon": "http://indianapublicmedia.org/wp-content/themes/ipm/images/radio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "bloomington,jazz,classical,apm,pri,npr,public radio",
+    "state": "Indiana",
+    "bitrate": 128
+}

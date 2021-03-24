@@ -1,0 +1,14 @@
+{
+    "uuid": "319b72a5-04bc-46ac-bebb-2a32bb8642fe",
+    "name": "Veneto Radio",
+    "url": "https://sr11.inmystream.it/proxy/paolo1?mp=/stream",
+    "homepage": "https://www.venetoradio.it/",
+    "favicon": "https://www.inmystream.app/player/venetoradio/tmp/images/default.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Veneto",
+    "bitrate": 192
+}

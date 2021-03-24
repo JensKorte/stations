@@ -1,0 +1,14 @@
+{
+    "uuid": "960d829c-0601-11e8-ae97-52543be04c81",
+    "name": "GCN stream2",
+    "url": "http://www.gcnlive.com/playlists/live/channel2.m3u",
+    "homepage": "http://gcnlive.com",
+    "favicon": "https://i3.radionomy.com/radios/400/b14d0375-d89a-4a92-9340-315cc5d6a458.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk,resistance,news",
+    "state": "Minnesota",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5cbad93a-7f67-11e8-a43d-52543be04c81",
+    "name": "Radio Maria Nederland",
+    "url": "http://87.233.180.73:8000/listen.pls?sid=xx",
+    "homepage": "http://www.radiomaria.nl/",
+    "favicon": "http://www.radiomaria.nl/wp/wp-content/uploads/2017/03/cropped-fav-icon-rm-2-1-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "catholic,religion",
+    "state": "Brabant",
+    "bitrate": 320
+}

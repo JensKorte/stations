@@ -1,0 +1,14 @@
+{
+    "uuid": "96266a99-0601-11e8-ae97-52543be04c81",
+    "name": "CounterStream",
+    "url": "http://www.counterstreamradio.org:8000/",
+    "homepage": "http://www.counterstreamradio.org",
+    "favicon": "http://www.counterstreamradio.org/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "",
+    "tags": "eclectic,contemporary,experimental",
+    "state": "",
+    "bitrate": 128
+}

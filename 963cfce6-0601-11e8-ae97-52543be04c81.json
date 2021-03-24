@@ -1,0 +1,14 @@
+{
+    "uuid": "963cfce6-0601-11e8-ae97-52543be04c81",
+    "name": "Revoltosa FM",
+    "url": "http://5.135.183.124:9283/stream?type=.mp3",
+    "homepage": "http://revoltosafm.com/",
+    "favicon": "http://revoltosafm.com/FG/inicio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "latin pop,reggaeton",
+    "state": "Sevilla",
+    "bitrate": 128
+}

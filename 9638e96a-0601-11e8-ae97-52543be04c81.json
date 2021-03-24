@@ -1,0 +1,14 @@
+{
+    "uuid": "9638e96a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Italia Anni 60 - Lombardia / Liguria",
+    "url": "http://ice12.fluidstream.net/ria60_mi.aac",
+    "homepage": "http://www.radioitaliaanni60.it/index.php/lombardia-liguria-home",
+    "favicon": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "60s,70s,80s,90s,milano",
+    "state": "Lombardia",
+    "bitrate": 64
+}

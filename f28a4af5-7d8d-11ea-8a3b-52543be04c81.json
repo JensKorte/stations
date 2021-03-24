@@ -1,0 +1,14 @@
+{
+    "uuid": "f28a4af5-7d8d-11ea-8a3b-52543be04c81",
+    "name": "BBC Radio Newcastle",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnewc_mf_p",
+    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_newcastle",
+    "favicon": "https://ichef.bbci.co.uk/images/ic/1024x576/p085dnb2.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "sport,news,local news,uk",
+    "state": "",
+    "bitrate": 0
+}

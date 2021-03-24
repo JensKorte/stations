@@ -1,0 +1,14 @@
+{
+    "uuid": "61550c3a-47f2-11e8-8919-52543be04c81",
+    "name": "rbb Brandenburg.TV",
+    "url": "http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8",
+    "homepage": "https://www.rbb-online.de/fernsehen/",
+    "favicon": "https://www.rbb-online.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 546
+}

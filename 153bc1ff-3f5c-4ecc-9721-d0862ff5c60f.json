@@ -1,0 +1,14 @@
+{
+    "uuid": "153bc1ff-3f5c-4ecc-9721-d0862ff5c60f",
+    "name": "American Roots",
+    "url": "https://igor.torontocast.com:1945/stream",
+    "homepage": "https://www.americanrootsradio.com/",
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/94/c6/36419/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "bluegrass,folk,americana",
+    "state": "Quebec",
+    "bitrate": 128
+}

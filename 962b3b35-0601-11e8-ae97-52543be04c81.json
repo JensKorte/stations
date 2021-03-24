@@ -1,0 +1,14 @@
+{
+    "uuid": "962b3b35-0601-11e8-ae97-52543be04c81",
+    "name": "WJCU-HD2 John Carroll University - University Heights, OH",
+    "url": "http://streaming.jcu.edu:8000/wjcu2-aac-hi",
+    "homepage": "http://www.wjcu.org/",
+    "favicon": "http://www.wjcu.org/wp-content/themes/wjcu/graphics/favicon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "university heights,cleveland,university radio",
+    "state": "Ohio",
+    "bitrate": 48
+}

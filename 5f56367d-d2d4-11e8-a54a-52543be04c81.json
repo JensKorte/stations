@@ -1,0 +1,14 @@
+{
+    "uuid": "5f56367d-d2d4-11e8-a54a-52543be04c81",
+    "name": "Groove FM",
+    "url": "http://digitacdn.akamaized.net/hls/live/629243/groove/master-128000.m3u8",
+    "homepage": "https://www.groovefm.fi/",
+    "favicon": "http://www.radiot.fi/img/channel-logos/groove-fm.png?content-checksum=3fb76ae942a3766e0d35ae2c9080c73e379a7067",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

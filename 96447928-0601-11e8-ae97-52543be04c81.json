@@ -1,0 +1,14 @@
+{
+    "uuid": "96447928-0601-11e8-ae97-52543be04c81",
+    "name": "Radio X Basel (OGG Stream)",
+    "url": "http://mp3.radiox.ch:8000/standard.ogg.m3u",
+    "homepage": "http://www.radiox.ch/",
+    "favicon": "https://www.radiox.ch/wp-content/uploads/cropped-RadioX2-270x270.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "",
+    "tags": "",
+    "state": "Basel",
+    "bitrate": 2000
+}

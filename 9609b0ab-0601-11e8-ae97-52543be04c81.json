@@ -1,0 +1,14 @@
+{
+    "uuid": "9609b0ab-0601-11e8-ae97-52543be04c81",
+    "name": "WLS-FM 94.7 Chicago, IL",
+    "url": "http://playerservices.streamtheworld.com/m3u/WLSFM.m3u",
+    "homepage": "http://www.947chicago.com/",
+    "favicon": "http://library.tritondigital.com/xinban/skins/WLS-FM2/site-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "chicago,classic hits,oldies",
+    "state": "Illinois",
+    "bitrate": 80
+}

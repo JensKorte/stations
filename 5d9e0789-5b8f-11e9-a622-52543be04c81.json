@@ -1,0 +1,14 @@
+{
+    "uuid": "5d9e0789-5b8f-11e9-a622-52543be04c81",
+    "name": "Jovem Pan FM São Paulo 100,9MHz",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac",
+    "homepage": "https://jovempan.uol.com.br/",
+    "favicon": "https://jovempan.uol.com.br/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "hit music,popular,brazil,",
+    "state": "São Paulo",
+    "bitrate": 48
+}

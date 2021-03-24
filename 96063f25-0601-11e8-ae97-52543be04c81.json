@@ -1,0 +1,14 @@
+{
+    "uuid": "96063f25-0601-11e8-ae97-52543be04c81",
+    "name": "Classic FM UK",
+    "url": "http://ice-the.musicradio.com:80/ClassicFMMP3",
+    "homepage": "http://www.classicfm.com",
+    "favicon": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/538904_10150792784784260_1892405093_n.jpg?oh=f24e7c80099ea05ecb00930855b72f59\u0026oe=5B09BD04",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "classical",
+    "state": "London",
+    "bitrate": 128
+}

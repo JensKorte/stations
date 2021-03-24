@@ -1,0 +1,14 @@
+{
+    "uuid": "0310b510-cef3-11e8-a54a-52543be04c81",
+    "name": "Radio Nacka 99,9",
+    "url": "http://www.mrs.net/stream/radionacka/listen.m3u",
+    "homepage": "http://www.radionacka.se",
+    "favicon": "http://radionacka.se/wp-content/uploads/2015/09/radio-nacka-logo2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "talk radio,culture",
+    "state": "Stockholm",
+    "bitrate": 48
+}

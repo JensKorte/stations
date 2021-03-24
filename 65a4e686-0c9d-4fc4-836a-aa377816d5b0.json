@@ -1,0 +1,14 @@
+{
+    "uuid": "65a4e686-0c9d-4fc4-836a-aa377816d5b0",
+    "name": "Alameda Community Radio",
+    "url": "http://kacr.out.airtime.pro:8000/kacr_a",
+    "homepage": "https://www.alamedacommunityradio.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KACR-LP.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "",
+    "state": "Alameda CA",
+    "bitrate": 64
+}

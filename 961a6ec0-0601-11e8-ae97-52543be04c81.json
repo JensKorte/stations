@@ -1,0 +1,14 @@
+{
+    "uuid": "961a6ec0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 3",
+    "url": "http://radio3-128.streaming.rs:9200/",
+    "homepage": "http://www.radio3.rs/",
+    "favicon": "http://www.radio3.rs/fb.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "",
+    "tags": "dance,pop",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a888a1b2-e722-4e8b-8798-fb5fbc8838d9",
+    "name": "Барнаул Вести",
+    "url": "http://gtrk22.ru:8000/vesti22",
+    "homepage": "https://vesti22.tv/radiostancii/vesti-fm/",
+    "favicon": "https://altaiforel.ru/images/vesti22_quad.png?crc=422115040",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "rusian,russia,ru,russian",
+    "tags": "алтай,гтрк,вести,барнаул,altaiy,gtrk,22,vesti,barnaul",
+    "state": "Barnaul",
+    "bitrate": 128
+}

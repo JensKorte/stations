@@ -1,0 +1,14 @@
+{
+    "uuid": "9cd13c61-aad8-11e9-88f4-52543be04c81",
+    "name": "RPR1. Mainz/Frankfurt",
+    "url": "http://streams.rpr1.de/rpr-mainz-128-aac?usid=0-0-H-A-D-30",
+    "homepage": "https://www.rpr1.de/webradio/rpr1-mainzfrankfurt",
+    "favicon": "https://cdn.rpr1.de/sites/default/files/styles/playlist_thumbnail_big/public/thumbnails/image/RPR1.Mainz__0.jpg?itok=QhSnkgiW",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "regional radio",
+    "state": "Rheinland-Pfalz",
+    "bitrate": 128
+}

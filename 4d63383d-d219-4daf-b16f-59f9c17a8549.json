@@ -1,0 +1,14 @@
+{
+    "uuid": "4d63383d-d219-4daf-b16f-59f9c17a8549",
+    "name": "Всемирная радиосеть",
+    "url": "http://shoutcast.wrn.org:8025/WRN-R",
+    "homepage": "http://wrn.ru/",
+    "favicon": "http://radio.servebeer.com/upload/wrnlogo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "talk,news",
+    "state": "Moscow",
+    "bitrate": 64
+}

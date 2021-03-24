@@ -1,0 +1,14 @@
+{
+    "uuid": "e76147c6-7657-11ea-b1cf-52543be04c81",
+    "name": "RockFM",
+    "url": "https://live.rockfm.ro/rockfm.aacp",
+    "homepage": "https://www.rockfm.ro/",
+    "favicon": "https://www.rockfm.ro///app/assets/rockfm/favicon/apple-icon-57x57.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "rock,romanian",
+    "state": "",
+    "bitrate": 64
+}

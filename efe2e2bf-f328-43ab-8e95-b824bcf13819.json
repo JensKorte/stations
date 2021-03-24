@@ -1,0 +1,14 @@
+{
+    "uuid": "efe2e2bf-f328-43ab-8e95-b824bcf13819",
+    "name": "Christliche Lieder",
+    "url": "http://radio.sermon-online.com:8000/lieder",
+    "homepage": "https://www.sermon-online.de/radio.html",
+    "favicon": "https://www.sermon-online.de/res/sermon_234_60.gif",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "religious,religion,christmas music,christian",
+    "state": "",
+    "bitrate": 128
+}

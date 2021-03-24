@@ -1,0 +1,14 @@
+{
+    "uuid": "9619da5e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Quartz",
+    "url": "http://manager2.streaming-ingenierie.fr:8026/;stream.mp3",
+    "homepage": "http://www.radioquartz.be/",
+    "favicon": "http://www.radioquartz.be/wp-content/uploads/2014/02/Quartzlogo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

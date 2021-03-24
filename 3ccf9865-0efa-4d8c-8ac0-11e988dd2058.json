@@ -1,0 +1,14 @@
+{
+    "uuid": "3ccf9865-0efa-4d8c-8ac0-11e988dd2058",
+    "name": "Dein Weihnachts Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deinevent/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-xmas",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-xmas.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "christmas music,christmas music,weihnachten",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 128
+}

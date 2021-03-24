@@ -1,0 +1,14 @@
+{
+    "uuid": "4fc484cb-159c-11e8-ae97-52543be04c81",
+    "name": "Si 98.9 FM",
+    "url": "http://server.laradio.online:8202/;",
+    "homepage": "http://www.si989.com/",
+    "favicon": "http://www.si989.com/resources/images/logoradiosi.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "spanish pop,pop,rosario",
+    "state": "Rosario",
+    "bitrate": 128
+}

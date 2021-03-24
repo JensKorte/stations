@@ -1,0 +1,14 @@
+{
+    "uuid": "fa3593aa-e50a-11e9-a96c-52543be04c81",
+    "name": "LogicRadio",
+    "url": "https://logicworld.ru/icecast/live.mp3",
+    "homepage": "https://logicworld.ru/radio/",
+    "favicon": "https://logicworld.ru/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "english,russian",
+    "tags": "game radio,minecraft,logicradio,logicworld",
+    "state": "",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1d35c168-deb1-4751-a1e6-ae19fb3e7a3e",
+    "name": "Sveriges radio P3 (mp3)",
+    "url": "https://sverigesradio.se/topsy/direkt/164-hi-mp3.m3u",
+    "homepage": "https://sverigesradio.se/P3",
+    "favicon": "https://sverigesradio.se//sida/content/img/icons/apple-touch-icon-p3.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "public radio,sveriges radio,youth",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f2d0171e-143c-11e8-ae97-52543be04c81",
+    "name": "Radio IN",
+    "url": "http://inradio96-naxinacional.streaming.rs:8580/listen.pls",
+    "homepage": "http://www.radioin.co.rs",
+    "favicon": "http://www.radioin.co.rs/wp-content/uploads/2016/02/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "local music",
+    "state": "",
+    "bitrate": 128
+}

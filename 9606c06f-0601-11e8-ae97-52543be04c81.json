@@ -1,0 +1,14 @@
+{
+    "uuid": "9606c06f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Darmstadt - RadaR",
+    "url": "http://www.radiodarmstadt.de/fileadmin/templates/stream.m3u",
+    "homepage": "http://www.radio-darmstadt.de",
+    "favicon": "http://www.radio-darmstadt.de/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Hessen",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3795f95b-728e-11e9-af37-52543be04c81",
+    "name": "TSN 1260 CFRN Edmonton",
+    "url": "http://provisioning.streamtheworld.com/pls/CFRNAMAAC.pls",
+    "homepage": "https://www.tsn.ca/radio/edmonton-1260",
+    "favicon": "https://www.tsn.ca//img/tsn/icons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "tsn,edmonton,sports talk",
+    "state": "Alberta",
+    "bitrate": 40
+}

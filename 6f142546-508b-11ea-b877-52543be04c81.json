@@ -1,0 +1,14 @@
+{
+    "uuid": "6f142546-508b-11ea-b877-52543be04c81",
+    "name": "Radio Expres",
+    "url": "http://stream2.radioekspres.si:8016/stream?type=http\u0026nocache=138",
+    "homepage": "https://www.radioekspres.si/live/",
+    "favicon": "https://www.radioekspres.si/wp-content/themes/rekspres/images/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "entertainment",
+    "state": "",
+    "bitrate": 128
+}

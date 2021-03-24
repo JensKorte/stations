@@ -1,0 +1,14 @@
+{
+    "uuid": "6549e3f1-0d0a-11ea-a87e-52543be04c81",
+    "name": "Inforadio vom rbb",
+    "url": "https://rbb-inforadio-live.sslcast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3",
+    "homepage": "https://www.inforadio.de/",
+    "favicon": "https://www.inforadio.de/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "nachrichten,news,information",
+    "state": "Berlin/Brandenburg",
+    "bitrate": 0
+}

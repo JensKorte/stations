@@ -1,0 +1,14 @@
+{
+    "uuid": "964e483d-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio IPB",
+    "url": "http://sh.upx.com.br:9000/stream",
+    "homepage": "http://www.ipb.org.br/radio",
+    "favicon": "http://www.ipb.org.br/img/ipb_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "",
+    "state": "Ceara",
+    "bitrate": 128
+}

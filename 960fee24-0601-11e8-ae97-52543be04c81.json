@@ -1,0 +1,14 @@
+{
+    "uuid": "960fee24-0601-11e8-ae97-52543be04c81",
+    "name": "Radio FIAT",
+    "url": "http://stream2.nadaje.com:8056/",
+    "homepage": "http://www.radiofiat.com.pl/",
+    "favicon": "http://www.radiofiat.com.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "religion",
+    "state": "Czestochowa",
+    "bitrate": 160
+}

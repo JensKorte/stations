@@ -1,0 +1,14 @@
+{
+    "uuid": "faeb4201-e9f6-11e9-a96c-52543be04c81",
+    "name": "Tango Pasión Radio",
+    "url": "http://nr11.newradio.it:9180/stream",
+    "homepage": "https://www.tangopasionradio.com/",
+    "favicon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s73f1558637357b19/backgroundarea/ica73c03b464ab489/version/1528282267/image.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "tango",
+    "state": "",
+    "bitrate": 64
+}

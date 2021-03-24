@@ -1,0 +1,14 @@
+{
+    "uuid": "a4e5e434-61e3-11e8-b15b-52543be04c81",
+    "name": "Rádio Litera",
+    "url": "http://live.slovakradio.sk:8000/Litera_256.mp3.m3u",
+    "homepage": "http://litera.rtvs.sk",
+    "favicon": "http://litera.rtvs.sk/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "slovak",
+    "tags": "",
+    "state": "Slovakia",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "18997552-031e-11e9-a1be-52543be04c81",
+    "name": "Radio Agricultura",
+    "url": "http://unlimited4-us.dps.live/agricultura/mp3/icecast.audio?",
+    "homepage": "http://www.radioagricultura.cl",
+    "favicon": "https://www.radioagricultura.cl/_templates/globals/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "talk,deportes,futbol,general,noticias",
+    "state": "Santiago",
+    "bitrate": 64
+}

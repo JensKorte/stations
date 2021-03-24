@@ -1,0 +1,14 @@
+{
+    "uuid": "aa2ff2d2-0605-11e9-a3cd-52543be04c81",
+    "name": "Calm Radio - Gregorian",
+    "url": "http://streams.calmradio.com/api/103/128/stream",
+    "homepage": "http://www.calmradio.com/",
+    "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "",
+    "state": "Ontario",
+    "bitrate": 128
+}

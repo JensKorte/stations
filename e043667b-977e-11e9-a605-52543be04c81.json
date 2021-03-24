@@ -1,0 +1,14 @@
+{
+    "uuid": "e043667b-977e-11e9-a605-52543be04c81",
+    "name": "Q Music",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+    "homepage": "https://qmusic.nl",
+    "favicon": "https://qmusic.nl//favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "448cbff6-0ab7-11e8-ae97-52543be04c81",
+    "name": "Radio Apatin",
+    "url": "http://apatin96-naxinacional.streaming.rs:8500/listen.pls",
+    "homepage": "http://www.radioapatin.com/",
+    "favicon": "http://www.radioapatin.com//static/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "local programming,pop",
+    "state": "",
+    "bitrate": 96
+}

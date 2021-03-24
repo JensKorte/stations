@@ -1,0 +1,14 @@
+{
+    "uuid": "96234a97-0601-11e8-ae97-52543be04c81",
+    "name": "NRK Alltid Nyheter (Lav Kvalitet)",
+    "url": "http://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l.m3u",
+    "homepage": "https://radio.nrk.no/direkte/alltid_nyheter",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/e/e3/Nrk_alltid_nyheter_radio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "news",
+    "state": "",
+    "bitrate": 0
+}

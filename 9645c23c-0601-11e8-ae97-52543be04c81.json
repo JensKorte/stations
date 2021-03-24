@@ -1,0 +1,14 @@
+{
+    "uuid": "9645c23c-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Eclectic Electric",
+    "url": "http://streams.fluxfm.de/freak/aac-64/audio/play.m3",
+    "homepage": "https://www.fluxfm.de",
+    "favicon": "http://fluxmusic.io/wp-content/uploads/2017/09/eclectric-gross-150x150.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "eclectic,techno,dubstep,electronica,idm",
+    "state": "Berlin",
+    "bitrate": 64
+}

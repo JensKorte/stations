@@ -1,0 +1,14 @@
+{
+    "uuid": "8be4feab-d0b0-11e8-a54a-52543be04c81",
+    "name": "Freies Radio Potsdam | Frrapo",
+    "url": "http://ice.rosebud-media.de:8000/88vier-ogg1.ogg",
+    "homepage": "http://frrapo.de/player/",
+    "favicon": "http://frrapo.de/logo.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "bürgerradio,live,freies radio",
+    "state": "Brandenburg",
+    "bitrate": 160
+}

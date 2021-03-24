@@ -1,0 +1,14 @@
+{
+    "uuid": "9647fa18-0601-11e8-ae97-52543be04c81",
+    "name": "Rock FM - Athens",
+    "url": "http://live.thegreekradio.com/sfera4132.pls",
+    "homepage": "http://www.rockfm.gr/",
+    "favicon": "http://www.rockfm.gr///templates/rockfm/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek,english",
+    "tags": "classic rock,rock",
+    "state": "Athens",
+    "bitrate": 256
+}

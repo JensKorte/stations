@@ -1,0 +1,14 @@
+{
+    "uuid": "963a6dfe-0601-11e8-ae97-52543be04c81",
+    "name": "Media Hotel Radio",
+    "url": "http://nr11.newradio.it:9306/stream",
+    "homepage": "http://www.mediahotelradio.com/",
+    "favicon": "http://www.mediahotelradio.com/wp-content/uploads/2017/03/Logo_vettoriale_MHR_r-1.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "lounge,talk",
+    "state": "Lazio",
+    "bitrate": 128
+}

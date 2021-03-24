@@ -1,0 +1,14 @@
+{
+    "uuid": "be2d7419-1d12-11e8-a334-52543be04c81",
+    "name": "Fox FM",
+    "url": "http://wzvic.scahw.com.au/live/3fox_128.stream/playlist.m3u8",
+    "homepage": "http://www.fox.com.au/",
+    "favicon": "https://cdn-hit.scadigital.io/media/1407/foxhit1019-logo_horiz-on-white.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "hits,oldschool",
+    "state": "Melbourne",
+    "bitrate": 33
+}

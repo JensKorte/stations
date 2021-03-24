@@ -1,0 +1,14 @@
+{
+    "uuid": "11bec746-6510-11e8-b15b-52543be04c81",
+    "name": "Business FM 89.6",
+    "url": "http://94.247.130.243:5050/business",
+    "homepage": "http://businessfm.kz/",
+    "favicon": "https://guzei.com/online_radio/logo300/21377.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "language": "russian,kazakh",
+    "tags": "talk radio,business news,business programs,kazakh pop,pop",
+    "state": "Almaty",
+    "bitrate": 192
+}

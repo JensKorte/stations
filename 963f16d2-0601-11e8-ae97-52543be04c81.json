@@ -1,0 +1,14 @@
+{
+    "uuid": "963f16d2-0601-11e8-ae97-52543be04c81",
+    "name": "Laut.fm senderps40",
+    "url": "http://stream.laut.fm:80/senderps40",
+    "homepage": "http://www.laut.fm/senderps40",
+    "favicon": "http://assets.laut.fm/7546dcd0e77842210b6266b032a2ac1b?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "folk,dance,schlager,country,oldies",
+    "state": "",
+    "bitrate": 128
+}

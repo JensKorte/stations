@@ -1,0 +1,14 @@
+{
+    "uuid": "963d98af-0601-11e8-ae97-52543be04c81",
+    "name": "Xtra FM",
+    "url": "http://stream.internetgirona.com:8000/;",
+    "homepage": "https://www.xtrafm.cat/",
+    "favicon": "https://www.xtrafm.cat/wp-content/themes/clubber/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "santa cristina d'aro,music",
+    "state": "Girona",
+    "bitrate": 128
+}

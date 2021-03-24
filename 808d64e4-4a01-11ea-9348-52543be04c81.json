@@ -1,0 +1,14 @@
+{
+    "uuid": "808d64e4-4a01-11ea-9348-52543be04c81",
+    "name": "Radio Okapi",
+    "url": "http://rs1.radiostreamer.com:8000/listen.pls",
+    "homepage": "http://radiookapi.net",
+    "favicon": "https://www.radiookapi.net/sites/default/files/avatar-ro_normal.gif_0.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Democratic Republic Of The Congo",
+    "country_code": "CD",
+    "language": "french",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

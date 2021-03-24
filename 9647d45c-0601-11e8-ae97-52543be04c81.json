@@ -1,0 +1,14 @@
+{
+    "uuid": "9647d45c-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern Top 40",
+    "url": "http://www.antenne.de/webradio/channels/top-40.aac.pls",
+    "homepage": "http://www.webradio.de/internetradio/top40_index.php",
+    "favicon": "http://www.webradio.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40",
+    "state": "",
+    "bitrate": 0
+}

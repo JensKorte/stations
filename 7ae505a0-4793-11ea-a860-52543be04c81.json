@@ -1,0 +1,14 @@
+{
+    "uuid": "7ae505a0-4793-11ea-a860-52543be04c81",
+    "name": "Tikipod Radio",
+    "url": "https://igor.torontocast.com:1265/stream",
+    "homepage": "http://www.tikipod.net",
+    "favicon": "https://tikipod.net/wp-content/uploads/2020/01/cropped-TR_logo_title_600-1-270x270.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "calypso,hawaiian music,reggae,trop rock",
+    "state": "Ontario",
+    "bitrate": 128
+}

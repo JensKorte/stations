@@ -1,0 +1,14 @@
+{
+    "uuid": "b234719b-f703-11e8-a471-52543be04c81",
+    "name": "Dunya News TV",
+    "url": "http://imob.dunyanews.tv:1935/live/_definst_/dunyalive_1/playlist.m3u8",
+    "homepage": "http://dunyanews.tv/",
+    "favicon": "http://dunyanews.tv/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "language": "urdu",
+    "tags": "",
+    "state": "Punjab",
+    "bitrate": 654
+}

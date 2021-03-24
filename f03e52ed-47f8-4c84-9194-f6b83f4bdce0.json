@@ -1,0 +1,14 @@
+{
+    "uuid": "f03e52ed-47f8-4c84-9194-f6b83f4bdce0",
+    "name": "DKISS TV",
+    "url": "http://91.126.141.201:1935/live/kiss/.m3u8",
+    "homepage": "http://www.dkiss.es/",
+    "favicon": "http://www.dkiss.es/wp-content/uploads/logo-DKISS-prince.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "castellano,spanish,español",
+    "tags": "varios,various,variety,entretenimiento",
+    "state": "Madrid",
+    "bitrate": 4695
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962418d1-0601-11e8-ae97-52543be04c81",
+    "name": "Παραπολιτικά FM 90.1",
+    "url": "http://netradio.live24.gr/athinaradio",
+    "homepage": "http://www.parapolitikaradio.gr",
+    "favicon": "http://www.parapolitikaradio.gr/public/img/logo-new.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "talk,news talk,greek,news",
+    "state": "Athens",
+    "bitrate": 128
+}

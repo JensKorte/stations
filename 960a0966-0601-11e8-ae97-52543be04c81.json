@@ -1,0 +1,14 @@
+{
+    "uuid": "960a0966-0601-11e8-ae97-52543be04c81",
+    "name": "Marosvásárhelyi Rádió",
+    "url": "http://streaming.radiomures.ro:8312/;stream.nsv\u0026type=mp3",
+    "homepage": "http://marosvasarhelyiradio.ro/",
+    "favicon": "http://romaniafmradios.ro/wp-content/uploads/2016/08/Asculta-Marosvasarhelyi-Radio-Live-Online-300x87.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "hungarian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

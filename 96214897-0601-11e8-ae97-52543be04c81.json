@@ -1,0 +1,14 @@
+{
+    "uuid": "96214897-0601-11e8-ae97-52543be04c81",
+    "name": "CKBW 98.1 Bridgewater, NS",
+    "url": "http://ckbw.streamon.fm:8000/CKBW-48k.aac",
+    "homepage": "http://www.ckbw.ca/",
+    "favicon": "http://www.ckbw.ca/sites/all/themes/ckbw/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "shelburne,liverpool,bridgewater,adult contemporary,commercial",
+    "state": "Nova Scotia",
+    "bitrate": 47
+}

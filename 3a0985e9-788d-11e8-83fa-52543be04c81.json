@@ -1,0 +1,14 @@
+{
+    "uuid": "3a0985e9-788d-11e8-83fa-52543be04c81",
+    "name": "Bayern 1 Franken (128kbit/s)",
+    "url": "http://streams.br.de/bayern1fran_2.m3u",
+    "homepage": "https://www.br.de/radio/bayern1/index.html",
+    "favicon": "https://www.br.de/radio/bayern1/bayern-1-logo-2018-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=54fe4",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies,pop",
+    "state": "Bavaria",
+    "bitrate": 0
+}

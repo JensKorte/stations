@@ -1,0 +1,14 @@
+{
+    "uuid": "b50c88ee-dfc5-11e9-a8ba-52543be04c81",
+    "name": "Radio Darmstadt",
+    "url": "http://stream.radiodarmstadt.de:8000/radar_low.aac",
+    "homepage": "http://www.radio-darmstadt.de",
+    "favicon": "https://www.radiodarmstadt.de///fileadmin/templates/img/icons/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

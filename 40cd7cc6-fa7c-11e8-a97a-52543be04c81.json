@@ -1,0 +1,14 @@
+{
+    "uuid": "40cd7cc6-fa7c-11e8-a97a-52543be04c81",
+    "name": "Radio Sudaca",
+    "url": "http://server.laradio.online:8090/",
+    "homepage": "http://www.radiosudaca.org/",
+    "favicon": "http://www.radiosudaca.org/wp-content/uploads/2018/09/cropped-LogoRadioModificado-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "patagonia,comunitaria,argentina",
+    "state": "Chubut",
+    "bitrate": 32
+}

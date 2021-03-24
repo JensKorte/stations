@@ -1,0 +1,14 @@
+{
+    "uuid": "bc81deda-eebf-11e9-a96c-52543be04c81",
+    "name": "Radio Nuble 89.7 fm",
+    "url": "http://streaming.comunicacioneschile.net:9358/;",
+    "homepage": "http://radionuble.cl/linea/",
+    "favicon": "http://radionuble.cl/linea/wp-content/uploads/2015/04/s86657q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "talk,pop",
+    "state": "",
+    "bitrate": 128
+}

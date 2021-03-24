@@ -1,0 +1,14 @@
+{
+    "uuid": "96303269-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Liz",
+    "url": "http://213.239.218.99:7110/stream.mp3",
+    "homepage": "http://www.lizfm.pt/",
+    "favicon": "http://www.recordfm.pt/liz.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

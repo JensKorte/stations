@@ -1,0 +1,14 @@
+{
+    "uuid": "ce4f3da1-5c5f-11ea-be63-52543be04c81",
+    "name": "adr.fm - Electronic Dance Experience",
+    "url": "http://192.111.140.6:9683/stream",
+    "homepage": "https://adr.fm/",
+    "favicon": "https://adr.fm/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "edm,dance,electronic",
+    "state": "Florida",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961d91a2-0601-11e8-ae97-52543be04c81",
+    "name": "Radio BN",
+    "url": "http://stream.rtvbn.com:8522/;.mp3",
+    "homepage": "http://www.rtvbn.com",
+    "favicon": "http://www.rtvbn.com/skin/default/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bosnia And Herzegovina",
+    "country_code": "BA",
+    "language": "bosnian",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 128
+}

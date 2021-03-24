@@ -1,0 +1,14 @@
+{
+    "uuid": "960a10bc-0601-11e8-ae97-52543be04c81",
+    "name": "WFMT 98.7 Chicago, IL (AAC)",
+    "url": "http://wowza.wfmt.com/live/smil:wfmt.smil/playlist.m3u8",
+    "homepage": "http://www.wfmt.com/",
+    "favicon": "http://www.wfmt.com/wp-content/uploads/2016/05/wfmt-logo_01.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "chicago,folk,classical",
+    "state": "Illinois",
+    "bitrate": 256
+}

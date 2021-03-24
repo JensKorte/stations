@@ -1,0 +1,14 @@
+{
+    "uuid": "35c98744-7d97-4739-9c48-3161f1155cc6",
+    "name": "BBC World Service",
+    "url": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls",
+    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/f/fc/BBC_World_Service_red.svg",
+    "creation": "2021-03-15 15:52:40",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "new url march 2021,world,talk,news",
+    "state": "",
+    "bitrate": 0
+}

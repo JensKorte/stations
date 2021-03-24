@@ -1,0 +1,14 @@
+{
+    "uuid": "be852519-c430-11e9-8502-52543be04c81",
+    "name": "Down East Radio Reading Service",
+    "url": "http://audio-mp3.ibiblio.org:8000/derrs.mp3",
+    "homepage": "https://downeastreading.org/index.html",
+    "favicon": "https://downeastreading.org/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "radio for the print handicapped,radio reading service",
+    "state": "North Carolina",
+    "bitrate": 28
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "47bc9b44-0ae7-11e9-a80b-52543be04c81",
+    "name": "El Prat Radio",
+    "url": "http://streaming.enantena.com:8000/elpratradio56.mp3",
+    "homepage": "http://www.elpratradio.com/",
+    "favicon": "https://enacast.com/media/cache/39/f4/39f49a9445cd3b5750c20ae95fd0de44.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "pop,variado,community radio",
+    "state": "Barcelona",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8b16985b-5675-11ea-be63-52543be04c81",
+    "name": "БГ радио (opus)",
+    "url": "http://stream.radioreklama.bg:80/bgradio.opus",
+    "homepage": "https://bgradio.bg/",
+    "favicon": "http://bgradio.bg/theme_assets/bgradio/images/sharing/radio_default_banner.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian,български",
+    "tags": "bg only,party,dance,pop",
+    "state": "",
+    "bitrate": 0
+}

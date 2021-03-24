@@ -1,0 +1,14 @@
+{
+    "uuid": "0eec334d-664f-11e8-b15b-52543be04c81",
+    "name": "Radio Sotra",
+    "url": "http://78.129.228.187:8102/stream",
+    "homepage": "http://radiosotra.no/",
+    "favicon": "http://radiosotra.no/wp-content/uploads/2018/02/radiosotra_old_lav.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "norwegian,music,local radio",
+    "state": "Hordaland",
+    "bitrate": 128
+}

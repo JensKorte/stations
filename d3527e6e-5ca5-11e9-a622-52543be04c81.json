@@ -1,0 +1,14 @@
+{
+    "uuid": "d3527e6e-5ca5-11e9-a622-52543be04c81",
+    "name": "Radio Tropicana 96.5 FM (AAC)",
+    "url": "http://makrodigital.com:8167/radiotropicana.m3u",
+    "homepage": "http://tropicana.ec",
+    "favicon": "http://tropicana.ec/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "pop,rock,world music,latin,news,noticias,musica,music",
+    "state": "Guayas",
+    "bitrate": 64
+}

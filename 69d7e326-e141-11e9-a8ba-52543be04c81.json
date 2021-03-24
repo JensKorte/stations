@@ -1,0 +1,14 @@
+{
+    "uuid": "69d7e326-e141-11e9-a8ba-52543be04c81",
+    "name": "France Inter",
+    "url": "http://icecast.radiofrance.fr/franceinter-hifi.aac",
+    "homepage": "https://www.franceinter.fr/",
+    "favicon": "https://www.franceinter.fr/img/logo-france-inter-reseaux.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

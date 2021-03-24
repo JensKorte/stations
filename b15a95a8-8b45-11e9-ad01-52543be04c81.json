@@ -1,0 +1,14 @@
+{
+    "uuid": "b15a95a8-8b45-11e9-ad01-52543be04c81",
+    "name": "Radio Rogna",
+    "url": "http://91.121.118.99:8185/stream",
+    "homepage": "https://www.radiorogna.it/",
+    "favicon": "https://www.radiorogna.it/img/icons/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "sarzana,community radio,alternative",
+    "state": "Liguria",
+    "bitrate": 128
+}

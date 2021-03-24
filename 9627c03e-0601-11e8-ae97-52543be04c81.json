@@ -1,0 +1,14 @@
+{
+    "uuid": "9627c03e-0601-11e8-ae97-52543be04c81",
+    "name": "Sky Radio Smooth Hits",
+    "url": "http://provisioning.streamtheworld.com/pls/SRGSTR15AAC.pls",
+    "homepage": "http://www.skyradio.nl/",
+    "favicon": "http://www.skyradio.nl/img/player/logo_sky-radio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "smooth",
+    "state": "",
+    "bitrate": 64
+}

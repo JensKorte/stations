@@ -1,0 +1,14 @@
+{
+    "uuid": "96199d18-0601-11e8-ae97-52543be04c81",
+    "name": "TSF Rádio Madeira",
+    "url": "http://centova.radio.com.pt:9470/;",
+    "homepage": "http://www.netmadeira.com/radios/tsf-madeira",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s163045q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "adult contemporary,local news",
+    "state": "Madeira",
+    "bitrate": 128
+}

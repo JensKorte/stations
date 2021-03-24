@@ -1,0 +1,14 @@
+{
+    "uuid": "9616a920-0601-11e8-ae97-52543be04c81",
+    "name": "The SID Station",
+    "url": "http://185.80.220.12:8054/stream",
+    "homepage": "http://c64radio.com/",
+    "favicon": "http://static.radio.net/images/broadcasts/c0/08/21435/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "english",
+    "tags": "8 bit,chiptune,c64",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9639cf19-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Saar (56 kbit/s)",
+    "url": "http://sr.audiostream.io/sr/1013/mp3/56/as",
+    "homepage": "http://www.sr.de/sr/antennesaar/",
+    "favicon": "https://www.phonostar.de/images/auto_created/antennesaar2184x184.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "sr,ard,public radio",
+    "state": "Saarland",
+    "bitrate": 56
+}

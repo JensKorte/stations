@@ -1,0 +1,14 @@
+{
+    "uuid": "964f75d0-0601-11e8-ae97-52543be04c81",
+    "name": "Graal Future",
+    "url": "http://graalradio.com:8123/future",
+    "homepage": "https://graalradio.com/",
+    "favicon": "https://graalradio.com/img/svg/graal_logo_v4.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian,english",
+    "tags": "ambient",
+    "state": "",
+    "bitrate": 128
+}

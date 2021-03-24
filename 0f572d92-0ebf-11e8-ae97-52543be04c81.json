@@ -1,0 +1,14 @@
+{
+    "uuid": "0f572d92-0ebf-11e8-ae97-52543be04c81",
+    "name": "Emisora Punto 5 (HJBS 1490 kHz AM, Bogotá) Jorge Barón TV",
+    "url": "http://stream1.emisorasvirtuales.com:8123/;",
+    "homepage": "http://www.emisorapunto5.com.co/",
+    "favicon": "https://i.ytimg.com/vi/22WVlC3QRSo/hqdefault.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "vallenato,boleros,ranchera,local music,local news",
+    "state": "Bogotá",
+    "bitrate": 48
+}

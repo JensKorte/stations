@@ -1,0 +1,14 @@
+{
+    "uuid": "672fef68-551b-11e8-b0ce-52543be04c81",
+    "name": "BBC Radio 5 Live Sports Extra",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8",
+    "homepage": "http://www.bbc.co.uk/5livesportsextra",
+    "favicon": "http://www.bbc.co.uk///rmp.files.bbci.co.uk/nightingale/202/img/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "",
+    "tags": "radiobrowser,bbc,live,sports,sport",
+    "state": "",
+    "bitrate": 339
+}

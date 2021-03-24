@@ -1,0 +1,14 @@
+{
+    "uuid": "63b4850c-9a05-11e8-a767-52543be04c81",
+    "name": "Radio 1",
+    "url": "http://www.play.cz/radio/radio1-32.aac.m3u",
+    "homepage": "http://www.radio1.cz/",
+    "favicon": "http://www.radio1.cz/media/images/design/radio1-praha-logo-2x.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "32 kbps ve formátu aac",
+    "state": "Czech Republic",
+    "bitrate": 0
+}

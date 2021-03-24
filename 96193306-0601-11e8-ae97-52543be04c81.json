@@ -1,0 +1,14 @@
+{
+    "uuid": "96193306-0601-11e8-ae97-52543be04c81",
+    "name": "TLA Rádio",
+    "url": "http://centova.radio.com.pt:8545/;",
+    "homepage": "http://www.tlaradio.net/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s87851q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "world music,local music",
+    "state": "Beja",
+    "bitrate": 128
+}

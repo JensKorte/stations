@@ -1,0 +1,14 @@
+{
+    "uuid": "762250b3-a18f-420c-8ac9-a9cc6127d34a",
+    "name": "БНР – Радио Благоевград",
+    "url": "http://stream.bnr.bg:8035/radio-blagoevgrad.aac",
+    "homepage": "https://bnr.bg/blagoevgrad",
+    "favicon": "https://bnr.bg/img/logos/blagoevgrad.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian,български",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5abba606-451e-11e8-8919-52543be04c81",
+    "name": "Macao TDM Satellite",
+    "url": "http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8",
+    "homepage": "http://tdm.com.mo/",
+    "favicon": "http://tdm.com.mo//c_images/tdm_s.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "",
+    "tags": "hls video,macao",
+    "state": "Macao",
+    "bitrate": 1029
+}

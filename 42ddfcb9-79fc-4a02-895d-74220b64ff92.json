@@ -1,0 +1,14 @@
+{
+    "uuid": "42ddfcb9-79fc-4a02-895d-74220b64ff92",
+    "name": "RadioFreccia",
+    "url": "https://rtl-radio6-stream.thron.com/live/radio6/radio6/playlist.m3u8",
+    "homepage": "https://www.radiofreccia.it/",
+    "favicon": "https://cdn.radiofreccia.it/Radiofreccia/website/600ef237/img/logo/android-icon-192x192.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "bergamo,rock,gruppo rtl",
+    "state": "Lombardia",
+    "bitrate": 148
+}

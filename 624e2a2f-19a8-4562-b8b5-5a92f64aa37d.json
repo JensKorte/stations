@@ -1,0 +1,14 @@
+{
+    "uuid": "624e2a2f-19a8-4562-b8b5-5a92f64aa37d",
+    "name": "Schwarzwaldradio [128 kbps]",
+    "url": "https://stream.schwarzwaldradio.com/schwarzwaldradio",
+    "homepage": "https://www.schwarzwaldradio.com/",
+    "favicon": "https://www.schwarzwaldradio.com/sites/default/files/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies,pop",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

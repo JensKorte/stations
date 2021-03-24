@@ -1,0 +1,14 @@
+{
+    "uuid": "962492bf-0601-11e8-ae97-52543be04c81",
+    "name": "Radio SOL 95.5",
+    "url": "http://sol.anw.at:8023/stream",
+    "homepage": "http://www.radiosol.at/",
+    "favicon": "http://web61.506.hosttech.eu/www-radiosol-at/wp-content/uploads/2016/06/SOL-Logo-1-300dpi-2-2.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "good news | good sound | good life",
+    "state": "Lower Austria",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961e9e40-0601-11e8-ae97-52543be04c81",
+    "name": "Visir \"FM957\" 95.7 Reykjavik",
+    "url": "http://icecast.365net.is:8000/orbFm957.aac.m3u",
+    "homepage": "http://fm957.visir.is/",
+    "favicon": "https://lh4.ggpht.com/iwWwymHV6NjFdRtXszPlt6AtrMZlSBfM2nUOzO5LN_X99cyVF2IClyw80OQovZD0o-V8=w300",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Iceland",
+    "country_code": "IS",
+    "language": "icelandic",
+    "tags": "reykjavik,pop,local music",
+    "state": "Iceland",
+    "bitrate": 0
+}

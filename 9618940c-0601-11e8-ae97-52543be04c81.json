@@ -1,0 +1,14 @@
+{
+    "uuid": "9618940c-0601-11e8-ae97-52543be04c81",
+    "name": "RHT Guadeloupe (Radio Haute Tension)",
+    "url": "http://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+    "homepage": "http://www.rhtguadeloupe.fr/",
+    "favicon": "http://www.rhtguadeloupe.fr/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "outre-mer",
+    "state": "Guadeloupe",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "37989786-6cbc-11e8-b15b-52543be04c81",
+    "name": "Thom Hartmann Radio Program",
+    "url": "http://stream1.thomhartmann.com/hartmannfp",
+    "homepage": "https://www.thomhartmann.com/",
+    "favicon": "https://www.thomhartmann.com/sites/all/modules/custom/thseo/default.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk radio",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961251f9-0601-11e8-ae97-52543be04c81",
+    "name": "WDR 3 HQ",
+    "url": "http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3",
+    "homepage": "https://www1.wdr.de/radio/wdr3/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/WDR3.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "world music,jazz,classic,classical",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

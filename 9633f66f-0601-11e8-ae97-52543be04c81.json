@@ -1,0 +1,14 @@
+{
+    "uuid": "9633f66f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Blu Italia",
+    "url": "http://radiobluitalia.net:8051/stream",
+    "homepage": "http://radiobluitalia.net/",
+    "favicon": "http://radiobluitalia.net/radio/templates/radiowave/includes/images/facebook/facebook.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "italian",
+    "tags": "community radio",
+    "state": "",
+    "bitrate": 128
+}

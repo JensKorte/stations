@@ -1,0 +1,14 @@
+{
+    "uuid": "963e42e9-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Calvià",
+    "url": "http://91.121.156.27:8006/stream",
+    "homepage": "https://www.facebook.com/RadioCalviaFM",
+    "favicon": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/c0.0.200.200/p200x200/12998662_1094966997230065_532695022008436593_n.jpg?oh=250e9a12465990a9501d77b53242b149\u0026oe=5A1F4616",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "calvià",
+    "state": "Illes Balears",
+    "bitrate": 128
+}

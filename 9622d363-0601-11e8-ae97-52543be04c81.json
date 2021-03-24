@@ -1,0 +1,14 @@
+{
+    "uuid": "9622d363-0601-11e8-ae97-52543be04c81",
+    "name": "CJSA-HD4 CMR Diversity FM 101.3 Punjabi - Toronto, ON",
+    "url": "http://live.cmr24.net:8081/CMR/Punjabi-MQ/icecast.audio",
+    "homepage": "http://www.cmr.fm/",
+    "favicon": "http://cmr24.net/wp-content/uploads/2014/06/hd41.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "punjabi",
+    "tags": "toronto,punjabi,multicultural",
+    "state": "Ontario",
+    "bitrate": 128
+}

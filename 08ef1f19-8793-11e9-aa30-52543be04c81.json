@@ -1,0 +1,14 @@
+{
+    "uuid": "08ef1f19-8793-11e9-aa30-52543be04c81",
+    "name": "Radio Vinyl",
+    "url": "http://live-bauerno.sharp-stream.com/vinyl_no_hq",
+    "homepage": "https://radioplay.no/vinyl/",
+    "favicon": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/169.jpg?ver=1490605143",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norsk",
+    "tags": "tidenes,strørste,vinyl",
+    "state": "Oslo",
+    "bitrate": 256
+}

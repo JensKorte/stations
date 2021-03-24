@@ -1,0 +1,14 @@
+{
+    "uuid": "32d0c777-eb8f-11e9-a96c-52543be04c81",
+    "name": "France Musique La Contemporaine",
+    "url": "http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac",
+    "homepage": "https://www.francemusique.fr/webradio-la-contemporaine",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,contemporary music,public radio,aac",
+    "state": "",
+    "bitrate": 0
+}

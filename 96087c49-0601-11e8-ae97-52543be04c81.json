@@ -1,0 +1,14 @@
+{
+    "uuid": "96087c49-0601-11e8-ae97-52543be04c81",
+    "name": "Energy-NRJ Innsbruck",
+    "url": "http://stream1.energy.at:8000/ibk",
+    "homepage": "http://www.energy999.at",
+    "favicon": "http://energy.at/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "Tirol",
+    "bitrate": 192
+}

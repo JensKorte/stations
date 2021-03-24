@@ -1,0 +1,14 @@
+{
+    "uuid": "9637b73d-0601-11e8-ae97-52543be04c81",
+    "name": "Shout-FM Mainstream",
+    "url": "http://stream.laut.fm/shout_fm.m3u",
+    "homepage": "https://www.shout-fm.de/",
+    "favicon": "https://www.shout-fm.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,dance",
+    "state": "Lower Saxony",
+    "bitrate": 128
+}

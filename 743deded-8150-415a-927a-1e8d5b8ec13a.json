@@ -1,0 +1,14 @@
+{
+    "uuid": "743deded-8150-415a-927a-1e8d5b8ec13a",
+    "name": "Radio Koszalin",
+    "url": "http://91.232.4.33:9680/stream",
+    "homepage": "http://www.radio.koszalin.pl/pl",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polskie",
+    "tags": "pop,news",
+    "state": "",
+    "bitrate": 128
+}

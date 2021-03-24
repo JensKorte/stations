@@ -1,0 +1,14 @@
+{
+    "uuid": "c50ec229-5083-11e8-a4d1-52543be04c81",
+    "name": "Radio SRF 1 Basel Baselland",
+    "url": "http://stream.srg-ssr.ch/regi_bs_bl/aacp_32.m3u",
+    "homepage": "https://www.srf.ch/sendungen/regionaljournal-basel-baselland",
+    "favicon": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "",
+    "tags": "",
+    "state": "Basel",
+    "bitrate": 0
+}

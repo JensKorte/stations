@@ -1,0 +1,14 @@
+{
+    "uuid": "9637207e-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Regina DAB Praha",
+    "url": "http://icecast2.play.cz/croregina128.mp3",
+    "homepage": "http://www.rozhlas.cz/regina/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/croregina.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,public radio,local news",
+    "state": "Prague",
+    "bitrate": 0
+}

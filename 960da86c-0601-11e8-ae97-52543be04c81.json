@@ -1,0 +1,14 @@
+{
+    "uuid": "960da86c-0601-11e8-ae97-52543be04c81",
+    "name": "Russian FM",
+    "url": "http://radio.russianfm.de:8000/",
+    "homepage": "http://www.russianfm.de",
+    "favicon": "http://www.russianfm.de/templates/FMradio/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "russian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

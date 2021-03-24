@@ -1,0 +1,14 @@
+{
+    "uuid": "b368e65a-0ad8-11ea-a87e-52543be04c81",
+    "name": "Radio KW",
+    "url": "https://radiokw.cast.addradio.de/radiokw/simulcast/high/stream.mp3",
+    "homepage": "https://www.radiokw.de/",
+    "favicon": "https://www.radiokw.de/assets/images/senderlogos/radio_kw.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "NRW",
+    "bitrate": 192
+}

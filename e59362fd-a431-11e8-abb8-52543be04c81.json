@@ -1,0 +1,14 @@
+{
+    "uuid": "e59362fd-a431-11e8-abb8-52543be04c81",
+    "name": "Best FM",
+    "url": "http://46.20.7.125:80",
+    "homepage": "http://www.bestfm.com.tr",
+    "favicon": "http://www.bestfm.com.tr//assets/client/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963336db-0601-11e8-ae97-52543be04c81",
+    "name": "WSJR \"Nash FM 93.7\" Dallas, PA",
+    "url": "http://provisioning.streamtheworld.com/pls/WSJRFMAAC.pls",
+    "homepage": "http://www.nashfm937.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WSJR_%28Nash_FM_93.7%29_logo.png/200px-WSJR_%28Nash_FM_93.7%29_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country,scranton,dallas",
+    "state": "Pennsylvania",
+    "bitrate": 48
+}

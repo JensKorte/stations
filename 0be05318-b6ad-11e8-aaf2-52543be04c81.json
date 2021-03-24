@@ -1,0 +1,14 @@
+{
+    "uuid": "0be05318-b6ad-11e8-aaf2-52543be04c81",
+    "name": "Radio Dalmacija",
+    "url": "http://shoutcast.pondi.hr:8000/listen.pls",
+    "homepage": "https://www.radiodalmacija.hr/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "pop,hits,regional,split,dalmatia",
+    "state": "",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96139428-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 666 Canberra, ACT (MP3)",
+    "url": "http://live-radio01.mediahubaustralia.com/1LRW/mp3/",
+    "homepage": "http://www.abc.net.au/radio/canberra/",
+    "favicon": "http://www.abc.net.au/cm/rimage/7840246-1x1-large.png?v=5",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "canberra,abc,public radio,local news,information,news",
+    "state": "Australian Capital Territory",
+    "bitrate": 64
+}

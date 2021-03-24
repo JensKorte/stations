@@ -1,0 +1,14 @@
+{
+    "uuid": "963de6a7-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Palamós",
+    "url": "http://streaming.palamoscomunicacio.cat:8112/stream/1/",
+    "homepage": "http://www.palamoscomunicacio.cat/web/",
+    "favicon": "http://www.palamoscomunicacio.cat/web//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "palamós",
+    "state": "Girona",
+    "bitrate": 128
+}

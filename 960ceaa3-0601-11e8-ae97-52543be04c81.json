@@ -1,0 +1,14 @@
+{
+    "uuid": "960ceaa3-0601-11e8-ae97-52543be04c81",
+    "name": "detektor.fm Wort",
+    "url": "https://detektor.fm/stream/mp3/wort/",
+    "homepage": "https://detektor.fm/",
+    "favicon": "https://detektor.fm/wp-content/uploads/misc/dfm_Logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "information,news talk",
+    "state": "",
+    "bitrate": 128
+}

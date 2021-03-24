@@ -1,0 +1,14 @@
+{
+    "uuid": "59a304c4-39f4-49f4-abc7-6a086f6d1de4",
+    "name": "Radio Klitholm",
+    "url": "http://stream.radioklitholm.dk:8000/stream",
+    "homepage": "http://radioklitholm.dk/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9621e591-0601-11e8-ae97-52543be04c81",
+    "name": "Best FM",
+    "url": "http://stream.bestfm.sk/128.mp3",
+    "homepage": "http://bestfm.sk",
+    "favicon": "http://www.bestfm.sk/wp-content/themes/bestfm/img/logo-bestfm-top.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "classic hits,news",
+    "state": "Slovakia",
+    "bitrate": 128
+}

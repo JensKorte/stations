@@ -1,0 +1,14 @@
+{
+    "uuid": "f850c912-f103-4114-850e-eaae96f22305",
+    "name": "Reformatorische Omroep Radio 1",
+    "url": "https://radio1.reformatorischeomroep.nl/live.m3u",
+    "homepage": "https://reformatorischeomroep.nl",
+    "favicon": "https://reformatorischeomroep.nl/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "christelijk",
+    "state": "",
+    "bitrate": 192
+}

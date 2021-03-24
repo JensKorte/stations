@@ -1,0 +1,14 @@
+{
+    "uuid": "96466052-0601-11e8-ae97-52543be04c81",
+    "name": "Ilmwelle Schlager",
+    "url": "http://stream.ilmwelle.de/ilmwelle-schlager-192.mp3",
+    "homepage": "http://data.ilmwelle.de/start.php?name=ilmwelle\u0026file=player\u0026stream=ilmwelle",
+    "favicon": "http://data.ilmwelle.de/modules/ilmwelle/images/ilmwelle-schlager-320x90.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "Bavaria",
+    "bitrate": 192
+}

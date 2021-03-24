@@ -1,0 +1,14 @@
+{
+    "uuid": "96117d6c-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio Program 2",
+    "url": "http://stream3.polskieradio.pl:8952/;.mp3",
+    "homepage": "https://www.polskieradio.pl/8,Dwojka",
+    "favicon": "http://moje.polskieradio.pl/_img/kanaly/pr2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polskieradio,public radio",
+    "state": "Warszawa",
+    "bitrate": 128
+}

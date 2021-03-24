@@ -1,0 +1,14 @@
+{
+    "uuid": "9a4d62fe-7e1f-4dbd-a483-668b9692daaa",
+    "name": "Public Radio 90 - WNMU-FM - FM 90.1",
+    "url": "http://war.str3am.com:7400/wnmu-fm",
+    "homepage": "https://www.wnmufm.org/",
+    "favicon": "https://static-media.streema.com/media/cache/8a/be/8abe98b657da722c4d3bcac61c07f499.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,college",
+    "state": "Michigan",
+    "bitrate": 160
+}

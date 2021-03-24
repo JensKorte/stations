@@ -1,0 +1,14 @@
+{
+    "uuid": "962d6844-0601-11e8-ae97-52543be04c81",
+    "name": "CJSQ 92.7 \"Radio Classique\" Quebec, QC",
+    "url": "http://stream.statsradio.com:8004/stream",
+    "homepage": "http://www.radioclassique.ca/",
+    "favicon": "http://www.radioclassique.ca/wp-content/themes/cjpx/dist/images/radio-classique-1x.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "quebec city,classical,commercial",
+    "state": "Quebec",
+    "bitrate": 128
+}

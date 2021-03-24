@@ -1,0 +1,14 @@
+{
+    "uuid": "825f9b87-59fc-11ea-be63-52543be04c81",
+    "name": "Радио ВОС",
+    "url": "http://radiovos.ru:9000/radiovos-128",
+    "homepage": "http://radiovos.ru",
+    "favicon": "http://radiovos.ru:9000/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

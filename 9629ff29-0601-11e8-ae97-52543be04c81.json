@@ -1,0 +1,14 @@
+{
+    "uuid": "9629ff29-0601-11e8-ae97-52543be04c81",
+    "name": "Radio City",
+    "url": "http://stream.mediacomm.it:8146/stream",
+    "homepage": "http://www.radiocity.it/",
+    "favicon": "http://www.radiocity.it/images/layout/no_banner_medium.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "castelletto d'orba,top 40,pop,news",
+    "state": "Piemonte",
+    "bitrate": 128
+}

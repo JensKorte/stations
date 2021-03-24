@@ -1,0 +1,14 @@
+{
+    "uuid": "794e2273-e3ce-430c-8b15-3efc9cb4bd28",
+    "name": "bonn.fm",
+    "url": "http://131.220.107.145:8000/live_high.m3u",
+    "homepage": "https://bonn.fm/",
+    "favicon": "https://i2.wp.com/bonn.fm/wp-content/uploads/2019/02/cropped-bonnFM-Logo-rund.png?fit=192%2C192\u0026ssl=1",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "deutsch,german",
+    "tags": "university,university radio,campus radio,bonn",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 256
+}

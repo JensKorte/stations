@@ -1,0 +1,14 @@
+{
+    "uuid": "4a12aa50-a0b0-11e8-a9f3-52543be04c81",
+    "name": "RLDM",
+    "url": "http://srv2.streaming-ingenierie.fr:8176/;stream.mp3",
+    "homepage": "http://www.radiorldm.com/rldm/",
+    "favicon": "http://www.radiorldm.com/rldm/templates/leroy/images/logo1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "francais",
+    "tags": "radio lévé doubout matinik",
+    "state": "Martinique",
+    "bitrate": 96
+}

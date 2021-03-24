@@ -1,0 +1,14 @@
+{
+    "uuid": "6594a21e-5875-11e8-b0ce-52543be04c81",
+    "name": "Muz FM",
+    "url": "http://live.muzfm.md:8000/muzfm",
+    "homepage": "http://muzfm.md",
+    "favicon": "http://www.frocus.net/images/logotv/original/muz-fm-moldova.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Republic Of Moldova",
+    "country_code": "MD",
+    "language": "romanian",
+    "tags": "",
+    "state": "Chișinău",
+    "bitrate": 128
+}

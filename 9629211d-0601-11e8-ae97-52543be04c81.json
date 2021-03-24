@@ -1,0 +1,14 @@
+{
+    "uuid": "9629211d-0601-11e8-ae97-52543be04c81",
+    "name": "RTL 102.5 Viaradio Digital",
+    "url": "http://webradio.autostrade.it:8000/stream.m4a",
+    "homepage": "http://www.rtl.it/",
+    "favicon": "http://img.rtl.it/www.rtl.it/WebPlayer/img/template/rtl1025logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop,traffic,information,talk",
+    "state": "Lombardia",
+    "bitrate": 0
+}

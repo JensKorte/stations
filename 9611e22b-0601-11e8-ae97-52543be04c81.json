@@ -1,0 +1,14 @@
+{
+    "uuid": "9611e22b-0601-11e8-ae97-52543be04c81",
+    "name": "Trendy Radio",
+    "url": "http://stream.trendyradio.pl:8000/h",
+    "homepage": "http://www.trendyradio.pl/",
+    "favicon": "http://www.trendyradio.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Krosno",
+    "bitrate": 256
+}

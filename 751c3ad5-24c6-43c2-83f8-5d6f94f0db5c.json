@@ -1,0 +1,14 @@
+{
+    "uuid": "751c3ad5-24c6-43c2-83f8-5d6f94f0db5c",
+    "name": "Dein Oldie Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deinoldieradio/mp3/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-oldie",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-oldie.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "odlie,oldies",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 128
+}

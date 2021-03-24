@@ -1,0 +1,14 @@
+{
+    "uuid": "963d8777-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Celrà",
+    "url": "http://streaming.enantena.com:8000/radiocelra128.mp3",
+    "homepage": "http://radio.celra.cat/",
+    "favicon": "https://enacast.com/media/cache/c2/8d/c28d4a413cb1455eaaaf8c32c0ced82f.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "celrà",
+    "state": "Girona",
+    "bitrate": 0
+}

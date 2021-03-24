@@ -1,0 +1,14 @@
+{
+    "uuid": "cecec6f2-f9fa-413a-912d-ec6f6e7e0228",
+    "name": "Radio Universidad Calf 103.7 Mhz",
+    "url": "http://cdn.instream.audio:9032/stream",
+    "homepage": "https://universidadcalf.com/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español",
+    "tags": "noticias,música,universitarias",
+    "state": "Neuquén",
+    "bitrate": 48
+}

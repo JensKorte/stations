@@ -1,0 +1,14 @@
+{
+    "uuid": "81e10f7b-f9d3-11e9-bbf2-52543be04c81",
+    "name": "Radio Elettrica",
+    "url": "http://nr8.newradio.it:9562/stream",
+    "homepage": "http://www.radioelettrica.it",
+    "favicon": "http://www.radioelettrica.it/wp-content/uploads/2018/10/cropped-icon-1-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

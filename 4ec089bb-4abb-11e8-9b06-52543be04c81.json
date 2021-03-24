@@ -1,0 +1,14 @@
+{
+    "uuid": "4ec089bb-4abb-11e8-9b06-52543be04c81",
+    "name": "Parlamentsfernsehen 2.TV",
+    "url": "https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8",
+    "homepage": "https://www.bundestag.de/mediathek",
+    "favicon": "https://www.bundestag.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 300
+}

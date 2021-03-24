@@ -1,0 +1,14 @@
+{
+    "uuid": "9615c816-0601-11e8-ae97-52543be04c81",
+    "name": "VBC Radio",
+    "url": "http://air.radiovbc.ru:8000/Radio256",
+    "homepage": "http://www.radiovbc.ru",
+    "favicon": "http://static.radio.net/images/broadcasts/c0/58/16980/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "local news",
+    "state": "Vladivostok",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fa383811-590d-11e9-a622-52543be04c81",
+    "name": "Radio Maria Schweiz (128 kbps)",
+    "url": "http://player.radio-maria.ch:9000/radiomaria_lo",
+    "homepage": "https://www.radiomaria.ch/",
+    "favicon": "https://www.radiomaria.ch//sites/all/themes/richer/assets/images/favicons/apple-icon-57x57.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "religion,christian,catholic",
+    "state": "",
+    "bitrate": 120
+}

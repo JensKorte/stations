@@ -1,0 +1,14 @@
+{
+    "uuid": "55691dce-325b-11ea-afca-52543be04c81",
+    "name": "TrekStation Jazz",
+    "url": "http://daniel.torontocast.com:2450/stream",
+    "homepage": "https://www.trekstation.torontocast.stream/jazz.html",
+    "favicon": "https://www.trekstation.torontocast.stream/mstile-144x144-20200108114952.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "",
+    "tags": "jazz",
+    "state": "",
+    "bitrate": 192
+}

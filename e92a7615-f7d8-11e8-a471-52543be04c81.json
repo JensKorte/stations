@@ -1,0 +1,14 @@
+{
+    "uuid": "e92a7615-f7d8-11e8-a471-52543be04c81",
+    "name": "Live Radio Tirol",
+    "url": "https://liferadiotirol.apa.at:8000/",
+    "homepage": "https://www.liferadio.tirol/",
+    "favicon": "https://www.liferadio.tirol//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "Tirol",
+    "bitrate": 192
+}

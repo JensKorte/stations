@@ -1,0 +1,14 @@
+{
+    "uuid": "458c463e-cde3-11e8-a54a-52543be04c81",
+    "name": "RomaRadio - The Tube Station",
+    "url": "http://nr9.newradio.it:2199/tunein/romaserv.pls",
+    "homepage": "https://romamobilita.it/it/media/piattaforma-editoriale#romaradio",
+    "favicon": "https://romamobilita.it/sites/default/files/immagini/icone/Radio.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,talk,news,traffic",
+    "state": "Lazio",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961ad599-0601-11e8-ae97-52543be04c81",
+    "name": "Del Plata AM 1030",
+    "url": "http://181.119.157.98:8000/amdelplata.mp3",
+    "homepage": "http://www.amdelplata.com/",
+    "favicon": "http://www.amdelplata.com/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "news,noticias,am",
+    "state": "Buenos Aires",
+    "bitrate": 40
+}

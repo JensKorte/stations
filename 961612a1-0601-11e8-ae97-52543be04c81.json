@@ -1,0 +1,14 @@
+{
+    "uuid": "961612a1-0601-11e8-ae97-52543be04c81",
+    "name": "Life FM (Cork, Ireland)",
+    "url": "http://79.170.198.170:8000/radio.m3u",
+    "homepage": "http://www.lifefm.ie/",
+    "favicon": "http://www.liveradio.ie/files/images/101764/resized/140x134c/life_fm.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 128
+}

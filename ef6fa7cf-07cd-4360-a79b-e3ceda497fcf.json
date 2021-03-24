@@ -1,0 +1,14 @@
+{
+    "uuid": "ef6fa7cf-07cd-4360-a79b-e3ceda497fcf",
+    "name": "99.3 Radio Dos Corrientes",
+    "url": "http://190.7.17.148:9302/stream?type=http\u0026nocache=9",
+    "homepage": "https://www.radiodos.com.ar/",
+    "favicon": "https://www.radiodos.com.ar/_rv20200701-01/skins/web/responsive/assets/imgs/logos/lados.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español latino",
+    "tags": "noticias locales",
+    "state": "Corrientes",
+    "bitrate": 48
+}

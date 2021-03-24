@@ -1,0 +1,14 @@
+{
+    "uuid": "508ca6eb-e001-11e8-a9cc-52543be04c81",
+    "name": "SLBC -Radio Sri Lanka",
+    "url": "http://220.247.227.20:8000/RSLstream",
+    "homepage": "http://www.slbc.lk/",
+    "favicon": "http://www.slbc.lk///plugins/system/jat3/jat3/base-themes/default/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "language": "sinhala",
+    "tags": "entertainment,state",
+    "state": "",
+    "bitrate": 128
+}

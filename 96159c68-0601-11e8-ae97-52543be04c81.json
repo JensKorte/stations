@@ -1,0 +1,14 @@
+{
+    "uuid": "96159c68-0601-11e8-ae97-52543be04c81",
+    "name": "Midwest Radio [AAC]",
+    "url": "http://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac",
+    "homepage": "http://www.midwestradio.ie/",
+    "favicon": "http://www.liveradio.ie/files/images/101457/resized/140x134c/midwest_radio.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "variety",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "b272eae0-4851-11e8-b1b0-52543be04c81",
+    "name": "Baden TV",
+    "url": "http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8",
+    "homepage": "https://baden-tv.com/",
+    "favicon": "https://baden-tv.com/wp-content/uploads/2017/11/share_photo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 2628
+}

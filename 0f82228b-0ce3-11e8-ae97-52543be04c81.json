@@ -1,0 +1,14 @@
+{
+    "uuid": "0f82228b-0ce3-11e8-ae97-52543be04c81",
+    "name": "Rádio Folk",
+    "url": "http://mp3stream2.abradio.cz:8000/folk320.mp3",
+    "homepage": "http://radiofolk.cz/",
+    "favicon": "http://www.abradio.cz/data/s/8/logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "czech",
+    "tags": "czech folk music,folk",
+    "state": "Czech Republic",
+    "bitrate": 0
+}

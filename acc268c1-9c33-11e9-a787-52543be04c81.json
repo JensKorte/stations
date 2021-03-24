@@ -1,0 +1,14 @@
+{
+    "uuid": "acc268c1-9c33-11e9-a787-52543be04c81",
+    "name": "Radio Sputnik Mundo Español",
+    "url": "http://icecast-ruvr.cdnvideo.ru/rian.voicespa",
+    "homepage": "https://mundo.sputniknews.com/radio/",
+    "favicon": "https://cdnmundo1.img.sputniknews.com/i/popup-radio-bg.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "español",
+    "tags": "sputnik,noticials,news,español,internacional",
+    "state": "Moscow",
+    "bitrate": 0
+}

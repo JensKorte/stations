@@ -1,0 +1,14 @@
+{
+    "uuid": "961e2294-0601-11e8-ae97-52543be04c81",
+    "name": "WAMC 90.3 \"Northeast Public Radio\" Albany, NY",
+    "url": "http://provisioning.streamtheworld.com/pls/WAMCFMAAC.pls",
+    "homepage": "http://wamc.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wamc/files/201504/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "albany,apm,pri,npr,public radio",
+    "state": "New York",
+    "bitrate": 64
+}

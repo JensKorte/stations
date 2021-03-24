@@ -1,0 +1,14 @@
+{
+    "uuid": "927f4d3d-9d82-11e8-a767-52543be04c81",
+    "name": "Radio Republike Srpske",
+    "url": "http://parh.rtrs.tv:1935/radio/live/playlist.m3u8",
+    "homepage": "http://rtrs.tv",
+    "favicon": "http://rtrs.tv/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bosnia And Herzegovina",
+    "country_code": "BA",
+    "language": "serbian",
+    "tags": "local radio,information,news talk,serbian music,public radio,news",
+    "state": "Republic of Srpska",
+    "bitrate": 161
+}

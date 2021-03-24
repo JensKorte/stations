@@ -1,0 +1,14 @@
+{
+    "uuid": "9633bfc5-0601-11e8-ae97-52543be04c81",
+    "name": "MixTime Radio",
+    "url": "http://s3.viastreaming.net:8675/stream",
+    "homepage": "http://www.mixtimeradio.com/",
+    "favicon": "http://www.mixtimeradio.com/images/Mixtime-Radio-Logo-OK-con-MIXTIME-RADIO.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "milano,pop,dance,80s,90s,00s",
+    "state": "Lombardia",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "bfaf24c1-ab0c-11e9-88f4-52543be04c81",
+    "name": "StarSat Radio",
+    "url": "https://www.starsat.de/listen.pls",
+    "homepage": "https://www.starsat.de/",
+    "favicon": "https://www.starsat.de/images/ico/favicon2.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "top 40,90er,80er",
+    "state": "Berlin",
+    "bitrate": 48
+}

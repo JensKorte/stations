@@ -1,0 +1,14 @@
+{
+    "uuid": "bf81d561-ab65-4191-a33a-d8fecbe48576",
+    "name": "Onda Aragonesa",
+    "url": "http://eu1.lhdserver.es:9046/stream",
+    "homepage": "https://ondaaragonesa.com/",
+    "favicon": "https://cdn.onlineradiobox.com/img/logo/4/92484.v2.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "news,pop",
+    "state": "Zaragoza",
+    "bitrate": 0
+}

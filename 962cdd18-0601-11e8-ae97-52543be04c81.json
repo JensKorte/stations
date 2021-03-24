@@ -1,0 +1,14 @@
+{
+    "uuid": "962cdd18-0601-11e8-ae97-52543be04c81",
+    "name": "European Hit Radio - Russkie Hiti",
+    "url": "http://stream.europeanhitradio.com:8000/khr.aac",
+    "homepage": "http://www.russkiehiti.lv/",
+    "favicon": "http://www.hitirossii.com/base/wp-content/uploads/2016/09/EHR-logo-stream-02-web.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "russian",
+    "tags": "pop,ehr",
+    "state": "",
+    "bitrate": 0
+}

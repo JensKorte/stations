@@ -1,0 +1,14 @@
+{
+    "uuid": "79d18b4b-aefb-4959-a1a2-f240b1f91238",
+    "name": "DMAX TV",
+    "url": "http://91.126.141.12:1935/live/discoverymax/.m3u8",
+    "homepage": "http://dmax.marca.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/375px-DMax_Espa%C3%B1a.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,castellano,español",
+    "tags": "variedad,variety,entretenimiento",
+    "state": "Madrid",
+    "bitrate": 7834
+}

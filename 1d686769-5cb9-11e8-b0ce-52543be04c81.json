@@ -1,0 +1,14 @@
+{
+    "uuid": "1d686769-5cb9-11e8-b0ce-52543be04c81",
+    "name": "Radio1",
+    "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=radio1_no_hq",
+    "homepage": "https://radioplay.no/radio1/",
+    "favicon": "https://listenapi.s3.amazonaws.com/img/ConfigWebMobileHeroImageUrl/253.jpg?ver=1509969627",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "hits,top 40",
+    "state": "Oslo",
+    "bitrate": 256
+}

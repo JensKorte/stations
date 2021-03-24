@@ -1,0 +1,14 @@
+{
+    "uuid": "960e4255-0601-11e8-ae97-52543be04c81",
+    "name": "NDR Blue",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u",
+    "homepage": "http://www.ndr.de/ndrblue/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock,soul,pop,jazz,live concert",
+    "state": "Lower Saxony",
+    "bitrate": 0
+}

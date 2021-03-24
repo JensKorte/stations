@@ -1,0 +1,14 @@
+{
+    "uuid": "961b7fdb-0601-11e8-ae97-52543be04c81",
+    "name": "ROCK RADIO SI",
+    "url": "http://stream.rockradio.si:9034/;",
+    "homepage": "http://www.rockradio.si/",
+    "favicon": "http://www.rockradio.si//Public/assets/dist/1451633371026/img/150_center.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "language": "slovenian",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 128
+}

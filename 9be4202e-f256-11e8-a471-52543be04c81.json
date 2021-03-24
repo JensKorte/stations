@@ -1,0 +1,14 @@
+{
+    "uuid": "9be4202e-f256-11e8-a471-52543be04c81",
+    "name": "Radio 7 Bucuresti Romania",
+    "url": "http://80.86.106.32:8000/radio7.mp3",
+    "homepage": "http://radio-seven.ro/",
+    "favicon": "http://radio-seven.ro/images/favicon6.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "rock",
+    "state": "Bucuresti",
+    "bitrate": 0
+}

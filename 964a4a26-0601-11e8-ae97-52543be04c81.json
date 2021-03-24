@@ -1,0 +1,14 @@
+{
+    "uuid": "964a4a26-0601-11e8-ae97-52543be04c81",
+    "name": "Радио «Ulitka» WarThunder",
+    "url": "http://air.radioulitka.ru:8000/ulitka_128",
+    "homepage": "https://warthunder.ru/ru/game/radio",
+    "favicon": "https://warthunder.ru/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "music,news,stream,talk,gaijin network ltd.,war thunder",
+    "state": "",
+    "bitrate": 128
+}

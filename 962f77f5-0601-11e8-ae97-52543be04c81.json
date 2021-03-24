@@ -1,0 +1,14 @@
+{
+    "uuid": "962f77f5-0601-11e8-ae97-52543be04c81",
+    "name": "SoulRadio",
+    "url": "http://soulradio02.live-streams.nl:80/live",
+    "homepage": "http://www.soulradio.nl",
+    "favicon": "http://www.allradio.nl/uploaded/logo/soul-radio-groot.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

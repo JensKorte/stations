@@ -1,0 +1,14 @@
+{
+    "uuid": "674a1c6f-cfb2-4ed2-af82-b662aea75796",
+    "name": "Storm FM",
+    "url": "http://78.129.159.25:8100/stream",
+    "homepage": "http://www.stormfm.co.tz/",
+    "favicon": "http://stormfm.co.tz/wp-content/uploads/2016/03/favicon.png",
+    "creation": "2021-02-16 17:44:08",
+    "country": "United Republic Of Tanzania",
+    "country_code": "TZ",
+    "language": "english,swahili",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

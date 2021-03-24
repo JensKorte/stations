@@ -1,0 +1,14 @@
+{
+    "uuid": "9625be58-0601-11e8-ae97-52543be04c81",
+    "name": "WCMU-HD2",
+    "url": "http://playerservices.streamtheworld.com/m3u/WCMUHD2.m3u",
+    "homepage": "http://www.wcmu.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wcmu/files/201707/wcmu_public_radio_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk,news,npr,public radio",
+    "state": "Michigan",
+    "bitrate": 64
+}

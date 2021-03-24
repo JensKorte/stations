@@ -1,0 +1,14 @@
+{
+    "uuid": "f13d1d9b-13b0-11ea-a87e-52543be04c81",
+    "name": "En Tránsito FM 93.9",
+    "url": "http://stream.fmentransito.org.ar:8002/radio/live.aac",
+    "homepage": "https://comunicacionsocial.org.ar/",
+    "favicon": "https://comunicacionsocial.org.ar/wp-content/themes/comunicacionsocial-theme/assets/images/logo-et-180x175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish,español",
+    "tags": "interes general,noticias",
+    "state": "Castelar, Buenos Aires",
+    "bitrate": 0
+}

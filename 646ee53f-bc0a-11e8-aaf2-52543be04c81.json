@@ -1,0 +1,14 @@
+{
+    "uuid": "646ee53f-bc0a-11e8-aaf2-52543be04c81",
+    "name": "Radio Blagovesti",
+    "url": "http://radio.manastir-lepavina.org:8000/listen.pls",
+    "homepage": "http://www.manastir-lepavina.org",
+    "favicon": "http://www.manastir-lepavina.org/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "serbian",
+    "tags": "ortodox",
+    "state": "",
+    "bitrate": 96
+}

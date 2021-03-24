@@ -1,0 +1,14 @@
+{
+    "uuid": "96461ffe-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Regional - Radio 100% Rock",
+    "url": "http://streaming.radioregional.pt:8046/stream",
+    "homepage": "https://radioregional.pt/musica/radio-rock/",
+    "favicon": "https://radioregional.pt/wp-content/uploads/2015/04/cropped-logotipo_smile_only_550x550-32x32.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96451a5e-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - MetalFM",
+    "url": "http://streams.fluxfm.de/metalfm/aac-64/radiode/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2016/10/1711_MetalFM-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "metal",
+    "state": "Berlin",
+    "bitrate": 64
+}

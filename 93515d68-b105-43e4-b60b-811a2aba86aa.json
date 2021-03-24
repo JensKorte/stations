@@ -1,0 +1,14 @@
+{
+    "uuid": "93515d68-b105-43e4-b60b-811a2aba86aa",
+    "name": "Nostálgica FM",
+    "url": "https://redirector.dps.live/nostalgica/aac/icecast.audio",
+    "homepage": "https://www.nostalgica.cl/",
+    "favicon": "https://www.nostalgica.cl/playerRadio/img/player-nostalgica-new.png",
+    "creation": "2021-03-05 04:20:51",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "castellano,español",
+    "tags": "huasco,caldera,freirina,vallenar,copiapo",
+    "state": "Atacama",
+    "bitrate": 48
+}

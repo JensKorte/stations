@@ -1,0 +1,14 @@
+{
+    "uuid": "6509e1cc-5ca3-11e9-a622-52543be04c81",
+    "name": "Radio Onda Positiva 94.1 FM",
+    "url": "https://streamingecuador.net:8011/radioondapositiva.m3u",
+    "homepage": "https://radioondapositiva.com/",
+    "favicon": "https://radioondapositiva.com/wp-content/uploads/2017/07/logo-onda-positiva70.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "musica romantica,urban music,religion,merengue,salsa,musica latina,latin music,news,music",
+    "state": "Guayas",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "4ba6425a-5aeb-45fd-a00b-783ba065b46f",
+    "name": "Radio Welle West Wetterau",
+    "url": "http://stream.alexbrueckel.de:8000/r3we_128",
+    "homepage": "https://www.radio-wewewe.de/",
+    "favicon": "https://www.radio-wewewe.de/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "",
+    "state": "Hessen",
+    "bitrate": 160
+}

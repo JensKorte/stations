@@ -1,0 +1,14 @@
+{
+    "uuid": "963d055a-0601-11e8-ae97-52543be04c81",
+    "name": "Zip FM [64 kbps MP3]",
+    "url": "http://84.46.205.13:80/zipfm64.mp3",
+    "homepage": "http://www.zipfm.lt/",
+    "favicon": "http://www.zipfm.lt/wp-content/themes/zip/img/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "uab radiocentras,zip fm",
+    "state": "",
+    "bitrate": 0
+}

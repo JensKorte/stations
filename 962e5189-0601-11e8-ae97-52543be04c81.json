@@ -1,0 +1,14 @@
+{
+    "uuid": "962e5189-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sardegna Web",
+    "url": "http://91.121.38.216:8090/stream",
+    "homepage": "http://www.radiosardegnaweb.com/",
+    "favicon": "https://www.radiosardegnaweb.csmwebmedia.com/wp-content/uploads/2017/03/indexRSW-296x300.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "italian",
+    "tags": "community radio",
+    "state": "",
+    "bitrate": 128
+}

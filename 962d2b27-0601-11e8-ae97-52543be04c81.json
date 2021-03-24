@@ -1,0 +1,14 @@
+{
+    "uuid": "962d2b27-0601-11e8-ae97-52543be04c81",
+    "name": "Radio RDM",
+    "url": "http://s26.myradiostream.com:6160/stream",
+    "homepage": "http://www.radiordm.it/",
+    "favicon": "http://www.radiordm.it/wp-content/uploads/2016/12/logordmrender6.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "porretta terme,pop",
+    "state": "Emilia-Romagna",
+    "bitrate": 128
+}

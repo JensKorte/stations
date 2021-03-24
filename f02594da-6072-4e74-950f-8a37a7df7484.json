@@ -1,0 +1,14 @@
+{
+    "uuid": "f02594da-6072-4e74-950f-8a37a7df7484",
+    "name": "Hotmix Radio Platinum [HD 320kbps]",
+    "url": "https://streamingp.shoutcast.com/hotmixradio-platinium-320.mp3",
+    "homepage": "https://www.hotmixradio.fr/platinum",
+    "favicon": "https://static.hotmixradio.fr/wp-content/uploads/logo_hmr_platinum_1000x1000-460x460.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "english/french",
+    "tags": "320kbps,adult hits,hits",
+    "state": "",
+    "bitrate": 320
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "2d819a1d-6c99-43e9-8ccb-72b947472df2",
+    "name": "Радио МЕТРО 102,4",
+    "url": "http://stream.radiometro.ru:8230/",
+    "homepage": "http://radiometro.ru",
+    "favicon": "http://radiometro.ru/favicon.ico",
+    "creation": "2021-02-25 09:28:55",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russia,russian,english",
+    "tags": "",
+    "state": "Saint-Petersburg",
+    "bitrate": 128
+}

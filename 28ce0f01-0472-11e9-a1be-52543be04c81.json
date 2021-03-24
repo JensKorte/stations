@@ -1,0 +1,14 @@
+{
+    "uuid": "28ce0f01-0472-11e9-a1be-52543be04c81",
+    "name": "Argentina Channel 26 TV",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w785139532_b2628000_sleng.m3u8",
+    "homepage": "http://www.diario26.com/",
+    "favicon": "http://www.diario26.com/images/canal_26.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "",
+    "state": "Buenos Aires",
+    "bitrate": 0
+}

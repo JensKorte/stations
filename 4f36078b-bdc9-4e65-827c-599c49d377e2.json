@@ -1,0 +1,14 @@
+{
+    "uuid": "4f36078b-bdc9-4e65-827c-599c49d377e2",
+    "name": "Radio Ndeke Luka FM",
+    "url": "http://stream.radiondekeluka.org:8001/ndekeluka",
+    "homepage": "https://www.radiondekeluka.org/",
+    "favicon": "https://www.radiondekeluka.org/templates/radiondekeluka/images/logo.png",
+    "creation": "2021-02-16 17:19:14",
+    "country": "The Central African Republic",
+    "country_code": "CF",
+    "language": "",
+    "tags": "talk",
+    "state": "",
+    "bitrate": 28
+}

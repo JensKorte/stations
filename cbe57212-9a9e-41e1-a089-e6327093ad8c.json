@@ -1,0 +1,14 @@
+{
+    "uuid": "cbe57212-9a9e-41e1-a089-e6327093ad8c",
+    "name": "Radio Sportiva",
+    "url": "https://mediahit.inmystream.it:9000/stream",
+    "homepage": "https://www.radiosportiva.com/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "talk,sport",
+    "state": "Toscana",
+    "bitrate": 128
+}

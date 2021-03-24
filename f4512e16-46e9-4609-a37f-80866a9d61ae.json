@@ -1,0 +1,14 @@
+{
+    "uuid": "f4512e16-46e9-4609-a37f-80866a9d61ae",
+    "name": "InfoRC",
+    "url": "http://live.francra.org:8000/InfoRC",
+    "homepage": "https://www.inforc.fr/",
+    "favicon": "https://www.inforc.fr/images/Logos/LOGO_INFO_RC_FOND_BLANC.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio associative,ardeche,france",
+    "state": "",
+    "bitrate": 0
+}

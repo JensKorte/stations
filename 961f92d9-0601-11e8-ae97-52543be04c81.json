@@ -1,0 +1,14 @@
+{
+    "uuid": "961f92d9-0601-11e8-ae97-52543be04c81",
+    "name": "Top20Radio",
+    "url": "http://server8.blitz-stream.de:9100/",
+    "homepage": "http://top20radio.tv/",
+    "favicon": "http://top20radio.tv/wp-content/uploads/logoT20R2-300x146.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 20,90s,80s,rock,pop",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96242832-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Radicale",
+    "url": "http://live.radioradicale.it/live.mp3",
+    "homepage": "http://www.radioradicale.it/",
+    "favicon": "http://culturedigitali.blogautore.espresso.repubblica.it/files/2015/05/radioradicale.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "talk,politics",
+    "state": "Lazio",
+    "bitrate": 64
+}

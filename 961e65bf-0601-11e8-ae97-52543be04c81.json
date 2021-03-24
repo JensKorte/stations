@@ -1,0 +1,14 @@
+{
+    "uuid": "961e65bf-0601-11e8-ae97-52543be04c81",
+    "name": "RFC Radio",
+    "url": "http://lyra.shoutca.st:8151/rfcmp3",
+    "homepage": "http://www.rfcradio.es/",
+    "favicon": "http://www.rfcradio.es/wp-content/uploads/2016/03/RFC-logo-es-claro.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "today,90s,80s,talk,music",
+    "state": "",
+    "bitrate": 192
+}

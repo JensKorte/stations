@@ -1,0 +1,14 @@
+{
+    "uuid": "cdec338f-6d94-4837-b4c2-87a27a1d8bb6",
+    "name": "Radio Cortina",
+    "url": "https://streaming1.radiodatanet.it:8050/stream",
+    "homepage": "https://www.radiocortina.it/",
+    "favicon": "https://www.radiocortina.it/wp-content/uploads/2015/10/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "local radio,local news",
+    "state": "Veneto",
+    "bitrate": 128
+}

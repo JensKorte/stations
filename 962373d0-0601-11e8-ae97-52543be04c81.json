@@ -1,0 +1,14 @@
+{
+    "uuid": "962373d0-0601-11e8-ae97-52543be04c81",
+    "name": "i-turn radio",
+    "url": "http://live.i-turnradio.nl:80/live",
+    "homepage": "http://i-turnradio.nl/",
+    "favicon": "http://i-turnradio.nl/images/logo200.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "320kbps,classic hits,pop,funk,rock,soul,disco",
+    "state": "",
+    "bitrate": 0
+}

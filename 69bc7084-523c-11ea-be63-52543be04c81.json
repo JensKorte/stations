@@ -1,0 +1,14 @@
+{
+    "uuid": "69bc7084-523c-11ea-be63-52543be04c81",
+    "name": "Catalunya Informació (Catinfo)",
+    "url": "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3",
+    "homepage": "https://www.catradio.cat/catinfo",
+    "favicon": "https://statics.ccma.cat/img/favicons/catinfo-apple-touch-icon-152x152.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "local news,news talk,talk,news",
+    "state": "Catalunya",
+    "bitrate": 128
+}

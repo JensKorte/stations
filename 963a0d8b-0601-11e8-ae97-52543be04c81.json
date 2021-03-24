@@ -1,0 +1,14 @@
+{
+    "uuid": "963a0d8b-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 1 RP (64 kbit/s)",
+    "url": "http://mp3-live.swr.de/swr1rp_s.m3u",
+    "homepage": "https://www.swr.de/swr1/rp/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SWR1.svg/320px-SWR1.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Rhineland-Palatinate",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9625f799-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - FluxForward",
+    "url": "http://streams.fluxfm.de/forward/mp3-320/audio/play.m3u",
+    "homepage": "http://www.fluxfm.de/radio-livestream/",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2016/04/FluxForward-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "new music",
+    "state": "Berlin",
+    "bitrate": 320
+}

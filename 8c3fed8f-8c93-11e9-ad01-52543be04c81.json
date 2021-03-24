@@ -1,0 +1,14 @@
+{
+    "uuid": "8c3fed8f-8c93-11e9-ad01-52543be04c81",
+    "name": "Radyo İhya",
+    "url": "http://radyo.radyoihya.com:2727/;*.mp3",
+    "homepage": "http://www.radyoihya.com/",
+    "favicon": "http://www.radyoihya.com/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "islamic",
+    "state": "Istanbul",
+    "bitrate": 48
+}

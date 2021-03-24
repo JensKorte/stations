@@ -1,0 +1,14 @@
+{
+    "uuid": "dd9c07c9-a571-4406-9ce5-bf83ec1fd350",
+    "name": "KEST 1450 AM",
+    "url": "http://38.96.148.253:6670/;stream.mp3",
+    "homepage": "https://kestradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/18415.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk",
+    "state": "San Francisco CA",
+    "bitrate": 128
+}

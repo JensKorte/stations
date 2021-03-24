@@ -1,0 +1,14 @@
+{
+    "uuid": "c04d06b7-420c-11e9-aa55-52543be04c81",
+    "name": "Planet Radio",
+    "url": "http://mp3.planetradio.de/planetradio/hqlivestream.mp3",
+    "homepage": "https://www.planetradio.de/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/de/thumb/1/1c/Planet_radio_-_Logo_-_ab_2014.svg/1024px-Planet_radio_-_Logo_-_ab_2014.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

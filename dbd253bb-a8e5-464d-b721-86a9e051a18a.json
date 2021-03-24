@@ -1,0 +1,14 @@
+{
+    "uuid": "dbd253bb-a8e5-464d-b721-86a9e051a18a",
+    "name": "The Dump AAC",
+    "url": "http://icecast.thedumpradio.com/listen_aac.m3u",
+    "homepage": "https://www.thedumpradio.com",
+    "favicon": "https://www.thedumpradio.com/wp-content/uploads/2019/06/dumpww-1024x682.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

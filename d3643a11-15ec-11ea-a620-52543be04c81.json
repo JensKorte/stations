@@ -1,0 +1,14 @@
+{
+    "uuid": "d3643a11-15ec-11ea-a620-52543be04c81",
+    "name": "AZPM 89.1 AZ Public radio Tucson (48 kbps)",
+    "url": "http://streaming.azpm.org/kuaz48.mp3.m3u",
+    "homepage": "https://radio.azpm.org/kuaz.help/",
+    "favicon": "https://media.azpm.org/master/image/2016/6/9/element/facebook-npr89-1.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "tucson,low bandwidth,public radio",
+    "state": "",
+    "bitrate": 0
+}

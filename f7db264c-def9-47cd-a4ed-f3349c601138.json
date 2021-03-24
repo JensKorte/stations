@@ -1,0 +1,14 @@
+{
+    "uuid": "f7db264c-def9-47cd-a4ed-f3349c601138",
+    "name": "Replay.FM",
+    "url": "http://listen.housetime.fm/tunein-mp3",
+    "homepage": "https://www.replay.fm/",
+    "favicon": "https://www.replay.fm/media/icons/rp/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch,deutsch german,german",
+    "tags": "replay,oldies,house",
+    "state": "",
+    "bitrate": 0
+}

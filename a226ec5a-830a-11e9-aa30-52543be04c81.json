@@ -1,0 +1,14 @@
+{
+    "uuid": "a226ec5a-830a-11e9-aa30-52543be04c81",
+    "name": "Radio nacional AM 870",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1",
+    "homepage": "http://www.radionacional.com.ar",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nacional_AM_870_2016.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español",
+    "tags": "argentina,am,noticias,cultura",
+    "state": "Buenos Aires",
+    "bitrate": 0
+}

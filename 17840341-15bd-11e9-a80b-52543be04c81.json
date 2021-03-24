@@ -1,0 +1,14 @@
+{
+    "uuid": "17840341-15bd-11e9-a80b-52543be04c81",
+    "name": "Ålands Radio [Ogg]",
+    "url": "http://194.110.182.131:8000/stream.ogg",
+    "homepage": "https://alandsradio.ax/",
+    "favicon": "https://alandsradio.ax/sites/default/files/favicon_artv.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "swedish",
+    "tags": "public radio",
+    "state": "Åland",
+    "bitrate": 128
+}

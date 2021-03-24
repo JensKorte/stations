@@ -1,0 +1,14 @@
+{
+    "uuid": "59ea3ad0-bcd5-455e-9ccf-e205a67bb2bb",
+    "name": "Radio-M",
+    "url": "http://radiomvelaluka.ddns.net:8000/stream",
+    "homepage": "http://www.radio-m.hr/index.php",
+    "favicon": "http://www.radio-m.hr/templates/j51_scarlett/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "information,folk,pop,local news",
+    "state": "",
+    "bitrate": 128
+}

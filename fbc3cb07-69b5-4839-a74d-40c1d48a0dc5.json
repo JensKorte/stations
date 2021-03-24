@@ -1,0 +1,14 @@
+{
+    "uuid": "fbc3cb07-69b5-4839-a74d-40c1d48a0dc5",
+    "name": "KSJS",
+    "url": "http://streaming.ksjs.sjsu.edu:8000/live",
+    "homepage": "https://ksjs.org/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "college radio",
+    "state": "California",
+    "bitrate": 256
+}

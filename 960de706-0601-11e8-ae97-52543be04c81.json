@@ -1,0 +1,14 @@
+{
+    "uuid": "960de706-0601-11e8-ae97-52543be04c81",
+    "name": "Шансон Радио",
+    "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
+    "homepage": "http://radioshanson.fm/",
+    "favicon": "https://www.radiobells.com/stations/chanson.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "chanson",
+    "state": "",
+    "bitrate": 0
+}

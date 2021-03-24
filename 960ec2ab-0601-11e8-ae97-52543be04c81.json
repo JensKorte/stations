@@ -1,0 +1,14 @@
+{
+    "uuid": "960ec2ab-0601-11e8-ae97-52543be04c81",
+    "name": "AM 750",
+    "url": "http://192.99.38.174:9342/stream",
+    "homepage": "http://750.am/",
+    "favicon": "http://750.am/assets/img/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "music,noticias",
+    "state": "Buenos Aires",
+    "bitrate": 32
+}

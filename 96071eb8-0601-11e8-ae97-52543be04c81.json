@@ -1,0 +1,14 @@
+{
+    "uuid": "96071eb8-0601-11e8-ae97-52543be04c81",
+    "name": "Energy Rock",
+    "url": "http://broadcast.infomaniak.ch/energyrock-high.mp3.m3u",
+    "homepage": "http://www.energyzueri.ch/",
+    "favicon": "https://cdn.energy.ch/energy-web/assets/images/logos/energy_logo_md.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "964f9a6a-0601-11e8-ae97-52543be04c81",
+    "name": "KPRN \"Colorado Public Radio\" 89.5 FM Grand Junction, CO",
+    "url": "http://livestream.cprnetwork.org/pls/live_newsinfo_aac.pls",
+    "homepage": "http://www.cpr.org",
+    "favicon": "http://www.cpr.org/sites/default/files/favicon_1.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,public radio",
+    "state": "Colorado",
+    "bitrate": 48
+}

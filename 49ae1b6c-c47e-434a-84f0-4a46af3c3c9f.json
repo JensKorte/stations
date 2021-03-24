@@ -1,0 +1,14 @@
+{
+    "uuid": "49ae1b6c-c47e-434a-84f0-4a46af3c3c9f",
+    "name": "Posto Emissor do Funchal OM",
+    "url": "http://centova.radio.com.pt:9422/stream",
+    "homepage": "http://pef.pt/sitepef/category/canal-1/",
+    "favicon": "https://www.celsoazevedo.com/files/android/p/f/2020/11/pef.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese,português",
+    "tags": "madeira,portuguese,portugal",
+    "state": "Madeira",
+    "bitrate": 128
+}

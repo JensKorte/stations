@@ -1,0 +1,14 @@
+{
+    "uuid": "a815b0fa-735e-4646-90a5-c48f1d6ce1f5",
+    "name": "Radio Guaranda 101.1  FM",
+    "url": "https://streamingecuador.net:9032/radioguaranda",
+    "homepage": "https://radioguaranda.com/",
+    "favicon": "https://dl.dropbox.com/s/5gwwqmhkse1mg2b/Radio%20Guaranda%20101.1%20FM.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "español latino",
+    "tags": "pasillos,pasacalles,sanjuanitos,rockolero,entretenimiento,musica ecuatoriana,chicha",
+    "state": "azuay",
+    "bitrate": 20
+}

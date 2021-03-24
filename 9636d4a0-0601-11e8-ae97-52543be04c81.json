@@ -1,0 +1,14 @@
+{
+    "uuid": "9636d4a0-0601-11e8-ae97-52543be04c81",
+    "name": "91.9 KSOI FM Southern Iowa Community Radio",
+    "url": "http://ca3.radioboss.fm:8042/stream?type=mp3",
+    "homepage": "http://ksoifm.com/",
+    "favicon": "http://ksoifm.com/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classic rock,rock,southern ia,community radio",
+    "state": "Iowa",
+    "bitrate": 96
+}

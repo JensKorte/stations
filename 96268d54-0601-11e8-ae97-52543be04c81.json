@@ -1,0 +1,14 @@
+{
+    "uuid": "96268d54-0601-11e8-ae97-52543be04c81",
+    "name": "RadioEgio",
+    "url": "http://eu7.fastcast4u.com:6130/listen.pls",
+    "homepage": "http://www.radioegio.gr/id/",
+    "favicon": "http://www.radioegio.gr/id/templates/themza_j15_14/images/logo1.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "greek,news",
+    "state": "Achaia",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96446e2f-0601-11e8-ae97-52543be04c81",
+    "name": "Laut.FM GhostDog Radio",
+    "url": "http://stream.laut.fm/ghostdog",
+    "homepage": "http://laut.fm/ghostdog",
+    "favicon": "http://assets.laut.fm/68e540a25ddc209544a94214d26ce4f9?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock,blues,metal",
+    "state": "",
+    "bitrate": 128
+}

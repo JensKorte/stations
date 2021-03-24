@@ -1,0 +1,14 @@
+{
+    "uuid": "9624f04a-0601-11e8-ae97-52543be04c81",
+    "name": "West City Radio",
+    "url": "http://live.westcityradio.ro:8000/mp3",
+    "homepage": "http://www.westcityradio.ro/",
+    "favicon": "http://www.westcityradio.ro/wp-content/uploads/2016/02/cropped-wcr-logo-audio-player-300x175-270x270.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "oldies,pop",
+    "state": "",
+    "bitrate": 0
+}

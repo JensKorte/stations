@@ -1,0 +1,14 @@
+{
+    "uuid": "963f6bff-0601-11e8-ae97-52543be04c81",
+    "name": "unserRadio Passau",
+    "url": "http://rs4.stream24.net:80/unser-radio.mp3",
+    "homepage": "http://www.unserradio.de/",
+    "favicon": "http://www.unserradio.de/radio/wp-content/uploads/2015/08/Logo_unserRadio_270215.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "local radio,local news",
+    "state": "Bavaria",
+    "bitrate": 128
+}

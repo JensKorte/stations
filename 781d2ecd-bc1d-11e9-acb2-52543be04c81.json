@@ -1,0 +1,14 @@
+{
+    "uuid": "781d2ecd-bc1d-11e9-acb2-52543be04c81",
+    "name": "Radio Z",
+    "url": "http://snd.radio-z.net:8000/Radio-Z",
+    "homepage": "http://www.radio-z.net/de/",
+    "favicon": "https://static.radio.de/images/broadcasts/b0/6b/2480/c175.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "world music,independent,culture,news,alternative",
+    "state": "Bavaria",
+    "bitrate": 0
+}

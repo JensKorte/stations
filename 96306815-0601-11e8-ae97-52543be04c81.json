@@ -1,0 +1,14 @@
+{
+    "uuid": "96306815-0601-11e8-ae97-52543be04c81",
+    "name": "R.SH Live",
+    "url": "http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de/play.m3u",
+    "homepage": "http://www.rsh.de/",
+    "favicon": "http://www.rsh.de/frontend/theme-rsh/design/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "adult contemporary,top 40,pop,rock,hits",
+    "state": "Schleswig-Holstein",
+    "bitrate": 128
+}

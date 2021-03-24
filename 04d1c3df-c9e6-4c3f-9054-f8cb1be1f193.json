@@ -1,0 +1,14 @@
+{
+    "uuid": "04d1c3df-c9e6-4c3f-9054-f8cb1be1f193",
+    "name": "Tornagaleones",
+    "url": "http://tornagaleones.ddns.net:9000/stream",
+    "homepage": "https://www.radiotornagaleones.cl/",
+    "favicon": "https://static.wixstatic.com/media/cfd102_33591d3d86434bf0802f66ac6c9e34ae~mv2.jpg/v1/crop/x_0,y_7,w_678,h_801/fill/w_188,h_222,al_c,q_80,usm_0.66_1.00_0.01/cfd102_33591d3d86434bf0802f66ac6c9e34ae~mv2.webp",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "español",
+    "tags": "news,folcklore,pop",
+    "state": "Valdivia",
+    "bitrate": 320
+}

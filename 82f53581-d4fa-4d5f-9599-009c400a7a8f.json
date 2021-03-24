@@ -1,0 +1,14 @@
+{
+    "uuid": "82f53581-d4fa-4d5f-9599-009c400a7a8f",
+    "name": "Metro HITS Radio",
+    "url": "https://eu1.reliastream.com/proxy/mhr?mp=/MHR",
+    "homepage": "https://metrocast.top/hits",
+    "favicon": "https://genfavicon.com/tmp/icon_594181336d48a7a2d04041db50beb96c.ico",
+    "creation": "2021-03-21 03:29:41",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian,english",
+    "tags": "morning show,talk show,entertainment,news,pop,hits,top 40",
+    "state": "Sofia",
+    "bitrate": 128
+}

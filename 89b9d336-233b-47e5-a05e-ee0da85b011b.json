@@ -1,0 +1,14 @@
+{
+    "uuid": "89b9d336-233b-47e5-a05e-ee0da85b011b",
+    "name": "Imagine Jazz Radio",
+    "url": "http://broad1.imagineradio.ru:8000/jazz256.mp3",
+    "homepage": "http://imagineradio.ru/single-channel/jazz",
+    "favicon": "http://imagineradio.ru/sites/default/files/jazz.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "jazz",
+    "state": "",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "840d3a40-3ec8-11ea-8dd7-52543be04c81",
+    "name": "The Dump",
+    "url": "http://icecast.thedumpradio.com/listen_mp3.m3u",
+    "homepage": "https://www.thedumpradio.com",
+    "favicon": "https://www.thedumpradio.com/wp-content/uploads/2019/06/dumpww-1024x682.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "music variety,pop,alternative,variety",
+    "state": "",
+    "bitrate": 128
+}

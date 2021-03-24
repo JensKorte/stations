@@ -1,0 +1,14 @@
+{
+    "uuid": "a1f63c40-880f-11e9-aa30-52543be04c81",
+    "name": "KBS TV-2",
+    "url": "http://live.kbskme.gscdn.com/www_2tv/_definst_/2tv_5.stream/playlist.m3u8",
+    "homepage": "http://www.kbs.co.kr/",
+    "favicon": "http://nettv.live/uploads/18/1-1P503142413945.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Republic Of Korea",
+    "country_code": "KR",
+    "language": "korean",
+    "tags": "",
+    "state": "Seoul",
+    "bitrate": 250
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "feafa580-b428-4341-8939-606fe443696a",
+    "name": "Radio City - Turku",
+    "url": "http://stream.bauermedia.fi/radiocity/tku_64.aac",
+    "homepage": "https://www.radiocity.fi/",
+    "favicon": "https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "Varsinais-Suomi",
+    "bitrate": 64
+}

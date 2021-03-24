@@ -1,0 +1,14 @@
+{
+    "uuid": "96304062-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Splash",
+    "url": "http://51.254.76.66:8002/stream",
+    "homepage": "http://www.radiosplash.it/",
+    "favicon": "http://www.radiosplash.it/wp-content/uploads/2017/02/cropped-favicon-270x270.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "milazzo,pop,dance,news",
+    "state": "Sicilia",
+    "bitrate": 128
+}

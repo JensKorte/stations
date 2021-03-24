@@ -1,0 +1,14 @@
+{
+    "uuid": "22c26ce8-6eb6-11e9-af37-52543be04c81",
+    "name": "Freies Radio Neumünster",
+    "url": "http://streaming.fueralle.org:8000/frn",
+    "homepage": "http://www.freiesradio-nms.de",
+    "favicon": "http://freiesradio-nms.de/wp-content/uploads/2019/05/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "alternative,freies radio,community radio,free radio",
+    "state": "Schleswig-Holstein",
+    "bitrate": 128
+}

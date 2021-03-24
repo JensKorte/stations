@@ -1,0 +1,14 @@
+{
+    "uuid": "c3a85c70-d2c6-11e8-a54a-52543be04c81",
+    "name": "RPR1. Hard Rock",
+    "url": "http://streams.rpr1.de/rpr-hardrock-128-mp3?usid=0-0-H-M-D-50",
+    "homepage": "https://www.rpr1.de/",
+    "favicon": "https://cdn.rpr1.de/sites/default/files/thumbnails/image/Hard-Rock_agg_1600x1600.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "hard rock",
+    "state": "Rhineland-Palatinate",
+    "bitrate": 128
+}

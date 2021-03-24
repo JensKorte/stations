@@ -1,0 +1,14 @@
+{
+    "uuid": "9638348d-0601-11e8-ae97-52543be04c81",
+    "name": "Chaos Radio",
+    "url": "http://5.135.177.61:8000/;stream/1",
+    "homepage": "http://chaos-radio.fr",
+    "favicon": "http://chaos-radio.fr/img/Image-Texte-Chaos-512x200px-blood.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "english,french",
+    "tags": "music",
+    "state": "",
+    "bitrate": 320
+}

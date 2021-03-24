@@ -1,0 +1,14 @@
+{
+    "uuid": "962ae81e-0601-11e8-ae97-52543be04c81",
+    "name": "Russkoye Radio Asia 104.7 FM",
+    "url": "http://31.148.22.35:9000/stream",
+    "homepage": "http://rusradio.kz/",
+    "favicon": "https://pbs.twimg.com/profile_images/378800000566427613/40d2e4fe7fcba9e0396291922fb01ae1.jpeg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "language": "russian,kazakh",
+    "tags": "national,popular,russian programming,entertainment,news,sports news,showbiz,charts,russian pop,top 40,pop",
+    "state": "Almaty",
+    "bitrate": 128
+}

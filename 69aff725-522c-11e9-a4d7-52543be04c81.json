@@ -1,0 +1,14 @@
+{
+    "uuid": "69aff725-522c-11e9-a4d7-52543be04c81",
+    "name": "Radio Bianconera",
+    "url": "https://stream.tmwradio.com/bianconera.aac",
+    "homepage": "http://www.radiobianconera.com/",
+    "favicon": "http://players.fluidstream.it/RadioBiancoNera/icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "torino,talk,sport",
+    "state": "Piemonte",
+    "bitrate": 64
+}

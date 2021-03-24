@@ -1,0 +1,14 @@
+{
+    "uuid": "b8c50a5f-6f6c-4563-8683-f62f9ce7b75a",
+    "name": "Radio SRF Virus",
+    "url": "http://stream.srg-ssr.ch/drsvirus/aacp_96.ram",
+    "homepage": "https://www.srf.ch/play/radio/livepopup/radio-srf-virus",
+    "favicon": "https://www.srf.ch/play/v3/svgs/radio/radio-srf-virus-small.svg",
+    "creation": "2021-02-20 22:45:14",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "deutsch,german,swiss german",
+    "tags": "srg ssr,high quality audio",
+    "state": "",
+    "bitrate": 0
+}

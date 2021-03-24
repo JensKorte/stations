@@ -1,0 +1,14 @@
+{
+    "uuid": "96229f29-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Scilly",
+    "url": "http://radio.canstream.co.uk:8040/live.mp3",
+    "homepage": "http://www.radioscilly.com/",
+    "favicon": "http://www.radioscilly.com/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "cornwall,music,local news,local,non-profit,community,community radio",
+    "state": "",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "2d15f644-a64b-11e9-a787-52543be04c81",
+    "name": "Magic FM",
+    "url": "http://live.magicfm.ro:9128/magicfm.aacp",
+    "homepage": "https://www.magicfm.ro/",
+    "favicon": "https://www.magicfm.ro/app/assets/magicfm/logo-magicfm-black-red.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "",
+    "state": "ROMANIA",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9bd2034f-463a-11e9-aa55-52543be04c81",
+    "name": "egoFLASH",
+    "url": "https://egofm-flash.cast.addradio.de/egofm/flash/mp3/high/stream.mp3?ar-distributor=f0a2",
+    "homepage": "https://www.egofm.de/streams/egoflash",
+    "favicon": "https://www.egofm.de/content/images/stream/egofmflash/egofm-flash-og.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "indie,electronic",
+    "state": "Bavaria",
+    "bitrate": 128
+}

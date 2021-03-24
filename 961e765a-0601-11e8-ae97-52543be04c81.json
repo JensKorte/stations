@@ -1,0 +1,14 @@
+{
+    "uuid": "961e765a-0601-11e8-ae97-52543be04c81",
+    "name": "Sky Radio 90's Hits",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3",
+    "homepage": "http://www.skyradio.nl",
+    "favicon": "http://www.skyradio.nl/img/player/logo_sky-radio-90s.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "90s",
+    "state": "",
+    "bitrate": 128
+}

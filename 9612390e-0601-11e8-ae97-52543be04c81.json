@@ -1,0 +1,14 @@
+{
+    "uuid": "9612390e-0601-11e8-ae97-52543be04c81",
+    "name": "NDR 1 Welle Nord",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_ki.m3u",
+    "homepage": "http://www.ndr.de/wellenord/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/ndr_ndr1wn.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,oldies",
+    "state": "Schleswig-Holstein",
+    "bitrate": 0
+}

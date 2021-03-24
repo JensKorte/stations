@@ -1,0 +1,14 @@
+{
+    "uuid": "9629b63f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Gamma",
+    "url": "http://onair18.xdevel.com:8210/;stream.aac",
+    "homepage": "https://www.radiogamma.it/",
+    "favicon": "https://www.radiogamma.it/sites/default/files/favico.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "savignano sul rubicone,pop",
+    "state": "Emilia-Romagna",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e12103cf-463b-11e9-aa55-52543be04c81",
+    "name": "egoFM",
+    "url": "https://egofm-live.cast.addradio.de/egofm/live/mp3/high/stream.mp3?ar-distributor=f0a2",
+    "homepage": "https://www.egofm.de/streams/egofm",
+    "favicon": "https://www.egofm.de/content/images/stream/egofm/egofm-live-og.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "electronic,rap,hiphop,indie,alternative",
+    "state": "Bavaria",
+    "bitrate": 128
+}

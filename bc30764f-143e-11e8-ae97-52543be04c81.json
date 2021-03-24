@@ -1,0 +1,14 @@
+{
+    "uuid": "bc30764f-143e-11e8-ae97-52543be04c81",
+    "name": "Radio DAK",
+    "url": "http://85.25.73.243:10150/listen.pls",
+    "homepage": "http://www.radiodak.rs",
+    "favicon": "http://www.radiodak.rs/assets/img/elements/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 192
+}

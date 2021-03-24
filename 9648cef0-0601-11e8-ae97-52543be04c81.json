@@ -1,0 +1,14 @@
+{
+    "uuid": "9648cef0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Espinosa Merindades",
+    "url": "http://srv3021.lcinternet.com:8004/stream",
+    "homepage": "http://www.radioespinosamerindades.es",
+    "favicon": "http://www.radioespinosamerindades.es/wp-content/uploads/2017/01/cropped-Favicon-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "music,talk,entertainment,news,sport",
+    "state": "",
+    "bitrate": 128
+}

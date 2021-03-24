@@ -1,0 +1,14 @@
+{
+    "uuid": "9628eda6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Capital W l'Italia",
+    "url": "http://capital-webradio-04-hds.akamai.media.kataweb.it/i/WebRadio4_1@17010/master.m3u8",
+    "homepage": "https://www.capital.it/webradio/04/",
+    "favicon": "https://www.capital.it/wp-content/themes/network-capital/img/logo_capital.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "m3u8,l'espresso,italian",
+    "state": "Lazio",
+    "bitrate": 46
+}

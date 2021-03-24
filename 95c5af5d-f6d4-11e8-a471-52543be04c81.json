@@ -1,0 +1,14 @@
+{
+    "uuid": "95c5af5d-f6d4-11e8-a471-52543be04c81",
+    "name": "Catalunya Radio",
+    "url": "http://www.catradio.cat/directes/catradio_http.m3u",
+    "homepage": "http://www.catradio.cat/",
+    "favicon": "https://statics.ccma.cat/multimedia/jpg/5/2/1483008404025.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "",
+    "state": "Catalonia",
+    "bitrate": 128
+}

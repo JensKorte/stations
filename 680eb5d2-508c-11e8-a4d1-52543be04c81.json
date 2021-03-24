@@ -1,0 +1,14 @@
+{
+    "uuid": "680eb5d2-508c-11e8-a4d1-52543be04c81",
+    "name": "One FM",
+    "url": "http://broadcast.infomaniak.ch/onefm-low.mp3.m3u",
+    "homepage": "http://www.onefm.ch/",
+    "favicon": "http://www.onefm.ch/wp-content/uploads/2017/08/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "",
+    "tags": "",
+    "state": "Suisse Romande",
+    "bitrate": 48
+}

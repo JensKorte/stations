@@ -1,0 +1,14 @@
+{
+    "uuid": "9625fc2f-0601-11e8-ae97-52543be04c81",
+    "name": "WSDL 90.7 Delmarva Public Radio \"Rhythm \u0026 News\" - Ocean City, MD",
+    "url": "http://provisioning.streamtheworld.com/pls/WSDLFM.pls",
+    "homepage": "http://delmarvapublicradio.net/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wsdl/files/201503/logo_fid.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "ocean city,variety,news,npr,public radio",
+    "state": "Maryland",
+    "bitrate": 64
+}

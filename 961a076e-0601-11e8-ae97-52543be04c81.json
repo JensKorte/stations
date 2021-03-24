@@ -1,0 +1,14 @@
+{
+    "uuid": "961a076e-0601-11e8-ae97-52543be04c81",
+    "name": "Veda Radio",
+    "url": "http://listen.vedaradio.fm:8000/veryhigh.m3u",
+    "homepage": "http://vedaradio.fm",
+    "favicon": "http://vedaradio.fm/wp-content/uploads/2013/06/vrlogo1.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "interview,vedic",
+    "state": "",
+    "bitrate": 192
+}

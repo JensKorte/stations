@@ -1,0 +1,14 @@
+{
+    "uuid": "229170ac-5086-11e8-a4d1-52543be04c81",
+    "name": "Radio SRF 2 Kultur",
+    "url": "http://stream.srg-ssr.ch/drs2/aacp_32.m3u",
+    "homepage": "https://www.srf.ch/radio-srf-2-kultur",
+    "favicon": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "",
+    "tags": "kultur",
+    "state": "Basel",
+    "bitrate": 0
+}

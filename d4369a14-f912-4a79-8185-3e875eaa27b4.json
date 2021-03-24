@@ -1,0 +1,14 @@
+{
+    "uuid": "d4369a14-f912-4a79-8185-3e875eaa27b4",
+    "name": "Radio TEV",
+    "url": "http://stream.radiotev.lv:8002/radiov",
+    "homepage": "https://www.radiotev.lv",
+    "favicon": "",
+    "creation": "2021-02-20 20:55:30",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "",
+    "state": "Riga",
+    "bitrate": 128
+}

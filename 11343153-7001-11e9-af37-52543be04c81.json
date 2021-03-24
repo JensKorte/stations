@@ -1,0 +1,14 @@
+{
+    "uuid": "11343153-7001-11e9-af37-52543be04c81",
+    "name": "autobazaradio",
+    "url": "http://s3.myradiostream.com:7022/listen.m4a",
+    "homepage": "http://www.autobazaradio.ro",
+    "favicon": "http://www.autobazaradio.ro/png%20blank3.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "alternative,rock,indie",
+    "state": "București",
+    "bitrate": 128
+}

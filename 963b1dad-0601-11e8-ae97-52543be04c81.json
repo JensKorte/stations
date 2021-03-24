@@ -1,0 +1,14 @@
+{
+    "uuid": "963b1dad-0601-11e8-ae97-52543be04c81",
+    "name": "Københavns Nærradio 90.4",
+    "url": "http://netradio.knr.dk:8000/stream.mp3",
+    "homepage": "http://www.knr.dk/",
+    "favicon": "http://www.iconj.com/ico/k/3/k3eb4tsnzk.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "local radio",
+    "state": "Sjælland",
+    "bitrate": 128
+}

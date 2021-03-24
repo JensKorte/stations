@@ -1,0 +1,14 @@
+{
+    "uuid": "832e9054-46bd-11ea-a860-52543be04c81",
+    "name": "Radio Alma",
+    "url": "http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3",
+    "homepage": "http://www.radioalma.be",
+    "favicon": "http://www.radioalma.be//static/images/ico/favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "portuguese,greek,italian,spanish,french",
+    "tags": "international,social,social activist programming,community radio",
+    "state": "Brussels",
+    "bitrate": 128
+}

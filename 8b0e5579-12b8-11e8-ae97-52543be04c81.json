@@ -1,0 +1,14 @@
+{
+    "uuid": "8b0e5579-12b8-11e8-ae97-52543be04c81",
+    "name": "Klassikradio - Movie Channel",
+    "url": "http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/",
+    "homepage": "http://www.klassikradio.de/",
+    "favicon": "http://www.klassikradio.de///templates/main/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "movie",
+    "state": "",
+    "bitrate": 0
+}

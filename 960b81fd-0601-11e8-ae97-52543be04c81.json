@@ -1,0 +1,14 @@
+{
+    "uuid": "960b81fd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Novi Sad 2 - Újvidéki Rádió",
+    "url": "http://79.101.121.123:1935/rns2/drugiprogram/livestream/playlist.m3u8",
+    "homepage": "http://www.rtv.rs/",
+    "favicon": "http://static.rtv.rs/slike/2011/11/28/rtv-logotip-281x281_281x281.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "hungarian",
+    "tags": "rtv,public radio",
+    "state": "Vojvodina",
+    "bitrate": 191
+}

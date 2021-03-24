@@ -1,0 +1,14 @@
+{
+    "uuid": "9628b624-0601-11e8-ae97-52543be04c81",
+    "name": "Nuova Rete",
+    "url": "http://nr5.newradio.it:8623/;streaming.aac",
+    "homepage": "http://www.nuovarete.net/",
+    "favicon": "http://www.nuovarete.net/wp-content/uploads/2014/09/nuova-rete-logo-2014.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "sora,music,news,sport",
+    "state": "Lazio",
+    "bitrate": 64
+}

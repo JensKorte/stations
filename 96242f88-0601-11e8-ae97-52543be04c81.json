@@ -1,0 +1,14 @@
+{
+    "uuid": "96242f88-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Dwójka (AAC)",
+    "url": "http://mp3.polskieradio.pl:8952",
+    "homepage": "http://www.polskieradio.pl/8,Dwojka",
+    "favicon": "https://i.imgur.com/rDyQUD5.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polskieradio",
+    "state": "",
+    "bitrate": 128
+}

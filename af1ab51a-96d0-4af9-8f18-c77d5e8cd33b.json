@@ -1,0 +1,14 @@
+{
+    "uuid": "af1ab51a-96d0-4af9-8f18-c77d5e8cd33b",
+    "name": "Capitol FM",
+    "url": "http://144.217.203.226:8316/live",
+    "homepage": "https://capitalradio.co.ug/",
+    "favicon": "https://capitalradio.co.ug/wp-content/themes/kiss-fm/images/capital_logo.png",
+    "creation": "2021-03-15 11:34:59",
+    "country": "Uganda",
+    "country_code": "UG",
+    "language": "english",
+    "tags": "uganda,news,entertainment,music",
+    "state": "",
+    "bitrate": 64
+}

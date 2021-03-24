@@ -1,0 +1,14 @@
+{
+    "uuid": "c014b5ed-42b1-11e8-b74d-52543be04c81",
+    "name": "Beijing Public Service Radio",
+    "url": "http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8",
+    "homepage": "http://www.rbc.cn/",
+    "favicon": "http://www.rbc.cn/_CMS_NEWS_IMG_/1/201709/08/10841b27-fbc4-44ba-a3b1-94438be7da68.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "beijing",
+    "state": "Beijing",
+    "bitrate": 0
+}

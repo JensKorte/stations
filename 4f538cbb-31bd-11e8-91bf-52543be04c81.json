@@ -1,0 +1,14 @@
+{
+    "uuid": "4f538cbb-31bd-11e8-91bf-52543be04c81",
+    "name": "Radia Network Relay",
+    "url": "http://radia.out.airtime.pro:8000/radia_a.m3u",
+    "homepage": "http://radia.fm",
+    "favicon": "http://reboot.fm/files/radia_logo1501113431311221111.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "multilingual",
+    "tags": "radia,arts",
+    "state": "",
+    "bitrate": 192
+}

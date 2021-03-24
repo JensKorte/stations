@@ -1,0 +1,14 @@
+{
+    "uuid": "33e804dc-570f-11e8-b0ce-52543be04c81",
+    "name": "Yenan TV-2 Public",
+    "url": "http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8",
+    "homepage": "http://www.yananbtv.com/",
+    "favicon": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=aad7025359afa40f28cbc68fca0d682a/37d3d539b6003af3e3a06901362ac65c1038b6bd.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,shensi",
+    "state": "Shensi",
+    "bitrate": 0
+}

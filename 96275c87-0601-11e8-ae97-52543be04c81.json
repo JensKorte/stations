@@ -1,0 +1,14 @@
+{
+    "uuid": "96275c87-0601-11e8-ae97-52543be04c81",
+    "name": "Modena Radio City",
+    "url": "http://onair18.xdevel.com:8230/;stream.aac",
+    "homepage": "http://www.modenaradiocity.it/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s95295q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "modena,pop",
+    "state": "Emilia-Romagna",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f57991c8-0b6b-11ea-a87e-52543be04c81",
+    "name": "LRT 1",
+    "url": "http://lrt-cast.lrt.lt:8000/lrt_radijas.m3u",
+    "homepage": "https://www.lrt.lt/",
+    "favicon": "https://www.lrt.lt//images/favicons/mstile-144x144.png?v=200",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

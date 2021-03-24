@@ -1,0 +1,14 @@
+{
+    "uuid": "c5e2914b-17a8-11ea-a620-52543be04c81",
+    "name": "Virgin Radio Officiel",
+    "url": "https://ais-live.cloud-services.paris:8443/virgin.aac",
+    "homepage": "https://www.virginradio.fr/webradios/",
+    "favicon": "https://media.virginradio.fr/3318791/media.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "",
+    "bitrate": 133
+}

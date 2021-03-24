@@ -1,0 +1,14 @@
+{
+    "uuid": "961c6a2a-0601-11e8-ae97-52543be04c81",
+    "name": "KNON 89.3 Dallas, TX",
+    "url": "http://sc03.warpradio.com:8532/;stream.mp3",
+    "homepage": "http://www.knon.org/",
+    "favicon": "http://www.knon.org/wp-content/uploads/2016/09/KNONlogoWhite.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "dallas,community radio",
+    "state": "Texas",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "cb6382b4-47e5-48ad-8300-942f6ad85e08",
+    "name": "Литературное радио",
+    "url": "http://79.137.234.183:8000/;stream.mp3",
+    "homepage": "http://litradio.ru",
+    "favicon": "http://litradio.ru/img/logo_big_new2.gif",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский",
+    "tags": "",
+    "state": "Москва",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9650457a-0601-11e8-ae97-52543be04c81",
+    "name": "Sky Radio 101 FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
+    "homepage": "http://www.skyradio.nl/",
+    "favicon": "http://www.skyradio.nl/img/player/logo_sky-radio-00s.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "soft pop",
+    "state": "",
+    "bitrate": 128
+}

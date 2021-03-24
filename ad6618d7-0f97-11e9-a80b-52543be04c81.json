@@ -1,0 +1,14 @@
+{
+    "uuid": "ad6618d7-0f97-11e9-a80b-52543be04c81",
+    "name": "KBFG 107.3 Seattle",
+    "url": "http://192.81.134.38:8001/kbfg-1",
+    "homepage": "http://fulcrumcc.org/listen/",
+    "favicon": "http://fulcrumcc.org/listen/",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "local,lpfm,community",
+    "state": "Washington",
+    "bitrate": 128
+}

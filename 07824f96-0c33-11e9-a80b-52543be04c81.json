@@ -1,0 +1,14 @@
+{
+    "uuid": "07824f96-0c33-11e9-a80b-52543be04c81",
+    "name": "TechLiveRadio",
+    "url": "https://stream.laut.fm/techliveradio",
+    "homepage": "https://techliveradio.de",
+    "favicon": "https://techliveradio.de/wp-content/uploads/2018/11/cropped-TechLiveRadio-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "technik,technology,tech,technews,pop,news,charts",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

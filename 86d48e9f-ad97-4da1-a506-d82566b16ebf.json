@@ -1,0 +1,14 @@
+{
+    "uuid": "86d48e9f-ad97-4da1-a506-d82566b16ebf",
+    "name": "One Radio",
+    "url": "http://s10.voscast.com:8202/stream",
+    "homepage": "http://one.com.mt/oneradio",
+    "favicon": "http://www.one.com.mt/assets/img/design/logos/menu_oneradio_grey.png",
+    "creation": "2021-03-19 12:24:44",
+    "country": "Malta",
+    "country_code": "MT",
+    "language": "malti",
+    "tags": "",
+    "state": "",
+    "bitrate": 256
+}

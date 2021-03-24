@@ -1,0 +1,14 @@
+{
+    "uuid": "96219fe5-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Regenbogen Classic Rock (128-mp3)",
+    "url": "http://scast.regenbogen.de/rr-classicrock-128-mp3",
+    "homepage": "http://www.regenbogen.de/webradio/classic-rock",
+    "favicon": "http://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/classicrock.png?itok=3Vxt0M-s",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classic rock",
+    "state": "",
+    "bitrate": 128
+}

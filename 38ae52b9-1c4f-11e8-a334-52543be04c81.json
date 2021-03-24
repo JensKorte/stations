@@ -1,0 +1,14 @@
+{
+    "uuid": "38ae52b9-1c4f-11e8-a334-52543be04c81",
+    "name": "Real FM 107.1",
+    "url": "http://realfmthess.live24.gr/realthess",
+    "homepage": "http://www.real.gr/?page=radiothes",
+    "favicon": "http://resources.live24.gr/resources/images/stations/1e003776-8316-4860-be64-bab7caf188a1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "local news,news talk,talk,news",
+    "state": "Thessaloniki",
+    "bitrate": 128
+}

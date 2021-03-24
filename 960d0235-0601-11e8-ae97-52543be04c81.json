@@ -1,0 +1,14 @@
+{
+    "uuid": "960d0235-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Top 40",
+    "url": "http://www.antenne.de/webradio/channels/top-40.m3u",
+    "homepage": "http://www.antenne.de",
+    "favicon": "http://cdn.antenne.de/thumbs/antenne-de/opengraph/default.052536bc.jpeg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a097a164-e995-4925-83ec-823392dbfd98",
+    "name": "RADIO1",
+    "url": "http://www.play.cz/radio/radio1-192.mp3.m3u",
+    "homepage": "https://www.radio1.cz/",
+    "favicon": "https://www.radio1.cz/media/images/design/radio1-logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "alternative",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "68b43b76-6e73-11e8-b15b-52543be04c81",
+    "name": "FoxBoxRadio",
+    "url": "http://streamplus19.leonex.de:11036/;audio.mp3",
+    "homepage": "https://foxboxradio.de/",
+    "favicon": "https://foxboxradio.de/index.php/de///templates/protostar/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager,discofox",
+    "state": "",
+    "bitrate": 128
+}

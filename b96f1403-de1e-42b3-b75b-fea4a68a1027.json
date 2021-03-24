@@ -1,0 +1,14 @@
+{
+    "uuid": "b96f1403-de1e-42b3-b75b-fea4a68a1027",
+    "name": "Radio Universidad Austral",
+    "url": "http://centova.uach.cl:8000/stream",
+    "homepage": "https://www.radiouach.cl/",
+    "favicon": "https://www.radiouach.cl/wp-content/themes/radiouach/images/favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "español",
+    "tags": "clasica",
+    "state": "Valdivia",
+    "bitrate": 192
+}

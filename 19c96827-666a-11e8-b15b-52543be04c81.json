@@ -1,0 +1,14 @@
+{
+    "uuid": "19c96827-666a-11e8-b15b-52543be04c81",
+    "name": "Hong Kong Fantastic TV",
+    "url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
+    "homepage": "http://www.fantv.hk/",
+    "favicon": "http://www.fantv.hk///favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "cantonese",
+    "tags": "hls video,hong kong",
+    "state": "Hong Kong",
+    "bitrate": 0
+}

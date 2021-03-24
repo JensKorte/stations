@@ -1,0 +1,14 @@
+{
+    "uuid": "25ee1b94-58fd-11e9-a622-52543be04c81",
+    "name": "Radio Maria Austria (192 kbps)",
+    "url": "http://live.radiomaria.at:8000/rma",
+    "homepage": "http://www.radiomaria.at/",
+    "favicon": "http://www.radiomaria.at//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "religion,christian,catholic",
+    "state": "",
+    "bitrate": 160
+}

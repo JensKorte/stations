@@ -1,0 +1,14 @@
+{
+    "uuid": "96078cf5-0601-11e8-ae97-52543be04c81",
+    "name": "MDR Sputnik Black",
+    "url": "http://avw.mdr.de/streams/284331-0_mp3_high.m3u",
+    "homepage": "http://sputnik.de/sendungen/musikspecials/sputnik-blackbeatz--100.html",
+    "favicon": "http://www.mdr.de/administratives/av/logo-mdr-sputnik102-resimage_v-variantSmall1x1_w-512.png?version=17592",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "talk,live",
+    "state": "",
+    "bitrate": 0
+}

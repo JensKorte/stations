@@ -1,0 +1,14 @@
+{
+    "uuid": "9620239f-0601-11e8-ae97-52543be04c81",
+    "name": "Hit Radio FFH - Party",
+    "url": "http://streams.ffh.de/ffhchannels/mp3/hqparty.m3u",
+    "homepage": "http://webradio.ffh.de/party",
+    "favicon": "https://webradio.ffh.de/custom/images/stationlist/party.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "party",
+    "state": "",
+    "bitrate": 128
+}

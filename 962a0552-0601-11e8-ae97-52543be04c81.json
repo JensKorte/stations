@@ -1,0 +1,14 @@
+{
+    "uuid": "962a0552-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Firenze",
+    "url": "http://onair11.xdevel.com:8250/listen.pls",
+    "homepage": "http://www.radiofirenze.it/",
+    "favicon": "https://i1.sndcdn.com/artworks-000180707935-9cenx6-t500x500.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40,pop,talk,news",
+    "state": "Toscana",
+    "bitrate": 128
+}

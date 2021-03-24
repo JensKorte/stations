@@ -1,0 +1,14 @@
+{
+    "uuid": "960e9383-0601-11e8-ae97-52543be04c81",
+    "name": "RTÉ 2fm",
+    "url": "http://icecast2.rte.ie/ie2fm",
+    "homepage": "https://2fm.rte.ie/",
+    "favicon": "http://www.liveradio.ie/files/images/114812/resized/140x134c/rte_2fm.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "contemporary,hits",
+    "state": "",
+    "bitrate": 0
+}

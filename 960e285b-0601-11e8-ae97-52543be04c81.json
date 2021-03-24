@@ -1,0 +1,14 @@
+{
+    "uuid": "960e285b-0601-11e8-ae97-52543be04c81",
+    "name": "Radyo Trafik 104.2 Ankara",
+    "url": "http://live2.radyotvonline.com:8000/",
+    "homepage": "http://radyotrafik.com/",
+    "favicon": "http://www.otomobil.com.tr/wp-content/uploads/2012/04/RADYO_TRAFIK_1.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "trafik,traffic,ankara",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96253e7e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Cusano Campus",
+    "url": "http://5.39.95.59:8908/stream",
+    "homepage": "http://www.radiocusanocampus.it/",
+    "favicon": "http://www.tag24.it/wp-content/uploads/2016/11/cropped-radiocusanocampus-logo-new-300x300.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "news,roma,university radio",
+    "state": "Lazio",
+    "bitrate": 64
+}

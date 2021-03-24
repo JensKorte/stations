@@ -1,0 +1,14 @@
+{
+    "uuid": "b05a7451-0239-4797-a24b-eb268a6839f9",
+    "name": "Technikum Gold",
+    "url": "https://stream.radiotechnikum.at/TECHGOLD",
+    "homepage": "https://radiotechnikum.at/",
+    "favicon": "https://radiotechnikum.at/img/rtg_logo_klein.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "oldies,goldies",
+    "state": "Vienna",
+    "bitrate": 128
+}

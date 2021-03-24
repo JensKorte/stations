@@ -1,0 +1,14 @@
+{
+    "uuid": "962cf13d-0601-11e8-ae97-52543be04c81",
+    "name": "Latgales Radio",
+    "url": "http://www.radiolg.lv:8000/128_aac.m3u",
+    "homepage": "http://www.radiolg.lv/",
+    "favicon": "https://pbs.twimg.com/profile_images/378800000854557338/ddc9271c1b24507d96e84381361df7c3_400x400.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "latvian",
+    "tags": "local",
+    "state": "",
+    "bitrate": 0
+}

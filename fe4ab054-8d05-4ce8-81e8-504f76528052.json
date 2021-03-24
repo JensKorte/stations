@@ -1,0 +1,14 @@
+{
+    "uuid": "fe4ab054-8d05-4ce8-81e8-504f76528052",
+    "name": "IUTV",
+    "url": "https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8",
+    "homepage": "https://imagenuniversaltv.com/",
+    "favicon": "http://imagenuniversaltv.com/wp-content/uploads/2019/09/Logo-imagen-Universal-TV-1-300x272.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Dominican Republic",
+    "country_code": "DO",
+    "language": "spanish,español latino,español",
+    "tags": "entretenimiento",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d71bda12-cbe0-4e03-a48b-719ed1ae35d2",
+    "name": "J1 XTRA (HTTP)",
+    "url": "http://jenny.torontocast.com:8058/",
+    "homepage": "https://en.j1fm.tokyo",
+    "favicon": "https://j1fm.tokyo/images/button-j1x.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "japanese",
+    "tags": "jpop",
+    "state": "",
+    "bitrate": 128
+}

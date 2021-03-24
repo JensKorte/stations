@@ -1,0 +1,14 @@
+{
+    "uuid": "30585388-ff57-11e9-bbf2-52543be04c81",
+    "name": "Barriletes",
+    "url": "http://radiobarriletes.sytes.net:8000/barriletes",
+    "homepage": "https://barriletes.org.ar/",
+    "favicon": "https://barriletes.org.ar/wp-content/uploads/2017/04/tRADIO.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "español",
+    "tags": "paraná,social,radio comunitaria",
+    "state": "",
+    "bitrate": 128
+}

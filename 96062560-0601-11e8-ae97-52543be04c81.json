@@ -1,0 +1,14 @@
+{
+    "uuid": "96062560-0601-11e8-ae97-52543be04c81",
+    "name": "TIDE 96,0 Hamburg - Immer anders",
+    "url": "http://streaming.tidenet.de:8000/tide-192.mp3.m3u",
+    "homepage": "http://www.tidenet.de/radio/",
+    "favicon": "http://www.tidenet.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "local radio,public radio,community radio,music,regional,kultur,hamburg",
+    "state": "Hamburg",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "02226ea8-b869-4b12-823c-f06bf2ac4866",
+    "name": "Alpin FM",
+    "url": "https://s16.myradiostream.com/:6390/stream/3/listen.mp3",
+    "homepage": "https://alpin.fm/",
+    "favicon": "https://alpin.fm/images/alpin_2_farbig_bairisch_Fm_blau_400.png",
+    "creation": "2021-03-16 12:55:59",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "bairisch,bavarian,deutsch,german",
+    "tags": "bairische popmusik,bairische rockmusik,alpenrock,austropop",
+    "state": "Bayern",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "cfb85c6c-76b4-11ea-b1cf-52543be04c81",
+    "name": "Radio Helsinki 98,5 Mhz",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s97243\u0026formats=aac,ogg,mp3\u0026partnerId=16\u0026serial=afe4c1a95cc7f3a92c47dbad1b283293",
+    "homepage": "https://www.radiohelsinki.fi/",
+    "favicon": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Helsinki-98.5-100x47.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 256
+}

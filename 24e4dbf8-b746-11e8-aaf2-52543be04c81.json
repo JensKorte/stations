@@ -1,0 +1,14 @@
+{
+    "uuid": "24e4dbf8-b746-11e8-aaf2-52543be04c81",
+    "name": "RAWSOUND",
+    "url": "http://stream.rawsound.by:8080",
+    "homepage": "http://rawsound.by",
+    "favicon": "http://rawsound.by//rawsound/style/shortcut.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "russian",
+    "tags": "",
+    "state": "Minsk",
+    "bitrate": 128
+}

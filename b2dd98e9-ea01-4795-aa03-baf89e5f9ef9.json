@@ -1,0 +1,14 @@
+{
+    "uuid": "b2dd98e9-ea01-4795-aa03-baf89e5f9ef9",
+    "name": "Українське радіо. Голос Києва. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-kyiv-aacplus-l",
+    "homepage": "http://ukr.radio/radio-kv",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Kyiv",
+    "bitrate": 48
+}

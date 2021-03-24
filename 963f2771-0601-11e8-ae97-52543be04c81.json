@@ -1,0 +1,14 @@
+{
+    "uuid": "963f2771-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sunce",
+    "url": "http://shoutcast.pondi.hr:8002/;*.mp3",
+    "homepage": "http://www.uzivoradio.com/sunce-split.html",
+    "favicon": "http://www.uzivoradio.com/thumbnails/fb-thumb.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "world music,helth",
+    "state": "Splitsko Dalmatinska",
+    "bitrate": 80
+}

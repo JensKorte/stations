@@ -1,0 +1,14 @@
+{
+    "uuid": "5d6b1505-6769-42e1-8950-c317b84e8cde",
+    "name": "БНР – Радио Шумен",
+    "url": "http://stream.bnr.bg:8033/radio-shumen.aac",
+    "homepage": "https://bnr.bg/shumen",
+    "favicon": "https://bnr.bg/img/logos/shumen.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "български,bulgarian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

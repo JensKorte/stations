@@ -1,0 +1,14 @@
+{
+    "uuid": "4dd5678f-ec1f-4dd8-94fc-f8fd546549d3",
+    "name": "Giant Radio 91.7 CIXL FM",
+    "url": "http://204.141.167.21:10670/stream",
+    "homepage": "https://www.giantfm.com",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "classic rock",
+    "state": "Ontario",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960c1f8c-0601-11e8-ae97-52543be04c81",
+    "name": "Oak FM",
+    "url": "http://clanhost.com.au:9330/;.mp3",
+    "homepage": "http://www.oakfm.com.au/",
+    "favicon": "http://www.oakfm.com.au/wp-content/uploads/2016/02/banner3-1.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "",
+    "tags": "community radio",
+    "state": "Victoria",
+    "bitrate": 64
+}

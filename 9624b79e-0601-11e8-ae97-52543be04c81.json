@@ -1,0 +1,14 @@
+{
+    "uuid": "9624b79e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Vostok",
+    "url": "http://radiovostok.ice.infomaniak.ch:80/radiovostok.aac",
+    "homepage": "http://www.radiovostok.ch",
+    "favicon": "http://www.radiovostok.ch/LogoVostok_dab_FB2.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "",
+    "state": "Geneva",
+    "bitrate": 0
+}

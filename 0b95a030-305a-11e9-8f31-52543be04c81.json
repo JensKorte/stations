@@ -1,0 +1,14 @@
+{
+    "uuid": "0b95a030-305a-11e9-8f31-52543be04c81",
+    "name": "Hitradio Schlager",
+    "url": "http://stream.laut.fm/hitradio-schlager",
+    "homepage": "https://www.hitradiogermany.net",
+    "favicon": "https://www.hitradiogermany.net/wp-content/uploads/2019/02/logo-transparent-3-300x300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "hits,schlager",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "964fc166-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Nacional del Paraguay 920 AM",
+    "url": "http://audio.radionacional.gov.py:8085/920",
+    "homepage": "http://www.radionacional.gov.py/",
+    "favicon": "http://www.radionacional.gov.py/wp-content/uploads/2015/10/VIVO-920-AM.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "language": "spanish,guarani",
+    "tags": "full service,radio publica,public radio",
+    "state": "Asuncion",
+    "bitrate": 64
+}

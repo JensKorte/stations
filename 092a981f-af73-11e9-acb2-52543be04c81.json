@@ -1,0 +1,14 @@
+{
+    "uuid": "092a981f-af73-11e9-acb2-52543be04c81",
+    "name": "Groot Nieuws Radio (LQ-stream)",
+    "url": "http://grootnieuwsradio.streampartner.nl:8050/live.m3u",
+    "homepage": "https://www.grootnieuwsradio.nl/",
+    "favicon": "https://www.grootnieuwsradio.nl/wp-content/uploads/2018/12/cropped-favicon-1-300x300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "lq,muziek,christelijk,nederlands,music,dutch,christian",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9635909c-0601-11e8-ae97-52543be04c81",
+    "name": "AfriRadio",
+    "url": "http://s6.mediastreaming.it:9056/;stream.mp3",
+    "homepage": "http://www.afriradio.it/",
+    "favicon": "http://www.afriradio.it/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "multilingual",
+    "tags": "verona,reggae,african music,world music,news",
+    "state": "Veneto",
+    "bitrate": 128
+}

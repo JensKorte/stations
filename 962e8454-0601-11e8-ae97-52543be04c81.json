@@ -1,0 +1,14 @@
+{
+    "uuid": "962e8454-0601-11e8-ae97-52543be04c81",
+    "name": "Radio María El Salvador 107.3 FM",
+    "url": "http://dreamsiteradiocp.com:8098/stream",
+    "homepage": "http://www.radiomaria.org.sv/",
+    "favicon": "https://www.radiomaria.org.sv/wp-content/themes/dms/dms/images/default-touch-icon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "language": "spanish",
+    "tags": "talk,catholic,christian",
+    "state": "San Salvador",
+    "bitrate": 32
+}

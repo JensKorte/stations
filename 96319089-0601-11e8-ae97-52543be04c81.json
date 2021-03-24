@@ -1,0 +1,14 @@
+{
+    "uuid": "96319089-0601-11e8-ae97-52543be04c81",
+    "name": "Hit Radio FFH - Schlagerkult",
+    "url": "http://streams.ffh.de/ffhchannels/aac/schlager.m3u",
+    "homepage": "https://webradio.ffh.de/schlager",
+    "favicon": "https://webradio.ffh.de/custom/images/socialmedia/schlager.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "",
+    "bitrate": 48
+}

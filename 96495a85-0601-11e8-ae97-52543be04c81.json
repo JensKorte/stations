@@ -1,0 +1,14 @@
+{
+    "uuid": "96495a85-0601-11e8-ae97-52543be04c81",
+    "name": "ISN Radio",
+    "url": "https://stream.isn.fm",
+    "homepage": "https://www.isn.fm",
+    "favicon": "https://isn.fm/wp-content/uploads/2017/02/220x220_weiss.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "00s,podcast,radioplay,pop,rock,90s,80s",
+    "state": "Hamburg",
+    "bitrate": 192
+}

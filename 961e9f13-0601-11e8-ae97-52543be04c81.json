@@ -1,0 +1,14 @@
+{
+    "uuid": "961e9f13-0601-11e8-ae97-52543be04c81",
+    "name": "80's Bylgjan",
+    "url": "http://icecast.365net.is:8000/orb80s.aac.m3u",
+    "homepage": "http://vefutvarp.visir.is/player/#/",
+    "favicon": "http://www.visir.is/support/icons/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Iceland",
+    "country_code": "IS",
+    "language": "icelandic",
+    "tags": "local music,80s",
+    "state": "",
+    "bitrate": 0
+}

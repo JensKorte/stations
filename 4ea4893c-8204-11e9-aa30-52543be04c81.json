@@ -1,0 +1,14 @@
+{
+    "uuid": "4ea4893c-8204-11e9-aa30-52543be04c81",
+    "name": "Rádio Pátria Pampa",
+    "url": "https://servidor30-1.brlogic.com:8654/live",
+    "homepage": "https://radiopatriapampa.com/",
+    "favicon": "https://public-rf-upload.minhawebradio.net/16940/favicon/2cdbebd41668b9701f7906cf1e57ec21.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português",
+    "tags": "sul,rs,campeira,poesia,galponeira,gaúcha",
+    "state": "Rio Grande do Sul",
+    "bitrate": 64
+}

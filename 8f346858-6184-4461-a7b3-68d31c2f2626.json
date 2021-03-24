@@ -1,0 +1,14 @@
+{
+    "uuid": "8f346858-6184-4461-a7b3-68d31c2f2626",
+    "name": "320 FM",
+    "url": "https://320-fm.de:1030/stream/2/itunes.pls",
+    "homepage": "https://320.fm",
+    "favicon": "https://320.fm/logo_neu_1.png",
+    "creation": "2021-02-16 15:36:50",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,english",
+    "tags": "techno,house,electronica,electronic",
+    "state": "",
+    "bitrate": 320
+}

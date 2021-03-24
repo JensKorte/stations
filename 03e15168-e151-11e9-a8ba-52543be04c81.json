@@ -1,0 +1,14 @@
+{
+    "uuid": "03e15168-e151-11e9-a8ba-52543be04c81",
+    "name": "Radio Herne",
+    "url": "http://radioherne.cast.addradio.de/radioherne/simulcast/high/stream.mp3?ar-purpose=web\u0026ar-distributor=f0d1",
+    "homepage": "https://www.radioherne.de/",
+    "favicon": "https://www.radioherne.de/assets/images/senderlogos/radio_herne.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 192
+}

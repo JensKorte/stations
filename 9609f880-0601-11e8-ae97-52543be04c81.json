@@ -1,0 +1,14 @@
+{
+    "uuid": "9609f880-0601-11e8-ae97-52543be04c81",
+    "name": "Radio JAT 90.2",
+    "url": "http://streaming11.tdiradio.com:8000/radiojat",
+    "homepage": "http://www.radiojat.rs/",
+    "favicon": "http://www.radiojat.rs/site/images/yootheme/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "serbian pop music",
+    "state": "",
+    "bitrate": 64
+}

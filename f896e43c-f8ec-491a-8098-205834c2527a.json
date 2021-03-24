@@ -1,0 +1,14 @@
+{
+    "uuid": "f896e43c-f8ec-491a-8098-205834c2527a",
+    "name": "Happy FM",
+    "url": "https://happyfm.streaming-pro.com:8010/live.mp3",
+    "homepage": "https://happyfm.es/",
+    "favicon": "https://happyfm.es/favicon.png",
+    "creation": "2021-03-22 19:59:44",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 192
+}

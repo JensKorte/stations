@@ -1,0 +1,14 @@
+{
+    "uuid": "97fbef86-4bcf-4d37-8fee-c45726fc7569",
+    "name": "LRT Opus",
+    "url": "http://lrt-cast.lrt.lt:8000/lrt_opus",
+    "homepage": "https://www.lrt.lt/",
+    "favicon": "https://www.lrt.lt/images/logo/logo-opus.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f7e2eaa7-bcd1-11e9-acb2-52543be04c81",
+    "name": "ТрансСвітове Радіо (висока якість)",
+    "url": "http://193.107.134.212:8000/live",
+    "homepage": "http://twr-ua.org/",
+    "favicon": "http://twr-ua.org/wp-content/uploads/2018/07/cropped-icon-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian,russian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

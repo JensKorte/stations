@@ -1,0 +1,14 @@
+{
+    "uuid": "961fb70d-0601-11e8-ae97-52543be04c81",
+    "name": "NRK Klassisk (Lav Kvalitet)",
+    "url": "http://lyd.nrk.no/nrk_radio_klassisk_mp3_l.m3u",
+    "homepage": "https://radio.nrk.no/direkte/klassisk",
+    "favicon": "http://static.mytuner.mobi/media/tvos_radios/Nr8a4pN7rZ.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "classical,music",
+    "state": "",
+    "bitrate": 0
+}

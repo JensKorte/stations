@@ -1,0 +1,14 @@
+{
+    "uuid": "3ab49066-f835-11e9-bbf2-52543be04c81",
+    "name": "Radio BonTon",
+    "url": "https://streaming.inten.pl:8020/bonton.mp3",
+    "homepage": "https://radiobonton.pl",
+    "favicon": "https://static.radiobonton.pl/data/wysiwig/images/ffhjfgjfj.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polish,poland,chełm,local radio,pop",
+    "state": "Chełm",
+    "bitrate": 0
+}

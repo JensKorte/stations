@@ -1,0 +1,14 @@
+{
+    "uuid": "9624e27f-0601-11e8-ae97-52543be04c81",
+    "name": "Aristera 90.2FM",
+    "url": "http://icecast.902.gr:8000/902",
+    "homepage": "http://902.gr",
+    "favicon": "http://www.902.gr/sites/all/themes/theme902/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "news,left wing",
+    "state": "Athens",
+    "bitrate": 128
+}

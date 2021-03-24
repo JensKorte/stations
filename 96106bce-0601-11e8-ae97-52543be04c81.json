@@ -1,0 +1,14 @@
+{
+    "uuid": "96106bce-0601-11e8-ae97-52543be04c81",
+    "name": "NRK P2 (Høy Kvalitet)",
+    "url": "http://nrk-mms-live.telenorcdn.net:80/nrk_radio_p2_mp3_h",
+    "homepage": "https://radio.nrk.no/direkte/p2",
+    "favicon": "https://pbs.twimg.com/profile_images/440416736651653120/WGVOxEDJ_400x400.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "news,talk,music,cultural",
+    "state": "",
+    "bitrate": 0
+}

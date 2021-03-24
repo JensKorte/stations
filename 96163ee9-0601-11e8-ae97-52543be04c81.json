@@ -1,0 +1,14 @@
+{
+    "uuid": "96163ee9-0601-11e8-ae97-52543be04c81",
+    "name": "Focus",
+    "url": "http://online.focus-radio.net:8100/sofia",
+    "homepage": "http://focus-radio.net",
+    "favicon": "http://focus-radio.net/wp-content/uploads/2016/09/focus-header-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "news,information",
+    "state": "",
+    "bitrate": 320
+}

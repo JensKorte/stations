@@ -1,0 +1,14 @@
+{
+    "uuid": "96194dc4-0601-11e8-ae97-52543be04c81",
+    "name": "in.pulz Stadtradio Freiberg",
+    "url": "https://akina.streampanel.net:2199/tunein/rybqsryh.pls",
+    "homepage": "http://www.radioinpulz.de",
+    "favicon": "http://www.radioinpulz.de/img/iprlogo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,house,freiberg",
+    "state": "Saxony",
+    "bitrate": 128
+}

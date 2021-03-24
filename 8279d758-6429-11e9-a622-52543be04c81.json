@@ -1,0 +1,14 @@
+{
+    "uuid": "8279d758-6429-11e9-a622-52543be04c81",
+    "name": "Radio Schleswig Holstein",
+    "url": "http://streams.rsh.de/rsh-live/mp3-192/mediaplayer",
+    "homepage": "https://www.google.de/url?sa=t\u0026rct=j\u0026q=\u0026esrc=s\u0026source=web\u0026cd=1\u0026cad=rja\u0026uact=8\u0026ved=2ahUKEwjHqdGriOHhAhWGblAKHXP4CMAQFjAAegQIBRAB\u0026url=https%3A%2F%2Fwww.rsh.de%2F\u0026usg=AOvVaw12wzap3Ni6sj4BUEsP5AdI",
+    "favicon": "https://static.radio.de/images/broadcasts/32/9e/2230/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Schleswig-Holstein",
+    "bitrate": 192
+}

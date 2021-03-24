@@ -1,0 +1,14 @@
+{
+    "uuid": "961f1876-0601-11e8-ae97-52543be04c81",
+    "name": "Sky Radio Lounge",
+    "url": "http://provisioning.streamtheworld.com/pls/SRGSTR07AAC.pls",
+    "homepage": "http://www.skyradio.nl/player/sky-radio-lounge",
+    "favicon": "http://www.skyradio.nl/img/player/logo_sky-radio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "lounge music",
+    "state": "",
+    "bitrate": 64
+}

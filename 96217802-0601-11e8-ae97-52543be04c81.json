@@ -1,0 +1,14 @@
+{
+    "uuid": "96217802-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 783 Alice Springs, NT (AAC)",
+    "url": "http://abcradiolivehls-lh.akamaihd.net/i/localalicesprings_1@326226/master.m3u8",
+    "homepage": "http://www.abc.net.au/alicesprings/",
+    "favicon": "https://resize.abcradio.net.au/JnbeOjGyNJ7UM2Pm-OlRb2DQaz4=/100x100/center/middle/http://www.abc.net.au/radio/images/service/local_alicesprings.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "m3u8,alice springs,abc,public radio,local news,information,news",
+    "state": "Northern Territory",
+    "bitrate": 24
+}

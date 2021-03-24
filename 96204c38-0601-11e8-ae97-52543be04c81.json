@@ -1,0 +1,14 @@
+{
+    "uuid": "96204c38-0601-11e8-ae97-52543be04c81",
+    "name": "Rai Radio Tutta Italiana",
+    "url": "http://icestreaming.rai.it/4.mp3",
+    "homepage": "http://www.radiofd4.rai.it",
+    "favicon": "http://www.rai.it/resizegd/-x21/dl/portaleRadio/images/Canali/radiotuttaitaliana.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rai,public radio,italian,rock,pop",
+    "state": "Lazio",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fea06ab8-b661-11e8-aaf2-52543be04c81",
+    "name": "Radio Godot",
+    "url": "http://nr8.newradio.it:9121/;",
+    "homepage": "http://www.radiogodot.it/",
+    "favicon": "http://www.radiogodot.it/wp-content/uploads/2016/04/cropped-LOGO_RADIOGODOT-250x250-270x270.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Lazio",
+    "bitrate": 128
+}

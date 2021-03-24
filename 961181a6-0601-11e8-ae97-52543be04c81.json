@@ -1,0 +1,14 @@
+{
+    "uuid": "961181a6-0601-11e8-ae97-52543be04c81",
+    "name": "radio B2 - radio GOLD",
+    "url": "http://mp3ad.radiob2.c.nmdn.net:80/fs_radiob2gold/livestream.mp3",
+    "homepage": "http://www.radiogold.de/",
+    "favicon": "http://player.addradio.de/player/2492/assets/header-rec.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies",
+    "state": "Berlin",
+    "bitrate": 128
+}

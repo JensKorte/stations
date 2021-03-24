@@ -1,0 +1,14 @@
+{
+    "uuid": "962a18f1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Giornale di Sicilia",
+    "url": "http://onair15.xdevel.com:8372/;stream.aac",
+    "homepage": "http://rgs.gds.it/",
+    "favicon": "http://sgdsit.cdn-immedia.net/img/share/logo_rgs.svg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "palermo,pop,news",
+    "state": "Sicilia",
+    "bitrate": 128
+}

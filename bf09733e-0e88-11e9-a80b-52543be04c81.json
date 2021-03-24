@@ -1,0 +1,14 @@
+{
+    "uuid": "bf09733e-0e88-11e9-a80b-52543be04c81",
+    "name": "Cadena SER - Radio Valencia",
+    "url": "http://provisioning.streamtheworld.com/pls/SER_VALENCIA.pls",
+    "homepage": "https://cadenaser.com/ser/emisoras/",
+    "favicon": "https://cadenaser00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_ser.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "news talk,talk,news,local news",
+    "state": "Valencia",
+    "bitrate": 96
+}

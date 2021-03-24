@@ -1,0 +1,14 @@
+{
+    "uuid": "3e297e0a-c16d-466e-8eec-6bd3df08cca1",
+    "name": "Radio 580 AM",
+    "url": "http://170.84.134.39:9830/test.aac?type=http\u0026nocache=54",
+    "homepage": "http://radio580.com.ni/",
+    "favicon": "http://radio580.com.ni/wp-content/themes/radio580/multimedia/logo_580.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "language": "spanish",
+    "tags": "variado,noticias,salsa,pop,talk",
+    "state": "Managua",
+    "bitrate": 96
+}

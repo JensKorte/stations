@@ -1,0 +1,14 @@
+{
+    "uuid": "63d8e2b2-c596-4309-a4d3-b8e7b7cdaea0",
+    "name": "mfm radio",
+    "url": "https://streamer.eagrpservices.com/audio/mfmradio.ogg",
+    "homepage": "https://www.mfmradio.ma/",
+    "favicon": "https://www.mfmradio.ma/wp-content/themes/mfm/favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Morocco",
+    "country_code": "MA",
+    "language": "français,arab",
+    "tags": "local radio,local news,local music,news",
+    "state": "Casablanca",
+    "bitrate": 0
+}

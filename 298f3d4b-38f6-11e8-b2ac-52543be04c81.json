@@ -1,0 +1,14 @@
+{
+    "uuid": "298f3d4b-38f6-11e8-b2ac-52543be04c81",
+    "name": "FluxFM - Pop Radio",
+    "url": "http://streams.fluxfm.de/popradio/aac-64/streams.fluxfm.de/",
+    "homepage": "https://www.fluxfm.de/",
+    "favicon": "https://fluxmusic.io/wp-content/uploads/2017/09/Flux-Pop-19032018-150x150.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 64
+}

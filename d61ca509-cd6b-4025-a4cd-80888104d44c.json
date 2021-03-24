@@ -1,0 +1,14 @@
+{
+    "uuid": "d61ca509-cd6b-4025-a4cd-80888104d44c",
+    "name": "Play Radio Urban",
+    "url": "https://stream.playradio.rs:8443/urban.mp3",
+    "homepage": "https://playradio.rs/",
+    "favicon": "https://playradio.rs/images/playlogo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian,english",
+    "tags": "soul,r\u0026b/urban,urban,play-radio,belgrade,internet radio",
+    "state": "",
+    "bitrate": 128
+}

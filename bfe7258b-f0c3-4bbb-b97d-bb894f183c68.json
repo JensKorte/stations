@@ -1,0 +1,14 @@
+{
+    "uuid": "bfe7258b-f0c3-4bbb-b97d-bb894f183c68",
+    "name": "TOradio",
+    "url": "https://nr5.newradio.it/proxy/fsrls?mp=/stream",
+    "homepage": "https://toradio.it/",
+    "favicon": "https://toradio.it/wp-content/uploads/2017/01/600x600-370x370.png",
+    "creation": "2021-03-21 19:47:50",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "torino,pop,top 40,talk,news",
+    "state": "Piemonte",
+    "bitrate": 192
+}

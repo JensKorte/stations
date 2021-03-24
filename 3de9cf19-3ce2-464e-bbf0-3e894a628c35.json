@@ -1,0 +1,14 @@
+{
+    "uuid": "3de9cf19-3ce2-464e-bbf0-3e894a628c35",
+    "name": "WTOS",
+    "url": "https://live.wostreaming.net/manifest/blueberry-wtosfmaac-ibc1",
+    "homepage": "https://www.wtosfm.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WTOS.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "rock",
+    "state": "Skowhegan ME",
+    "bitrate": 64
+}

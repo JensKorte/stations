@@ -1,0 +1,14 @@
+{
+    "uuid": "2e28e2d8-70e4-40bb-bd25-85e51285f60d",
+    "name": "Radio Arenzano",
+    "url": "http://nrf1.newradio.it:9556/stream",
+    "homepage": "http://www.radioarenzano.net/",
+    "favicon": "https://www.radioarenzano.net/wp-content/uploads/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "",
+    "state": "",
+    "bitrate": 96
+}

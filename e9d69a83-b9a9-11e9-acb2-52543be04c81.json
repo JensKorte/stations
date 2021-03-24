@@ -1,0 +1,14 @@
+{
+    "uuid": "e9d69a83-b9a9-11e9-acb2-52543be04c81",
+    "name": "RadioBOB 90er Rock (64 kbps AAC)",
+    "url": "http://streams.radiobob.de/bob-90srock/aac-64/mediaplayer",
+    "homepage": "https://www.radiobob.de/",
+    "favicon": "https://www.radiobob.de/frontend/theme-bob/design/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 64
+}

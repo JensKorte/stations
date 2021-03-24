@@ -1,0 +1,14 @@
+{
+    "uuid": "962ca0cc-0601-11e8-ae97-52543be04c81",
+    "name": "Pinguin on the Rocks",
+    "url": "http://po192.pinguinradio.com/listen.pls",
+    "homepage": "https://pinguinradio.com/player/pinguin-onthe-rocks",
+    "favicon": "https://pinguinradio.com/dist/images/content/p-rocks.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch,english",
+    "tags": "pinguinradio,grunge,hard rock,rock",
+    "state": "",
+    "bitrate": 192
+}

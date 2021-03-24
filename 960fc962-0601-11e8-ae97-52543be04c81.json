@@ -1,0 +1,14 @@
+{
+    "uuid": "960fc962-0601-11e8-ae97-52543be04c81",
+    "name": "Planeta FM",
+    "url": "http://pla-net-01.cdn.eurozet.pl:8700/",
+    "homepage": "http://www.planeta.fm/",
+    "favicon": "https://gfx.planeta.fm/design/planeta/images/favicons/apple-touch-icon.png?n=1",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "house",
+    "state": "Warszawa",
+    "bitrate": 128
+}

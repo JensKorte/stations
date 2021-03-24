@@ -1,0 +1,14 @@
+{
+    "uuid": "962aa439-0601-11e8-ae97-52543be04c81",
+    "name": "All80sJukebox",
+    "url": "http://109.169.26.139:8432/stream",
+    "homepage": "http://www.all80sjukebox.com/",
+    "favicon": "http://www.all80sjukebox.com/assets/images/all80sweblogo-400x235.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "80s",
+    "state": "Dublin",
+    "bitrate": 128
+}

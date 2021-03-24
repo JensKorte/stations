@@ -1,0 +1,14 @@
+{
+    "uuid": "961b01ba-0601-11e8-ae97-52543be04c81",
+    "name": "Vox UJI Ràdio",
+    "url": "http://radiouji.uji.es:8000/high.ogg",
+    "homepage": "http://www.radio.uji.es/",
+    "favicon": "http://www.radio.uji.es/img/logo_vox_p.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "castelló de la plana,universitat jaume i",
+    "state": "País Valencià",
+    "bitrate": 128
+}

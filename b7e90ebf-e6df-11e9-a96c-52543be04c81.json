@@ -1,0 +1,14 @@
+{
+    "uuid": "b7e90ebf-e6df-11e9-a96c-52543be04c81",
+    "name": "FIP Musiques du monde",
+    "url": "http://icecast.radiofrance.fr/fipworld-midfi.mp3",
+    "homepage": "https://www.fip.fr/musiques-du-monde",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/9a1d42c5-8a36-4253-bfae-bdbfb85cbe14/200x200_fip-monde_ok.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,public radio,world music",
+    "state": "",
+    "bitrate": 0
+}

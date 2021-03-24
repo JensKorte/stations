@@ -1,0 +1,14 @@
+{
+    "uuid": "9620f4bb-0601-11e8-ae97-52543be04c81",
+    "name": "CFRW \"TSN 1290\" Winnipeg, MB",
+    "url": "http://provisioning.streamtheworld.com/pls/CFRWAMAAC.pls",
+    "homepage": "http://www.tsn.ca/radio/winnipeg-1290",
+    "favicon": "http://images.tsn.ca/favicon32.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "espn,tsn,winnipeg,sport",
+    "state": "Manitoba",
+    "bitrate": 40
+}

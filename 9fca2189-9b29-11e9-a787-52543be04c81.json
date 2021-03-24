@@ -1,0 +1,14 @@
+{
+    "uuid": "9fca2189-9b29-11e9-a787-52543be04c81",
+    "name": "Radio Goioere FM 97,5",
+    "url": "http://controleflash.omegasistemas.net:8266/stream.mp3",
+    "homepage": "http://www.radiogoioere.com.br",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "variety",
+    "state": "",
+    "bitrate": 96
+}

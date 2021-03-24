@@ -1,0 +1,14 @@
+{
+    "uuid": "963721e2-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Region - Praha a střední Čechy",
+    "url": "http://icecast2.play.cz/croregion128.mp3",
+    "homepage": "http://www.rozhlas.cz/strednicechy/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/croregion.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,čro region,public radio,oldies,local news",
+    "state": "Středočeský kraj",
+    "bitrate": 0
+}

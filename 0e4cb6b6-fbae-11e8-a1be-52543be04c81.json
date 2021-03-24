@@ -1,0 +1,14 @@
+{
+    "uuid": "0e4cb6b6-fbae-11e8-a1be-52543be04c81",
+    "name": "滨海之声",
+    "url": "http://60.30.52.41:80/live/FM100.1/playlist.m3u8",
+    "homepage": "http://www.bhntv.com.cn/wap/",
+    "favicon": "http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "public radio",
+    "state": "Tientsin",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961bd180-0601-11e8-ae97-52543be04c81",
+    "name": "CJSA-HD3 CMR Diversity FM 101.3 Hindi/Urdu Toronto, ON",
+    "url": "http://live.cmr24.net:8081/CMR/Desi_Music-MQ/icecast.audio",
+    "homepage": "http://www.cmr.fm/",
+    "favicon": "http://cmr24.net/wp-content/uploads/2014/06/hd3.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "hindi,urdu",
+    "tags": "toronto,hindi,urdu,multicultural",
+    "state": "Ontario",
+    "bitrate": 128
+}

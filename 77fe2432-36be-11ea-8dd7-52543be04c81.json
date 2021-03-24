@@ -1,0 +1,14 @@
+{
+    "uuid": "77fe2432-36be-11ea-8dd7-52543be04c81",
+    "name": "ČRo Vltava",
+    "url": "http://icecast2.play.cz:8000/cro3-32aac",
+    "homepage": "https://www.rozhlas.cz/vltava/",
+    "favicon": "https://api.play.cz/static/radio_logo/t200/cro3.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,public radio,classical,32k,aac+",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "962adc04-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Onda Novara",
+    "url": "http://s3.voscast.com:8598/stream",
+    "homepage": "http://www.ondanovara.it/",
+    "favicon": "http://www.ondanovara.it/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Piemonte",
+    "bitrate": 64
+}

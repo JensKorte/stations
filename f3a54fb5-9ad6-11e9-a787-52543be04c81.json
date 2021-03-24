@@ -1,0 +1,14 @@
+{
+    "uuid": "f3a54fb5-9ad6-11e9-a787-52543be04c81",
+    "name": "TVB Pearl TV",
+    "url": "http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1\u0026Fsv_filetype=1\u0026Fsv_ctype=LIVES\u0026Fsv_cid=0\u0026Fsv_chan_hls_se_idx=188\u0026Fsv_rate_id=0\u0026Fsv_SV_PARAM1=0\u0026Fsv_ShiftEnable=0\u0026Fsv_ShiftTsp=0\u0026Provider_id=0\u0026Pcontent_id=8114.m3u8\u0026Fsv_CMSID=\u0026Fsv_otype=1",
+    "homepage": "http://www.tvb.com/",
+    "favicon": "http://nettv.live/uploads/allimg/18/1-1P3111915460-L.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "China",
+    "country_code": "CN",
+    "language": "english",
+    "tags": "",
+    "state": "Hong Kong",
+    "bitrate": 0
+}

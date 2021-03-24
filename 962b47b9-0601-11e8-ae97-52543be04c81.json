@@ -1,0 +1,14 @@
+{
+    "uuid": "962b47b9-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Italia Charleroi",
+    "url": "http://str01.fluidstream.net:7170/listen.pls",
+    "homepage": "http://www.radioitaliacharleroi.com/",
+    "favicon": "http://players.fluidstream.it/RadioItaliaCharleroi/images/cover_default.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "italian",
+    "tags": "italian pop",
+    "state": "",
+    "bitrate": 64
+}

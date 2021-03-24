@@ -1,0 +1,14 @@
+{
+    "uuid": "7b413bd3-15bd-496d-9633-e8794df4f8d1",
+    "name": "Катунь FM",
+    "url": "https://live.katun24.ru:8082/kfm_radio/tracks-a1/mono.m3u8",
+    "homepage": "http://katunfm.ru/",
+    "favicon": "https://i1.sndcdn.com/avatars-000481484085-3hskmi-t500x500.jpg",
+    "creation": "2021-02-16 01:09:02",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russia,ru,русский,russian",
+    "tags": "news,новости,talk,алтайский,алтай,барнаул",
+    "state": "Барнаул",
+    "bitrate": 0
+}

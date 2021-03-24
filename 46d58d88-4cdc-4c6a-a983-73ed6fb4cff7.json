@@ -1,0 +1,14 @@
+{
+    "uuid": "46d58d88-4cdc-4c6a-a983-73ed6fb4cff7",
+    "name": "Українське радіо. Рівне. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-rv-aacplus",
+    "homepage": "http://ukr.radio/radio-rv",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Rivne",
+    "bitrate": 48
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9614b499-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Helsinki 92,6 MHz (160 kbps)",
+    "url": "http://live.helsinki.at:8088/live160.mp3",
+    "homepage": "http://helsinki.at",
+    "favicon": "http://helsinki.mur.at/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "Steiermark",
+    "bitrate": 0
+}

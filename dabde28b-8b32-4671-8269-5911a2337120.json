@@ -1,0 +1,14 @@
+{
+    "uuid": "dabde28b-8b32-4671-8269-5911a2337120",
+    "name": "Радио «Таван»",
+    "url": "http://icecast.ntrk21.ru:8000/tavan",
+    "homepage": "http://www.ntrk21.ru/tavan-radio",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "chuvash,russian",
+    "tags": "chuvash,russian",
+    "state": "",
+    "bitrate": 128
+}

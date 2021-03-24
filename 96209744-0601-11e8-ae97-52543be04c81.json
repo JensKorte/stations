@@ -1,0 +1,14 @@
+{
+    "uuid": "96209744-0601-11e8-ae97-52543be04c81",
+    "name": "CFIN 100.5 \"Passion FM\" Lac-Etchemin, QC",
+    "url": "http://streaming.cloudmjs.com:8002/cfin.mp3",
+    "homepage": "http://passion-fm.com/",
+    "favicon": "http://passion-fm.com/img/layout/logo-passionfm.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "rock,pop,community radio",
+    "state": "Quebec",
+    "bitrate": 128
+}

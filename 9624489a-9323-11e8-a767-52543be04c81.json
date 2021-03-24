@@ -1,0 +1,14 @@
+{
+    "uuid": "9624489a-9323-11e8-a767-52543be04c81",
+    "name": "Svensk Pop",
+    "url": "http://tx.sharp-stream.com/http_live.php?i=svenskpop_se_mp3",
+    "homepage": "https://www.radioplay.se/svensk-pop",
+    "favicon": "https://cdn.radioplay.se/img/original/2c0cc1430a808454d99915f72c2fbb34.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Sweden",
+    "country_code": "SE",
+    "language": "swedish",
+    "tags": "",
+    "state": "Stockholm",
+    "bitrate": 128
+}

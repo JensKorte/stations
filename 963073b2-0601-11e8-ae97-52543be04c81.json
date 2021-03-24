@@ -1,0 +1,14 @@
+{
+    "uuid": "963073b2-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Luce",
+    "url": "http://s3.mediastreaming.it:9070/;stream.mp3",
+    "homepage": "http://www.radiolucesanzenone.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s164815q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "san zenone degli ezzelini,pop,italian pop,talk,catholic,christian",
+    "state": "Veneto",
+    "bitrate": 64
+}

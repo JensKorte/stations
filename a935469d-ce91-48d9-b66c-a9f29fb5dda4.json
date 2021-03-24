@@ -1,0 +1,14 @@
+{
+    "uuid": "a935469d-ce91-48d9-b66c-a9f29fb5dda4",
+    "name": "Radio Maestral",
+    "url": "http://178.218.163.171:8003/;stream.mp3",
+    "homepage": "https://www.radio-maestral.hr/",
+    "favicon": "https://www.radio-maestral.hr/wp-content/uploads/2017/09/cropped-Radio-Maestral-final-logo-transparent-01-01-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 192
+}

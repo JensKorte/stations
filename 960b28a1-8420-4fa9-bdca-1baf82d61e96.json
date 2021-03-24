@@ -1,0 +1,14 @@
+{
+    "uuid": "960b28a1-8420-4fa9-bdca-1baf82d61e96",
+    "name": "Radio RockStar",
+    "url": "http://digibc.eu:8080/radio.aac",
+    "homepage": "",
+    "favicon": "http://digibc.eu/rockstar/images/logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 128
+}

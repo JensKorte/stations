@@ -1,0 +1,14 @@
+{
+    "uuid": "9624e4a6-0601-11e8-ae97-52543be04c81",
+    "name": "WXXI-AM 1370 Rochester, NY (AAC)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAMAAC.aac",
+    "homepage": "http://interactive.wxxi.org",
+    "favicon": "http://interactive.wxxi.org/sites/default/files/inserts/listen-am1370.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "rochester,apm,pri,npr,public radio",
+    "state": "New York",
+    "bitrate": 48
+}

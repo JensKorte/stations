@@ -1,0 +1,14 @@
+{
+    "uuid": "86e71fb3-c8eb-4e50-84f9-ff8b2aec65b0",
+    "name": "CNN Lite [audio]",
+    "url": "https://s3.amazonaws.com/cnn-assets/app-assets/cnn-lite/liteaudio.m3u8",
+    "homepage": "https://lite.cnn.com/",
+    "favicon": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news",
+    "state": "",
+    "bitrate": 70
+}

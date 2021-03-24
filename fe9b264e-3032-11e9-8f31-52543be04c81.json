@@ -1,0 +1,14 @@
+{
+    "uuid": "fe9b264e-3032-11e9-8f31-52543be04c81",
+    "name": "Radio Palitra",
+    "url": "http://92.241.82.245:8000/live",
+    "homepage": "http://www.palitratv.ge",
+    "favicon": "http://www.palitratv.ge/images/stories/palitratvlogo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Georgia",
+    "country_code": "GE",
+    "language": "georgian",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 128
+}

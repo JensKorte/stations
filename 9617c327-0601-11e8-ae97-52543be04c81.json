@@ -1,0 +1,14 @@
+{
+    "uuid": "9617c327-0601-11e8-ae97-52543be04c81",
+    "name": "Kringvarp Føroya (KVF)",
+    "url": "http://netvarp.kringvarp.fo:443/uvhm",
+    "homepage": "http://kvf.fo/",
+    "favicon": "http://kvf.fo/sites/all/themes/kvf_minimal/images/kvf_logo.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Faroe Islands",
+    "country_code": "FO",
+    "language": "faroese",
+    "tags": "public service,faroe islands,national,news",
+    "state": "",
+    "bitrate": 192
+}

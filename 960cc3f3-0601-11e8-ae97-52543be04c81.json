@@ -1,0 +1,14 @@
+{
+    "uuid": "960cc3f3-0601-11e8-ae97-52543be04c81",
+    "name": "WDR 2 Ostwestfalen-Lippe",
+    "url": "http://wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3",
+    "homepage": "https://www1.wdr.de/radio/wdr2/",
+    "favicon": "https://www1.wdr.de/radio/startseite/symbolbilder/dummy-logo108~_v-gseagaleriexl.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "talk,news,music",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

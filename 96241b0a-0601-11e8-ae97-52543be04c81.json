@@ -1,0 +1,14 @@
+{
+    "uuid": "96241b0a-0601-11e8-ae97-52543be04c81",
+    "name": "North Manchester FM 106.6",
+    "url": "http://live.canstream.co.uk:8000/manchesterfm.mp3.m3u",
+    "homepage": "https://northmanchester.fm/",
+    "favicon": "https://nmfm1066.files.wordpress.com/2016/06/nmfm-logo.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "manchester,local,volunteer,community radio",
+    "state": "Greater Manchester",
+    "bitrate": 128
+}

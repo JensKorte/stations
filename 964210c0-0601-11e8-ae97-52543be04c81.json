@@ -1,0 +1,14 @@
+{
+    "uuid": "964210c0-0601-11e8-ae97-52543be04c81",
+    "name": "XHCNA-FM 100.1 \"Radio Disney\" Culiacan, SI",
+    "url": "http://provisioning.streamtheworld.com/pls/XHCNAFMAAC.pls",
+    "homepage": "http://radio-la.azurewebsites.net/mx/",
+    "favicon": "http://radio-la.azurewebsites.net/mx/sites/all/themes/rd/apple-touch-icon-144x144-precomposed.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "culiacan,pop",
+    "state": "Sinaloa",
+    "bitrate": 56
+}

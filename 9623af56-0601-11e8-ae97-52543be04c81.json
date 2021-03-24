@@ -1,0 +1,14 @@
+{
+    "uuid": "9623af56-0601-11e8-ae97-52543be04c81",
+    "name": "laut.fm SchneeweissFM",
+    "url": "http://stream.laut.fm/schneeweissfm",
+    "homepage": "http://laut.fm/schneeweissfm",
+    "favicon": "http://assets.laut.fm/07c649f145e16c8f12bfe25404e56059",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,indie",
+    "state": "",
+    "bitrate": 128
+}

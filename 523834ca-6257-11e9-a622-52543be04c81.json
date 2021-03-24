@@ -1,0 +1,14 @@
+{
+    "uuid": "523834ca-6257-11e9-a622-52543be04c81",
+    "name": "Radio Costamar 102.5 FM",
+    "url": "http://streaming.hdserver.biz:9420/listen.pls",
+    "homepage": "http://costamarfm.com/radio/",
+    "favicon": "http://costamarfm.com/radio/images/costa/logo_costa160x90.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "news,noticias,music,musica",
+    "state": "Manabí",
+    "bitrate": 192
+}

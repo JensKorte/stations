@@ -1,0 +1,14 @@
+{
+    "uuid": "960f9341-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio Bialystok",
+    "url": "http://stream4.nadaje.com:15476/radiobialystok",
+    "homepage": "http://www.radio.bialystok.pl/",
+    "favicon": "http://www.radio.bialystok.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polskieradio,public radio",
+    "state": "Bialystok",
+    "bitrate": 0
+}

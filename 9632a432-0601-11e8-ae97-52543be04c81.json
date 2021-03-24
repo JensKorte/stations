@@ -1,0 +1,14 @@
+{
+    "uuid": "9632a432-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM RnB",
+    "url": "http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-128.mp3",
+    "homepage": "http://www.rougefm.com/webradios-rnb/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/rnb.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "rnb",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

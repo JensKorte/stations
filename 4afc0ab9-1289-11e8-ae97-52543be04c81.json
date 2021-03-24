@@ -1,0 +1,14 @@
+{
+    "uuid": "4afc0ab9-1289-11e8-ae97-52543be04c81",
+    "name": "OK Lübeck FM Offener Kanal",
+    "url": "http://radio.oksh.de:8000/luebeckfm.mp3.m3u",
+    "homepage": "https://www.oksh.de/hl/",
+    "favicon": "https://www.oksh.de/wp-content/uploads/sites/3/2017/08/touchicon-180.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Schleswig-Holstein",
+    "bitrate": 192
+}

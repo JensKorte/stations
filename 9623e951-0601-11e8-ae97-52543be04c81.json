@@ -1,0 +1,14 @@
+{
+    "uuid": "9623e951-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Bodun 105.5 Reykjavik",
+    "url": "http://radio.bodun.is:8000/stream",
+    "homepage": "http://tunein.com/radio/Utvarp-Bodun-1055-s102576/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s102576q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Iceland",
+    "country_code": "IS",
+    "language": "icelandic",
+    "tags": "reykjavik,religion",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961016bd-0601-11e8-ae97-52543be04c81",
+    "name": "Energy Bern (NRJ)",
+    "url": "http://broadcast.infomaniak.ch/energybern-high.mp3",
+    "homepage": "http://www.energy.ch/bern/",
+    "favicon": "http://www.energy.ch/fileadmin/framework/img/menu/energy_logo_max.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "pop,news",
+    "state": "Bern",
+    "bitrate": 0
+}

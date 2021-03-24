@@ -1,0 +1,14 @@
+{
+    "uuid": "4d6b3838-b41f-4197-884a-7308c4bf0ed4",
+    "name": "KWLS Radio",
+    "url": "http://stream.hubris.net/kwls",
+    "homepage": "https://www.kwlsradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KWLS.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Winfield KS",
+    "bitrate": 48
+}

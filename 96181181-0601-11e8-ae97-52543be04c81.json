@@ -1,0 +1,14 @@
+{
+    "uuid": "96181181-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM",
+    "url": "http://streams.fluxfm.de/live/aac-64/audio/",
+    "homepage": "http://www.fluxfm.de/",
+    "favicon": "http://www.fluxfm.de/wp-content/uploads/2016/04/FluxFM-1-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Berlin",
+    "bitrate": 64
+}

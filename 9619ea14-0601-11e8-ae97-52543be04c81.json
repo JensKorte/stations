@@ -1,0 +1,14 @@
+{
+    "uuid": "9619ea14-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 105 Network",
+    "url": "http://icecast.unitedradio.it/Radio105.mp3",
+    "homepage": "http://www.105.net/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/it/0/01/105.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "mediaset,top 40,pop,hits",
+    "state": "Lombardia",
+    "bitrate": 128
+}

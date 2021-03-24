@@ -1,0 +1,14 @@
+{
+    "uuid": "96298c0b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Nord",
+    "url": "http://netradio.radionord.dk:8000/RadioNord",
+    "homepage": "http://www.radionord.dk/",
+    "favicon": "http://www.radionord.dk/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

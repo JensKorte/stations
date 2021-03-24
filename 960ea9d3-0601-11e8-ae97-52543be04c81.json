@@ -1,0 +1,14 @@
+{
+    "uuid": "960ea9d3-0601-11e8-ae97-52543be04c81",
+    "name": "Hamsi FM",
+    "url": "http://radyo.hamsi.fm:8050/",
+    "homepage": "http://www.hamsi.fm/",
+    "favicon": "http://www.hamsi.fm/images/radio_station.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "turkish",
+    "tags": "helsinki,ethnic programming",
+    "state": "",
+    "bitrate": 128
+}

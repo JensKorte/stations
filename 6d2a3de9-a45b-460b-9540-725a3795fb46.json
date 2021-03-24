@@ -1,0 +1,14 @@
+{
+    "uuid": "6d2a3de9-a45b-460b-9540-725a3795fb46",
+    "name": "delta radio - Deutsch [64 aac]",
+    "url": "http://streams.deltaradio.de/delta-deutsch/aac-64/mediaplayer/",
+    "homepage": "https://www.deltaradio.de/streams/delta-radio-deutsch",
+    "favicon": "https://www.deltaradio.de/frontend/theme-delta/design/logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "deutsch",
+    "state": "Hamburg",
+    "bitrate": 64
+}

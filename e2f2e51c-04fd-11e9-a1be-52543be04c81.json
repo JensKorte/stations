@@ -1,0 +1,14 @@
+{
+    "uuid": "e2f2e51c-04fd-11e9-a1be-52543be04c81",
+    "name": "Radio München",
+    "url": "http://icecast01.netzwerkoptimierung.com:8000/radiomuenchen.mp3.m3u",
+    "homepage": "https://www.radiomuenchen.net/",
+    "favicon": "https://www.radiomuenchen.net/images/startseite/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "unternehmen der gemeinwohlökonomie",
+    "state": "Bavaria",
+    "bitrate": 256
+}

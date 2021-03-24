@@ -1,0 +1,14 @@
+{
+    "uuid": "9631803a-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 3 (64 kbit/s)",
+    "url": "http://mp3-live.swr3.de/swr3_s.m3u",
+    "homepage": "https://www.swr3.de/",
+    "favicon": "https://lh3.googleusercontent.com/oOWuVPV4ObKnsKI1hv7CLrqGPEdwWkQz2QKagMckc5fNscyjGAmqijlS9b2tRr-qqjhr=w300",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

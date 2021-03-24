@@ -1,0 +1,14 @@
+{
+    "uuid": "962b0b1e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Diva",
+    "url": "http://nrf1.newradio.it:9662/stream",
+    "homepage": "http://www.radiodiva.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s92229q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "porto viro,adult contemporary",
+    "state": "Veneto",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "960cf36e-0601-11e8-ae97-52543be04c81",
+    "name": "SWR 2 Archivradio",
+    "url": "http://mp3-live.swr.de/swr2raka01_m.m3u",
+    "homepage": "http://swr.de/swr2/archivradio",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/SWR2.svg/320px-SWR2.svg.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "info,information,information,documentation,talk",
+    "state": "Baden-Württemberg",
+    "bitrate": 0
+}

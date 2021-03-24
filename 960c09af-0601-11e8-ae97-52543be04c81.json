@@ -1,0 +1,14 @@
+{
+    "uuid": "960c09af-0601-11e8-ae97-52543be04c81",
+    "name": "Concierto",
+    "url": "http://provisioning.streamtheworld.com/pls/CONCIERTO.pls",
+    "homepage": "http://www.concierto.cl/",
+    "favicon": "http://www.concierto.cl/wp-content/themes/conciertov3/_/inc/images/icon-concierto.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "talk,music,contemporary",
+    "state": "Santiago",
+    "bitrate": 128
+}

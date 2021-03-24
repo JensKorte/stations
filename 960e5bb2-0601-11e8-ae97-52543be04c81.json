@@ -1,0 +1,14 @@
+{
+    "uuid": "960e5bb2-0601-11e8-ae97-52543be04c81",
+    "name": "Radyo Spor",
+    "url": "http://46.20.4.5:8170",
+    "homepage": "http://www.radyospor.com/",
+    "favicon": "http://www.radyospor.com/img/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "sport",
+    "state": "",
+    "bitrate": 80
+}

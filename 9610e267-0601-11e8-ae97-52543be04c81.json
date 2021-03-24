@@ -1,0 +1,14 @@
+{
+    "uuid": "9610e267-0601-11e8-ae97-52543be04c81",
+    "name": "Rock Radio",
+    "url": "http://stream5.radioagora.pl:8006",
+    "homepage": "http://www.rockradio.pl/",
+    "favicon": "http://static.fm.tuba.pl/stations/_img/rock-radio_512.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "rock",
+    "state": "Warszawa",
+    "bitrate": 128
+}

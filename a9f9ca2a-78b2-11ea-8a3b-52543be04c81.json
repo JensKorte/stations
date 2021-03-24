@@ -1,0 +1,14 @@
+{
+    "uuid": "a9f9ca2a-78b2-11ea-8a3b-52543be04c81",
+    "name": "Aragón Radio",
+    "url": "https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8",
+    "homepage": "http://www.aragonradio.es/",
+    "favicon": "http://aragonradio.es/images/logo_og_cards.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español,spanish",
+    "tags": "aragon",
+    "state": "Aragón",
+    "bitrate": 96
+}

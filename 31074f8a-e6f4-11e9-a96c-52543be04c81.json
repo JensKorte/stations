@@ -1,0 +1,14 @@
+{
+    "uuid": "31074f8a-e6f4-11e9-a96c-52543be04c81",
+    "name": "France Info",
+    "url": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
+    "homepage": "https://www.francetvinfo.fr/en-direct/radio.html",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/1024px-France_Info_-_2008.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,information,public radio,aac",
+    "state": "",
+    "bitrate": 0
+}

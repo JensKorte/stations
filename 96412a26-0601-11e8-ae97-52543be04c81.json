@@ -1,0 +1,14 @@
+{
+    "uuid": "96412a26-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Tønsberg",
+    "url": "http://stream.jaerradiogruppen.no:8004",
+    "homepage": "http://www.radiotonsberg.no",
+    "favicon": "http://www.radiotonsberg.no/images/radio-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "",
+    "state": "Vestfold",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8bdd8045-6ddf-4481-8fc0-7c68c68c71b7",
+    "name": "Radio 101",
+    "url": "http://live.radio101.hr:9531/stream.mp3",
+    "homepage": "http://radio101.hr/",
+    "favicon": "http://radio101.hr/wp-content/uploads/2017/07/cropped-Untitled-design-1-192x192.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

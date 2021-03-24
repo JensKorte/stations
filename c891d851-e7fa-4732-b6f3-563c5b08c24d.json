@@ -1,0 +1,14 @@
+{
+    "uuid": "c891d851-e7fa-4732-b6f3-563c5b08c24d",
+    "name": "Radio Patata",
+    "url": "http://daniel.torontocast.com:1080/stream",
+    "homepage": "http://www.patataradio.com",
+    "favicon": "http://www.patataradio.com/images/logo-radio-patata.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italiano",
+    "tags": "musica anni 80",
+    "state": "Calabria",
+    "bitrate": 128
+}

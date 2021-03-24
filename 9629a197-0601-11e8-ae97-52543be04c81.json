@@ -1,0 +1,14 @@
+{
+    "uuid": "9629a197-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Lombardia",
+    "url": "http://onair11.xdevel.com:10014/listen.pls",
+    "homepage": "http://www.radiolombardia.it/",
+    "favicon": "http://www.radiolombardia.it/wp-content/uploads/2016/10/RL_140px.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "variety,news",
+    "state": "Lombardia",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96291113-0601-11e8-ae97-52543be04c81",
+    "name": "Ciao Italia Radio",
+    "url": "http://31.220.4.253:8000/stream",
+    "homepage": "http://www.ciaoitaliaradio.club/",
+    "favicon": "http://www.ciaoitaliaradio.club/images/logo_nuovo_piccolo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,60s,70s,80s,90s,classic hits,italian pop",
+    "state": "Lazio",
+    "bitrate": 128
+}

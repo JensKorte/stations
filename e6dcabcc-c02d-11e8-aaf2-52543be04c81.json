@@ -1,0 +1,14 @@
+{
+    "uuid": "e6dcabcc-c02d-11e8-aaf2-52543be04c81",
+    "name": "Radio Tintouin",
+    "url": "http://airtime.radiotintouin.org:8000/tintouin_ld.m3u",
+    "homepage": "http://www.radiotintouin.org",
+    "favicon": "http://www.radiotintouin.org/wp-content/uploads/2015/11/cropped-Favicon3NEW-300x300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio locale et associative à vierzon,local radio,local news",
+    "state": "",
+    "bitrate": 128
+}

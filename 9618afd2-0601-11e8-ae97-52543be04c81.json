@@ -1,0 +1,14 @@
+{
+    "uuid": "9618afd2-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Clasic Romania - HD Stream",
+    "url": "http://37.251.146.169:8000/streamHD",
+    "homepage": "http://www.clasicradio.ro/",
+    "favicon": "https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "classical,symphony",
+    "state": "",
+    "bitrate": 320
+}

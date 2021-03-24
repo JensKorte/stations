@@ -1,0 +1,14 @@
+{
+    "uuid": "962c48d8-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sandels",
+    "url": "http://suomiradio.pro:8080/listen.pls",
+    "homepage": "http://www.radiosandels.fi/",
+    "favicon": "http://radiosandels.fi/attachments/Image/Radio-Sandels-LOGO-2016-page-001.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "adult contemporary",
+    "state": "",
+    "bitrate": 128
+}

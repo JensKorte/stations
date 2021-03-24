@@ -1,0 +1,14 @@
+{
+    "uuid": "961008cb-0601-11e8-ae97-52543be04c81",
+    "name": "Radio ProRock",
+    "url": "http://91.232.4.33:9073/stream",
+    "homepage": "http://www.prorock.eu/",
+    "favicon": "http://www.prorock.eu//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "rock",
+    "state": "Bytom",
+    "bitrate": 128
+}

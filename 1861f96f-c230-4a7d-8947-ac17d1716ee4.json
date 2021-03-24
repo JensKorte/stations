@@ -1,0 +1,14 @@
+{
+    "uuid": "1861f96f-c230-4a7d-8947-ac17d1716ee4",
+    "name": "Radio Korčula",
+    "url": "http://radio.radio-korcula.hr:7845/",
+    "homepage": "https://www.radio-korcula.hr/",
+    "favicon": "https://www.radio-korcula.hr/assets/images/rklogo-01-506x128-14.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "information,folk,pop,local news",
+    "state": "",
+    "bitrate": 128
+}

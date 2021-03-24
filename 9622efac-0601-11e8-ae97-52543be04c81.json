@@ -1,0 +1,14 @@
+{
+    "uuid": "9622efac-0601-11e8-ae97-52543be04c81",
+    "name": "Forest FM 92.3 - Verwood",
+    "url": "http://195.10.228.4:8000/forestfm.mp3",
+    "homepage": "http://www.forestfm.co.uk/",
+    "favicon": "http://www.forestfm.co.uk/images/layout/header-logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "verwood,east dorset,community radio",
+    "state": "Dorset",
+    "bitrate": 0
+}

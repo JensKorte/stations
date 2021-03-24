@@ -1,0 +1,14 @@
+{
+    "uuid": "9615b601-0601-11e8-ae97-52543be04c81",
+    "name": "Liffey Sound FM",
+    "url": "http://stream.liffeysoundfm.ie:8000/listen.pls?sid=1",
+    "homepage": "http://liffeysoundfm.ie/",
+    "favicon": "http://www.liveradio.ie/files/images/112418/resized/140x134c/liffey_sound_fm.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "local,community",
+    "state": "",
+    "bitrate": 128
+}

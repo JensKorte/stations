@@ -1,0 +1,14 @@
+{
+    "uuid": "b85883cb-4509-11ea-a860-52543be04c81",
+    "name": "kick!fm",
+    "url": "http://live.kickfm.eu:8000/",
+    "homepage": "http://www.kickfm.eu/",
+    "favicon": "http://www.kickfm.eu/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "electronica",
+    "state": "",
+    "bitrate": 192
+}

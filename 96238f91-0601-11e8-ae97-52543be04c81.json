@@ -1,0 +1,14 @@
+{
+    "uuid": "96238f91-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Classic FM (AAC)",
+    "url": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
+    "homepage": "http://www.abc.net.au/classic/",
+    "favicon": "https://resize.abcradio.net.au/4GUklHXdTn7IZ1zjuScFScE7VkI=/100x100/center/middle/http://www.abc.net.au/radio/images/service/classic.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "abc,public radio,classical",
+    "state": "",
+    "bitrate": 64
+}

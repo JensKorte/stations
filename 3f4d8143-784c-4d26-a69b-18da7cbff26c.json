@@ -1,0 +1,14 @@
+{
+    "uuid": "3f4d8143-784c-4d26-a69b-18da7cbff26c",
+    "name": "WSBT Radio",
+    "url": "https://live.wostreaming.net/direct/wsbt-wsbtamaac-ibc1",
+    "homepage": "https://www.wsbtradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WSBT.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "sports",
+    "state": "South Bend IN",
+    "bitrate": 48
+}

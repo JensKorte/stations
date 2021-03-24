@@ -1,0 +1,14 @@
+{
+    "uuid": "e046d04f-75fb-11e8-83fa-52543be04c81",
+    "name": "NDR 2 Rock",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop21.m3u",
+    "homepage": "https://www.ndr.de/ndr2/sendungen/webradio/index.html",
+    "favicon": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop21.m3u",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rock",
+    "state": "Hamburg",
+    "bitrate": 0
+}

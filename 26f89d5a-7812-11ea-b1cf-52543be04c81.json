@@ -1,0 +1,14 @@
+{
+    "uuid": "26f89d5a-7812-11ea-b1cf-52543be04c81",
+    "name": "Radio Liberty FM",
+    "url": "http://nrf1.newradio.it:10170/stream",
+    "homepage": "http://libertyfm.it",
+    "favicon": "https://imagizer.imageshack.com/v2/833x625q90/923/WvZG2q.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "country,pop,rock",
+    "state": "Piemonte",
+    "bitrate": 64
+}

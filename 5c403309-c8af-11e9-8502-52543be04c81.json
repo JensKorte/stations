@@ -1,0 +1,14 @@
+{
+    "uuid": "5c403309-c8af-11e9-8502-52543be04c81",
+    "name": "Radio Yan (Greek Zebekiko)",
+    "url": "http://83.169.36.75:8002/stream",
+    "homepage": "https://www.radioyan.com/greek/",
+    "favicon": "https://www.radioyan.com/greek/wp-content/uploads/2017/11/greek-radio-Favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "zebekika,laika",
+    "state": "",
+    "bitrate": 64
+}

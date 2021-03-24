@@ -1,0 +1,14 @@
+{
+    "uuid": "96c148b5-7023-11ea-b1cf-52543be04c81",
+    "name": "WSM Route 650 Americana",
+    "url": "http://stream01050.westreamradio.com/wsm2-mp3",
+    "homepage": "https://wsmonline.com/",
+    "favicon": "https://wsmonline.com/wp-content/uploads/sites/10/2020/03/mstile-70x70-1.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "americana,country",
+    "state": "Tennessee",
+    "bitrate": 64
+}

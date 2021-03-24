@@ -1,0 +1,14 @@
+{
+    "uuid": "2c000bb2-a793-45a9-a8b1-b96edd601905",
+    "name": "KHUB Radio",
+    "url": "http://173.193.205.96:7373/stream",
+    "homepage": "https://www.thebestmix1055.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KHUB.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "country",
+    "state": "Fremont NE",
+    "bitrate": 128
+}

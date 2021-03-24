@@ -1,0 +1,14 @@
+{
+    "uuid": "7c524695-4629-11e8-8919-52543be04c81",
+    "name": "Loudi General TV",
+    "url": "http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8",
+    "homepage": "http://www.ldntv.cn/",
+    "favicon": "http://www.ldntv.cn/\n/Portal/Tpl/templates/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,hunan",
+    "state": "Hunan",
+    "bitrate": 4238
+}

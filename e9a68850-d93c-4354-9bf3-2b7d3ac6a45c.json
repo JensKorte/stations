@@ -1,0 +1,14 @@
+{
+    "uuid": "e9a68850-d93c-4354-9bf3-2b7d3ac6a45c",
+    "name": "WRUW",
+    "url": "http://wruw-stream.wruw.org:8000/stream256.mp3",
+    "homepage": "https://wruw.org",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "college,cleveland",
+    "state": "OH",
+    "bitrate": 256
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9641ea2c-0601-11e8-ae97-52543be04c81",
+    "name": "Concertzender Hard Bop",
+    "url": "http://streams.greenhost.nl:8080/hardbop",
+    "homepage": "https://www.concertzender.nl/programma_genre/jazz/",
+    "favicon": "https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Jazz.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch,english",
+    "tags": "jazz",
+    "state": "",
+    "bitrate": 128
+}

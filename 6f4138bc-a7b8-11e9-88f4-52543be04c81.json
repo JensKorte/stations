@@ -1,0 +1,14 @@
+{
+    "uuid": "6f4138bc-a7b8-11e9-88f4-52543be04c81",
+    "name": "bigFM Rap Feature",
+    "url": "http://streams.bigfm.de/bigfm-rapfeature-128-mp3?usid=0-0-H-M-D-60",
+    "homepage": "https://www.bigfm.de",
+    "favicon": "https://cdn.bigfm.de/sites/default/files/styles/wide/public/scald/image/bigFM_RAP_FEATURE_AG.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "hiphop,rap",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

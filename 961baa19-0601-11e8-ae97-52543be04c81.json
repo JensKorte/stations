@@ -1,0 +1,14 @@
+{
+    "uuid": "961baa19-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Dei Kristiinankaupunki",
+    "url": "http://isojako.radiodei.fi:8000/kristiinankaupunki",
+    "homepage": "http://www.radiodei.fi/",
+    "favicon": "http://www.radiodei.fi/wp-content/uploads/2016/05/default.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "religion",
+    "state": "Pohjanmaa",
+    "bitrate": 256
+}

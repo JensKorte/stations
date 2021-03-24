@@ -1,0 +1,14 @@
+{
+    "uuid": "288068c6-7bd3-4853-88a7-e97c71a4dd3c",
+    "name": "Apsara TV",
+    "url": "http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8",
+    "homepage": "http://www.apsaracentral.com/",
+    "favicon": "http://nettvplus.live/uploads/19/1-19111QP036363.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "language": "khmer",
+    "tags": "",
+    "state": "Phnom Penh",
+    "bitrate": 4886
+}

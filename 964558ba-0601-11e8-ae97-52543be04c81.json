@@ -1,0 +1,14 @@
+{
+    "uuid": "964558ba-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio Jedynka",
+    "url": "http://mp3.polskieradio.pl:8900/;.mp3",
+    "homepage": "http://www.polskieradio.pl/jedynka/",
+    "favicon": "http://www.polskieradio.pl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "polskieradio,public radio",
+    "state": "",
+    "bitrate": 192
+}

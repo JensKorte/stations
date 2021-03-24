@@ -1,0 +1,14 @@
+{
+    "uuid": "96194f50-0601-11e8-ae97-52543be04c81",
+    "name": "R.SA Das Schnarchnasenradio",
+    "url": "http://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de/play.m3u",
+    "homepage": "http://www.rsa-sachsen.de/",
+    "favicon": "http://media.streamabc.com/livestream.rsa-sachsen.de/rsa-live/R.SA_Livestream_600x600_color.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "ambient,calm,sleep",
+    "state": "Saxony",
+    "bitrate": 192
+}

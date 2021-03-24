@@ -1,0 +1,14 @@
+{
+    "uuid": "d0ce17c9-db18-46c2-b575-dd171ab519fe",
+    "name": "DGT Sender",
+    "url": "http://stream.laut.fm/dgt-sender",
+    "homepage": "https://laut.fm/dgt-sender",
+    "favicon": "https://laut.fm/stations/favorites",
+    "creation": "2021-02-18 22:29:13",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english,german",
+    "tags": "40s,30s,20s,oldies",
+    "state": "Berlin",
+    "bitrate": 128
+}

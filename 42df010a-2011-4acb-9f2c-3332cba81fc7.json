@@ -1,0 +1,14 @@
+{
+    "uuid": "42df010a-2011-4acb-9f2c-3332cba81fc7",
+    "name": "Radio Maria (Cuenca)",
+    "url": "http://radioserver11.profesionalhosting.com:9069/stream",
+    "homepage": "https://www.radiomariaecuador.org/",
+    "favicon": "https://dl.dropbox.com/s/xgf8c4zyo6j3in8/radio%20maria%20cuenca.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "español latino",
+    "tags": "catolicidad,catolicismo,catolica,musica catolica,catolico,radio catolica,iglesia catolica",
+    "state": "azuay",
+    "bitrate": 64
+}

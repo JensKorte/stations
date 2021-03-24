@@ -1,0 +1,14 @@
+{
+    "uuid": "9619f061-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Aktiv",
+    "url": "http://zeus.lrb.lu:8000/stream",
+    "homepage": "https://www.radioaktiv106-5.org",
+    "favicon": "https://image.jimcdn.com/app/cms/image/transf/dimension=276x10000:format=jpg/path/s9f9dfe0c98e9fb9b/image/id6af0bef81fa7fc3/version/1485371989/image.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "language": "luxembourgish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "065971ca-2b0e-4982-9b6e-416b7b262e7e",
+    "name": "Radio 5",
+    "url": "https://streaming.radio5.com.pl:8888/radio5suwalki",
+    "homepage": "https://radio5.com.pl/",
+    "favicon": "https://radio5.com.pl/player/tmp/images/default.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

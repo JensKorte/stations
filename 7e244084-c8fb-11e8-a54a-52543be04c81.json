@@ -1,0 +1,14 @@
+{
+    "uuid": "7e244084-c8fb-11e8-a54a-52543be04c81",
+    "name": "NHK WORLD RADIO JAPAN",
+    "url": "http://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263949/live_s.m3u8",
+    "homepage": "https://www3.nhk.or.jp/nhkworld/",
+    "favicon": "https://www3.nhk.or.jp//nhkworld/common/site_images/nw_webapp.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "english",
+    "tags": "news",
+    "state": "",
+    "bitrate": 53
+}

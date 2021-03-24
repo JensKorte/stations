@@ -1,0 +1,14 @@
+{
+    "uuid": "9623748b-0601-11e8-ae97-52543be04c81",
+    "name": "ABC A-League Live (MP3)",
+    "url": "http://live-radio02.mediahubaustralia.com/IT2W/mp3/;",
+    "homepage": "https://radio.abc.net.au/stations/itinerant_two/live?play=true",
+    "favicon": "https://resize.abcradio.net.au/CKmF2rMPunS6jOTtkRUoCgLsa9s=/100x100/center/middle/http://www.abc.net.au/radio/images/service/itinerant_two.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "abc,public radio,live sports",
+    "state": "",
+    "bitrate": 96
+}

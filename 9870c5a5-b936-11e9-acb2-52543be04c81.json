@@ -1,0 +1,14 @@
+{
+    "uuid": "9870c5a5-b936-11e9-acb2-52543be04c81",
+    "name": "Play FM",
+    "url": "http://audio.questreaming.com:25157/",
+    "homepage": "http://radiofmplay.com.ar/",
+    "favicon": "http://radiofmplay.com.ar/wp-content/uploads/2017/10/logoplay.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "castellano",
+    "tags": "",
+    "state": "Córdoba",
+    "bitrate": 32
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "da3527f7-b71e-49e0-a9d5-57102350ffc5",
+    "name": "Bloomberg Radio Boston",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAMAAC.aac",
+    "homepage": "https://www.bloombergradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/BloombergBoston.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk",
+    "state": "Watertown MA",
+    "bitrate": 112
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "0e22b8eb-c3ac-11e9-8502-52543be04c81",
+    "name": "Connecticut Radio Information System (CRIS)",
+    "url": "http://lin3.ash.fast-serv.com:6064/stream",
+    "homepage": "https://crisradio.org/",
+    "favicon": "https://crisradio.org/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "radio for the print handicapped,radio reading service",
+    "state": "Connecticut",
+    "bitrate": 80
+}

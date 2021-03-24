@@ -1,0 +1,14 @@
+{
+    "uuid": "c1c39577-155d-4488-b37f-209b22827527",
+    "name": "tdp",
+    "url": "https://rtvelivestream-lvlt.rtve.es/tdp_dvr.m3u8",
+    "homepage": "https://www.rtve.es/directo/teledeporte/",
+    "favicon": "https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "castellano,español,spanish",
+    "tags": "sports,deportes",
+    "state": "Madrid",
+    "bitrate": 5151
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963d63aa-0601-11e8-ae97-52543be04c81",
+    "name": "Laut.fm seasaltradio - Sea Salt Radio",
+    "url": "http://stream.laut.fm:80/seasaltradio",
+    "homepage": "http://www.laut.fm/seasaltradio",
+    "favicon": "http://assets.laut.fm/071958eb1ff93f1617f5ea66d4f98e1d?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "relaxation",
+    "state": "",
+    "bitrate": 128
+}

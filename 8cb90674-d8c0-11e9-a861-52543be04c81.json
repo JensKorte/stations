@@ -1,0 +1,14 @@
+{
+    "uuid": "8cb90674-d8c0-11e9-a861-52543be04c81",
+    "name": "Globo FM",
+    "url": "http://r6.ciclano.io:10009/stream",
+    "homepage": "http://www.gfm.com.br/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/V8ssEqpVTV.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961a25d6-0601-11e8-ae97-52543be04c81",
+    "name": "WYPR 88.1 Baltimore, MD",
+    "url": "http://provisioning.streamtheworld.com/pls/WYPR_HD1AAC.pls",
+    "homepage": "http://wypr.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wyprmain/files/201509/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "baltimore,bbc,apm,pri,npr,public radio",
+    "state": "Maryland",
+    "bitrate": 64
+}

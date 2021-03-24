@@ -1,0 +1,14 @@
+{
+    "uuid": "bf22b87a-ca49-48b7-9daa-2e639f88cec9",
+    "name": "Radio UADY",
+    "url": "https://radio.uady.mx:8443/radiouniversidad",
+    "homepage": "https://www.uady.mx/radio-universidad",
+    "favicon": "https://i.imgur.com/jyTcsXr.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "espanol,spanish,español latino",
+    "tags": "autonoma,yucatan,uady,universidad,public radio",
+    "state": "Yucatan",
+    "bitrate": 64
+}

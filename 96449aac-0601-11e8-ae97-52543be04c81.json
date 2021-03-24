@@ -1,0 +1,14 @@
+{
+    "uuid": "96449aac-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Digi-One",
+    "url": "http://188.165.192.5:8416/stream",
+    "homepage": "http://www.radiodigione.net/",
+    "favicon": "http://www.radiodigione.net/wp-content/uploads/2016/06/dg1logo-transp-osk-01-b-800x200-e1466935709786.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "trento,pop",
+    "state": "Trentino-Alto Adige/Südtirol",
+    "bitrate": 128
+}

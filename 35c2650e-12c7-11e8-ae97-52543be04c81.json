@@ -1,0 +1,14 @@
+{
+    "uuid": "35c2650e-12c7-11e8-ae97-52543be04c81",
+    "name": "KSRO 1350 AM Santa Rosa, CA",
+    "url": "http://stream.abacast.net/playlist/sonoma-ksroammp3-ibc3.m3u",
+    "homepage": "http://www.ksro.com/",
+    "favicon": "https://www.vsquared.rocks/wp-content/uploads/2014/12/ksro-radio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "sonoma county,news,talk,coast to coast am",
+    "state": "California",
+    "bitrate": 128
+}

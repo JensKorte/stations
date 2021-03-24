@@ -1,0 +1,14 @@
+{
+    "uuid": "97bb257a-180a-4abc-b103-6a6e6614e307",
+    "name": "V-Hive Radio Philippines",
+    "url": "http://192.99.8.192:3154/vhiveradiostream",
+    "homepage": "https://radio.org.ph/v-hive/",
+    "favicon": "https://cdn.webrad.io/images/logos/radio-org-ph/v-hive.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Philippines",
+    "country_code": "PH",
+    "language": "tagalog,english",
+    "tags": "opm hits,tagalog,opm,pop pinoy",
+    "state": "",
+    "bitrate": 128
+}

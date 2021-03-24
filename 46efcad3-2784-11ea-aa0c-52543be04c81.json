@@ -1,0 +1,14 @@
+{
+    "uuid": "46efcad3-2784-11ea-aa0c-52543be04c81",
+    "name": "Rádio UFRGS",
+    "url": "http://radioaovivo.ufrgs.br:8000/stream.mp3.m3u",
+    "homepage": "http://www.ufrgs.br/radio/",
+    "favicon": "http://www.ufrgs.br/radio/assets/images/logoradio145x144-111.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "news talk,mpb",
+    "state": "Rio Grande do Sul",
+    "bitrate": 0
+}

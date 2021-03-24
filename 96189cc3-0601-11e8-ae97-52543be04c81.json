@@ -1,0 +1,14 @@
+{
+    "uuid": "96189cc3-0601-11e8-ae97-52543be04c81",
+    "name": "Radio ABC",
+    "url": "http://netradio.radioabc.dk/",
+    "homepage": "http://radioabc.dk/",
+    "favicon": "http://mundlam.com/radioabc/wp-content/uploads/goliath/RadioABC_logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 256
+}

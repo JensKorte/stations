@@ -1,0 +1,14 @@
+{
+    "uuid": "f880343e-4f60-4fb5-9569-3b1ce6757774",
+    "name": "4RO 990 AM Rockhampton",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4ROAAC.aac",
+    "homepage": "http://www.4ro.com.au/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/TbgB3P4F5C.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "music,talk,news,rockhampton",
+    "state": "Rockhampton",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961eb26a-0601-11e8-ae97-52543be04c81",
+    "name": "Hotmix Radio Hip-Hop",
+    "url": "http://streaming.hotmix-radio.net/hotmixradio-hiphop-128.mp3",
+    "homepage": "http://www.hotmixradio.fr/hiphop",
+    "favicon": "http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Hiphop.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "hiphop",
+    "state": "",
+    "bitrate": 128
+}

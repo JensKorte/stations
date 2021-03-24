@@ -1,0 +1,14 @@
+{
+    "uuid": "a837ac59-6fe2-11e9-af37-52543be04c81",
+    "name": "Radio Maria Schweiz (64k)",
+    "url": "http://player.radio-maria.ch:9000/radiomarialo_64",
+    "homepage": "http://www.radiomaria.ch",
+    "favicon": "https://www.radiomaria.ch/sites/default/files/favicon_0.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "religion,talk,katholic,catholic,christian",
+    "state": "Zürich",
+    "bitrate": 64
+}

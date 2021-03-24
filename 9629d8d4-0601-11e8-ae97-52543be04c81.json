@@ -1,0 +1,14 @@
+{
+    "uuid": "9629d8d4-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Record",
+    "url": "http://wma02.fluidstream.net:9030/listen.pls",
+    "homepage": "http://www.radiorecord.com/",
+    "favicon": "http://www.radiorecord.com/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Emilia-Romagna",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9629d533-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Voghera",
+    "url": "http://onair11.xdevel.com:10024/listen.pls",
+    "homepage": "http://www.radiovoghera.com/",
+    "favicon": "http://www.paviapiu.it/wp-content/themes/paviapiu/images/icon/apple-touch-icon-114x114.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "italian pop,news",
+    "state": "Lombardia",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963501d6-0601-11e8-ae97-52543be04c81",
+    "name": "Exa FM 91.3 El Salvador",
+    "url": "http://158.69.219.162:8028/stream",
+    "homepage": "http://www.miradio.com.sv/",
+    "favicon": "http://www.miradio.com.sv/assets/xradio-exa-d00ef816e49cacf35935ef567d17ea9cce0f78204195d0ff9986129c12ab40b9.png.pagespeed.ic.4pXXXK8C6O.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "language": "spanish",
+    "tags": "top 40,pop",
+    "state": "San Salvador",
+    "bitrate": 64
+}

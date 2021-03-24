@@ -1,0 +1,14 @@
+{
+    "uuid": "60993d59-5f7d-11e9-a622-52543be04c81",
+    "name": "Голос Патриота",
+    "url": "http://193.124.115.157:8000/;stream.nsv",
+    "homepage": "http://radiogolospatriota.info/",
+    "favicon": "http://radiogolospatriota.info///templates/radio/img/smallicon.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "русский,russian",
+    "tags": "russia,culture,political talk,politics,news talk,talk,news",
+    "state": "",
+    "bitrate": 128
+}

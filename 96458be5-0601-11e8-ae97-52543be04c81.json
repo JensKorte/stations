@@ -1,0 +1,14 @@
+{
+    "uuid": "96458be5-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - ElektroFlux",
+    "url": "http://streams.fluxfm.de/elektro/mp3-320/audio/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2016/04/ElectroFlux-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "electro",
+    "state": "Berlin",
+    "bitrate": 320
+}

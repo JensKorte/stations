@@ -1,0 +1,14 @@
+{
+    "uuid": "30c8fd30-39f6-461c-9056-fd79a6e2eb58",
+    "name": "ΕΡΤ Δεύτερο Πρόγραμμα",
+    "url": "https://radiostreaming.ert.gr/ert-deftero",
+    "homepage": "https://webradio.ert.gr/deftero/",
+    "favicon": "https://webradio.ert.gr/wp-content/uploads/2014/05/deytero-radioLogo.png",
+    "creation": "2021-03-14 08:12:27",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "public radio,ert deftero,ert",
+    "state": "",
+    "bitrate": 128
+}

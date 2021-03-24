@@ -1,0 +1,14 @@
+{
+    "uuid": "9633d4d6-0601-11e8-ae97-52543be04c81",
+    "name": "Live99 FM - Kralendijk",
+    "url": "http://162.244.80.220:8000/;stream.mp3",
+    "homepage": "http://live99fm.com/",
+    "favicon": "http://live99fm.com/wp-content/uploads/2017/07/LIVE99-170x170.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bonaire",
+    "country_code": "BQ",
+    "language": "papiamento",
+    "tags": "kralendijk,latin music,sport,talk,news",
+    "state": "",
+    "bitrate": 128
+}

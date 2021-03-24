@@ -1,0 +1,14 @@
+{
+    "uuid": "96120bb1-0601-11e8-ae97-52543be04c81",
+    "name": "delta radio Alternative",
+    "url": "http://streams.deltaradio.de/delta-alternative/mp3-192/mediaplayer",
+    "homepage": "http://www.deltaradio.de",
+    "favicon": "http://static.radio.de/images/broadcasts/b6/35/11012/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "alternative",
+    "state": "Schleswig-Holstein",
+    "bitrate": 192
+}

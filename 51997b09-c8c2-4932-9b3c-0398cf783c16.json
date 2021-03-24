@@ -1,0 +1,14 @@
+{
+    "uuid": "51997b09-c8c2-4932-9b3c-0398cf783c16",
+    "name": "NvRadio",
+    "url": "http://www.nv-radio.it:8000/stream",
+    "homepage": "https://www.nvapple.it",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "tecnologia,podcast,ciechi,accessibilità,non vedenti",
+    "state": "pd",
+    "bitrate": 0
+}

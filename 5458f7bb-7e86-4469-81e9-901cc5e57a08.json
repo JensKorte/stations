@@ -1,0 +1,14 @@
+{
+    "uuid": "5458f7bb-7e86-4469-81e9-901cc5e57a08",
+    "name": "Rakista Radio (mp3, 32 kbps)",
+    "url": "http://206.190.138.196:8000/listen32.mp3",
+    "homepage": "http://www.rakista.com",
+    "favicon": "https://rakista.com/public/admin/logo.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The Philippines",
+    "country_code": "PH",
+    "language": "philipino",
+    "tags": "rock",
+    "state": "",
+    "bitrate": 32
+}

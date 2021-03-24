@@ -1,0 +1,14 @@
+{
+    "uuid": "9618b6d0-0601-11e8-ae97-52543be04c81",
+    "name": "BNR Varna",
+    "url": "http://broadcast.masters.bg:8000/live",
+    "homepage": "http://bnr.bg/varna",
+    "favicon": "http://bnr.bg/img/logos/varna.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "public radio,bnr,pop",
+    "state": "Varna",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7de6f5c5-6937-11e9-af37-52543be04c81",
+    "name": "Dance Radio Amsterdam",
+    "url": "http://stream.danceradio.nl:9920/",
+    "homepage": "https://danceradio.in/",
+    "favicon": "https://danceradio.in/imgs/dricon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "funk,house,soul,rnb,dance,edm",
+    "state": "Amsterdam",
+    "bitrate": 185
+}

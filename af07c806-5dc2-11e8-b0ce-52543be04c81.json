@@ -1,0 +1,14 @@
+{
+    "uuid": "af07c806-5dc2-11e8-b0ce-52543be04c81",
+    "name": "JærRadioen",
+    "url": "http://stream.jaerradiogruppen.no:8018/listen.pls",
+    "homepage": "http://www.jaerradioen.no/",
+    "favicon": "http://www.jaerradioen.no/content/favicons/favicon128-blank.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "",
+    "state": "",
+    "bitrate": 192
+}

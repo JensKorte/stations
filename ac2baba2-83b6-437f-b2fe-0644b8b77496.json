@@ -1,0 +1,14 @@
+{
+    "uuid": "ac2baba2-83b6-437f-b2fe-0644b8b77496",
+    "name": "Cosmo TV",
+    "url": "http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8",
+    "homepage": "https://www.cosmopolitantv.es/",
+    "favicon": "https://www.cosmopolitantv.es/img/logo-cabecera.gif?id=2",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,castellano,español",
+    "tags": "series tv",
+    "state": "Madrid",
+    "bitrate": 3128
+}

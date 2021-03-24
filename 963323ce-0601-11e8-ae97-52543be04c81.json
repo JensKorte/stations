@@ -1,0 +1,14 @@
+{
+    "uuid": "963323ce-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Luce FM",
+    "url": "http://onair20.xdevel.com:8190/;stream.mp3",
+    "homepage": "http://www.radioluce.net/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s95203q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "barrafranca,pop",
+    "state": "Sicilia",
+    "bitrate": 128
+}

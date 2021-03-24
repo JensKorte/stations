@@ -1,0 +1,14 @@
+{
+    "uuid": "96280f04-0601-11e8-ae97-52543be04c81",
+    "name": "Radio RTM",
+    "url": "http://onair15.xdevel.com:8722/;stream.mp3",
+    "homepage": "http://www.radiortm.it/",
+    "favicon": "http://www.radiortm.it/wp-content/uploads/2017/03/LOGO-NEUTRO-150x150.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "modica,pop,talk,news,sport",
+    "state": "Sicilia",
+    "bitrate": 96
+}

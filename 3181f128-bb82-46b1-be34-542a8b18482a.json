@@ -1,0 +1,14 @@
+{
+    "uuid": "3181f128-bb82-46b1-be34-542a8b18482a",
+    "name": "KNVBC - Revival Radio",
+    "url": "http://stream.knvbc.com:8000/listen",
+    "homepage": "http://knvbc.com/listen.html",
+    "favicon": "http://knvbc.com/images/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "",
+    "state": "California",
+    "bitrate": 80
+}

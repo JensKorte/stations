@@ -1,0 +1,14 @@
+{
+    "uuid": "3d101bab-1445-11e8-ae97-52543be04c81",
+    "name": "Radio Cer",
+    "url": "http://stream1.contrateam.com:8040/listen.pls",
+    "homepage": "http://www.radiocer.net",
+    "favicon": "http://www.radiocer.net/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "919d3ff4-c057-40c8-a262-10e051cfa361",
+    "name": "CIQI",
+    "url": "http://stream.statsradio.com:8044/stream",
+    "homepage": "http://www.ciqifm.com/",
+    "favicon": "http://www.ciqifm.com/assets/favicons/safari-pinned-tab.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french,fr-ca",
+    "tags": "undefined",
+    "state": "Quebec",
+    "bitrate": 128
+}

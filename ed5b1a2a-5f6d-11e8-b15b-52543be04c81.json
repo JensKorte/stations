@@ -1,0 +1,14 @@
+{
+    "uuid": "ed5b1a2a-5f6d-11e8-b15b-52543be04c81",
+    "name": "Bunka Radio",
+    "url": "http://62.210.141.243:8275/;stream.mp3",
+    "homepage": "http://www.bunkaradio.com/",
+    "favicon": "http://www.bunkaradio.com/uploads/2/0/9/0/20905324/published/logo-blanco-radio.png?1484104972",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish,japanese",
+    "tags": "talk radio,pop,latin,rock,jpop,music,culture",
+    "state": "Bogotá",
+    "bitrate": 128
+}

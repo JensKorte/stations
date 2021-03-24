@@ -1,0 +1,14 @@
+{
+    "uuid": "e86c75c0-1427-11e8-ae97-52543be04c81",
+    "name": "KBEC 1390 AM Waxahachie, TX",
+    "url": "http://streamer.ectisp.net:8000/kbec.mp3",
+    "homepage": "http://www.kbec.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s31674d.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classic country,classic hits,local news,weather,sport,traffic",
+    "state": "Texas",
+    "bitrate": 20
+}

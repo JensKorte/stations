@@ -1,0 +1,14 @@
+{
+    "uuid": "992a701d-1438-11e8-ae97-52543be04c81",
+    "name": "Radio Buca",
+    "url": "http://live.bucaradio.com:8080/listen.pls",
+    "homepage": "http://www.bucaradio.com",
+    "favicon": "http://bucaradio.com/wp-content/uploads/2013/11/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 128
+}

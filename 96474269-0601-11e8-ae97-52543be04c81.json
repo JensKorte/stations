@@ -1,0 +1,14 @@
+{
+    "uuid": "96474269-0601-11e8-ae97-52543be04c81",
+    "name": "planet radio",
+    "url": "http://streams.planetradio.de/planetradio/mp3/livestream.m3u",
+    "homepage": "https://www.planetradio.de/index.html",
+    "favicon": "https://static.planetradio.de/fileadmin/templates/www.planetradio.de/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Hessen",
+    "bitrate": 128
+}

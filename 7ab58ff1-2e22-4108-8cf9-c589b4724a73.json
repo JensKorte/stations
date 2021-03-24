@@ -1,0 +1,14 @@
+{
+    "uuid": "7ab58ff1-2e22-4108-8cf9-c589b4724a73",
+    "name": "Ретро FM Сан-Ремо (64 kbps, m3u8)",
+    "url": "http://hls-01-sanremo.emgsound.ru/5/64/playlist.m3u8",
+    "homepage": "https://retrofm.ru/online/player.php?type=SanRemo",
+    "favicon": "https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_sanremo.png?v=2",
+    "creation": "2021-03-23 10:04:41",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "pop,retro,italo disco,disco",
+    "state": "Moscow",
+    "bitrate": 0
+}

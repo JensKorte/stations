@@ -1,0 +1,14 @@
+{
+    "uuid": "960ce338-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern - 80er Kulthits",
+    "url": "http://www.antenne.de/webradio/channels/80er-kulthits.m3u",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "https://bitrad.io/assets/img/covers/21062.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,80s",
+    "state": "Bavaria",
+    "bitrate": 128
+}

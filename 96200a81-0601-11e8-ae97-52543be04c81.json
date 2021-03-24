@@ -1,0 +1,14 @@
+{
+    "uuid": "96200a81-0601-11e8-ae97-52543be04c81",
+    "name": "BBC Radio Leeds",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrleeds_mf_p",
+    "homepage": "http://www.bbc.co.uk/programmes/p04k6ts6#play",
+    "favicon": "http://www.bbc.co.uk/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "bbc,local radio",
+    "state": "Leeds",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "272ae372-1df7-4e12-935f-b0e9fad65282",
+    "name": "Estção FM 89.5",
+    "url": "https://play.radio.br:8089/estacaofm/estacaofm/icecast.audio",
+    "homepage": "http://www.estacaofm.com.br/",
+    "favicon": "https://www.cxradio.com.br/img/Radio/Logo/3cec8d5721a88ed9c6c8ba0af97f919a.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "notícias,barão,carlos barbosa",
+    "state": "Rio Grande do Sul",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "4e7785fc-634e-458e-a6c7-530c9378939e",
+    "name": "KBSU 90.3",
+    "url": "https://icy1.boisestatepublicradio.org:444/KBSU-mp3",
+    "homepage": "https://www.boisestatepublicradio.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/Boise-State-Public-Radio.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "public radio,classical",
+    "state": "Boise ID",
+    "bitrate": 128
+}

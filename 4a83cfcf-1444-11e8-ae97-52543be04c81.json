@@ -1,0 +1,14 @@
+{
+    "uuid": "4a83cfcf-1444-11e8-ae97-52543be04c81",
+    "name": "Radio Lux",
+    "url": "http://62.240.6.3:9102/listen.pls",
+    "homepage": "http://www.luxradio.net",
+    "favicon": "http://www.luxradio.net//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "house,pop",
+    "state": "",
+    "bitrate": 96
+}

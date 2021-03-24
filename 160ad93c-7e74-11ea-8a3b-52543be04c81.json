@@ -1,0 +1,14 @@
+{
+    "uuid": "160ad93c-7e74-11ea-8a3b-52543be04c81",
+    "name": "KUOW Seattle",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3.mp3?ck=1586884589483",
+    "homepage": "",
+    "favicon": "https://media.npr.org/images/stations/nprone_logos/kuow.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "eng",
+    "tags": "npr,seattle",
+    "state": "WA",
+    "bitrate": 96
+}

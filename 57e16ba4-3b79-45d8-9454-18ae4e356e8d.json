@@ -1,0 +1,14 @@
+{
+    "uuid": "57e16ba4-3b79-45d8-9454-18ae4e356e8d",
+    "name": "STAR FM Berlin",
+    "url": "https://starfm-5.explodio.com/berlin.mp3",
+    "homepage": "https://berlin.starfm.de/",
+    "favicon": "https://static-test.berlin.starfm.de/img/8906/453418/897000/o/480/480/stream_1600x1600_bln.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "mainstream rock,rock",
+    "state": "Berlin",
+    "bitrate": 191
+}

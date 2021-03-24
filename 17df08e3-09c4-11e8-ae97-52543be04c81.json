@@ -1,0 +1,14 @@
+{
+    "uuid": "17df08e3-09c4-11e8-ae97-52543be04c81",
+    "name": "laut.fm DDR-Radio",
+    "url": "http://stream.laut.fm/ddr-radio",
+    "homepage": "https://laut.fm/ddr-radio",
+    "favicon": "https://assets.laut.fm/0cd87767cfe93532efe0957a7ac0977e?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "ddr",
+    "state": "",
+    "bitrate": 128
+}

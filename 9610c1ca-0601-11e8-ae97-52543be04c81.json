@@ -1,0 +1,14 @@
+{
+    "uuid": "9610c1ca-0601-11e8-ae97-52543be04c81",
+    "name": "DR Nyheder",
+    "url": "http://live-icy.gss.dr.dk/A/A02L.mp3.m3u",
+    "homepage": "http://www.dr.dk/nyheder/",
+    "favicon": "http://www.dr.dk/imagescaler/?file=http://www.dr.dk/assets/img/logos/dr-logo-radio-200x200.png\u0026server=www.dr.dk\u0026w=1200\u0026quality=70",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "news",
+    "state": "",
+    "bitrate": 0
+}

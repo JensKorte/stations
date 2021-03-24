@@ -1,0 +1,14 @@
+{
+    "uuid": "8e291283-3ab8-416b-9432-6381cf21da51",
+    "name": "Radio Libertaire 89.4MHz FM",
+    "url": "http://media.radio-libertaire.org:8080/radiolib.mp3",
+    "homepage": "https://www.radio-libertaire.net/",
+    "favicon": "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s38eab3b1d92587b0/image/ia47e45fb52863fa6/version/1437489151/image.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "français",
+    "tags": "music,talk",
+    "state": "",
+    "bitrate": 192
+}

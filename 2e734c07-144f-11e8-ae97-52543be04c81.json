@@ -1,0 +1,14 @@
+{
+    "uuid": "2e734c07-144f-11e8-ae97-52543be04c81",
+    "name": "Radio Šajkaška",
+    "url": "http://91.228.254.72:8000/listen.pls",
+    "homepage": "http://www.radiosajkaska.com",
+    "favicon": "http://www.radiosajkaska.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "local music",
+    "state": "",
+    "bitrate": 96
+}

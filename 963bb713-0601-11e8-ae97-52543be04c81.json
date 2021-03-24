@@ -1,0 +1,14 @@
+{
+    "uuid": "963bb713-0601-11e8-ae97-52543be04c81",
+    "name": "Energy Swiss",
+    "url": "http://energyswiss.ice.infomaniak.ch/energyswiss-high.mp3",
+    "homepage": "https://energy.ch/play/swiss",
+    "favicon": "https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_swiss_1493851016.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "swiss music",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e8736274-8a4e-11e8-aa66-52543be04c81",
+    "name": "Regional Radio",
+    "url": "http://lyra.shoutca.st:8593/stream",
+    "homepage": "http://www.regionalradio.it/",
+    "favicon": "https://cdn-profiles.tunein.com/s305394/images/logoq.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "easy listening,classic hits",
+    "state": "Lazio",
+    "bitrate": 64
+}

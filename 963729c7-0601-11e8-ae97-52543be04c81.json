@@ -1,0 +1,14 @@
+{
+    "uuid": "963729c7-0601-11e8-ae97-52543be04c81",
+    "name": "Rádió 1 Debrecen",
+    "url": "http://91.82.85.44:8080/debrecenradiofm95",
+    "homepage": "http://debrecenradiofm95.hu/",
+    "favicon": "http://graph.facebook.com/radio1debrecen/picture?type=large",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "pop",
+    "state": "Hajdú-Bihar",
+    "bitrate": 192
+}

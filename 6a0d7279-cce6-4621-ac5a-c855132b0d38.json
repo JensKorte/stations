@@ -1,0 +1,14 @@
+{
+    "uuid": "6a0d7279-cce6-4621-ac5a-c855132b0d38",
+    "name": "Emotion Radio",
+    "url": "http://37.221.192.109:21121/stream",
+    "homepage": "https://www.emotionradio.de/news.php",
+    "favicon": "https://www.emotionradio.de",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "deutsch,german",
+    "tags": "192kbps,2000s,90s,80s,pop,rock",
+    "state": "Deutschland (Germany)",
+    "bitrate": 192
+}

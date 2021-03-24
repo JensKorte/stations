@@ -1,0 +1,14 @@
+{
+    "uuid": "0c5d0ba3-61d2-11e8-b15b-52543be04c81",
+    "name": "Indie Gospel Radio",
+    "url": "http://stream.indiegospel.org:8000/stream",
+    "homepage": "https://indiegospel.net/radio",
+    "favicon": "https://indiegospel.net/data/media/0/0/favicon_1412610400.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "",
+    "tags": "christian,gospel",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "61c488b7-aef1-11e9-88f4-52543be04c81",
+    "name": "Radio Bochum - Top 40",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0140/deintop40/high/stream.mp3",
+    "homepage": "https://www.radiobochum.de/",
+    "favicon": "https://www.radiobochum.de/assets/images/favicons/radiobochum/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40,charts,regional radio",
+    "state": "Nordrhein-Westfalen - Bochum",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1b1a0f07-d82a-11e9-a861-52543be04c81",
+    "name": "FM 95.1 TBS fm",
+    "url": "http://58.234.158.60:1935/fmlive/myStream/playlist.m3u8",
+    "homepage": "http://www.tbs.seoul.kr/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uSW5P2YwpY.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Republic Of Korea",
+    "country_code": "KR",
+    "language": "korean",
+    "tags": "",
+    "state": "",
+    "bitrate": 134
+}

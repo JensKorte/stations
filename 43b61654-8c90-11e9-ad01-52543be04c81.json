@@ -1,0 +1,14 @@
+{
+    "uuid": "43b61654-8c90-11e9-ad01-52543be04c81",
+    "name": "Ribat FM",
+    "url": "http://yayin1.canliyayin.org:7010/;*.mp3",
+    "homepage": "http://www.ribatfm.com.tr/",
+    "favicon": "http://www.ribatfm.com.tr/images/fav.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "islamic",
+    "state": "Konya",
+    "bitrate": 64
+}

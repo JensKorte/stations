@@ -1,0 +1,14 @@
+{
+    "uuid": "960e7ba7-0601-11e8-ae97-52543be04c81",
+    "name": "RPR1.Trier",
+    "url": "http://streams.rpr1.de/rpr-trier-128-mp3",
+    "homepage": "http://www.rpr1.de/",
+    "favicon": "http://www.rpr1.de/sites/all/themes/rpr1/assets/images/logos/logo.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "Rhineland-Palatinate",
+    "bitrate": 128
+}

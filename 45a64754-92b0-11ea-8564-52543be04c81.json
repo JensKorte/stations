@@ -1,0 +1,14 @@
+{
+    "uuid": "45a64754-92b0-11ea-8564-52543be04c81",
+    "name": "Radio Berja",
+    "url": "http://str2.mediatelekom.net:9896/stream",
+    "homepage": "http://radio.berja.es/",
+    "favicon": "http://radio.berja.es/Servicios/cmsdipro/configuracion.nsf/plantillasref/029-Radio_cmsdip/$file/signature.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "español",
+    "tags": "pop,reggaeton,electronica",
+    "state": "Almería",
+    "bitrate": 128
+}

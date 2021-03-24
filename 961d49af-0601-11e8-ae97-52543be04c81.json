@@ -1,0 +1,14 @@
+{
+    "uuid": "961d49af-0601-11e8-ae97-52543be04c81",
+    "name": "WPKN Radio 89.5 Bridgeport, CT",
+    "url": "http://streamcore.elasticbeanstalk.com/wpknhigh.mp3",
+    "homepage": "http://www.wpkn.org/",
+    "favicon": "https://pbs.twimg.com/profile_images/869424257213779969/_f7rHY-2_400x400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "community radio,bridgeport",
+    "state": "Connecticut",
+    "bitrate": 128
+}

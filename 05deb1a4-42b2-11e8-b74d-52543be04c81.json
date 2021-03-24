@@ -1,0 +1,14 @@
+{
+    "uuid": "05deb1a4-42b2-11e8-b74d-52543be04c81",
+    "name": "Beijing Story Radio",
+    "url": "http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8",
+    "homepage": "http://www.rbc.cn/",
+    "favicon": "http://www.rbc.cn/_CMS_NEWS_IMG_/1/201712/22/e07c6330-274a-4cdf-876a-2fc81210c2a6.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "beijing",
+    "state": "Beijing",
+    "bitrate": 0
+}

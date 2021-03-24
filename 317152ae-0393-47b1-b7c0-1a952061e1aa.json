@@ -1,0 +1,14 @@
+{
+    "uuid": "317152ae-0393-47b1-b7c0-1a952061e1aa",
+    "name": "Middle East Radio",
+    "url": "https://s2.voscast.com:7387/stream",
+    "homepage": "https://meradio.ca/",
+    "favicon": "https://meradio.ca/themes/gavias_vinor/me-logo.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "arabic",
+    "tags": "middle eastern pop and traditional",
+    "state": "",
+    "bitrate": 128
+}

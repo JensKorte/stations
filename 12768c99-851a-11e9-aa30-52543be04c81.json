@@ -1,0 +1,14 @@
+{
+    "uuid": "12768c99-851a-11e9-aa30-52543be04c81",
+    "name": "RÁDIÓ 1",
+    "url": "http://stream4.radio1.hu/mid.mp3",
+    "homepage": "https://www.radio1.hu/",
+    "favicon": "https://www.radio1.hu/wp-content/themes/radio1/assets/dist/logo-150x150.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "magyar",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

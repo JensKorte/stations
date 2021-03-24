@@ -1,0 +1,14 @@
+{
+    "uuid": "9606ca07-0601-11e8-ae97-52543be04c81",
+    "name": "Bayern 2 Süd",
+    "url": "http://streams.br.de/bayern2sued_2.m3u",
+    "homepage": "http://www.br-online.de/bayern2/index.xml",
+    "favicon": "http://www.br.de/static/img/logo/bayern2_thumb.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "features,information,news,bayerischer rundfunk,ard,public radio",
+    "state": "Bavaria",
+    "bitrate": 0
+}

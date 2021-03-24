@@ -1,0 +1,14 @@
+{
+    "uuid": "ca0b20cd-6f35-11e9-af37-52543be04c81",
+    "name": "TLIG Radio Filipino",
+    "url": "http://46.28.49.164:7248/stream",
+    "homepage": "https://tligradio.org/fil/",
+    "favicon": "https://tligradio.org/wp-content/uploads/2014/07/slider.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "filipino",
+    "tags": "talk,religion,catholic,christian",
+    "state": "",
+    "bitrate": 128
+}

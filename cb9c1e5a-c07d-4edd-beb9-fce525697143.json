@@ -1,0 +1,14 @@
+{
+    "uuid": "cb9c1e5a-c07d-4edd-beb9-fce525697143",
+    "name": "Radyo Atasehir",
+    "url": "http://162.254.207.45:9300/listen.pls?sid=1",
+    "homepage": "http://www.radyoatasehir.net",
+    "favicon": "",
+    "creation": "2021-02-22 10:51:53",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "english,turkish",
+    "tags": "sanat,kultur,radyocan,public radio,atasehir",
+    "state": "Istanbul",
+    "bitrate": 96
+}

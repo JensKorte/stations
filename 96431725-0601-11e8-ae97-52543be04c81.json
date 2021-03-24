@@ -1,0 +1,14 @@
+{
+    "uuid": "96431725-0601-11e8-ae97-52543be04c81",
+    "name": "Digital Impulse - Classical Channel",
+    "url": "http://orion.shoutca.st:8978/stream",
+    "homepage": "http://www.di-radio.com/",
+    "favicon": "http://mediaprocessor.websimages.com/width/146/crop/0,0,146x146/www.di-radio.com/classical%20ch-1.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "english",
+    "tags": "classical,320kbps",
+    "state": "Zagreb",
+    "bitrate": 320
+}

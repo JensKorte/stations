@@ -1,0 +1,14 @@
+{
+    "uuid": "8cf1083b-a326-11e8-abb8-52543be04c81",
+    "name": "JB FM",
+    "url": "http://provisioning.streamtheworld.com/pls/JBFMAAC.pls",
+    "homepage": "https://jb.fm",
+    "favicon": "https://jb.fm/images/logoTopo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português",
+    "tags": "",
+    "state": "Rio de Janeiro",
+    "bitrate": 48
+}

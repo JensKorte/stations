@@ -1,0 +1,14 @@
+{
+    "uuid": "9d1bd376-5628-11e9-a4d7-52543be04c81",
+    "name": "SRF 4 News acc",
+    "url": "http://stream.srg-ssr.ch/drs4news/aacp_32.m3u",
+    "homepage": "https://www.srf.ch/programm/radio/radio-srf-4-news/2019-04-03",
+    "favicon": "https://www.srf.ch/extension/srf_shared/design/standard/images/logos/radio/SRF-radio4-hori-small.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "information,news",
+    "state": "",
+    "bitrate": 0
+}

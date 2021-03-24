@@ -1,0 +1,14 @@
+{
+    "uuid": "17c58a38-629c-11e8-b15b-52543be04c81",
+    "name": "Radio Duisburg",
+    "url": "http://radioduisburg.cast.addradio.de/radioduisburg/simulcast/high/stream.mp3",
+    "homepage": "http://www.radioduisburg.de/",
+    "favicon": "http://static.radio.de/images/broadcasts/6b/e9/2528/t175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "duisburg",
+    "bitrate": 192
+}

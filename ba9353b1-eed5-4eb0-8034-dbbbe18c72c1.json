@@ -1,0 +1,14 @@
+{
+    "uuid": "ba9353b1-eed5-4eb0-8034-dbbbe18c72c1",
+    "name": "CKMS-FM 102.7 Radio Waterloo",
+    "url": "http://kwvoip.ca:8000/radiowaterloo",
+    "homepage": "https://radiowaterloo.ca/",
+    "favicon": "http://radiowaterloo.ca/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "community radio",
+    "state": "Ontario",
+    "bitrate": 128
+}

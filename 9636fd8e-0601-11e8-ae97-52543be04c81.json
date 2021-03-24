@@ -1,0 +1,14 @@
+{
+    "uuid": "9636fd8e-0601-11e8-ae97-52543be04c81",
+    "name": "Deutschlandfunk Kultur [MP3 64k]",
+    "url": "http://st02.dlf.de/dlf/02/64/mp3/stream.mp3",
+    "homepage": "http://www.deutschlandfunkkultur.de",
+    "favicon": "http://www.deutschlandfunkkultur.de/themes/dradio/icons/dkultur/favicon-196x196.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "features,cultural news",
+    "state": "",
+    "bitrate": 0
+}

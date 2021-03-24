@@ -1,0 +1,14 @@
+{
+    "uuid": "f6adc865-ad20-11e8-aa67-52543be04c81",
+    "name": "7.7 radio",
+    "url": "http://195.154.33.95:8078/stream",
+    "homepage": "http://7punto7radio.com/",
+    "favicon": "http://7punto7radio.com/wp-content/themes/mmc/apple-touch-icon-precomposed.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,español",
+    "tags": "música,music",
+    "state": "Islas Canarias",
+    "bitrate": 128
+}

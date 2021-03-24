@@ -1,0 +1,14 @@
+{
+    "uuid": "140d9269-8fbd-11e9-a6c6-52543be04c81",
+    "name": "Antenne Saar",
+    "url": "http://streaming01.sr-online.de/antennesaar_2.m3u",
+    "homepage": "https://www.sr.de/sr/antennesaar/index.html",
+    "favicon": "http://www.ard.de/image/562220/16x9/4788938655989575964/320",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "regional radio,news,magazine,saarbrücken,germany,deutschland,saarland",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3b873013-0f32-4dac-b775-6aec8a4167eb",
+    "name": "DMlive",
+    "url": "http://stream.laut.fm/dmlive.m3u",
+    "homepage": "https://laut.fm/dmlive",
+    "favicon": "https://assets.laut.fm/cd311253f0f18ceb4426d202836f52bc?t=_640x640",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "english,german,englisch,deutsch",
+    "tags": "dmlive,party hits,club,hits,party,dance",
+    "state": "Bayern",
+    "bitrate": 128
+}

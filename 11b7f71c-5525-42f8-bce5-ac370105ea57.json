@@ -1,0 +1,14 @@
+{
+    "uuid": "11b7f71c-5525-42f8-bce5-ac370105ea57",
+    "name": "radio FM4 (192 kbps)",
+    "url": "https://orf-live.ors-shoutcast.at/fm4-q2a",
+    "homepage": "https://fm4.orf.at/",
+    "favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/fm4.logo.svg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "english,german",
+    "tags": "alternative youth culture station,german,english,public radio",
+    "state": "Vienna",
+    "bitrate": 0
+}

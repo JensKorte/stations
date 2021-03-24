@@ -1,0 +1,14 @@
+{
+    "uuid": "e64d6332-5ee4-471c-b305-5ffc4f48a8a3",
+    "name": "La radio MAK",
+    "url": "http://audiohd.sonidosenlared.com:9974/stream",
+    "homepage": "http://laradiomak.com.ar/radio/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "castellano",
+    "tags": "political talk,musica,humor",
+    "state": "",
+    "bitrate": 64
+}

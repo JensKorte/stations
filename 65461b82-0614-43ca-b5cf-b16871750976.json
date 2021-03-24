@@ -1,0 +1,14 @@
+{
+    "uuid": "65461b82-0614-43ca-b5cf-b16871750976",
+    "name": "WMET 1160 AM",
+    "url": "http://grn-stream-01.miriamtech.net:8000/WMET1160AM.mp3",
+    "homepage": "https://grnonline.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/guandolupradio.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "religious",
+    "state": "Gaithersburg MD",
+    "bitrate": 64
+}

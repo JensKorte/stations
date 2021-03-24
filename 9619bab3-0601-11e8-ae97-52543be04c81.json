@@ -1,0 +1,14 @@
+{
+    "uuid": "9619bab3-0601-11e8-ae97-52543be04c81",
+    "name": "Keizerstad Radio 80s",
+    "url": "http://server-06.stream-server.nl:8800",
+    "homepage": "http://www.keizerstad.nl",
+    "favicon": "http://www.keizerstad.nl/wp-content/uploads/KZR-player-80s.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "pop,80s",
+    "state": "Gelderland",
+    "bitrate": 192
+}

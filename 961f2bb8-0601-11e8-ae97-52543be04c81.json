@@ -1,0 +1,14 @@
+{
+    "uuid": "961f2bb8-0601-11e8-ae97-52543be04c81",
+    "name": "MTA FM",
+    "url": "http://radio.mtafm.com:1079/listen.pls",
+    "homepage": "http://mtafm.com",
+    "favicon": "http://mtafm.com/v3/wp-content/uploads/2015/05/cropped-cropped-s136872d.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "language": "indonesian",
+    "tags": "radio muslim",
+    "state": "Jawa Tengah",
+    "bitrate": 64
+}

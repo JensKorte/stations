@@ -1,0 +1,14 @@
+{
+    "uuid": "963724ac-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Sever",
+    "url": "http://icecast2.play.cz/crosever128.mp3",
+    "homepage": "http://www.rozhlas.cz/sever/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/crosever.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,čro region,public radio,oldies,local news",
+    "state": "",
+    "bitrate": 0
+}

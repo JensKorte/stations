@@ -1,0 +1,14 @@
+{
+    "uuid": "b4431493-7fea-438c-9e3d-58c00d9f40d5",
+    "name": "MANO FM",
+    "url": "http://klausyk.manofm.lt:8000/Icecast2",
+    "homepage": "http://manofm.lt/new/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "language": "lithuanian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

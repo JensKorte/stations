@@ -1,0 +1,14 @@
+{
+    "uuid": "a6d0fcb4-1634-48fa-b75a-84a9606ad9b8",
+    "name": "EITB Euskal Kantak",
+    "url": "https://eitb-live-dvr.global.ssl.fastly.net/live-content/eitbeuskalkantak-hls/bitrate_1.m3u8",
+    "homepage": "https://www.eitb.eus/eu/irratia/eitb-euskal-kantak/",
+    "favicon": "",
+    "creation": "2021-02-15 20:33:53",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "euskera",
+    "tags": "basque music",
+    "state": "Basque Country",
+    "bitrate": 0
+}

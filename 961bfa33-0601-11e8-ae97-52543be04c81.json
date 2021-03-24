@@ -1,0 +1,14 @@
+{
+    "uuid": "961bfa33-0601-11e8-ae97-52543be04c81",
+    "name": "Antwerpen FM",
+    "url": "http://streams.lazernet.be:2710",
+    "homepage": "http://www.antwerpen.fm/",
+    "favicon": "http://www.antwerpen.fm/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "",
+    "state": "Antwerpen",
+    "bitrate": 160
+}

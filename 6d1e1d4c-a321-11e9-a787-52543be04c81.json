@@ -1,0 +1,14 @@
+{
+    "uuid": "6d1e1d4c-a321-11e9-a787-52543be04c81",
+    "name": "RFI Romania",
+    "url": "http://asculta.rfi.ro:9128/live.aac",
+    "homepage": "https://www.rfi.ro/",
+    "favicon": "http://www.rfi.ro/sites/default/files/styles/large/public/logo-rfi-bottom_2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "news,rock,pop,oldies",
+    "state": "",
+    "bitrate": 64
+}

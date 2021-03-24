@@ -1,0 +1,14 @@
+{
+    "uuid": "962c1f25-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ostrowiec 95.2 FM",
+    "url": "http://s1.slotex.pl:7050/stream/1/;?type=http",
+    "homepage": "http://radioostrowiec.pl",
+    "favicon": "http://radioostrowiec.pl/wp-content/uploads/2017/05/cropped-ikona-270x270.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 128
+}

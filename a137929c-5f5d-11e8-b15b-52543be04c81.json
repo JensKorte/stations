@@ -1,0 +1,14 @@
+{
+    "uuid": "a137929c-5f5d-11e8-b15b-52543be04c81",
+    "name": "Holy Quran Radio Of Lebanon",
+    "url": "http://162.244.81.30:8224/;stream.mp3?src=1",
+    "homepage": "http://www.quranradio.com.lb/",
+    "favicon": "http://www.quranradio.com.lb/images/favi.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "language": "arabic",
+    "tags": "quran",
+    "state": "",
+    "bitrate": 32
+}

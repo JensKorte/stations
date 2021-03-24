@@ -1,0 +1,14 @@
+{
+    "uuid": "960f4dc2-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 90",
+    "url": "http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3",
+    "homepage": "http://www.radio90.pl/",
+    "favicon": "http://www.radio90.pl/media2015/pic/apple-icon-57x57.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "pop",
+    "state": "Rybnik",
+    "bitrate": 128
+}

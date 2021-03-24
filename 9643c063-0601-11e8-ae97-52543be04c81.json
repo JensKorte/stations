@@ -1,0 +1,14 @@
+{
+    "uuid": "9643c063-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Popizz",
+    "url": "http://nr11.newradio.it:8116/;stream.mp3",
+    "homepage": "http://www.radiopopizz.it/",
+    "favicon": "http://www.radiopopizz.it/images/station_1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "bari,pop,hits",
+    "state": "Puglia",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961cedd9-0601-11e8-ae97-52543be04c81",
+    "name": "HIT FM",
+    "url": "http://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
+    "homepage": "http://www.hitfmreunion.com/hit_fm_france.html",
+    "favicon": "http://www.hitfmreunion.com/images/logo.svg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "outre-mer",
+    "state": "La Réunion",
+    "bitrate": 0
+}

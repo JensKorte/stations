@@ -1,0 +1,14 @@
+{
+    "uuid": "9623d269-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Australia (AAC)",
+    "url": "http://abcradiolivehls-lh.akamaihd.net/i/raeng_1@433109/master.m3u8",
+    "homepage": "http://www.radioaustralia.net.au/international/",
+    "favicon": "https://resize.abcradio.net.au/VRDa8Ok2RshRJeZAnAIZBdp8_qU=/100x100/center/middle/http://www.abc.net.au/radio/images/service/ra_140.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "m3u8,abc,public radio,asian news,pacific news,international news,news",
+    "state": "",
+    "bitrate": 24
+}

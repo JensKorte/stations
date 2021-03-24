@@ -1,0 +1,14 @@
+{
+    "uuid": "57a24c99-6e4d-11e8-b15b-52543be04c81",
+    "name": "Radio Classic FM Main stream",
+    "url": "http://jfm1.hostingradio.ru:14536/rcstream.mp3",
+    "homepage": "http://radioclassicfm.ru/",
+    "favicon": "http://radioclassicfm.ru/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "instrumental,soundtracks,classical",
+    "state": "",
+    "bitrate": 0
+}

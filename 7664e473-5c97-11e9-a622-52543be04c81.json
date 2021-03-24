@@ -1,0 +1,14 @@
+{
+    "uuid": "7664e473-5c97-11e9-a622-52543be04c81",
+    "name": "Galaxia FM 88.5 FM",
+    "url": "http://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8",
+    "homepage": "http://www.galaxia.com.ec/envivo/",
+    "favicon": "http://www.galaxia.com.ec/app/themes/base-radios/img/branding/galaxia/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "latin,musica romantica,merengue,salsa,noticias,musica,top 40,news,music",
+    "state": "Guayaquil",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96473437-0601-11e8-ae97-52543be04c81",
+    "name": "Radio La Zona (OCW-4I, 90.5 MHz FM, Lima)",
+    "url": "http://playerservices.streamtheworld.com/pls/RADIO_LAZONA.pls",
+    "homepage": "http://www.lazona.com.pe/",
+    "favicon": "http://s.radio-lazona.io/static/img/imgshare2.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "top 40,latin pop,reggaeton",
+    "state": "Lima",
+    "bitrate": 64
+}

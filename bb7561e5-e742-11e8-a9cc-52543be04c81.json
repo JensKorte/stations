@@ -1,0 +1,14 @@
+{
+    "uuid": "bb7561e5-e742-11e8-a9cc-52543be04c81",
+    "name": "Radio Drenthe",
+    "url": "https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio",
+    "homepage": "https://www.rtvdrenthe.nl/radio",
+    "favicon": "https://www.rtvdrenthe.nl/Content/Images/drenthe/touch-icon-ipad-retina.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "nederlands",
+    "tags": "regionaal",
+    "state": "Drenthe",
+    "bitrate": 0
+}

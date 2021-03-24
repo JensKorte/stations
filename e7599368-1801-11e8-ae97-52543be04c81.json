@@ -1,0 +1,14 @@
+{
+    "uuid": "e7599368-1801-11e8-ae97-52543be04c81",
+    "name": "Antena 1 Rio de Janeiro, RJ (ZYD 463, 103,7 MHz FM)",
+    "url": "http://a1rj.streams.com.br:7801/sm",
+    "homepage": "http://www.antena1rio.com.br/",
+    "favicon": "http://www.antena1rio.com.br/player/tmp/images/logoAntena1Rio.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "adult contemporary,smooth jazz,jazz,pop,brazilian music",
+    "state": "Rio de Janeiro",
+    "bitrate": 64
+}

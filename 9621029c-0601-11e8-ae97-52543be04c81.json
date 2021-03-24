@@ -1,0 +1,14 @@
+{
+    "uuid": "9621029c-0601-11e8-ae97-52543be04c81",
+    "name": "Sheffield Live!",
+    "url": "http://live.sheffieldlive.org:8000/shefflive.mp3",
+    "homepage": "http://web.sheffieldlive.org/",
+    "favicon": "http://web.sheffieldlive.org//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "community radio,sheffield",
+    "state": "Sheffield",
+    "bitrate": 128
+}

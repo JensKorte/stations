@@ -1,0 +1,14 @@
+{
+    "uuid": "9619a3f1-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Atlântida",
+    "url": "http://centova.radio.com.pt:8505/;",
+    "homepage": "http://www.radioatlantida.net/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s16056d.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "variety,local music",
+    "state": "Azores",
+    "bitrate": 128
+}

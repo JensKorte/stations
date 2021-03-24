@@ -1,0 +1,14 @@
+{
+    "uuid": "963f05c0-0601-11e8-ae97-52543be04c81",
+    "name": "Laut.fm ifmde",
+    "url": "http://stream.laut.fm/ifmde",
+    "homepage": "http://laut.fm/ifmde",
+    "favicon": "http://assets.laut.fm/62802460095e41325f9ecac83d919741?t=_640x640",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "charts,beat",
+    "state": "",
+    "bitrate": 128
+}

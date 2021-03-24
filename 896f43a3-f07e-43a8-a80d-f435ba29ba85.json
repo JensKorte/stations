@@ -1,0 +1,14 @@
+{
+    "uuid": "896f43a3-f07e-43a8-a80d-f435ba29ba85",
+    "name": "KMRC Radio",
+    "url": "https://vofile.ru/usa/KMRC/icecast.audio",
+    "homepage": "https://www.kmrcradio.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KMRC.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "top 40,pop",
+    "state": "Morgan City LA",
+    "bitrate": 128
+}

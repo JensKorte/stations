@@ -1,0 +1,14 @@
+{
+    "uuid": "9617846a-0601-11e8-ae97-52543be04c81",
+    "name": "MAGIC Top100",
+    "url": "http://stream.laut.fm/magic-top100",
+    "homepage": "http://top100.magicfm.de/",
+    "favicon": "http://top100.magicfm.de/img/top100.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "rnb,dance,electronica,electropop,house,rock,pop,top 100",
+    "state": "",
+    "bitrate": 128
+}

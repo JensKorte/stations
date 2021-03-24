@@ -1,0 +1,14 @@
+{
+    "uuid": "b20d881d-6a19-11e9-af37-52543be04c81",
+    "name": "Defcon radio",
+    "url": "http://ice1.somafm.com/defcon-128-aac",
+    "homepage": "https://somafm.com/defcon/",
+    "favicon": "https://somafm.com/img3/defcon-400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "music for hacking",
+    "state": "",
+    "bitrate": 128
+}

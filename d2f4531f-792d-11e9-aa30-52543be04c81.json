@@ -1,0 +1,14 @@
+{
+    "uuid": "d2f4531f-792d-11e9-aa30-52543be04c81",
+    "name": "CFRH 88.1 \u0026 106.7 Penetanguishene, ON",
+    "url": "http://stream2.statsradio.com:8030/stream",
+    "homepage": "http://radiocfrh.ca/",
+    "favicon": "http://radiocfrh.ca/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "french",
+    "tags": "penetanguishene,radio communitaire,community radio",
+    "state": "Ontario",
+    "bitrate": 128
+}

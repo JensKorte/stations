@@ -1,0 +1,14 @@
+{
+    "uuid": "86cd6d8a-306a-403a-8889-5f48fea78564",
+    "name": "KCRO 660 AM",
+    "url": "http://173.193.205.96:7156/stream",
+    "homepage": "https://www.kcro.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KCRO.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "religious",
+    "state": "Omaha NE",
+    "bitrate": 96
+}

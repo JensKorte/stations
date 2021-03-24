@@ -1,0 +1,14 @@
+{
+    "uuid": "963b8cef-0601-11e8-ae97-52543be04c81",
+    "name": "Open Broadcast",
+    "url": "https://www.openbroadcast.org/stream/openbroadcast",
+    "homepage": "https://www.openbroadcast.ch/",
+    "favicon": "https://www.openbroadcast.ch//static/img/base/icon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "oldies",
+    "state": "Zürich",
+    "bitrate": 170
+}

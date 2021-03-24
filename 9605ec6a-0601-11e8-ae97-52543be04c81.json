@@ -1,0 +1,14 @@
+{
+    "uuid": "9605ec6a-0601-11e8-ae97-52543be04c81",
+    "name": "WDR 2 Rheinland",
+    "url": "http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
+    "homepage": "https://www1.wdr.de/radio/wdr2/",
+    "favicon": "http://web.ard.de/static/imp/radionet_responsive/wdr_wdr2.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "talk,news,music",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

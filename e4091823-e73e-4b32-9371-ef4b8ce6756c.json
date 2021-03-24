@@ -1,0 +1,14 @@
+{
+    "uuid": "e4091823-e73e-4b32-9371-ef4b8ce6756c",
+    "name": "Rádio Šírava",
+    "url": "http://radioserver.online:8804/;stream/1",
+    "homepage": "https://radiosirava.sk/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

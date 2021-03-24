@@ -1,0 +1,14 @@
+{
+    "uuid": "961e8943-0601-11e8-ae97-52543be04c81",
+    "name": "Netiraadio - Eesti loodus",
+    "url": "http://www.netiraadio.ee:8000/eestiloodus",
+    "homepage": "http://www.netiraadio.ee",
+    "favicon": "http://www.netiraadio.ee/g/netiraadio_apple_touch.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Estonia",
+    "country_code": "EE",
+    "language": "estonian",
+    "tags": "nature,sounds of nature",
+    "state": "Harjumaa",
+    "bitrate": 128
+}

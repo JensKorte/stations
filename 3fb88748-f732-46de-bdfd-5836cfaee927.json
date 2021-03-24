@@ -1,0 +1,14 @@
+{
+    "uuid": "3fb88748-f732-46de-bdfd-5836cfaee927",
+    "name": "Global Radio",
+    "url": "https://zas7.ndx.co.za:8026/stream",
+    "homepage": "http://ndstream.net/globalradio/",
+    "favicon": "http://ndstream.net/globalradio/images/logo.png",
+    "creation": "2021-02-16 17:49:59",
+    "country": "United Republic Of Tanzania",
+    "country_code": "TZ",
+    "language": "swahili",
+    "tags": "sport",
+    "state": "",
+    "bitrate": 0
+}

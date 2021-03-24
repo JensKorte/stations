@@ -1,0 +1,14 @@
+{
+    "uuid": "9611d387-0601-11e8-ae97-52543be04c81",
+    "name": "Isla Negra",
+    "url": "http://66.228.60.216:2199/tunein/rinshoutcast-stream.pls",
+    "homepage": "http://www.radioislanegra.com/",
+    "favicon": "http://www.radioislanegra.com/rinfm/uploads/2014/04/rinfm-jingle.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "320kbps,non-profit",
+    "state": "Santiago",
+    "bitrate": 192
+}

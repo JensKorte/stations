@@ -1,0 +1,14 @@
+{
+    "uuid": "963cacd5-0601-11e8-ae97-52543be04c81",
+    "name": "KACU 89.5 \"Abilene Public Radio\", TX",
+    "url": "http://playerservices.streamtheworld.com/m3u/KACUFM.m3u",
+    "homepage": "http://kacu.org/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/KACU_89.5_Logo.gif/220px-KACU_89.5_Logo.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "npr,public radio,university radio,abilene",
+    "state": "Texas",
+    "bitrate": 96
+}

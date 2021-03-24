@@ -1,0 +1,14 @@
+{
+    "uuid": "96394ca6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Spazio Ivrea",
+    "url": "http://nrf1.newradio.it:9596/stream",
+    "homepage": "http://www.radiospazioivrea.it/",
+    "favicon": "http://www.radiospazioivrea.it/wp-content/uploads/2017/05/logo_radiospazioivrea.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "ivrea,pop",
+    "state": "Piemonte",
+    "bitrate": 96
+}

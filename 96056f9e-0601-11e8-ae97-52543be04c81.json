@@ -1,0 +1,14 @@
+{
+    "uuid": "96056f9e-0601-11e8-ae97-52543be04c81",
+    "name": "Bremen Eins",
+    "url": "http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3",
+    "homepage": "http://www.radiobremen.de/bremeneins/",
+    "favicon": "http://www.radiobremen.de/bremeneins/bremeneinslogo100_v-mobil4x3x800.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies,radio bremen,ard,public radio",
+    "state": "Bremen",
+    "bitrate": 0
+}

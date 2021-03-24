@@ -1,0 +1,14 @@
+{
+    "uuid": "de1dd44f-3460-11e8-bb9b-52543be04c81",
+    "name": "KT Radio (96.7 MHz FM, Kigali)",
+    "url": "http://197.243.1.130:8006/k2dlivemp3",
+    "homepage": "http://www.ktradio.rw/",
+    "favicon": "http://www.ktradio.rw/images/ktradio_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Rwanda",
+    "country_code": "RW",
+    "language": "kinyarwanda,english,french,swahili",
+    "tags": "sports news,local news,news,top 40,pop,african music,afropop,music,full service",
+    "state": "Kigali",
+    "bitrate": 0
+}

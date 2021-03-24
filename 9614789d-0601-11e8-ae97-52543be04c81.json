@@ -1,0 +1,14 @@
+{
+    "uuid": "9614789d-0601-11e8-ae97-52543be04c81",
+    "name": "Novaradio Città Futura",
+    "url": "http://streaming.novaradio.info:8000/live.mp3",
+    "homepage": "http://www.novaradio.info/",
+    "favicon": "http://www.novaradio.info/wp-content/uploads/2014/10/novaradio-logo-quadrato-web-large.gif",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "indie,talk",
+    "state": "Toscana",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e25f699e-2fea-11ea-aa0c-52543be04c81",
+    "name": "Radio 208 Copenhagen",
+    "url": "http://stream.wlmm.dk:8010/radio208",
+    "homepage": "http://www.radio208.dk/",
+    "favicon": "http://www.radio208.dk/logo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "english,danish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

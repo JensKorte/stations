@@ -1,0 +1,14 @@
+{
+    "uuid": "10197d67-f7ed-11e8-a471-52543be04c81",
+    "name": "ERT Tripoli 101.5",
+    "url": "http://radiostreaming.ert.gr/ert-tripoli",
+    "homepage": "http://www.ert.gr/news/tripoli/",
+    "favicon": "http://webradio.ert.gr/wp-content/uploads/2015/07/tripoli-31.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "public radio,ert",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1b47d763-fe9b-490e-8a11-41407377caac",
+    "name": "Panoramix Radio Station",
+    "url": "http://94.23.221.158:9085/stream",
+    "homepage": "https://panoramix-radio-station.com/",
+    "favicon": "https://www.liveradio.ie/files/images/420994/resized/180x172c/panoramix_radio_station.jpg",
+    "creation": "2021-03-07 11:41:11",
+    "country": "France",
+    "country_code": "FR",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 320
+}

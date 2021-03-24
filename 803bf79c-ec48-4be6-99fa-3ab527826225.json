@@ -1,0 +1,14 @@
+{
+    "uuid": "803bf79c-ec48-4be6-99fa-3ab527826225",
+    "name": "Rádio Talian",
+    "url": "https://r6.ciclano.io:15080/stream",
+    "homepage": "https://radiotalian.com.br/",
+    "favicon": "https://radiotalian.com.br/",
+    "creation": "2021-02-28 18:20:16",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "talian",
+    "tags": "regional,música,cultura",
+    "state": "Rio Grande do Sul",
+    "bitrate": 64
+}

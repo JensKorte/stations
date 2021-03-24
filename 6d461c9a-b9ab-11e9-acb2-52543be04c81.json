@@ -1,0 +1,14 @@
+{
+    "uuid": "6d461c9a-b9ab-11e9-acb2-52543be04c81",
+    "name": "RadioBOB Southern Rock (64 kbps AAC)",
+    "url": "http://streams.radiobob.de/southernrock/aac-64/mediaplayer",
+    "homepage": "https://www.radiobob.de/",
+    "favicon": "https://www.radiobob.de/frontend/theme-bob/design/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "southern rock,rock",
+    "state": "",
+    "bitrate": 64
+}

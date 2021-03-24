@@ -1,0 +1,14 @@
+{
+    "uuid": "96196bd8-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Granada FM",
+    "url": "http://centova.radio.com.pt:8549/;",
+    "homepage": "http://www.radiogranada.pt/",
+    "favicon": "http://www.radios.pt/wp-content/uploads/2015/09/Granada-Fm-logotipo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "local music,news,talk",
+    "state": "Évora",
+    "bitrate": 128
+}

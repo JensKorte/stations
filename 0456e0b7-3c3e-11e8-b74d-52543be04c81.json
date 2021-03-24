@@ -1,0 +1,14 @@
+{
+    "uuid": "0456e0b7-3c3e-11e8-b74d-52543be04c81",
+    "name": "HitFM",
+    "url": "http://streaming11.tdiradio.com:8000/hit",
+    "homepage": "http://www.hitfm.rs/site/",
+    "favicon": "http://www.hitfm.rs/site//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "serbian pop music",
+    "state": "Serbia",
+    "bitrate": 64
+}

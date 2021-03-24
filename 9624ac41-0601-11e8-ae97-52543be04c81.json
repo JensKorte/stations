@@ -1,0 +1,14 @@
+{
+    "uuid": "9624ac41-0601-11e8-ae97-52543be04c81",
+    "name": "Soundstorm Radio",
+    "url": "http://stream.soundstorm-radio.com:8000",
+    "homepage": "http://soundstorm-radio.com/",
+    "favicon": "http://soundstorm-radio.com/wp-content/uploads/2016/12/cropped-Soundstorm-LOGo-512x512-270x270.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "",
+    "tags": "relax",
+    "state": "",
+    "bitrate": 128
+}

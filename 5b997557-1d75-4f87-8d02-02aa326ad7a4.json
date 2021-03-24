@@ -1,0 +1,14 @@
+{
+    "uuid": "5b997557-1d75-4f87-8d02-02aa326ad7a4",
+    "name": "NRJ Metal",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30079/aac_64.mp3",
+    "homepage": "https://www.nrj.fr/webradios?radioid=68",
+    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P__NRJ_Metal_Nc.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "metal,nrj",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "56a20e1d-7d1f-11e8-b68b-52543be04c81",
+    "name": "Onda Cero",
+    "url": "http://icecast-streaming.nice264.com/ondacero",
+    "homepage": "http://www.ondacero.es/",
+    "favicon": "http://static.ondacero.es/img/logo-ondacero.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español",
+    "tags": "news",
+    "state": "Madrid",
+    "bitrate": 0
+}

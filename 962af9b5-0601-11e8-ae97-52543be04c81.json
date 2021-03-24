@@ -1,0 +1,14 @@
+{
+    "uuid": "962af9b5-0601-11e8-ae97-52543be04c81",
+    "name": "Vintage Radio",
+    "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+    "homepage": "https://vintageradio.ch/",
+    "favicon": "https://vintageradio.ch//assets/favicons/mstile-144x144.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "music",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96443b27-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Oasis (OCX-4U, 100.1 MHz, Lima)",
+    "url": "http://playerservices.streamtheworld.com/pls/CRP_OAS.pls",
+    "homepage": "https://oasis.pe/",
+    "favicon": "https://oasis.pe/assets/images/imagen-Oasis-enVivo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Peru",
+    "country_code": "PE",
+    "language": "spanish",
+    "tags": "rock,pop",
+    "state": "Lima",
+    "bitrate": 64
+}

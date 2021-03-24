@@ -1,0 +1,14 @@
+{
+    "uuid": "961aa741-0601-11e8-ae97-52543be04c81",
+    "name": "IRIB Radio Farhang",
+    "url": "http://headend1.iranseda.ir/liveHLS/radio-farhang.m3u8",
+    "homepage": "http://radiofarhang.ir/",
+    "favicon": "http://www.sedaye-iran.com/images/emblems/radio_farhang.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Islamic Republic Of Iran",
+    "country_code": "IR",
+    "language": "persian",
+    "tags": "farhang,persian,culture,tehran,iran,irib,public radio",
+    "state": "Tehran",
+    "bitrate": 120
+}

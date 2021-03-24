@@ -1,0 +1,14 @@
+{
+    "uuid": "c9d5523b-9472-4a57-a551-efecea84878b",
+    "name": "BBC Radio 5 Live",
+    "url": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_five_live/format/pls.pls",
+    "homepage": "http://www.bbc.co.uk/5live/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s24943q.png",
+    "creation": "2021-03-22 20:06:45",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "sport,news",
+    "state": "",
+    "bitrate": 0
+}

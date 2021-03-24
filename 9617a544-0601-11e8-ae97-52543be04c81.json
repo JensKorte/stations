@@ -1,0 +1,14 @@
+{
+    "uuid": "9617a544-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Onda Rossa",
+    "url": "http://stream.auto.ondarossa.net/ondarossa.mp3",
+    "homepage": "http://www.ondarossa.info/",
+    "favicon": "http://www.ondarossa.info/themes/custom/ror2010/img/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "politics",
+    "state": "Lazio",
+    "bitrate": 128
+}

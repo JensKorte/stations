@@ -1,0 +1,14 @@
+{
+    "uuid": "04aa7d11-101f-11ea-a87e-52543be04c81",
+    "name": "Echo Msk",
+    "url": "http://ice912.echo.msk.ru:9120/stream",
+    "homepage": "https://echo.msk.ru\\",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "russian",
+    "tags": "live",
+    "state": "",
+    "bitrate": 32
+}

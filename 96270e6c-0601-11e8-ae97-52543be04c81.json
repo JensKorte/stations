@@ -1,0 +1,14 @@
+{
+    "uuid": "96270e6c-0601-11e8-ae97-52543be04c81",
+    "name": "Radioverkko",
+    "url": "http://kuuntele.radioverkko.fi:8000/live",
+    "homepage": "http://radioverkko.fi/",
+    "favicon": "http://www.radioverkko.fi/images/radioverkko_jakologo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "community",
+    "state": "",
+    "bitrate": 0
+}

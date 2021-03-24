@@ -1,0 +1,14 @@
+{
+    "uuid": "dfcffcbf-ff83-4d7e-a06c-848ae39ed933",
+    "name": "Українське радіо. Дніпро (Кривий Ріг) (128 кбіт / с)",
+    "url": "http://radio.ukr.radio:8000/ur1-krr-mp3-m",
+    "homepage": "http://ukr.radio/radio-dp",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Dnipro",
+    "bitrate": 128
+}

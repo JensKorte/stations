@@ -1,0 +1,14 @@
+{
+    "uuid": "9626c1ba-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 1 Zürich",
+    "url": "http://radio.nello.tv:80/128k",
+    "homepage": "http://www.radio1.ch/",
+    "favicon": "http://www.radio1.ch/templates/web/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "swiss,rock,pop",
+    "state": "Zürich",
+    "bitrate": 128
+}

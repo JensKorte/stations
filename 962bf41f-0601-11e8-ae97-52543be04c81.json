@@ -1,0 +1,14 @@
+{
+    "uuid": "962bf41f-0601-11e8-ae97-52543be04c81",
+    "name": "Giornale Radio Piemonte",
+    "url": "http://onair15.xdevel.com:8092",
+    "homepage": "http://www.radiogrp.it/",
+    "favicon": "http://www.radiogrp.it/public/banner/Banner-Logo-HomePage-274.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop,local news",
+    "state": "Piemonte",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963a3512-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Canelli Monferrato",
+    "url": "http://nr5.newradio.it:8533/;stream.mp3",
+    "homepage": "http://www.radiocanelli.it/",
+    "favicon": "http://www.radiocanelli.it/immagini/logo/logo_radio_canelli.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "canelli,italian pop",
+    "state": "Piemonte",
+    "bitrate": 48
+}

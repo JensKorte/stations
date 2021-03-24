@@ -1,0 +1,14 @@
+{
+    "uuid": "fa52b7cc-d82a-11e9-a861-52543be04c81",
+    "name": "SBS 러브 FM-SBS 라디오",
+    "url": "http://slive.ytn.co.kr:1935/live/fmlive_0624_1.sdp/playlist.m3u8",
+    "homepage": "http://w3.sbs.co.kr/radio/main.do",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/8qaTYjnKkA.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Republic Of Korea",
+    "country_code": "KR",
+    "language": "korean",
+    "tags": "",
+    "state": "",
+    "bitrate": 65
+}

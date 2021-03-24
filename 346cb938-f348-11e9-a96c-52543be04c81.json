@@ -1,0 +1,14 @@
+{
+    "uuid": "346cb938-f348-11e9-a96c-52543be04c81",
+    "name": "Onda Cero Santiago de Compostela",
+    "url": "http://icecast-streaming.nice264.com/santiago",
+    "homepage": "https://www.ondacero.es/emisoras/galicia/santiago/",
+    "favicon": "https://static.ondacero.es/img/logo-ondacero.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,espanol",
+    "tags": "talk radio,talk,local news,news,information,noticias,información,sport,deportes",
+    "state": "Galicia",
+    "bitrate": 0
+}

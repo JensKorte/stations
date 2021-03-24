@@ -1,0 +1,14 @@
+{
+    "uuid": "960dcb23-0601-11e8-ae97-52543be04c81",
+    "name": "A-1 Radio NL",
+    "url": "http://185.80.220.12:8500/stream",
+    "homepage": "http://www.a-1radio.com",
+    "favicon": "http://www.a1radio.nl/wp-content/uploads/2016/11/A-1NL.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pop,rock,variety",
+    "state": "Mississippi",
+    "bitrate": 96
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96275a97-0601-11e8-ae97-52543be04c81",
+    "name": "RadioGora - Electro",
+    "url": "http://listen.radiogora.ru:8000/electro128",
+    "homepage": "http://radiogora.ru/",
+    "favicon": "http://radiogora.ru/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "electro,house",
+    "state": "",
+    "bitrate": 128
+}

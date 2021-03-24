@@ -1,0 +1,14 @@
+{
+    "uuid": "493735cf-e1c5-11e8-a9cc-52543be04c81",
+    "name": "OFFRADIO",
+    "url": "http://s3.yesstreaming.net:7062/stream",
+    "homepage": "http://www.offradio.gr/",
+    "favicon": "http://www.offradio.gr//sites/all/themes/offradio_theme/imgs/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "",
+    "state": "Attica",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "bd342aa2-7ba1-45c1-a074-2ba24b718e75",
+    "name": "Web Radio Sobriedade",
+    "url": "http://servidor30.brlogic.com:8364/live?type=.m3u",
+    "homepage": "http://webradiosobriedade.net/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português",
+    "tags": "",
+    "state": "Sp",
+    "bitrate": 128
+}

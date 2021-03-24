@@ -1,0 +1,14 @@
+{
+    "uuid": "9642caa7-0601-11e8-ae97-52543be04c81",
+    "name": "I Love Pécs Rádió",
+    "url": "http://radio.ilovepecs.hu:8200/ilp.mp3",
+    "homepage": "http://ilovepecsradio.hu/",
+    "favicon": "http://radio.ilovepecs.hu/media/img/logoilpr.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "alternative",
+    "state": "Baranya",
+    "bitrate": 192
+}

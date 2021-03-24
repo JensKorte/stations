@@ -1,0 +1,14 @@
+{
+    "uuid": "962dfb61-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Garda FM",
+    "url": "http://server.webradio.bz:8000/gardafm1",
+    "homepage": "http://www.radiogarda.fm/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s161709q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "verona,pop,rnb,nu-jazz,vocal jazz,chillout,ambient",
+    "state": "Veneto",
+    "bitrate": 0
+}

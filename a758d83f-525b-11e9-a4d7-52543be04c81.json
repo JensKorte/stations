@@ -1,0 +1,14 @@
+{
+    "uuid": "a758d83f-525b-11e9-a4d7-52543be04c81",
+    "name": "BHJMS",
+    "url": "http://www.bhjms-radio.de/play/bhjms_192.m3u",
+    "homepage": "http://www.bhjms-radio.de",
+    "favicon": "http://www.bhjms-radio.de/wp-content/uploads/2017/01/cropped-175-x-175-ROT-270x270.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch",
+    "tags": "club,dance",
+    "state": "Hamburg",
+    "bitrate": 192
+}

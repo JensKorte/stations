@@ -1,0 +1,14 @@
+{
+    "uuid": "961f6420-0601-11e8-ae97-52543be04c81",
+    "name": "ČRo Plus",
+    "url": "http://amp.cesnet.cz:8000/cro-plus-256.ogg.m3u",
+    "homepage": "http://www.rozhlas.cz/plus/",
+    "favicon": "http://api.play.cz/static/radio_logo/t200/croplus.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,public radio,talk",
+    "state": "",
+    "bitrate": 0
+}

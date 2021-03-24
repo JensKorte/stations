@@ -1,0 +1,14 @@
+{
+    "uuid": "9610e1a3-0601-11e8-ae97-52543be04c81",
+    "name": "Katolickie Radio Zamosc",
+    "url": "http://posluchaj.krz.pl/",
+    "homepage": "http://www.krz.pl/",
+    "favicon": "http://www.krz.pl//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "christian",
+    "state": "Zamosc",
+    "bitrate": 128
+}

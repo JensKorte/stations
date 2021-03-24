@@ -1,0 +1,14 @@
+{
+    "uuid": "1abff79e-56a7-44bf-9304-39df3eca9b61",
+    "name": "Radio Sveta Nedelja",
+    "url": "http://st.radiosvn.com:8312/stream.mp3",
+    "homepage": "https://radiosvn.com/",
+    "favicon": "https://radiosvn.com/wp-content/uploads/2020/04/cropped-SVN-1-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "local news,folk music,pop",
+    "state": "",
+    "bitrate": 128
+}

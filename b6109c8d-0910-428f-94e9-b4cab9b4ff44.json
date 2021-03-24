@@ -1,0 +1,14 @@
+{
+    "uuid": "b6109c8d-0910-428f-94e9-b4cab9b4ff44",
+    "name": "Rádio Clube de Arganil",
+    "url": "http://176.9.43.216:8135/stream",
+    "homepage": "http://www.rcarganil.pt/",
+    "favicon": "",
+    "creation": "2021-02-12 11:20:08",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "arganil,public radio",
+    "state": "",
+    "bitrate": 128
+}

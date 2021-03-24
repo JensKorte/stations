@@ -1,0 +1,14 @@
+{
+    "uuid": "92222fe8-5ca6-11e9-a622-52543be04c81",
+    "name": "Radio Nuevo Tiempo 92.1 FM",
+    "url": "http://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8",
+    "homepage": "http://nuevotiempo.org/ecuador/",
+    "favicon": "http://nuevotiempo.org/wp-content/themes/radio/assets/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "spanish",
+    "tags": "radio cristiana,cristiana,musica cristiana,christian,christian rock,christian,news,noticias,music,music",
+    "state": "Pichincha",
+    "bitrate": 64
+}

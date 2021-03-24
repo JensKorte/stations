@@ -1,0 +1,14 @@
+{
+    "uuid": "96384a61-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Frecuencia Tierra",
+    "url": "http://68.235.35.243:9008/stream",
+    "homepage": "http://www.frecuenciatierra.com",
+    "favicon": "http://www.frecuenciatierra.com/wp-content/uploads/2012/11/cropped-cropped-slide-31-270x270.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "language": "spanish",
+    "tags": "costa rica",
+    "state": "Alajuela",
+    "bitrate": 96
+}

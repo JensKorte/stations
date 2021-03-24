@@ -1,0 +1,14 @@
+{
+    "uuid": "9615fc76-0601-11e8-ae97-52543be04c81",
+    "name": "OpenTempoFM",
+    "url": "http://eu7.fastcast4u.com:2199/tunein/opentemp.pls",
+    "homepage": "http://www.opentempofm.com/",
+    "favicon": "http://www.opentempofm.com/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "eclectic",
+    "state": "",
+    "bitrate": 128
+}

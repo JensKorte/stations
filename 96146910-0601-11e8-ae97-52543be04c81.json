@@ -1,0 +1,14 @@
+{
+    "uuid": "96146910-0601-11e8-ae97-52543be04c81",
+    "name": "RLS (Radio La Sentinelle)",
+    "url": "http://stream.inovacast.fr:7602/stream",
+    "homepage": "http://www.radiorls.fr/",
+    "favicon": "http://www.radiorls.fr/templates/yoo_symphony/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "christian",
+    "state": "Normandie",
+    "bitrate": 0
+}

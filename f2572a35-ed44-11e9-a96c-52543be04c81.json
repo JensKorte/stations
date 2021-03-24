@@ -1,0 +1,14 @@
+{
+    "uuid": "f2572a35-ed44-11e9-a96c-52543be04c81",
+    "name": "Cadena SER Radio Bilbao",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BILBAO.mp3",
+    "homepage": "https://cadenaser.com/emisora/radio_bilbao/",
+    "favicon": "https://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_bilbao.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "spanish",
+    "tags": "news,spanish",
+    "state": "Bizkaia",
+    "bitrate": 96
+}

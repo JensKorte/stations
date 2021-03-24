@@ -1,0 +1,14 @@
+{
+    "uuid": "aeff6fb7-6d42-4494-b3fe-35201928355e",
+    "name": "TeleRadio1",
+    "url": "http://stream.laut.fm/teleradio1",
+    "homepage": "https://teleradio1.com",
+    "favicon": "https://teleradio1.com/wp-content/uploads/2021/01/TeleRadioLogo3.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "german",
+    "tags": "worl-music,disco,schlager,euro-pop,canzoni,italo-disco,italo-pop,italo",
+    "state": "Verona",
+    "bitrate": 128
+}

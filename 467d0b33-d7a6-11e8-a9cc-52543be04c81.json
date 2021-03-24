@@ -1,0 +1,14 @@
+{
+    "uuid": "467d0b33-d7a6-11e8-a9cc-52543be04c81",
+    "name": "Radio Eviva",
+    "url": "http://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3",
+    "homepage": "http://www.eviva.ch/",
+    "favicon": "http://www.eviva.ch/favicon2012.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "volksmusik,folklore",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e1f70dee-36d3-11e8-bb9b-52543be04c81",
+    "name": "KFFP-LP 90.3 FM Freeform Portland",
+    "url": "http://listen.freeformportland.org:8000/stream",
+    "homepage": "https://www.freeformportland.org",
+    "favicon": "https://avatars1.githubusercontent.com/u/15120453?s=460\u0026v=4",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "oregon,portland,eclectic,community radio,freeform",
+    "state": "California",
+    "bitrate": 256
+}

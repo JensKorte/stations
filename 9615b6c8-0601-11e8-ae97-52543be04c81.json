@@ -1,0 +1,14 @@
+{
+    "uuid": "9615b6c8-0601-11e8-ae97-52543be04c81",
+    "name": "BG Radio",
+    "url": "http://stream.radioreklama.bg:80/bgradio128",
+    "homepage": "http://bgradio.net",
+    "favicon": "http://www.predavatel.com/bg/radio/bgradio.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "local music",
+    "state": "Sofia",
+    "bitrate": 128
+}

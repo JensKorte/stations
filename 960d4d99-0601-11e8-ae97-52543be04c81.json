@@ -1,0 +1,14 @@
+{
+    "uuid": "960d4d99-0601-11e8-ae97-52543be04c81",
+    "name": "Radio UNAM 96.1 FM (XEUN-FM) Universidad Nacional Autónoma de México",
+    "url": "http://server1.usatelk.com:27547/",
+    "homepage": "http://www.radiounam.unam.mx/",
+    "favicon": "http://www.radio.unam.mx/wp-content/uploads/2017/04/RU_logocolornuevo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "university radio,cultural,universitaria",
+    "state": "Ciudad de México",
+    "bitrate": 80
+}

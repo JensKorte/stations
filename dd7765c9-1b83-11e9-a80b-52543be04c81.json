@@ -1,0 +1,14 @@
+{
+    "uuid": "dd7765c9-1b83-11e9-a80b-52543be04c81",
+    "name": "Blasmusikradio",
+    "url": "http://stream.laut.fm/blasmusikradio",
+    "homepage": "http://laut.fm/blasmusikradio",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "blasmusik,brass,polka,marsch,german",
+    "state": "Bayern",
+    "bitrate": 128
+}

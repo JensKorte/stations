@@ -1,0 +1,14 @@
+{
+    "uuid": "9619cb9f-0601-11e8-ae97-52543be04c81",
+    "name": "RTBF Musiq3",
+    "url": "https://radios.rtbf.be/musiq3-128.aac",
+    "homepage": "https://www.rtbf.be/musiq3/",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/18_300x170_2015-03-18-18-03-04-709.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf,classical",
+    "state": "",
+    "bitrate": 127
+}

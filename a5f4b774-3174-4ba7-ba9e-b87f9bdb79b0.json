@@ -1,0 +1,14 @@
+{
+    "uuid": "a5f4b774-3174-4ba7-ba9e-b87f9bdb79b0",
+    "name": "Radio Tomares",
+    "url": "http://stream1.aljamir.com:8174/stream.mp3",
+    "homepage": "https://www.radio.tomares.es/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "sevilla,tomares",
+    "state": "",
+    "bitrate": 128
+}

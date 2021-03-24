@@ -1,0 +1,14 @@
+{
+    "uuid": "a40aab0a-8aad-4001-8cb2-ac778cd62cf1",
+    "name": "All Together Now!",
+    "url": "http://audio.wavefarm.org:8000/alltogethernow.mp3",
+    "homepage": "https://wavefarm.org/radio/alltogethernow",
+    "favicon": "https://wavefarm.org/images/wf-logo-lg.png",
+    "creation": "2021-03-05 07:26:56",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "news,wavefarm",
+    "state": "New York",
+    "bitrate": 128
+}

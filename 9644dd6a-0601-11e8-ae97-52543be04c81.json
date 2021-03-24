@@ -1,0 +1,14 @@
+{
+    "uuid": "9644dd6a-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Klubradio",
+    "url": "http://streams.fluxfm.de/klubradio/mp3-128/audio/play.m3u",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2014/02/klubradio_NEU_klein.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "club",
+    "state": "Berlin",
+    "bitrate": 128
+}

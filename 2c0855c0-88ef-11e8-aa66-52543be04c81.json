@@ -1,0 +1,14 @@
+{
+    "uuid": "2c0855c0-88ef-11e8-aa66-52543be04c81",
+    "name": "Dalkas FM",
+    "url": "http://dalkas.lalala.gr:8018/;listen.pls",
+    "homepage": "http://www.dalkas.gr/",
+    "favicon": "http://dalkas.gr/dalkas.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "greek folk,greek pop",
+    "state": "",
+    "bitrate": 128
+}

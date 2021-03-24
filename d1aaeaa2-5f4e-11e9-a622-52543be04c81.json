@@ -1,0 +1,14 @@
+{
+    "uuid": "d1aaeaa2-5f4e-11e9-a622-52543be04c81",
+    "name": "Rakkauden Wappuradio",
+    "url": "https://wappuradio.fi/wappuradio.m3u",
+    "homepage": "https://wappuradio.fi",
+    "favicon": "https://wappuradio.fi/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "spring,student radio,events,wappu",
+    "state": "",
+    "bitrate": 0
+}

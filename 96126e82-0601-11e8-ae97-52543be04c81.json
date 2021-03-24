@@ -1,0 +1,14 @@
+{
+    "uuid": "96126e82-0601-11e8-ae97-52543be04c81",
+    "name": "NPO Radio 2",
+    "url": "http://icecast.omroep.nl:80/radio2-bb-mp3",
+    "homepage": "http://www.nporadio2.nl/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NPO_Radio_2_logo.svg/640px-NPO_Radio_2_logo.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "evergreens,talk",
+    "state": "",
+    "bitrate": 0
+}

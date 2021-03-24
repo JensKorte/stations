@@ -1,0 +1,14 @@
+{
+    "uuid": "9625cabd-0601-11e8-ae97-52543be04c81",
+    "name": "Atlantic Radio",
+    "url": "http://68.168.117.130:8000",
+    "homepage": "http://www.atlanticradio.ma/",
+    "favicon": "http://www.atlanticradio.ma/templates/radiowave/includes/images/facebook/facebook.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Morocco",
+    "country_code": "MA",
+    "language": "arabic,french",
+    "tags": "music,news",
+    "state": "Casablanca",
+    "bitrate": 64
+}

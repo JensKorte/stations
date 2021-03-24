@@ -1,0 +1,14 @@
+{
+    "uuid": "960e7751-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Seefunk",
+    "url": "http://webradio.radio-seefunk.de:8000/listen.pls",
+    "homepage": "http://www.radio-seefunk.de/",
+    "favicon": "http://www.radio-seefunk.de//favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "oldies",
+    "state": "",
+    "bitrate": 0
+}

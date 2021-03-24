@@ -1,0 +1,14 @@
+{
+    "uuid": "961af76a-0601-11e8-ae97-52543be04c81",
+    "name": "Channel Two Talk Radio",
+    "url": "http://program.channelradio.co.uk:8010/stream/2/;",
+    "homepage": "https://www.channelradio.co.uk/two/",
+    "favicon": "https://www.channelradio.co.uk/two/play/cr2-bw-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "talk,news,educational,channel radio ltd",
+    "state": "",
+    "bitrate": 128
+}

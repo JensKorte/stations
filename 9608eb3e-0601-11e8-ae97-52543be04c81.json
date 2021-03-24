@@ -1,0 +1,14 @@
+{
+    "uuid": "9608eb3e-0601-11e8-ae97-52543be04c81",
+    "name": "Rai Radio 3",
+    "url": "http://icestreaming.rai.it/3.mp3",
+    "homepage": "http://www.radio3.rai.it/",
+    "favicon": "http://db.radioline.fr/pictures/radio_bac81bc62f776c6dbc4f71704143df87/logo200.jpg?size=200",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rai,public radio,classical,culture",
+    "state": "Lazio",
+    "bitrate": 0
+}

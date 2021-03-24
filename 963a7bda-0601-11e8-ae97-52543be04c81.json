@@ -1,0 +1,14 @@
+{
+    "uuid": "963a7bda-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Rio Verde",
+    "url": "http://paineldj5.com.br:8147/stream",
+    "homepage": "http://radiorioverdeweb.com/",
+    "favicon": "http://radiorioverdeweb.com/perfil.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "bossa nova,jazz,mpb",
+    "state": "",
+    "bitrate": 128
+}

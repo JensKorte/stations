@@ -1,0 +1,14 @@
+{
+    "uuid": "7cdc2151-0c49-4a38-854f-724e70b3b59c",
+    "name": "KSTX 89.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFMAAC.aac",
+    "homepage": "https://www.tpr.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KSTXFM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "public radio",
+    "state": "San Antonio TX",
+    "bitrate": 64
+}

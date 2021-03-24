@@ -1,0 +1,14 @@
+{
+    "uuid": "df87e88c-c3b4-11e9-8502-52543be04c81",
+    "name": "Radio Universidad del Bío-Bío",
+    "url": "http://146.83.195.22:8000/stream.ogg",
+    "homepage": "https://ubiobio.cl/radioubb/",
+    "favicon": "https://ubiobio.cl/radioubb/lib/circle-player/skin/favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "spanish",
+    "tags": "",
+    "state": "Concepción",
+    "bitrate": 128
+}

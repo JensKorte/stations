@@ -1,0 +1,14 @@
+{
+    "uuid": "96400b29-0601-11e8-ae97-52543be04c81",
+    "name": "Sana 103.3 FM",
+    "url": "http://46.105.180.202:8021/stream.ogg",
+    "homepage": "http://hordelo.kz/radio",
+    "favicon": "http://top-radio.ru/assets/image/radio/180/sana.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "language": "russian,kazakh",
+    "tags": "local radio,entertainment,local news,news,russian programming,top 40,pop,relax",
+    "state": "Rudniy",
+    "bitrate": 0
+}

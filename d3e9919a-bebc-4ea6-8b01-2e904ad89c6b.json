@@ -1,0 +1,14 @@
+{
+    "uuid": "d3e9919a-bebc-4ea6-8b01-2e904ad89c6b",
+    "name": "Radio Voz (Barbanza / O Son)",
+    "url": "https://live.radiovoz.es/mp3/stream_santiago.mp3?source=web\u0026JSESSIONID=B2F48ECDF937FC52DF9C6620C5562234\u0026station=7\u0026dial=Santiago_de_Compostela",
+    "homepage": "http://www.radiovoz.com/",
+    "favicon": "http://www.radiovoz.com/img/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español,spanish,galego,galician",
+    "tags": "galicia,radio voz,la voz de galicia",
+    "state": "Galicia",
+    "bitrate": 64
+}

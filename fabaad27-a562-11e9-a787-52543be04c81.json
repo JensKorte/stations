@@ -1,0 +1,14 @@
+{
+    "uuid": "fabaad27-a562-11e9-a787-52543be04c81",
+    "name": "Radio Transilvania Satu Mare",
+    "url": "http://stream-rt.davacloud.ro:8000/SatuMare.mp3",
+    "homepage": "http://www.radiotransilvania.ro",
+    "favicon": "http://radiotransilvania.ro/images/transi/logo-green-large3.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "",
+    "tags": "",
+    "state": "ROMANIA",
+    "bitrate": 160
+}

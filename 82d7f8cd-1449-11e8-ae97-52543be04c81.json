@@ -1,0 +1,14 @@
+{
+    "uuid": "82d7f8cd-1449-11e8-ae97-52543be04c81",
+    "name": "Radio Ljubav",
+    "url": "http://ljubav.streaming.rs:9340/listen.pls",
+    "homepage": "http://www.radioljubav.net",
+    "favicon": "http://www.radioljubav.net/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 128
+}

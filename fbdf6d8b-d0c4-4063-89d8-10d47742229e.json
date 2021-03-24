@@ -1,0 +1,14 @@
+{
+    "uuid": "fbdf6d8b-d0c4-4063-89d8-10d47742229e",
+    "name": "ORF Ö1",
+    "url": "https://orf-live.ors-shoutcast.at/oe1-q2a",
+    "homepage": "https://oe1.orf.at/player/live",
+    "favicon": "http://oe1.orf.at/static/img/logo_oe1.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "news talk,classic,culture,news",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ab8b99eb-c680-11e8-a498-52543be04c81",
+    "name": "Radio Popular",
+    "url": "http://livemp3.radiopopular.ro:7777/;stream.mp3",
+    "homepage": "https://www.radiopopular.ro/",
+    "favicon": "https://www.radiopopular.ro/images/common/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

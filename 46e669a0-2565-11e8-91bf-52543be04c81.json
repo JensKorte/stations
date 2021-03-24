@@ -1,0 +1,14 @@
+{
+    "uuid": "46e669a0-2565-11e8-91bf-52543be04c81",
+    "name": "Mikis Radio",
+    "url": "http://radio.hostchefs.net:8046/stream?1520818130148",
+    "homepage": "https://mikisradio.gr",
+    "favicon": "https://mikisradio.gr/wp-content/uploads/2018/01/mikis_theodorakis5.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "mikis theodorakis",
+    "state": "",
+    "bitrate": 128
+}

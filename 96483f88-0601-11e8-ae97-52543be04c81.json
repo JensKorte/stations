@@ -1,0 +1,14 @@
+{
+    "uuid": "96483f88-0601-11e8-ae97-52543be04c81",
+    "name": "Channel One Music Radio",
+    "url": "http://program.channelradio.co.uk:8010/;",
+    "homepage": "https://www.channelradio.co.uk/one/",
+    "favicon": "https://www.channelradio.co.uk/one/play/cr1-bw-logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "ambient,easy listening,top 40,pop,news,channel radio ltd",
+    "state": "",
+    "bitrate": 128
+}

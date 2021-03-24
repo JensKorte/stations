@@ -1,0 +1,14 @@
+{
+    "uuid": "9623b10c-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Extra (MP3)",
+    "url": "http://live-radio01.mediahubaustralia.com/XTDW/mp3/",
+    "homepage": "https://radio.abc.net.au/stations/extra/live",
+    "favicon": "https://resize.abcradio.net.au/Rfe5cXDIxA-FHci7jP5gRfFDKpg=/100x100/center/middle/http://www.abc.net.au/radio/images/service/extra.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "abc,public radio,features,information,news",
+    "state": "",
+    "bitrate": 96
+}

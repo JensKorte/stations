@@ -1,0 +1,14 @@
+{
+    "uuid": "6354f895-bc5c-11e9-acb2-52543be04c81",
+    "name": "WCRS - Columbus Community Radio",
+    "url": "http://stream.wcrsfm.org:8000/wcrsfm_a",
+    "homepage": "http://wcrsfm.org",
+    "favicon": "http://wcrsfm.org//files/fbg_favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "latino,somali,indianapolis,trance,electronic,pacifica,punk,news,local news,reggae,classic hip hop,community radio",
+    "state": "Ohio",
+    "bitrate": 192
+}

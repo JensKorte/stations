@@ -1,0 +1,14 @@
+{
+    "uuid": "f109f3c2-792d-41db-90cb-dec82a466925",
+    "name": "Radio Pampa FM 97,5 - Porto Alegre",
+    "url": "http://cast4.audiostream.com.br:8653/aac",
+    "homepage": "http://www.radiopampa.com.br",
+    "favicon": "http://redepampa.com.br/novo/radiosonline/vendor/img/pampa.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "news",
+    "state": "Rio Grande do Sul",
+    "bitrate": 32
+}

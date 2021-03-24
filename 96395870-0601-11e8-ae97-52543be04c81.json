@@ -1,0 +1,14 @@
+{
+    "uuid": "96395870-0601-11e8-ae97-52543be04c81",
+    "name": "Klassik Radio - Smooth",
+    "url": "http://stream.klassikradio.de/smooth/mp3-128/radiosure/play.m3u",
+    "homepage": "http://www.klassikradio.de/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s25028q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "smooth",
+    "state": "Hamburg",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9615870c-0601-11e8-ae97-52543be04c81",
+    "name": "Univalle Estéreo (HJC37, 105.3 MHz FM) Universidad del Valle",
+    "url": "http://uv-stereo.univalle.edu.co:8000/envivo.mp3",
+    "homepage": "http://emisora.univalle.edu.co",
+    "favicon": "http://emisora.univalle.edu.co//wp-content/uploads/2013/12/univallestereo-ipodtouch.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "university radio,college radio,afro-latin music,culture,education",
+    "state": "Valle del Cauca",
+    "bitrate": 192
+}

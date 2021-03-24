@@ -1,0 +1,14 @@
+{
+    "uuid": "9644467a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Deltauno",
+    "url": "http://nr9.newradio.it:9540/;stream.mp3",
+    "homepage": "http://www.deltauno.net/",
+    "favicon": "http://www.deltauno.net/./public/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "grottaglie,pop",
+    "state": "Puglia",
+    "bitrate": 128
+}

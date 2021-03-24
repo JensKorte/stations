@@ -1,0 +1,14 @@
+{
+    "uuid": "961f33a8-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Viva FM",
+    "url": "http://stream2.vivafm.it:8002/stream",
+    "homepage": "http://www.vivafm.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s63968q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "gavardo,adult contemporary,entertainment",
+    "state": "Lombardia",
+    "bitrate": 128
+}

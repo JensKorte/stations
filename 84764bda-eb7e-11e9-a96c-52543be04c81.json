@@ -1,0 +1,14 @@
+{
+    "uuid": "84764bda-eb7e-11e9-a96c-52543be04c81",
+    "name": "FIP Reggae",
+    "url": "http://icecast.radiofrance.fr/fipreggae-hifi.aac",
+    "homepage": "https://www.fip.fr/reggae/webradio",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/15a58f25-86a5-4b1a-955e-5035d9397da3/200x200_fip-reggae_ok.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "public radio,reggae,radio france,aac",
+    "state": "",
+    "bitrate": 0
+}

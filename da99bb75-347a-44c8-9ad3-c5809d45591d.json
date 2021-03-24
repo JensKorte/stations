@@ -1,0 +1,14 @@
+{
+    "uuid": "da99bb75-347a-44c8-9ad3-c5809d45591d",
+    "name": "Best FM 99.5 / Budapest",
+    "url": "https://stream1.bestfmbudapest.hu:443/bestfm_320.mp3",
+    "homepage": "http://www.bestfmbudapest.hu",
+    "favicon": "https://myonlineradio.hu/public/uploads/radio_img/best-fm-budapest/play_250_250.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "99.5,bestfm",
+    "state": "",
+    "bitrate": 320
+}

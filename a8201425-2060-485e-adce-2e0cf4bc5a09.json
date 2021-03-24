@@ -1,0 +1,14 @@
+{
+    "uuid": "a8201425-2060-485e-adce-2e0cf4bc5a09",
+    "name": "БНР – Програма „Хоризонт“",
+    "url": "http://stream.bnr.bg:8011/horizont.aac",
+    "homepage": "https://bnr.bg/horizont",
+    "favicon": "https://bnr.bg/img/logos/horizont.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "bulgarian",
+    "tags": "public radio",
+    "state": "",
+    "bitrate": 36
+}

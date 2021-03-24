@@ -1,0 +1,14 @@
+{
+    "uuid": "96106d90-0601-11e8-ae97-52543be04c81",
+    "name": "NRK P3 (Høy Kvalitet)",
+    "url": "http://lyd.nrk.no/nrk_radio_p3_mp3_h.m3u",
+    "homepage": "https://radio.nrk.no/direkte/mp3",
+    "favicon": "http://db.radioline.fr/pictures/radio_e3d49126c99ccb7ad0ea1cfd10d20b55/logo200.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Norway",
+    "country_code": "NO",
+    "language": "norwegian",
+    "tags": "entertainment,talk,music",
+    "state": "",
+    "bitrate": 0
+}

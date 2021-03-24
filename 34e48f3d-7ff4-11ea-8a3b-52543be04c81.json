@@ -1,0 +1,14 @@
+{
+    "uuid": "34e48f3d-7ff4-11ea-8a3b-52543be04c81",
+    "name": "BBC Radio 2",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8",
+    "homepage": "http://www.bbc.co.uk/radio2/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s24940q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "adult standards,bbc,interviews,variety,oldies",
+    "state": "",
+    "bitrate": 339
+}

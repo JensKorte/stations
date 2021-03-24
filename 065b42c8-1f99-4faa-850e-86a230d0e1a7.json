@@ -1,0 +1,14 @@
+{
+    "uuid": "065b42c8-1f99-4faa-850e-86a230d0e1a7",
+    "name": "ZDFneo HD",
+    "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8",
+    "homepage": "https://www.zdf.de/",
+    "favicon": "https://www.zdf.de/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "iptv,tv",
+    "state": "",
+    "bitrate": 4471
+}

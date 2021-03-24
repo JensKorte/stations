@@ -1,0 +1,14 @@
+{
+    "uuid": "36cb3dec-4507-11ea-a860-52543be04c81",
+    "name": "Schlagerlawine24",
+    "url": "http://stream.nrwfm.de:8300/nrwfmschlager",
+    "homepage": "http://www.schlagerlawine24.de/",
+    "favicon": "https://www.schlagerlawine24.de//favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "folk",
+    "state": "",
+    "bitrate": 128
+}

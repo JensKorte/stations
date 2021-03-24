@@ -1,0 +1,14 @@
+{
+    "uuid": "96303577-0601-11e8-ae97-52543be04c81",
+    "name": "bigFM Rheinland-Pfalz",
+    "url": "http://streams.bigfm.de/bigfm-rlp-128-aac?usid=0-0-H-A-D-01",
+    "homepage": "http://www.bigfm.de/webradio/hot-music-radio",
+    "favicon": "http://cdn.bigfm.de/sites/all/themes/bigfm/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "local music,edm,dance",
+    "state": "Rhineland-Palatinate",
+    "bitrate": 128
+}

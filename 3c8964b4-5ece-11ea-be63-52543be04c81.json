@@ -1,0 +1,14 @@
+{
+    "uuid": "3c8964b4-5ece-11ea-be63-52543be04c81",
+    "name": "radcap",
+    "url": "http://79.120.77.11:8000/hardrock",
+    "homepage": "http://radcap.ru/hardrock-m.html",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian,english",
+    "tags": "radcap,hardrock",
+    "state": "",
+    "bitrate": 128
+}

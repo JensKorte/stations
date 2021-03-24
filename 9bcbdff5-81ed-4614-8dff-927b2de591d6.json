@@ -1,0 +1,14 @@
+{
+    "uuid": "9bcbdff5-81ed-4614-8dff-927b2de591d6",
+    "name": "Radio UTN FRC 94.3",
+    "url": "https://01.solumedia.com.ar:8201/stream",
+    "homepage": "https://www.frc.utn.edu.ar/radio",
+    "favicon": "https://www.frc.utn.edu.ar/radio/pub/image/logoRadio.gif",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "español latino",
+    "tags": "community radio,university radio",
+    "state": "Córdoba(Argentina)",
+    "bitrate": 128
+}

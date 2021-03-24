@@ -1,0 +1,14 @@
+{
+    "uuid": "9628f879-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Studio 97",
+    "url": "http://stream3.ion.it:8000/1",
+    "homepage": "https://www.radiostudio97.it/",
+    "favicon": "https://www.radiostudio97.it/wp-content/uploads/2016/01/logo-radio.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop",
+    "state": "Calabria",
+    "bitrate": 320
+}

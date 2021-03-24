@@ -1,0 +1,14 @@
+{
+    "uuid": "26bb57c4-2046-11e8-a334-52543be04c81",
+    "name": "bigFM bigBalkan",
+    "url": "http://streams.bigfm.de/bigfm-balkan-128-aac",
+    "homepage": "http://www.bigfm.de/webradio/bigbalkan",
+    "favicon": "http://cdn.bigfm.de/sites/all/themes/bigfm/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "balkan",
+    "state": "",
+    "bitrate": 128
+}

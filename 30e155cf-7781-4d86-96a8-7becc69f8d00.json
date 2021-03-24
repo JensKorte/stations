@@ -1,0 +1,14 @@
+{
+    "uuid": "30e155cf-7781-4d86-96a8-7becc69f8d00",
+    "name": "Gardarica FM Golds",
+    "url": "https://stream.gardaricafm.ru:8443/gold.mp3",
+    "homepage": "http://gardaricafm.ru/",
+    "favicon": "http://gardaricafm.ru/favicon.ico",
+    "creation": "2021-02-25 09:19:13",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russia,russian,english",
+    "tags": "",
+    "state": "Saint-Petersburg",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "09cc22be-36c2-11ea-8dd7-52543be04c81",
+    "name": "ČRo Radio Wave",
+    "url": "http://icecast1.play.cz:8000/crowave32aac",
+    "homepage": "https://www.rozhlas.cz/radiowave/",
+    "favicon": "https://api.play.cz/static/radio_logo/t200/crowave.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "český rozhlas,public radio,alternative,32k,aac+",
+    "state": "",
+    "bitrate": 0
+}

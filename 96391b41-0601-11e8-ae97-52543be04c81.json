@@ -1,0 +1,14 @@
+{
+    "uuid": "96391b41-0601-11e8-ae97-52543be04c81",
+    "name": "Oradio",
+    "url": "http://5.135.39.189:8120/stream",
+    "homepage": "http://www.oradio.it/",
+    "favicon": "http://www.oradio.it/images/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rescaldina,music,entertainment,news",
+    "state": "Lombardia",
+    "bitrate": 128
+}

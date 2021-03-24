@@ -1,0 +1,14 @@
+{
+    "uuid": "0d1c0945-7b6e-11ea-8a3b-52543be04c81",
+    "name": "Rádio Goldies",
+    "url": "http://icecast.radiosity.sk:8000/oldies.mp3",
+    "homepage": "http://radiosity.sk/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "oldies 50's/60's",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5d3e7918-0ba1-4fd2-b72c-3b2b3629c7cb",
+    "name": "Aragon TV Internacional",
+    "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+    "homepage": "http://www.aragontelevision.es/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arag%C3%B3nTV.svg/300px-Arag%C3%B3nTV.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish,castellano,español",
+    "tags": "noticias,entretenimiento,series tv,cine",
+    "state": "Aragón",
+    "bitrate": 2048
+}

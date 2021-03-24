@@ -1,0 +1,14 @@
+{
+    "uuid": "8dde3e5b-498f-49f2-ac2d-88b476802489",
+    "name": "Radio Donji Miholjac",
+    "url": "http://s8.iqstreaming.com:8078/stream",
+    "homepage": "https://www.rdm.hr/",
+    "favicon": "https://www.rdm.hr/images/rdm-logo-favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 64
+}

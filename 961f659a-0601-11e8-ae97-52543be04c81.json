@@ -1,0 +1,14 @@
+{
+    "uuid": "961f659a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 80",
+    "url": "http://str01.fluidstream.net:7020/;stream.mp3",
+    "homepage": "http://www.radio80.it/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "noventa padovana,80s",
+    "state": "Veneto",
+    "bitrate": 0
+}

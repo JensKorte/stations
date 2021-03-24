@@ -1,0 +1,14 @@
+{
+    "uuid": "147311ac-dd48-4fc8-8347-1228886a1946",
+    "name": "Радіо Промінь 97.2",
+    "url": "http://radio.ukr.radio:8000/ur2-mp3-m",
+    "homepage": "http://www.nrcu.gov.ua/",
+    "favicon": "http://www.nrcu.gov.ua/images/stat-page/big/sp_1550735956_5c6e5a54e3f30.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "talk",
+    "state": "Kyiv",
+    "bitrate": 128
+}

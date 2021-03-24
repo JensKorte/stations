@@ -1,0 +1,14 @@
+{
+    "uuid": "96382a9f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Algérienne Blida",
+    "url": "http://blida.ice.infomaniak.ch/09.aac",
+    "homepage": "http://www.radioalgerie.dz/player/fr/live/09-Blida",
+    "favicon": "https://www.algerie360.com/wp-content/uploads/2012/05/la-radio-algerienne-organise-samedi-la-8eme-edition-de-loperation-eboueurs-de-la-mer.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "language": "arabic",
+    "tags": "local radio",
+    "state": "Blida",
+    "bitrate": 0
+}

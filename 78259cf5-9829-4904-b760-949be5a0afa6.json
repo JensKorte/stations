@@ -1,0 +1,14 @@
+{
+    "uuid": "78259cf5-9829-4904-b760-949be5a0afa6",
+    "name": "Thairath TV (Low 240p)",
+    "url": "https://live.thairath.co.th/trtv2/playlist_240p/index.m3u8",
+    "homepage": "https://www.thairath.co.th/tv/live",
+    "favicon": "https://www.thairath.co.th/assets/2017/img/logo-tv.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "hls video,tv",
+    "state": "Bangkok",
+    "bitrate": 0
+}

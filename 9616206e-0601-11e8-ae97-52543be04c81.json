@@ -1,0 +1,14 @@
+{
+    "uuid": "9616206e-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Radio National AAC+",
+    "url": "http://www.abc.net.au/res/streaming/audio/aac/radio_national.pls",
+    "homepage": "http://www.abc.net.au/radionational/",
+    "favicon": "https://resize.abcradio.net.au/PyeKMkoJEPREiKupsBqZOqYWyM0=/100x100/center/middle/http://www.abc.net.au/radio/images/service/RN.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "public radio,abc,features,information,news",
+    "state": "",
+    "bitrate": 48
+}

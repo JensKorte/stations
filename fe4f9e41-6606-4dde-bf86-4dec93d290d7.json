@@ -1,0 +1,14 @@
+{
+    "uuid": "fe4f9e41-6606-4dde-bf86-4dec93d290d7",
+    "name": "БНР – Радио Видин",
+    "url": "http://stream.bnr.bg:8036/radio-vidin.aac",
+    "homepage": "https://bnr.bg/vidin",
+    "favicon": "https://bnr.bg/img/logos/vidin.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 36
+}

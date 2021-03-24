@@ -1,0 +1,14 @@
+{
+    "uuid": "9509d633-5c55-11ea-be63-52543be04c81",
+    "name": "perec fm",
+    "url": "http://195.234.215.150:8080/radio-stilnoe",
+    "homepage": "http://perec.fm/",
+    "favicon": "http://perec.fm/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian,russian",
+    "tags": "humor,mix,music",
+    "state": "",
+    "bitrate": 128
+}

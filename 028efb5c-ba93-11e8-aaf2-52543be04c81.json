@@ -1,0 +1,14 @@
+{
+    "uuid": "028efb5c-ba93-11e8-aaf2-52543be04c81",
+    "name": "Radio PeterPan",
+    "url": "http://onair20.xdevel.com:8138/;",
+    "homepage": "http://www.radiopeterpan.it/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s154447q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "corsano,misc",
+    "state": "Puglia",
+    "bitrate": 128
+}

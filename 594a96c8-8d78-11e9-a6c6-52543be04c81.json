@@ -1,0 +1,14 @@
+{
+    "uuid": "594a96c8-8d78-11e9-a6c6-52543be04c81",
+    "name": "4 Fun TV",
+    "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+    "homepage": "http://4fun.tv/",
+    "favicon": "http://4fun.tv//apple-touch-icon-152x152.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Masovia",
+    "bitrate": 0
+}

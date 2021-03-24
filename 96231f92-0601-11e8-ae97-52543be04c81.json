@@ -1,0 +1,14 @@
+{
+    "uuid": "96231f92-0601-11e8-ae97-52543be04c81",
+    "name": "WPTF \"News Radio 680\" Raleigh, NC",
+    "url": "http://provisioning.streamtheworld.com/pls/WPTFAMAAC.pls",
+    "homepage": "http://wptf.com/",
+    "favicon": "http://wptf.com/wp-content/uploads/2015/11/WPTF_213.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "raleigh,news,commercial",
+    "state": "North Carolina",
+    "bitrate": 32
+}

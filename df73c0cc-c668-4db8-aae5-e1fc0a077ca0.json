@@ -1,0 +1,14 @@
+{
+    "uuid": "df73c0cc-c668-4db8-aae5-e1fc0a077ca0",
+    "name": "C9",
+    "url": "http://stream.c9.fr/c9radio-192.mp3.m3u",
+    "homepage": "https://www.c9.fr/",
+    "favicon": "https://www.c9.fr/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "pop rock",
+    "state": "",
+    "bitrate": 192
+}

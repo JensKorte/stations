@@ -1,0 +1,14 @@
+{
+    "uuid": "960ef9c7-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Canut",
+    "url": "http://live.francra.org:8000/radiocanut",
+    "homepage": "http://www.radiocanut.org/",
+    "favicon": "http://www.radiocanut.org///templates/constructionco-fjt/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "eclectic,rock",
+    "state": "Auvergne-Rhône-Alpes",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96127c42-0601-11e8-ae97-52543be04c81",
+    "name": "Radio3i",
+    "url": "http://radio3i.ice.infomaniak.ch/radio3i-128.mp3",
+    "homepage": "http://radio3i.ch/",
+    "favicon": "http://radio3i.ch/assets/images/app-logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "italian",
+    "tags": "",
+    "state": "Ticino",
+    "bitrate": 128
+}

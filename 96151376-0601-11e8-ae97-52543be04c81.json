@@ -1,0 +1,14 @@
+{
+    "uuid": "96151376-0601-11e8-ae97-52543be04c81",
+    "name": "Lviv Wave Radio",
+    "url": "http://onair.lviv.fm:8000/lviv.fm",
+    "homepage": "http://lviv.fm/",
+    "favicon": "http://lviv.fm//img/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "english,ukrainian",
+    "tags": "lviv,львівська хвиля",
+    "state": "Lviv",
+    "bitrate": 128
+}

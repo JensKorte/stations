@@ -1,0 +1,14 @@
+{
+    "uuid": "961c3d3c-0601-11e8-ae97-52543be04c81",
+    "name": "BBC Radio nan Gàidheal",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p",
+    "homepage": "http://www.bbc.co.uk/radionangaidheal",
+    "favicon": "http://static.radio.net/images/broadcasts/b8/c7/11952/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "scottish gaelic",
+    "tags": "bbc,scotland,speech,entertainment,showbiz,news",
+    "state": "Scotland",
+    "bitrate": 0
+}

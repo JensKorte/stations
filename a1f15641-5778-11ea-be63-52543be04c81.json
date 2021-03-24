@@ -1,0 +1,14 @@
+{
+    "uuid": "a1f15641-5778-11ea-be63-52543be04c81",
+    "name": "VON Radio",
+    "url": "http://vonradio.streamon.fm:8000/vonradio-24k.aac?type=.mp3/;stream.mp3",
+    "homepage": "https://vonradio.com",
+    "favicon": "https://vonradio.com/wp-content/uploads/2019/10/von-logo-560x560.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Saint Kitts And Nevis",
+    "country_code": "KN",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 25
+}

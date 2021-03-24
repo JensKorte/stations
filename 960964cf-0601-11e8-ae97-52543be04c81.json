@@ -1,0 +1,14 @@
+{
+    "uuid": "960964cf-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Freequenns",
+    "url": "http://livestream.freequenns.at:80/live",
+    "homepage": "http://www.freequenns.at",
+    "favicon": "https://www.freequenns.at/fileadmin/template/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "Steiermark",
+    "bitrate": 0
+}

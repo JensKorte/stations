@@ -1,0 +1,14 @@
+{
+    "uuid": "f76be6c5-ce15-449e-bc6a-80d8081f9532",
+    "name": "Omroep Venlo",
+    "url": "https://olon.az.icecast.ebsd.ericsson.net/omroep_venlo",
+    "homepage": "https://omroepvenlo.nl/nieuws",
+    "favicon": "https://omroepvenlo.nl/omroepvenlo_nl/images/logo.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "limburg,local news,dutch",
+    "state": "Limburg",
+    "bitrate": 0
+}

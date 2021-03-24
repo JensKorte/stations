@@ -1,0 +1,14 @@
+{
+    "uuid": "cf030f39-e415-11e8-a9cc-52543be04c81",
+    "name": "Jouluradio",
+    "url": "http://c0.toivon.net:8100/stream",
+    "homepage": "https://www.jouluradio.fi/",
+    "favicon": "https://jouluradio-wp.production.geniem.io/uploads/2018/08/596e2968-jouluradiofi.svg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

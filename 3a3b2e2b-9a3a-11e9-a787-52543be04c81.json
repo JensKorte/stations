@@ -1,0 +1,14 @@
+{
+    "uuid": "3a3b2e2b-9a3a-11e9-a787-52543be04c81",
+    "name": "Radio Taranto Uno",
+    "url": "http://s16.myradiostream.com:5626/;",
+    "homepage": "http://www.radiotarantouno.it/",
+    "favicon": "http://www.radiotarantouno.it/favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "taranto,pop",
+    "state": "Puglia",
+    "bitrate": 96
+}

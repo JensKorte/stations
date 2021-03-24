@@ -1,0 +1,14 @@
+{
+    "uuid": "52d65ca3-99b6-11e9-a605-52543be04c81",
+    "name": "America FM",
+    "url": "http://emisiones.com.uy:8118/america",
+    "homepage": "http://americafm.com.uy/",
+    "favicon": "http://americafm.com.uy/wp-content/uploads/isologo-188x85-2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "language": "spanish",
+    "tags": "salto uruguay",
+    "state": "Salto",
+    "bitrate": 128
+}

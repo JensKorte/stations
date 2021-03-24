@@ -1,0 +1,14 @@
+{
+    "uuid": "15d0764d-c5e4-11e9-8502-52543be04c81",
+    "name": "Concertzender Klassiek",
+    "url": "https://www.concertzender.nl/streams/klassiek",
+    "homepage": "https://www.concertzender.nl/programma_genre/klassieke-muziek/",
+    "favicon": "https://www.concertzender.nl/wp-content/uploads/2016/11/C-favicon-300x300.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "classical",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "12e229e8-d088-48d7-8238-6c18c4b7eca2",
+    "name": "minimalradio.de",
+    "url": "http://minimalradio.de:8000/128kbps.mp3",
+    "homepage": "https://minimalradio.de",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "electronic,minimal",
+    "state": "Unknown",
+    "bitrate": 128
+}

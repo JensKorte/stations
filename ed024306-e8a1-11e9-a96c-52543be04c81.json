@@ -1,0 +1,14 @@
+{
+    "uuid": "ed024306-e8a1-11e9-a96c-52543be04c81",
+    "name": "Nossa Rádio",
+    "url": "http://servidor24.brlogic.com:8524/live?type=.m3u",
+    "homepage": "http://www.nossaradio.com.br/",
+    "favicon": "https://www.ongrace.com/fbApps/nossaradio-fm/img/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "português brasileiro",
+    "tags": "nossa rádio",
+    "state": "São Paulo",
+    "bitrate": 0
+}

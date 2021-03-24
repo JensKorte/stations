@@ -1,0 +1,14 @@
+{
+    "uuid": "962ae396-0601-11e8-ae97-52543be04c81",
+    "name": "NPO 3FM Alternative",
+    "url": "http://icecast.omroep.nl/3fm-alternative-mp3",
+    "homepage": "http://radioplayer.npo.nl/3fm/?channel=11",
+    "favicon": "http://www.allradio.nl/uploaded/logo/npo-3fm-alternative.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "",
+    "tags": "alternative,indie,rock,pop",
+    "state": "",
+    "bitrate": 0
+}

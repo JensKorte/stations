@@ -1,0 +1,14 @@
+{
+    "uuid": "3f2cc345-1e55-11ea-a955-52543be04c81",
+    "name": "Radio San Joaquin",
+    "url": "http://espora.org:8000/radiosanjoaquin.mp3",
+    "homepage": "https://www.radiosanjoaquin.cl/",
+    "favicon": "https://www.radiosanjoaquin.cl/wp-content/uploads/2018/05/cropped-favicon-270x270.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "español,spanish",
+    "tags": "popular,autogestión,radio comunitaria,comunitaria",
+    "state": "Santiago",
+    "bitrate": 0
+}

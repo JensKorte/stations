@@ -1,0 +1,14 @@
+{
+    "uuid": "4bd51cb4-5cac-11ea-be63-52543be04c81",
+    "name": "LT8 AM830",
+    "url": "http://stream.lt8.com.ar:8080/lt8radio.mp3",
+    "homepage": "http://www.lt8.com.ar/",
+    "favicon": "http://www.lt8.com.ar/images/favicon.ico?crc=3898268546",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "espanol spanish",
+    "tags": "",
+    "state": "Santa Fe",
+    "bitrate": 48
+}

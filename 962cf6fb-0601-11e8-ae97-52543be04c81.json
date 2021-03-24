@@ -1,0 +1,14 @@
+{
+    "uuid": "962cf6fb-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Piper",
+    "url": "http://s7.myradiostream.com:5466/stream",
+    "homepage": "http://www.radiopiper.it/",
+    "favicon": "http://www.radiopiper.it/radio/wp-content/uploads/logo_radio_piper.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "adult contemporary,classic hits,70s,80s,90s",
+    "state": "Friuli-Venezia Giulia",
+    "bitrate": 64
+}

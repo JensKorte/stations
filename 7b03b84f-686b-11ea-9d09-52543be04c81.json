@@ -1,0 +1,14 @@
+{
+    "uuid": "7b03b84f-686b-11ea-9d09-52543be04c81",
+    "name": "Rockstar",
+    "url": "http://stream.ueteknik.se:8000/rockstar",
+    "homepage": "https://radiorockstar.se/",
+    "favicon": "https://radiorockstar.se/wp-content/uploads/2018/05/Rockstar_logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "swedish",
+    "tags": "local radio",
+    "state": "Umeao",
+    "bitrate": 128
+}

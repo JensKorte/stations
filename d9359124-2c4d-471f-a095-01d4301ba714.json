@@ -1,0 +1,14 @@
+{
+    "uuid": "d9359124-2c4d-471f-a095-01d4301ba714",
+    "name": "92 WICB",
+    "url": "https://icecast.do.zufall.co/audio/wicb_aac_high",
+    "homepage": "https://wicb.org",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WICB.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "college radio",
+    "state": "Ithaca NY",
+    "bitrate": 192
+}

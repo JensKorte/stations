@@ -1,0 +1,14 @@
+{
+    "uuid": "9615a503-0601-11e8-ae97-52543be04c81",
+    "name": "swingsalon",
+    "url": "http://stream.laut.fm/swingsalon.m3u",
+    "homepage": "http://laut.fm/swingsalon",
+    "favicon": "http://assets.laut.fm/user/swingsalon/user_640x640.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "lindy,charleston,jazz,swing",
+    "state": "",
+    "bitrate": 128
+}

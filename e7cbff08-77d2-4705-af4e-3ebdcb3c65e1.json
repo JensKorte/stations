@@ -1,0 +1,14 @@
+{
+    "uuid": "e7cbff08-77d2-4705-af4e-3ebdcb3c65e1",
+    "name": "PlayFM",
+    "url": "http://radioplaneta.emitironline.com:8000",
+    "homepage": "https://www.playfm.es/",
+    "favicon": "http://static.radio.es/images/broadcasts/0e/7c/40694/1/t100.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "dance",
+    "state": "",
+    "bitrate": 0
+}

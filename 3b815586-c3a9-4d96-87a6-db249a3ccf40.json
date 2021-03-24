@@ -1,0 +1,14 @@
+{
+    "uuid": "3b815586-c3a9-4d96-87a6-db249a3ccf40",
+    "name": "RSH 80er",
+    "url": "http://streams.rsh.de/rsh-80er/mp3-192/streams.rsh.de/play.m3u",
+    "homepage": "http://www.rsh.de/",
+    "favicon": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/10/rsh_80er_600x600.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "80er",
+    "state": "Schleswig-Holstein",
+    "bitrate": 192
+}

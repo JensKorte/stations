@@ -1,0 +1,14 @@
+{
+    "uuid": "bf47660b-2520-11e8-91bf-52543be04c81",
+    "name": "Radio 24 - Greatest Hits",
+    "url": "http://icecast.radio24.ch/24sn-mp3-srp",
+    "homepage": "http://www.radio24.ch/",
+    "favicon": "https://static.a-z.ch/__ip/sY_4J91KeZcR_IT1pgSmbLRO9nY/30ab3f1df16624095cd12846967ac8b2b3bcad77/remote.adjust.rotate=0\u0026remote.size.w=450\u0026remote.size.h=450\u0026local.crop.h=450\u0026local.crop.w=450\u0026local.crop.x=0\u0026local.crop.y=0\u0026r=2,radio-162x162",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "",
+    "tags": "oldies,classic hits",
+    "state": "",
+    "bitrate": 128
+}

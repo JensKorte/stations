@@ -1,0 +1,14 @@
+{
+    "uuid": "415fb78a-a24b-11e9-a787-52543be04c81",
+    "name": "CBN Classic Christian Radio",
+    "url": "https://streams.cbnradio.com/Classic-Christian-128K?app=cbnplayer",
+    "homepage": "https://www1.cbn.com/radio/classicchristian",
+    "favicon": "https://www1.cbn.com//sites/all/themes/cbn_default/images/favicons/mstile-144x144.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "classic,70s,80s,90s,christian,christian contemporary",
+    "state": "Virginia",
+    "bitrate": 0
+}

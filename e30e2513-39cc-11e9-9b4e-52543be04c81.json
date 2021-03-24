@@ -1,0 +1,14 @@
+{
+    "uuid": "e30e2513-39cc-11e9-9b4e-52543be04c81",
+    "name": "MC Radio",
+    "url": "http://stream4.nadaje.com:8624/mcradio",
+    "homepage": "http://mcradio.pl/",
+    "favicon": "http://mcradio.pl/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Poznan",
+    "bitrate": 0
+}

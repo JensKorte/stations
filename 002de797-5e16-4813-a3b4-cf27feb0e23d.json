@@ -1,0 +1,14 @@
+{
+    "uuid": "002de797-5e16-4813-a3b4-cf27feb0e23d",
+    "name": "Marrakech Plus web radio",
+    "url": "http://titan.shoutca.st:8264/;",
+    "homepage": "http://www.radioplusmarrakech.jimdo.com/",
+    "favicon": "http://www.maghreb-radio.com/sites/default/files/styles/radio_medium_90x90/public/radio/radio-plus-marrakech_1.jpg?itok=QdItbYq3",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Morocco",
+    "country_code": "MA",
+    "language": "français,arabic",
+    "tags": "pop,ecouter en ligne radio plus marrakech en direct live !",
+    "state": "",
+    "bitrate": 128
+}

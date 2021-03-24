@@ -1,0 +1,14 @@
+{
+    "uuid": "02843d61-60d0-11e9-a622-52543be04c81",
+    "name": "Akademieradio",
+    "url": "http://akademieradio.de/play",
+    "homepage": "http://akademieradio.de",
+    "favicon": "http://akademieradio.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "european",
+    "tags": "live,culture,fine arts,experimental,arts",
+    "state": "Bavaria",
+    "bitrate": 192
+}

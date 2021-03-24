@@ -1,0 +1,14 @@
+{
+    "uuid": "9619d6a3-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Next",
+    "url": "http://46.105.172.166:8072/",
+    "homepage": "http://www.radio-next.org/",
+    "favicon": "http://static.radio.de/images/broadcasts/b0/9d/29600/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "rock,classic hits,pop,top 40",
+    "state": "Lisbon",
+    "bitrate": 128
+}

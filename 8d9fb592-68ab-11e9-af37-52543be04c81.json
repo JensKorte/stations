@@ -1,0 +1,14 @@
+{
+    "uuid": "8d9fb592-68ab-11e9-af37-52543be04c81",
+    "name": "CFFR \"660 News\" Calgary, AB",
+    "url": "https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8",
+    "homepage": "https://www.660citynews.com/",
+    "favicon": "https://www.660citynews.com/wp-content/themes/660news/images/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "calgary,news radio",
+    "state": "Alberta",
+    "bitrate": 47
+}

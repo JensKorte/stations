@@ -1,0 +1,14 @@
+{
+    "uuid": "1fb34cd8-73bd-11e9-af37-52543be04c81",
+    "name": "VoxUJI Ràdio",
+    "url": "http://radiouji.uji.es:8000/high.ogg",
+    "homepage": "https://www.radio.uji.es/",
+    "favicon": "https://www.radio.uji.es/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "español",
+    "tags": "",
+    "state": "Castellón",
+    "bitrate": 128
+}

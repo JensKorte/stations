@@ -1,0 +1,14 @@
+{
+    "uuid": "0d19bf23-515f-11e8-a4d1-52543be04c81",
+    "name": "Hit Radio FFH aac 48",
+    "url": "http://mp3.ffh.de/radioffh/livestream.aac",
+    "homepage": "https://www.ffh.de/musik/webradios/stream-adressen.html",
+    "favicon": "https://www.ffh.de/apple-touch-icon-72x72.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 48
+}

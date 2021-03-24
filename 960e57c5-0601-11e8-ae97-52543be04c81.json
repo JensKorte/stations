@@ -1,0 +1,14 @@
+{
+    "uuid": "960e57c5-0601-11e8-ae97-52543be04c81",
+    "name": "SRF 1",
+    "url": "http://stream.srg-ssr.ch/m/drs1/mp3_128",
+    "homepage": "http://ww.srf.ch/radio-srf-1",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/205px-Radio_SRF_1.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "srg ssr,public radio",
+    "state": "",
+    "bitrate": 0
+}

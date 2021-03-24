@@ -1,0 +1,14 @@
+{
+    "uuid": "24f7ceb6-9a73-11e8-a767-52543be04c81",
+    "name": "AFR Talk",
+    "url": "http://mediaserver3.afa.net:8000/talk.mp3",
+    "homepage": "http://afr.net",
+    "favicon": "http://afr.net/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "talk,christian",
+    "state": "Mississippi",
+    "bitrate": 128
+}

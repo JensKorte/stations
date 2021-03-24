@@ -1,0 +1,14 @@
+{
+    "uuid": "960ebea6-0601-11e8-ae97-52543be04c81",
+    "name": "Berliner Rundfunk 91.4",
+    "url": "http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/",
+    "homepage": "http://www.berliner-rundfunk.de",
+    "favicon": "http://www.berliner-rundfunk.de/themes/main/img/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "berlin,pop",
+    "state": "Berlin",
+    "bitrate": 128
+}

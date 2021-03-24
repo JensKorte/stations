@@ -1,0 +1,14 @@
+{
+    "uuid": "2002eff7-12ed-4725-8687-9e04a8e5b4c9",
+    "name": "BENFM",
+    "url": "http://stream.laut.fm/benfm",
+    "homepage": "https://laut.fm/benfm",
+    "favicon": "https://laut.fm/benfm",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "pop,hiphop,indie,blues,acoustic,alternative,rock",
+    "state": "",
+    "bitrate": 128
+}

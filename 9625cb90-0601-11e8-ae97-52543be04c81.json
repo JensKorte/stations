@@ -1,0 +1,14 @@
+{
+    "uuid": "9625cb90-0601-11e8-ae97-52543be04c81",
+    "name": "WMEA Maine Public Broadcasting Classical Stream - Portland, ME",
+    "url": "http://playerservices.streamtheworld.com/m3u/WMEA_CLASSICAL.m3u",
+    "homepage": "http://mainepublic.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/mpbn/files/201609/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "portland,classical,mpbn,npr,public radio",
+    "state": "Maine",
+    "bitrate": 64
+}

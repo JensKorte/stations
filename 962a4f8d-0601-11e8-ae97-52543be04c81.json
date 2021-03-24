@@ -1,0 +1,14 @@
+{
+    "uuid": "962a4f8d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Salsa4te",
+    "url": "http://server1.visiotec.it:8100/listen.pls",
+    "homepage": "http://www.radiosalsa4te.com/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s119345q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "salsa",
+    "state": "Lazio",
+    "bitrate": 192
+}

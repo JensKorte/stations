@@ -1,0 +1,14 @@
+{
+    "uuid": "0449d71e-373d-49ce-ab30-796aca6e9408",
+    "name": "Dein Urban Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deinurban/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-2000er",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-urban.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "urban",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 128
+}

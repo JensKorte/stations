@@ -1,0 +1,14 @@
+{
+    "uuid": "962b031f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Playback",
+    "url": "http://stream02.radioplayback.dk:80/stream",
+    "homepage": "http://radioplayback.dk/",
+    "favicon": "http://radioplayback.dk/wp-content/uploads/FB-TagRPB1200x630.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

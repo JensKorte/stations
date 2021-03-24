@@ -1,0 +1,14 @@
+{
+    "uuid": "5e947414-c499-4379-9331-142a8c5cc21b",
+    "name": "Inforadio",
+    "url": "http://www.inforadio.de/live.m3u",
+    "homepage": "http://www.inforadio.de/",
+    "favicon": "http://img.ardmediathek.de/img/standard/00/42/91/80/64/2121327408/1x1/320?mandant=ard",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "news,information,rbb,ard,public radio",
+    "state": "Berlin",
+    "bitrate": 0
+}

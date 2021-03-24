@@ -1,0 +1,14 @@
+{
+    "uuid": "2df7ac53-d8a9-11e9-a861-52543be04c81",
+    "name": "Royal Radio 98.6 FM",
+    "url": "http://185.39.195.90:8000/royal_live",
+    "homepage": "http://royalradio.ru/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bwf3earmx9yj.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "royal",
+    "state": "",
+    "bitrate": 128
+}

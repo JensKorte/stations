@@ -1,0 +1,14 @@
+{
+    "uuid": "c0ae3128-0793-11e8-ae97-52543be04c81",
+    "name": "WKSU News Channel (HD4) [aac+]",
+    "url": "http://stream.wksu.org:80/wksu4-64.aac",
+    "homepage": "http://www.wksu.org",
+    "favicon": "http://mediad.publicbroadcasting.net/p/wksu/files/201602/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "pri,bbc,npr,public",
+    "state": "Ohio",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "30bfedec-2c67-11ea-aa0c-52543be04c81",
+    "name": "Radio Nerazzurra",
+    "url": "https://api.spreaker.com/v2/episodes/18631166/stream",
+    "homepage": "https://www.radionerazzurra.it/",
+    "favicon": "https://www.radionerazzurra.it/logo-rna.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "milano,talk,sport",
+    "state": "Lombardia",
+    "bitrate": 0
+}

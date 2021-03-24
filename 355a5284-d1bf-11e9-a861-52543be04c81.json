@@ -1,0 +1,14 @@
+{
+    "uuid": "355a5284-d1bf-11e9-a861-52543be04c81",
+    "name": "CBC Radio 1 Vancouver (88.1 FM, 690 AM)",
+    "url": "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8",
+    "homepage": "https://www.cbc.ca/listen/live-radio?radio_one=vancouver\u0026cbc_music=vancouver",
+    "favicon": "https://images.radiovolna.net/_files/uploads/posts/2016-06/0236978a951bd7a34d675c2f68e44911.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "vancouver,cbc,public radio,news,information",
+    "state": "British Columbia",
+    "bitrate": 46
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "6182ea1f-6f56-11e8-83fa-52543be04c81",
+    "name": "Educativa Inatel",
+    "url": "http://142.4.217.133:9792/stream",
+    "homepage": "http://www.inatel.br/radio",
+    "favicon": "http://www.inatel.br/custom/templateinatelazul/images/icon/radio-educativa.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "inatel",
+    "state": "MG",
+    "bitrate": 96
+}

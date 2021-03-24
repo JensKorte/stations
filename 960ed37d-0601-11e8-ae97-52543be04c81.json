@@ -1,0 +1,14 @@
+{
+    "uuid": "960ed37d-0601-11e8-ae97-52543be04c81",
+    "name": "Kiss 98 FM",
+    "url": "http://icecast2.play.cz:8000/kiss128aac",
+    "homepage": "http://www.kiss98.cz/",
+    "favicon": "http://www.kiss98.cz/images/kssrd_logo_\u0026_slogan_webanner_200x200px.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "language": "czech",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 0
+}

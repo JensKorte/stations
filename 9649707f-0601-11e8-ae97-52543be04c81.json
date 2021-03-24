@@ -1,0 +1,14 @@
+{
+    "uuid": "9649707f-0601-11e8-ae97-52543be04c81",
+    "name": "3RRR \"Triple R\" 102.7 FM Melbourne, VIC (low bitrate live stream)",
+    "url": "http://ondemand.rrr.org.au/stream/ws-lq.m3u",
+    "homepage": "http://www.rrr.org.au/",
+    "favicon": "http://cdn.rrr.org.au/favicon-152.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "low bandwidth,community radio,indie",
+    "state": "Victoria",
+    "bitrate": 0
+}

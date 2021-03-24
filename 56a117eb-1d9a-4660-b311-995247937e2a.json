@@ -1,0 +1,14 @@
+{
+    "uuid": "56a117eb-1d9a-4660-b311-995247937e2a",
+    "name": "KXSF 102.5 FM",
+    "url": "http://stream.sfcommunityradio.org:8000/;",
+    "homepage": "https://kxsf.fm",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KXSF-LP.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "",
+    "state": "San Francisco CA",
+    "bitrate": 128
+}

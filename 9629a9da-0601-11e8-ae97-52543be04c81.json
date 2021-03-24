@@ -1,0 +1,14 @@
+{
+    "uuid": "9629a9da-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Magenta",
+    "url": "http://sr9.inmystream.info:8038/listen.pls",
+    "homepage": "http://www.radiomagenta.it/",
+    "favicon": "http://www.radiomagenta.it/images/logo-radiomagenta.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40,pop",
+    "state": "Lombardia",
+    "bitrate": 128
+}

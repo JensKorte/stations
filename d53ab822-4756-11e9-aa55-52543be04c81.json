@@ -1,0 +1,14 @@
+{
+    "uuid": "d53ab822-4756-11e9-aa55-52543be04c81",
+    "name": "À Punt Ràdio",
+    "url": "http://stream.elxmedia.es:8888/apunt.mp3",
+    "homepage": "https://apuntmedia.es/va/directe/radio",
+    "favicon": "https://apuntmedia.es//img/appletouch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan,spanish",
+    "tags": "cultural,noticias",
+    "state": "País Valencià",
+    "bitrate": 0
+}

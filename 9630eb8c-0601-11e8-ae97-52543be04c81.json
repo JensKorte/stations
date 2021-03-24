@@ -1,0 +1,14 @@
+{
+    "uuid": "9630eb8c-0601-11e8-ae97-52543be04c81",
+    "name": "La Estación FM 107.9",
+    "url": "http://01.solumedia.com.ar:2199/tunein/chicossrl.pls",
+    "homepage": "http://www.laestacionfm.com.ar/",
+    "favicon": "http://www.laestacionfm.com.ar/Images/Web/Menu/Logo-Nuevo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "top 40,pop",
+    "state": "Salta",
+    "bitrate": 48
+}

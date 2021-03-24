@@ -1,0 +1,14 @@
+{
+    "uuid": "d3ca58e0-28b7-11ea-aa0c-52543be04c81",
+    "name": "NHK Chinese Vision TV",
+    "url": "http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8",
+    "homepage": "http://www.nhk.or.jp/nhkworld/zh/",
+    "favicon": "http://nettv.live/uploads/allimg/19/1-1912251G3550-L.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Japan",
+    "country_code": "JP",
+    "language": "chinese,japanese",
+    "tags": "",
+    "state": "Tokyo",
+    "bitrate": 0
+}

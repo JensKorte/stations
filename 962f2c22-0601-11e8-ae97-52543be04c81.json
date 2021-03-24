@@ -1,0 +1,14 @@
+{
+    "uuid": "962f2c22-0601-11e8-ae97-52543be04c81",
+    "name": "KVRX 91.7  University of Texas at Austin, TX",
+    "url": "http://tstv-stream.tsm.utexas.edu:8000/kvrx_livestream",
+    "homepage": "http://www.kvrx.org/",
+    "favicon": "http://www.kvrx.org/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "austin,sport,freeform music,university radio",
+    "state": "Texas",
+    "bitrate": 192
+}

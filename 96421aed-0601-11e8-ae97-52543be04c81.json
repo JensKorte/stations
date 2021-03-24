@@ -1,0 +1,14 @@
+{
+    "uuid": "96421aed-0601-11e8-ae97-52543be04c81",
+    "name": "afk M94.5 (AAC LQ)",
+    "url": "http://stream.m945.de:80/m945-lq.aac",
+    "homepage": "http://www.m945.de/",
+    "favicon": "http://www.m945.de/images/logo_footer.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "indie,student radio,munich,afk",
+    "state": "Bavaria",
+    "bitrate": 64
+}

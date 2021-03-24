@@ -1,0 +1,14 @@
+{
+    "uuid": "067dd9ca-4343-11e9-aa55-52543be04c81",
+    "name": "Fisherton",
+    "url": "http://23.111.184.195:8140/radio.mp3.m3u",
+    "homepage": "http://radiofisherton.com.ar/web/",
+    "favicon": "http://radiofisherton.com.ar/uploads/Multimedia/96/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "espanol",
+    "tags": "classic rock",
+    "state": "Santa Fe",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f64a69f1-cba2-11e8-a54a-52543be04c81",
+    "name": "Радио-Витебск",
+    "url": "http://radio.vtv.by:8000/radio_vitebsk_128",
+    "homepage": "http://vtv.by/radio/",
+    "favicon": "http://top-radio.ru/assets/image/radio/180/vitebsk.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belarus",
+    "country_code": "BY",
+    "language": "русский",
+    "tags": "",
+    "state": "Vitebsk",
+    "bitrate": 0
+}

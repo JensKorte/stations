@@ -1,0 +1,14 @@
+{
+    "uuid": "e4d4fea1-6c99-43d2-8843-1c94d2dfa515",
+    "name": "Dein Schlager Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deinschlager/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-schlager",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-schlager.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "1980s,80s,80er",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 128
+}

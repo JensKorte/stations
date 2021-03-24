@@ -1,0 +1,14 @@
+{
+    "uuid": "1b048f2c-32b0-11e9-8f31-52543be04c81",
+    "name": "Openbroadcast.ch",
+    "url": "http://stream.openbroadcast.ch/openbroadcast.m3u",
+    "homepage": "https://www.openbroadcast.ch/",
+    "favicon": "https://www.openbroadcast.ch/static/img/asset/logo-og.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german english",
+    "tags": "user generated",
+    "state": "Zürich",
+    "bitrate": 170
+}

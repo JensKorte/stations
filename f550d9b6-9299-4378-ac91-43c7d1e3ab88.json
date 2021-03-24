@@ -1,0 +1,14 @@
+{
+    "uuid": "f550d9b6-9299-4378-ac91-43c7d1e3ab88",
+    "name": "SLBC Asia Service",
+    "url": "http://220.247.227.6:8000/Asiastream",
+    "homepage": "http://www.slbc.lk/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/6/6c/SLBC-Logo.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "language": "hindi,tamil,malayalam",
+    "tags": "malayalam,slbc",
+    "state": "",
+    "bitrate": 128
+}

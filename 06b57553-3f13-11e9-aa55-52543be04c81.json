@@ -1,0 +1,14 @@
+{
+    "uuid": "06b57553-3f13-11e9-aa55-52543be04c81",
+    "name": "egoPURE",
+    "url": "http://egofm-pure.cast.addradio.de/egofm/pure/mp3/high/stream.mp3?ar-distributor=ffa0",
+    "homepage": "https://www.egofm.de/streams/egopure",
+    "favicon": "https://www.egofm.de/content/images/stream/egofmpure/egofm-pure-og.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "nürnberg,augsburg,ingolstadt,regensburg,münchen,alternative,egopure,ego",
+    "state": "Bavaria",
+    "bitrate": 128
+}

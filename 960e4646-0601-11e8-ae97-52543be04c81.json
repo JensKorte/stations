@@ -1,0 +1,14 @@
+{
+    "uuid": "960e4646-0601-11e8-ae97-52543be04c81",
+    "name": "HIT FM",
+    "url": "http://94.23.48.124:8000/;stream/1",
+    "homepage": "http://www.hitfm.be/nl",
+    "favicon": "http://www.hitfm.be/wp-content/themes/HitFMBM/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

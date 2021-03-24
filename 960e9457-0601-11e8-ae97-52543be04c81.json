@@ -1,0 +1,14 @@
+{
+    "uuid": "960e9457-0601-11e8-ae97-52543be04c81",
+    "name": "Soundportal (MP3, 128 kBit)",
+    "url": "http://rs8.stream24.net/radio-soundportal.mp3",
+    "homepage": "http://soundportal.at/",
+    "favicon": "http://soundportal.at/fileadmin/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "",
+    "state": "Steiermark",
+    "bitrate": 128
+}

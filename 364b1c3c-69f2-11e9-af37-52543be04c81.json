@@ -1,0 +1,14 @@
+{
+    "uuid": "364b1c3c-69f2-11e9-af37-52543be04c81",
+    "name": "Radio Octopus",
+    "url": "http://media.radio-octopus.org:8000/192.mp3",
+    "homepage": "http://radio-octopus.org/",
+    "favicon": "http://db.radioline.fr/pictures/radio_222037a8ef3cfc3a646f8e5def6681d9/logo200.jpg?size=200",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "francais",
+    "tags": "",
+    "state": "Rabastens",
+    "bitrate": 192
+}

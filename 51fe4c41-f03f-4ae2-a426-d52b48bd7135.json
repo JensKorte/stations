@@ -1,0 +1,14 @@
+{
+    "uuid": "51fe4c41-f03f-4ae2-a426-d52b48bd7135",
+    "name": "ΕΡΤ Πρώτο Πρόγραμμα",
+    "url": "https://radiostreaming.ert.gr/ert-proto",
+    "homepage": "https://webradio.ert.gr/proto/",
+    "favicon": "https://webradio.ert.gr/wp-content/uploads/2014/05/RADIO-prwto_1280x720-370x208.jpg",
+    "creation": "2021-03-14 08:05:46",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "ert,ert proto,public radio",
+    "state": "",
+    "bitrate": 128
+}

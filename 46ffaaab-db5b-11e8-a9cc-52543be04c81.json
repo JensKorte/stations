@@ -1,0 +1,14 @@
+{
+    "uuid": "46ffaaab-db5b-11e8-a9cc-52543be04c81",
+    "name": "White Radio",
+    "url": "http://streaming.gheri.it:8020/;",
+    "homepage": "https://www.whiteradio.it/",
+    "favicon": "https://www.whiteradio.it/themes/img/logo-white-radio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "prato,misc",
+    "state": "Toscana",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "04b30636-003f-11e9-a1be-52543be04c81",
+    "name": "MAESTRO FM",
+    "url": "http://live.maestrofm.md:8000/maestro.m3u",
+    "homepage": "http://www.maestrofm.md/",
+    "favicon": "http://www.maestrofm.md/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "",
+    "country_code": "",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

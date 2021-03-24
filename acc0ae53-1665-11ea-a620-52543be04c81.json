@@ -1,0 +1,14 @@
+{
+    "uuid": "acc0ae53-1665-11ea-a620-52543be04c81",
+    "name": "Canal Sur Radio Sevilla",
+    "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/chunklist_b250000.m3u8",
+    "homepage": "http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr_sevilla",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_Sur_Radio.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "spanish",
+    "tags": "talk,news",
+    "state": "Andalucía",
+    "bitrate": 0
+}

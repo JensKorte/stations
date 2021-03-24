@@ -1,0 +1,14 @@
+{
+    "uuid": "32b7a6bb-40f4-4166-a7d8-73c6ea4ab8dc",
+    "name": "Σπορ FM 95.0",
+    "url": "http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8",
+    "homepage": "https://www.24sports.com.cy/gr/",
+    "favicon": "http://www.24sports.com.cy/listen_live/sporfm_logo.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Cyprus",
+    "country_code": "CY",
+    "language": "greek",
+    "tags": "sports,greek",
+    "state": "",
+    "bitrate": 66
+}

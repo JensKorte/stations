@@ -1,0 +1,14 @@
+{
+    "uuid": "bdfcb984-3ae1-4d96-a2f2-cdc75f72b159",
+    "name": "RadioCadena Española",
+    "url": "https://str1.mediatelekom.net:8120/stream",
+    "homepage": "https://radiocadena.es/",
+    "favicon": "https://cdn.onlineradiobox.com/img/logo/8/86558.v17.png",
+    "creation": "2021-02-11 00:31:09",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "talk,smooth jazz,bossa nova,jazz",
+    "state": "Madrid",
+    "bitrate": 128
+}

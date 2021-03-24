@@ -1,0 +1,14 @@
+{
+    "uuid": "963938ad-0601-11e8-ae97-52543be04c81",
+    "name": "VBRO Evergreen",
+    "url": "http://stream.vbro.be:9400/evergreen",
+    "homepage": "http://www.vbro.be",
+    "favicon": "http://static.skynetblogs.be/media/4087/1-vbro-evergreen475.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "dutch",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

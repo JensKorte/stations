@@ -1,0 +1,14 @@
+{
+    "uuid": "e3c624f1-5055-4498-bdc0-30ef8890b3c1",
+    "name": "BBC Radio 6 Music",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_6music",
+    "homepage": "https://www.bbc.co.uk/6music",
+    "favicon": "https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_6music_colour.svg",
+    "creation": "2021-03-23 16:08:38",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "bbc",
+    "state": "",
+    "bitrate": 0
+}

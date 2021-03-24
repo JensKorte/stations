@@ -1,0 +1,14 @@
+{
+    "uuid": "961d5b7f-0601-11e8-ae97-52543be04c81",
+    "name": "Fine Music Radio",
+    "url": "http://edge.iono.fm/xhls/fmr_live_medium.m3u8",
+    "homepage": "http://www.fmr.co.za/",
+    "favicon": "http://static.iono.fm/files/p234/logo_20160415_065113_128.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "language": "",
+    "tags": "m3u8,classical,music",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961b6ef1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio România Cultural",
+    "url": "http://stream2.srr.ro:8012",
+    "homepage": "http://www.radioromaniacultural.ro",
+    "favicon": "http://radioromaniacultural.ro/wp-content/uploads/2016/08/logo_radiocultural_dark.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "cultural programming",
+    "state": "",
+    "bitrate": 256
+}

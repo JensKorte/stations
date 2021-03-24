@@ -1,0 +1,14 @@
+{
+    "uuid": "efcd88c5-cd6f-11e8-a54a-52543be04c81",
+    "name": "ByteFM (192k)",
+    "url": "https://bytefm.cast.addradio.de/bytefm/main/high/stream",
+    "homepage": "https://www.byte.fm",
+    "favicon": "https://www.byte.fm/static/images/ByteFM_Logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "world music,pop,rock,indie",
+    "state": "Hamburg",
+    "bitrate": 192
+}

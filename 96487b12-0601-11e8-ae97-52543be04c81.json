@@ -1,0 +1,14 @@
+{
+    "uuid": "96487b12-0601-11e8-ae97-52543be04c81",
+    "name": "Radio  Flemme",
+    "url": "http://str45.streamakaci.com:8014/;*.mp3",
+    "homepage": "http://www.radioflemme.com/",
+    "favicon": "http://www.radioflemme.com/rfv2/templates/hipster/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "relax,relaxation",
+    "state": "",
+    "bitrate": 128
+}

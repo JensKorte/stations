@@ -1,0 +1,14 @@
+{
+    "uuid": "db7460cf-a5ea-11e8-abb8-52543be04c81",
+    "name": "Radio City - Kouvola",
+    "url": "http://stream.bauermedia.fi/radiocity/kvl_64.aac",
+    "homepage": "https://www.radiocity.fi/",
+    "favicon": "https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "Kymenlaakso",
+    "bitrate": 64
+}

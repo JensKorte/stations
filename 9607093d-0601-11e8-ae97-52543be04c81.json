@@ -1,0 +1,14 @@
+{
+    "uuid": "9607093d-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Flaixbac 106.1 Barcelona",
+    "url": "http://flaixbacweb.streaming-pro.com:8004/;",
+    "homepage": "http://www.radioflaixbac.cat/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s48751q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "music",
+    "state": "Barcelona",
+    "bitrate": 128
+}

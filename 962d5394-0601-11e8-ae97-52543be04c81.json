@@ -1,0 +1,14 @@
+{
+    "uuid": "962d5394-0601-11e8-ae97-52543be04c81",
+    "name": "BELLAfm",
+    "url": "http://stream1.coolnetwork.it:8010/stream",
+    "homepage": "http://www.radiobellafm.it/",
+    "favicon": "http://radiobellafm.it/wp-content/uploads/2017/06/logo_radio_bella_fm.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "gela,top 40,pop",
+    "state": "Sicilia",
+    "bitrate": 128
+}

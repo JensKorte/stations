@@ -1,0 +1,14 @@
+{
+    "uuid": "a05c1755-3630-11ea-8dd7-52543be04c81",
+    "name": "Radio Siegen 88.2 FM",
+    "url": "http://stream.lokalradio.nrw/444z53v",
+    "homepage": "https://www.radiosiegen.de",
+    "favicon": "https://www.radiosiegen.de/assets/images/senderlogos/radio_siegen.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 192
+}

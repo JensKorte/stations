@@ -1,0 +1,14 @@
+{
+    "uuid": "962e5619-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Faleria Mare",
+    "url": "http://nr6.newradio.it:9209/;stream.aac",
+    "homepage": "http://www.radiofm.fm/",
+    "favicon": "https://www.hostingshoutcast.com/facebook-app/faleriafm/images/noImage.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "porto sant’elpidio,pop,adult contemporary",
+    "state": "Marche",
+    "bitrate": 128
+}

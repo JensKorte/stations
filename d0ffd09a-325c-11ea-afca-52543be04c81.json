@@ -1,0 +1,14 @@
+{
+    "uuid": "d0ffd09a-325c-11ea-afca-52543be04c81",
+    "name": "TrekStation Country",
+    "url": "https://daniel.torontocast.com:2735/stream",
+    "homepage": "https://www.trekstation.torontocast.stream/country.html",
+    "favicon": "https://www.trekstation.torontocast.stream/apple-touch-icon-20200108114952.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "",
+    "tags": "folk,country",
+    "state": "",
+    "bitrate": 192
+}

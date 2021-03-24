@@ -1,0 +1,14 @@
+{
+    "uuid": "963a1d6c-0601-11e8-ae97-52543be04c81",
+    "name": "TDI Radio - Yu Dance",
+    "url": "http://streaming.tdiradio.com:8000/yudance",
+    "homepage": "http://www.tdiradio.com/",
+    "favicon": "http://www.tdiradio.com/site/images/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "dance",
+    "state": "Belgrade",
+    "bitrate": 64
+}

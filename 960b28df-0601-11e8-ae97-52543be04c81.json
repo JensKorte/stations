@@ -1,0 +1,14 @@
+{
+    "uuid": "960b28df-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Verdon Castellane",
+    "url": "http://91.121.165.41:9056/stream",
+    "homepage": "http://www.radio-verdon.com/",
+    "favicon": "http://www.radio-verdon.com/images/logo1.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "bitrate": 112
+}

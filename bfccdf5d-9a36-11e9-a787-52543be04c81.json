@@ -1,0 +1,14 @@
+{
+    "uuid": "bfccdf5d-9a36-11e9-a787-52543be04c81",
+    "name": "Radio 3 Network",
+    "url": "http://209.250.255.114:8000/listen",
+    "homepage": "https://www.radio3.net/",
+    "favicon": "https://www.radio3.net/wp-content/uploads/2018/07/favi_152.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "poggibonsi,music,news",
+    "state": "Toscana",
+    "bitrate": 128
+}

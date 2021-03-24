@@ -1,0 +1,14 @@
+{
+    "uuid": "9645d6a2-0601-11e8-ae97-52543be04c81",
+    "name": "RusynFM",
+    "url": "http://stream.rusyn.fm/rusyny.mp3",
+    "homepage": "http://www.rusyn.fm/",
+    "favicon": "https://www.radia.sk/_radia/loga/coverflow/rusyn-fm.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "folklore,ethnic",
+    "state": "Slovakia",
+    "bitrate": 192
+}

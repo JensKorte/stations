@@ -1,0 +1,14 @@
+{
+    "uuid": "961ad96b-0601-11e8-ae97-52543be04c81",
+    "name": "WAMU 88.5 - American University Radio - Washington, DC",
+    "url": "http://wamu-1.streamguys.com:80",
+    "homepage": "http://wamu.org/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/WamuFMlogo.png/220px-WamuFMlogo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "washington,npr,university radio,public radio",
+    "state": "Washington, DC",
+    "bitrate": 48
+}

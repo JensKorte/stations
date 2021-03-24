@@ -1,0 +1,14 @@
+{
+    "uuid": "962b4706-0601-11e8-ae97-52543be04c81",
+    "name": "Canadian Radio Lab - Italian Graffiati",
+    "url": "http://kos.broadstreamer.com:8500/;",
+    "homepage": "http://www.italiangraffiati.com/",
+    "favicon": "http://www.italiangraffiati.com/assets/img/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english,italian",
+    "tags": "montreal,italian,60s,70s",
+    "state": "Quebec",
+    "bitrate": 128
+}

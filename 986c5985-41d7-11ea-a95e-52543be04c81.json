@@ -1,0 +1,14 @@
+{
+    "uuid": "986c5985-41d7-11ea-a95e-52543be04c81",
+    "name": "Radio 24 il sole 24 ore",
+    "url": "http://shoutcast2.radio24.it:8000/;",
+    "homepage": "https://www.radio24.ilsole24ore.com/",
+    "favicon": "http://www.radio24.ilsole24ore.com/static/images/radio24_share_600x600.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "news talk",
+    "state": "",
+    "bitrate": 96
+}

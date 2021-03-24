@@ -1,0 +1,14 @@
+{
+    "uuid": "292895dc-3d1f-4c40-b85a-e877405510f9",
+    "name": "BBC Radio 4",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+    "homepage": "https://www.bbc.co.uk/radio4",
+    "favicon": "https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_fourfm_colour.svg",
+    "creation": "2021-03-23 16:00:45",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "bbc",
+    "state": "",
+    "bitrate": 0
+}

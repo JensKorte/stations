@@ -1,0 +1,14 @@
+{
+    "uuid": "9606022f-0601-11e8-ae97-52543be04c81",
+    "name": "Bayern 3 (56 kbit/s)",
+    "url": "http://br-br3-live.cast.addradio.de/br/br3/live/mp3/56/stream.mp3",
+    "homepage": "https://www.bayern3.de/",
+    "favicon": "http://www.br.de/static/img/logo/bayern3_thumb.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40,pop,rock,bayerischer rundfunk,ard,public radio",
+    "state": "Bavaria",
+    "bitrate": 0
+}

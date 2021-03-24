@@ -1,0 +1,14 @@
+{
+    "uuid": "963ecff3-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Pineda",
+    "url": "http://streaming.enantena.com:8000/radiopineda56.mp3",
+    "homepage": "http://www.radiopineda.cat/",
+    "favicon": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/17264593_1454992914532526_5188248283026005190_n.jpg?oh=ecd635e95daee0b504e976d1db881e8e\u0026oe=5A25E219",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "pineda de mar",
+    "state": "Barcelona",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96425778-0601-11e8-ae97-52543be04c81",
+    "name": "XHMAR-FM 99.3 \"Exa FM\" Merida, YU",
+    "url": "http://provisioning.streamtheworld.com/pls/XHMARFMAAC.pls",
+    "homepage": "http://exafm.com/#!/merida/home",
+    "favicon": "http://fotosexafm.blob.core.windows.net/img/exafm_home.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "merida,top 40",
+    "state": "Yucatan",
+    "bitrate": 48
+}

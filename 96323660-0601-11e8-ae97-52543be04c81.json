@@ -1,0 +1,14 @@
+{
+    "uuid": "96323660-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 6.75",
+    "url": "http://nr5.newradio.it:8819/stream",
+    "homepage": "http://www.radio675.it/",
+    "favicon": "http://www.radio675.it/wp-content/uploads/2016/04/Radio-6.75-sito-400x350.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "cecina,misc,music,entertainment",
+    "state": "Toscana",
+    "bitrate": 128
+}

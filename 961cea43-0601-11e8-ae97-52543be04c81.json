@@ -1,0 +1,14 @@
+{
+    "uuid": "961cea43-0601-11e8-ae97-52543be04c81",
+    "name": "KUBU-LP 96.5 Sacramento, CA",
+    "url": "http://crystalout.surfernetwork.com:8001/KUBU-LP_MP3",
+    "homepage": "http://lightningstream.surfernetwork.com/Media/player/view/KUBU-LP_gsl.asp?StreamingServerName=nick11\u0026OnDemandServerName=nick10\u0026targetWidth=1000\u0026targetHeight=800\u0026call=KUBU-LP",
+    "favicon": "http://lightningstream.surfernetwork.com/media/pod/KUBU-LP/Logo/KUBU470X254.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "community radio,sacramento",
+    "state": "California",
+    "bitrate": 128
+}

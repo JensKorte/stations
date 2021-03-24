@@ -1,0 +1,14 @@
+{
+    "uuid": "9639370d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 8 Ansbach",
+    "url": "http://stream.radio8.de:8000/live",
+    "homepage": "http://www.radio8.de",
+    "favicon": "https://www.radio8.de/storage/thumbs/f:png/r:1493371880/11.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Bavaria",
+    "bitrate": 128
+}

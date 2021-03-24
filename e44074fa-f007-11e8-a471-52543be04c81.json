@@ -1,0 +1,14 @@
+{
+    "uuid": "e44074fa-f007-11e8-a471-52543be04c81",
+    "name": "Omrop Fryslân Radio",
+    "url": "https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3",
+    "homepage": "https://www.omropfryslan.nl/radio",
+    "favicon": "https://www.omropfryslan.nl/data/omrop/favicon/android-chrome-192x192.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "nederlands,frysk",
+    "tags": "regionaal",
+    "state": "Friesland",
+    "bitrate": 0
+}

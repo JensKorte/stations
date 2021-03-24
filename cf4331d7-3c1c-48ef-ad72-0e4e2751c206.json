@@ -1,0 +1,14 @@
+{
+    "uuid": "cf4331d7-3c1c-48ef-ad72-0e4e2751c206",
+    "name": "Den Tunge Radio",
+    "url": "http://dentungeradio.dk/popup_player/dtr_stream.m3u",
+    "homepage": "http://www.dentungeradio.dk/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/slh9kcj4a6rj.jpg",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "heavy metal,rock",
+    "state": "",
+    "bitrate": 192
+}

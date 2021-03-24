@@ -1,0 +1,14 @@
+{
+    "uuid": "a9ae3441-5461-11ea-be63-52543be04c81",
+    "name": "Radio 94.7 FM",
+    "url": "https://ott.streann.com/loadbalancer/services/public/radios/593183172cdcb02c290bba3c/playlist.m3u8",
+    "homepage": "https://crc.cr/estaciones/94-7/",
+    "favicon": "https://crc.cr/wp-content/uploads/2019/07/947.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "language": "español,ingles,spanish,english",
+    "tags": "costa rica,radio 947,94.7,947",
+    "state": "",
+    "bitrate": 128
+}

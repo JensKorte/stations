@@ -1,0 +1,14 @@
+{
+    "uuid": "5e1ddf7e-8bbd-11e9-ad01-52543be04c81",
+    "name": "Rádio Miudos",
+    "url": "http://109.71.41.6:8020/live",
+    "homepage": "https://www.radiomiudos.pt/",
+    "favicon": "https://www.radiomiudos.pt//favicon/favicon-32x32.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

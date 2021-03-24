@@ -1,0 +1,14 @@
+{
+    "uuid": "ed850942-7e1a-11e9-aa30-52543be04c81",
+    "name": "Radio Marinha",
+    "url": "http://ingest3sc.cdn.upx.com:9191/stream.mp3",
+    "homepage": "https://www.marinha.mil.br/radio-marinha",
+    "favicon": "https://www.marinha.mil.br/sites/default/files/radiomarinha_artigo.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portugues",
+    "tags": "militar,government,educational",
+    "state": "",
+    "bitrate": 16
+}

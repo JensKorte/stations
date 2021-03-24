@@ -1,0 +1,14 @@
+{
+    "uuid": "0aa60a8b-1ad9-4d80-b407-a25c81475643",
+    "name": "Laza Rádió (OGG 320 Kbps)",
+    "url": "http://stream.lazaradio.com:8100/live.ogg",
+    "homepage": "https://lazaradio.com/",
+    "favicon": "https://lazaradio.com/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "mix,retro,live",
+    "state": "",
+    "bitrate": 0
+}

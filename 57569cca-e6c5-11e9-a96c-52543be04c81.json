@@ -1,0 +1,14 @@
+{
+    "uuid": "57569cca-e6c5-11e9-a96c-52543be04c81",
+    "name": "FIP",
+    "url": "http://icecast.radiofrance.fr/fip-midfi.mp3",
+    "homepage": "https://www.fip.fr/",
+    "favicon": "http://db.radioline.fr/pictures/radio_f6e401c52808c7630dc175294e143c2d/logo600.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "francais",
+    "tags": "fip",
+    "state": "paris",
+    "bitrate": 0
+}

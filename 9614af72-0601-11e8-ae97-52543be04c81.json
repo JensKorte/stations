@@ -1,0 +1,14 @@
+{
+    "uuid": "9614af72-0601-11e8-ae97-52543be04c81",
+    "name": "Kulturradio (48 kbit/s)",
+    "url": "http://www.kulturradio.de/live_s.m3u",
+    "homepage": "http://www.kulturradio.de",
+    "favicon": "http://www.ardmediathek.de/img/standard/00/32/71/59/96/2121327408/16x9/512",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classical,features,information,culture,rbb,ard,public radio",
+    "state": "Berlin",
+    "bitrate": 0
+}

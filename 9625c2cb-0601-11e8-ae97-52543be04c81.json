@@ -1,0 +1,14 @@
+{
+    "uuid": "9625c2cb-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM Suisse",
+    "url": "http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3",
+    "homepage": "http://www.rougefm.com/webradios-suisse/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/suisse.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "french",
+    "tags": "pop",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

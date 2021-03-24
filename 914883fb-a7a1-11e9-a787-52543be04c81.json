@@ -1,0 +1,14 @@
+{
+    "uuid": "914883fb-a7a1-11e9-a787-52543be04c81",
+    "name": "Fox News Radio",
+    "url": "https://streaming-ent.shoutcast.com/foxnews",
+    "homepage": "https://radio.foxnews.com/",
+    "favicon": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "patriotic,news talk,conservative",
+    "state": "New York",
+    "bitrate": 0
+}

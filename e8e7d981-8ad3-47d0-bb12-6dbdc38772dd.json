@@ -1,0 +1,14 @@
+{
+    "uuid": "e8e7d981-8ad3-47d0-bb12-6dbdc38772dd",
+    "name": "Radio Roncudo",
+    "url": "http://radioron.ddns.net:8000/emision.mp3.m3u",
+    "homepage": "https://radioroncudo.wordpress.com/",
+    "favicon": "https://radioroncudo.wordpress.com/favicon.ico",
+    "creation": "2021-02-13 16:15:42",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "galician,spanish",
+    "tags": "",
+    "state": "",
+    "bitrate": 0
+}

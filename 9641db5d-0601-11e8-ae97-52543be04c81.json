@@ -1,0 +1,14 @@
+{
+    "uuid": "9641db5d-0601-11e8-ae97-52543be04c81",
+    "name": "Greek Otaku Radio",
+    "url": "http://usa2.fastcast4u.com:3684/;",
+    "homepage": "http://goradio.gr/",
+    "favicon": "http://goradio.gr/data/icons/mstile-310x310.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "anime,soundtracks",
+    "state": "",
+    "bitrate": 320
+}

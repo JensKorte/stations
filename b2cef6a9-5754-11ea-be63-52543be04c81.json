@@ -1,0 +1,14 @@
+{
+    "uuid": "b2cef6a9-5754-11ea-be63-52543be04c81",
+    "name": "Nocne Radio",
+    "url": "http://144.91.112.88:8000/live",
+    "homepage": "https://nocneradio.pl/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s290346g.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

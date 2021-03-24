@@ -1,0 +1,14 @@
+{
+    "uuid": "9648b6a4-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Radio 550 Tegucigalpa",
+    "url": "http://radio.grupoabchn.com:8000/stream/1/",
+    "homepage": "http://www.abcradiohn.com/",
+    "favicon": "http://www.abcradiohn.com/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Honduras",
+    "country_code": "HN",
+    "language": "spanish",
+    "tags": "latin oldies,news,information,tegucigalpa",
+    "state": "",
+    "bitrate": 128
+}

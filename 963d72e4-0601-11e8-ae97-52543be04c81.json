@@ -1,0 +1,14 @@
+{
+    "uuid": "963d72e4-0601-11e8-ae97-52543be04c81",
+    "name": "TotRàdio",
+    "url": "http://www.totradio.com:8000/128kbps",
+    "homepage": "http://www.totradio.com/",
+    "favicon": "http://www.totradio.com//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "horta sud,music",
+    "state": "País Valencià",
+    "bitrate": 160
+}

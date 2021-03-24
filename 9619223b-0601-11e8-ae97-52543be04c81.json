@@ -1,0 +1,14 @@
+{
+    "uuid": "9619223b-0601-11e8-ae97-52543be04c81",
+    "name": "YLE Klassinen (AAC stream)",
+    "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_4@113881/master.m3u8",
+    "homepage": "http://yle.fi/radio/yleklassinen/suora/",
+    "favicon": "http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/YLE_Klassinen.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "m3u8,classical,public radio,yle",
+    "state": "",
+    "bitrate": 62
+}

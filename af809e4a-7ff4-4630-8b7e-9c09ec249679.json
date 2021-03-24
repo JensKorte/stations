@@ -1,0 +1,14 @@
+{
+    "uuid": "af809e4a-7ff4-4630-8b7e-9c09ec249679",
+    "name": "Sky Radio Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web\u0026ttag=talpa_consent:0\u0026gdpr=1\u0026gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA",
+    "homepage": "https://www.skyradio.nl/",
+    "favicon": "https://www.skyradio.nl/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "english,netherlands",
+    "tags": "hits",
+    "state": "",
+    "bitrate": 128
+}

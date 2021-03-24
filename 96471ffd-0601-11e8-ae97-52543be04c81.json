@@ -1,0 +1,14 @@
+{
+    "uuid": "96471ffd-0601-11e8-ae97-52543be04c81",
+    "name": "UN Radio Web (Universidad Nacional de Colombia)",
+    "url": "http://streaming.unradio.unal.edu.co:8014/;stream.mp3",
+    "homepage": "http://unradio.unal.edu.co/",
+    "favicon": "http://unradio.unal.edu.co/uploads/pics/BASE_RADIOWEB_2017.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "public radio,culture,online only,science,education,university radio,college radio",
+    "state": "Bogotá",
+    "bitrate": 128
+}

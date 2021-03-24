@@ -1,0 +1,14 @@
+{
+    "uuid": "9608f359-0601-11e8-ae97-52543be04c81",
+    "name": "WDR Event",
+    "url": "http://wdr-wdr-event.icecast.wdr.de/wdr/wdr/event/mp3/128/stream.mp3",
+    "homepage": "https://www1.wdr.de/radio/wdr-event/",
+    "favicon": "https://www1.wdr.de/radio/startseite/symbolbilder/bild-wdr-event-logo-100~_v-gseagaleriexl.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "information,news",
+    "state": "North Rhine-Westphalia",
+    "bitrate": 0
+}

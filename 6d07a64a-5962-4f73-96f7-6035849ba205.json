@@ -1,0 +1,14 @@
+{
+    "uuid": "6d07a64a-5962-4f73-96f7-6035849ba205",
+    "name": "Hrvatski radio Vukovar",
+    "url": "http://live.hrv.hr:8000/hrv",
+    "homepage": "http://www.hrv.hr/",
+    "favicon": "http://www.hrv.hr/templates/sj_worldnews/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 256
+}

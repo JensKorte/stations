@@ -1,0 +1,14 @@
+{
+    "uuid": "960c1899-0601-11e8-ae97-52543be04c81",
+    "name": "Periszkóp Rádió",
+    "url": "http://sztrim.periszkopradio.hu:8088/;stream",
+    "homepage": "http://periszkopradio.hu/",
+    "favicon": "http://periszkopradio.hu/periweb/hatterkepek/logo-1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "alternative,rock",
+    "state": "Baranya",
+    "bitrate": 256
+}

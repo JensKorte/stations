@@ -1,0 +1,14 @@
+{
+    "uuid": "96203925-0601-11e8-ae97-52543be04c81",
+    "name": "Rock Radio 104.7 Thessaloniki",
+    "url": "http://188.165.248.218:8004/;",
+    "homepage": "http://www.rockradio.gr/",
+    "favicon": "http://resources.live24.gr/resources/images/stations/e2e698ca-b125-429f-bfc1-a30b7cf89df3.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "rock",
+    "state": "Thessaloniki",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9638568b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Monte Velino",
+    "url": "http://rmv.netreality.it:8000/stream",
+    "homepage": "http://www.rmvfm.it/",
+    "favicon": "http://www.rmvfm.it/player/logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "avezzano,pop",
+    "state": "Abruzzo",
+    "bitrate": 96
+}

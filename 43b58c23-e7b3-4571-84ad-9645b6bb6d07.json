@@ -1,0 +1,14 @@
+{
+    "uuid": "43b58c23-e7b3-4571-84ad-9645b6bb6d07",
+    "name": "Українське радіо. Луцьк. (48 кбіт/с)",
+    "url": "http://radio.ukr.radio:8000/ur1-vo-aacplus",
+    "homepage": "http://ukr.radio/radio-vo",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "",
+    "state": "Lutsk",
+    "bitrate": 48
+}

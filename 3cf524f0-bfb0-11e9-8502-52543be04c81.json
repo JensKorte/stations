@@ -1,0 +1,14 @@
+{
+    "uuid": "3cf524f0-bfb0-11e9-8502-52543be04c81",
+    "name": "RAI Radio 1",
+    "url": "http://icestreaming.rai.it/1.mp3",
+    "homepage": "https://www.raiplayradio.it",
+    "favicon": "https://cdn-profiles.tunein.com/s25212/images/logoq.jpg?t=1",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "",
+    "tags": "news,italian",
+    "state": "",
+    "bitrate": 0
+}

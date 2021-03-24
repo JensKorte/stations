@@ -1,0 +1,14 @@
+{
+    "uuid": "961d8c1c-0601-11e8-ae97-52543be04c81",
+    "name": "News Radio Impuls 106.5 FM",
+    "url": "http://212.34.233.78:8000/live.m3u",
+    "homepage": "http://www.lratvakan.am",
+    "favicon": "http://www.lratvakan.am/img/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Armenia",
+    "country_code": "AM",
+    "language": "armenian",
+    "tags": "news",
+    "state": "",
+    "bitrate": 128
+}

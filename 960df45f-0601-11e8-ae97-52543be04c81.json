@@ -1,0 +1,14 @@
+{
+    "uuid": "960df45f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 100",
+    "url": "http://onair.100fmlive.dk/100fm_live.mp3",
+    "homepage": "http://www.radioplay.dk/radio100",
+    "favicon": "https://cdn.radioplay.se/img/stations/dk/radio100.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Denmark",
+    "country_code": "DK",
+    "language": "danish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

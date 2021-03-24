@@ -1,0 +1,14 @@
+{
+    "uuid": "96284d88-0601-11e8-ae97-52543be04c81",
+    "name": "Radio L'Olgiata",
+    "url": "http://188.165.192.5:8071/stream",
+    "homepage": "http://www.radiololgiata.net/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s16263q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40,adult contemporary,news",
+    "state": "Lazio",
+    "bitrate": 128
+}

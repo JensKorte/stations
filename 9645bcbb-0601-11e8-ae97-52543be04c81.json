@@ -1,0 +1,14 @@
+{
+    "uuid": "9645bcbb-0601-11e8-ae97-52543be04c81",
+    "name": "Caracol Radio Santa Marta (HJPM 890 kHz AM, Radio Galeón)",
+    "url": "http://provisioning.streamtheworld.com/pls/CARACOL_STAMARTAAAC.pls",
+    "homepage": "http://caracol.com.co/emisora/f/santa_marta//",
+    "favicon": "http://cr00.epimg.net/favicon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Colombia",
+    "country_code": "CO",
+    "language": "spanish",
+    "tags": "magdalena,news talk,talk,news,noticias,santa marta",
+    "state": "Magdalena",
+    "bitrate": 56
+}

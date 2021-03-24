@@ -1,0 +1,14 @@
+{
+    "uuid": "d6493973-4fad-41e5-a1d1-d2b6aaf0bcee",
+    "name": "Radio RU",
+    "url": "http://stream.erf.at/radio-ru",
+    "homepage": "http://www.radioru.at/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german,russian",
+    "tags": "",
+    "state": "Vienna",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c6fbb5a0-00a3-11ea-bbf2-52543be04c81",
+    "name": "TOP ITALIA",
+    "url": "http://62.210.131.27:8075/stream.m3u",
+    "homepage": "http://www.topitalia.fr",
+    "favicon": "http://www.topitalia.fr/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "fr/ it",
+    "tags": "",
+    "state": "",
+    "bitrate": 320
+}

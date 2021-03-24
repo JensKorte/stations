@@ -1,0 +1,14 @@
+{
+    "uuid": "961e5c8b-0601-11e8-ae97-52543be04c81",
+    "name": "Antenne Bayern - Black Beatz",
+    "url": "http://www.antenne.de/webradio/channels/black-beatz.m3u",
+    "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+    "favicon": "https://images.radiovolna.net/_files/uploads/posts/2016-06/da6eed376b010b8430326375fff9929a.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "black",
+    "state": "Bavaria",
+    "bitrate": 128
+}

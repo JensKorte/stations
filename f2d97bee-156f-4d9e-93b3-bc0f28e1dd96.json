@@ -1,0 +1,14 @@
+{
+    "uuid": "f2d97bee-156f-4d9e-93b3-bc0f28e1dd96",
+    "name": "SWR 999 FM",
+    "url": "https://airnet.org.au/widget/player/getPlaylistFile.php?filetype=m3u\u0026url=http%3A%2F%2F198.74.51.37%3A9318%2Fstream",
+    "homepage": "https://www.swr999.com.au/",
+    "favicon": "https://www.swr999.com.au/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "sydney,community radio,australia",
+    "state": "NSW",
+    "bitrate": 64
+}

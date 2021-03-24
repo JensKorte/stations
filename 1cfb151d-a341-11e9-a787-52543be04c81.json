@@ -1,0 +1,14 @@
+{
+    "uuid": "1cfb151d-a341-11e9-a787-52543be04c81",
+    "name": "France Info",
+    "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+    "homepage": "https://www.francetvinfo.fr",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/768px-France_Info_-_2008.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

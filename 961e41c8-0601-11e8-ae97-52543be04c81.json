@@ -1,0 +1,14 @@
+{
+    "uuid": "961e41c8-0601-11e8-ae97-52543be04c81",
+    "name": "KCHO 91.7 \"North State Public Radio\" Chico, CA",
+    "url": "http://playerservices.streamtheworld.com/m3u/KCHOFM_64.m3u",
+    "homepage": "http://mynspr.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kcho/files/201502/logo_fid.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "npr,public radio,college radio",
+    "state": "California",
+    "bitrate": 64
+}

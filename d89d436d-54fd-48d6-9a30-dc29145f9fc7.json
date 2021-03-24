@@ -1,0 +1,14 @@
+{
+    "uuid": "d89d436d-54fd-48d6-9a30-dc29145f9fc7",
+    "name": "CFRU 93.3FM Guelph",
+    "url": "http://live.cfru.ca:8888/local",
+    "homepage": "http://cfru.ca",
+    "favicon": "http://cfru.ca",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "hindi,punjabi,spanish,english",
+    "tags": "college radio,community radio,campus radio",
+    "state": "Ontario",
+    "bitrate": 128
+}

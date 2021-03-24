@@ -1,0 +1,14 @@
+{
+    "uuid": "9637f6d3-0601-11e8-ae97-52543be04c81",
+    "name": "Csillagpont Rádió",
+    "url": "http://streamer1.borsodweb.hu:48000/csillagpont",
+    "homepage": "https://www.csillagpontradio.hu/",
+    "favicon": "https://www.csillagpontradio.hu/sites/www.csillagpontradio.hu/themes/cspr_bootstrap/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "local radio",
+    "state": "Borsod-Abaúj-Zemplén",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9610a4ad-0601-11e8-ae97-52543be04c81",
+    "name": "Offener Kanal OK Westküste",
+    "url": "http://radio.oksh.de:8000/westkuestefm.mp3.m3u",
+    "homepage": "http://www.okwestkueste.de/wk/hoeren/livestream/index.php",
+    "favicon": "https://www.ma-hsh.de/assets/images/d/Offener%20Kanal-7231b0fd.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "misc",
+    "state": "Schleswig-Holstein",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9620b36f-0601-11e8-ae97-52543be04c81",
+    "name": "CFRB News/Talk 1010 (Toronto, ON)",
+    "url": "http://provisioning.streamtheworld.com/pls/CFRBAMAAC.pls",
+    "homepage": "https://www.iheartradio.ca/newstalk-1010",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "local news,news,news talk,commercial",
+    "state": "Ontario",
+    "bitrate": 40
+}

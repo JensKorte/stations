@@ -1,0 +1,14 @@
+{
+    "uuid": "961e9bb2-0601-11e8-ae97-52543be04c81",
+    "name": "Létt Bylgjan",
+    "url": "http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u",
+    "homepage": "http://lettbylgjan.visir.is/",
+    "favicon": "http://static.radio.net/images/broadcasts/c6/eb/16434/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Iceland",
+    "country_code": "IS",
+    "language": "icelandic",
+    "tags": "easy listening,local music",
+    "state": "Iceland",
+    "bitrate": 0
+}

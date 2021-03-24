@@ -1,0 +1,14 @@
+{
+    "uuid": "96195b67-0601-11e8-ae97-52543be04c81",
+    "name": "IO Radio",
+    "url": "http://webcast.ioradio.co.uk:8000/ioradio.mp3",
+    "homepage": "http://ioradio.co.uk/",
+    "favicon": "http://ioradio.co.uk/assets/favicon/apple-touch-icon.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "",
+    "state": "Suffolk",
+    "bitrate": 320
+}

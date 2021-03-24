@@ -1,0 +1,14 @@
+{
+    "uuid": "9649ac7e-0601-11e8-ae97-52543be04c81",
+    "name": "RSC RadioSolofraCity",
+    "url": "http://dj.mediastreaming.it:9108/;stream.mp3",
+    "homepage": "http://www.radiosolofracity.it/",
+    "favicon": "http://www.radiorsc.it/images/rcs_pino.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "solofra,hits",
+    "state": "Campania",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96496f03-0601-11e8-ae97-52543be04c81",
+    "name": "NDR 2 (Hamburg)",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u",
+    "homepage": "http://www.ndr.de/ndr2/",
+    "favicon": "http://static.radio.de/images/broadcasts/1b/90/6713/c175.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,contemporary hits,90s,80s",
+    "state": "Hamburg",
+    "bitrate": 0
+}

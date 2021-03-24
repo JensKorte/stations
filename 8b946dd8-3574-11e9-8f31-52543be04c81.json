@@ -1,0 +1,14 @@
+{
+    "uuid": "8b946dd8-3574-11e9-8f31-52543be04c81",
+    "name": "Rádio 96 Fm Maceió",
+    "url": "http://radios.cabreuvoip.com.br:8036/stream",
+    "homepage": "http://www.radio96.com.br",
+    "favicon": "http://www.radio96.com.br/wp-content/uploads/2017/05/002-1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "português do brasil",
+    "tags": "radio96 fm maceió",
+    "state": "Alagoas",
+    "bitrate": 48
+}

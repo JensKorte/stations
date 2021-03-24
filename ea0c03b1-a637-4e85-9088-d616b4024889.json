@@ -1,0 +1,14 @@
+{
+    "uuid": "ea0c03b1-a637-4e85-9088-d616b4024889",
+    "name": "Radio Folklórica Uyuni",
+    "url": "https://emiteradio.com/proxy/uyuni?mp=/stream",
+    "homepage": "https://uyuni.org/radio-folklorica-bolivia",
+    "favicon": "https://emisora.info/radio/folklorica-uyuni.jpg",
+    "creation": "2021-02-07 14:11:49",
+    "country": "Bolivia",
+    "country_code": "BO",
+    "language": "español",
+    "tags": "uyuni,potosí,bolivia,folklore",
+    "state": "",
+    "bitrate": 128
+}

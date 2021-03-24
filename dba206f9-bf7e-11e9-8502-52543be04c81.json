@@ -1,0 +1,14 @@
+{
+    "uuid": "dba206f9-bf7e-11e9-8502-52543be04c81",
+    "name": "talkRADIO",
+    "url": "http://radio.talkradio.co.uk/stream",
+    "homepage": "http://talkradio.co.uk/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s265666q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "",
+    "tags": "talk",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "bc6bab2a-317d-11e9-8f31-52543be04c81",
+    "name": "Radio Off",
+    "url": "https://nr11.newradio.it:19080/stream",
+    "homepage": "https://radiooff.org/",
+    "favicon": "https://radiooff.org/wp-content/uploads/2017/08/11143212_949550965112064_8200230052586221288_o-150x150.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "palermo,music,news",
+    "state": "Sicilia",
+    "bitrate": 128
+}

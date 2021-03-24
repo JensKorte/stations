@@ -1,0 +1,14 @@
+{
+    "uuid": "962c63d9-0601-11e8-ae97-52543be04c81",
+    "name": "XEFR \"Radio Felicidad\" 1180 AM Mexico City, DF",
+    "url": "http://17833.live.streamtheworld.com:3690/XEFRAMAAC_SC",
+    "homepage": "http://radiofelicidad.mx/",
+    "favicon": "http://pwaimg.listenlive.co/XEFRAM_940091_config_station_logo_image_1400804518.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "spanish",
+    "tags": "classic hits,adult contemporary,talk",
+    "state": "Distrito Federal",
+    "bitrate": 48
+}

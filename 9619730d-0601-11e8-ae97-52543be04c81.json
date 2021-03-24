@@ -1,0 +1,14 @@
+{
+    "uuid": "9619730d-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Lagoa",
+    "url": "http://centova.radio.com.pt:9488/;",
+    "homepage": "http://www.radiolagoa.pt/",
+    "favicon": "http://www.radiolagoa.pt/wp-content/uploads/2014/02/logo2-Oficial-limpo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "local music",
+    "state": "Faro",
+    "bitrate": 128
+}

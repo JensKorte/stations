@@ -1,0 +1,14 @@
+{
+    "uuid": "3a8a6d46-cc2d-11e9-8502-52543be04c81",
+    "name": "BR Sumerce Radio",
+    "url": "http://178.33.113.51:8020/stream",
+    "homepage": "https://www.boyacaradio.com/",
+    "favicon": "https://www.boyacaradio.com/imagenes/emisora/btn_nuestras_emisoras/LOGO-BOYACARADIO-SUMERCE.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "español latino",
+    "tags": "boyaca,sumerce,colombia",
+    "state": "Boyacá",
+    "bitrate": 64
+}

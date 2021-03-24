@@ -1,0 +1,14 @@
+{
+    "uuid": "961d185a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Mariia",
+    "url": "http://91.203.4.121:8000/stream160",
+    "homepage": "http://radiomaria.org.ua/",
+    "favicon": "http://radiomaria.org.ua/assets/img/social_logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "language": "ukrainian",
+    "tags": "word of god",
+    "state": "Kyiv",
+    "bitrate": 160
+}

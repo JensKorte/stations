@@ -1,0 +1,14 @@
+{
+    "uuid": "8067bbc8-26a0-4de1-8355-6129cae18ad3",
+    "name": "XRadio",
+    "url": "http://xradio.zone:9420/stream",
+    "homepage": "https://onlineradiobox.com/",
+    "favicon": "http://cdn.onlineradiobox.com/img/logo/5/92895.v5.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Singapore",
+    "country_code": "SG",
+    "language": "english",
+    "tags": "dj,rap,rock",
+    "state": "",
+    "bitrate": 128
+}

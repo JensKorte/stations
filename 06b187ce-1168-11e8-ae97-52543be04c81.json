@@ -1,0 +1,14 @@
+{
+    "uuid": "06b187ce-1168-11e8-ae97-52543be04c81",
+    "name": "Tele Radio Valle Camonica",
+    "url": "http://onair20.xdevel.com:8320/stream",
+    "homepage": "http://www.radiovallecamonica.it/",
+    "favicon": "http://www.radiovallecamonica.it/wp-content/uploads/2018/01/1980_Adesivo_-300x300.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "boario terme,italian pop",
+    "state": "Lombardia",
+    "bitrate": 64
+}

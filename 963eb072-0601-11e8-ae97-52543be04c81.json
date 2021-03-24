@@ -1,0 +1,14 @@
+{
+    "uuid": "963eb072-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Zoom",
+    "url": "http://musik.radio-zoom.de:8000/",
+    "homepage": "http://www.radio-zoom.de",
+    "favicon": "https://www.radio-zoom.de//fileadmin/template/Public/images/rz_touch-icon.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "country,film music,80s",
+    "state": "",
+    "bitrate": 192
+}

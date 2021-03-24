@@ -1,0 +1,14 @@
+{
+    "uuid": "3cffa72f-05d8-11e9-a3cd-52543be04c81",
+    "name": "bigFM Baden-Württemberg",
+    "url": "http://streams.bigfm.de/bigfm-bw-128-aac?usid=0-0-H-A-D-30",
+    "homepage": "https://www.bigfm.de/",
+    "favicon": "http://static.bigfm.de/sites/default/files/styles/wide/public/scald/image/Unbenannt-1.png?itok=X8ON4EVY",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop",
+    "state": "Baden-Württemberg",
+    "bitrate": 128
+}

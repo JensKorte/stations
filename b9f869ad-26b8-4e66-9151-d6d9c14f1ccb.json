@@ -1,0 +1,14 @@
+{
+    "uuid": "b9f869ad-26b8-4e66-9151-d6d9c14f1ccb",
+    "name": "Usach",
+    "url": "https://rusach.janus.cl/playlist/stream.m3u8",
+    "homepage": "https://www.radiousach.cl/",
+    "favicon": "https://www.radiousach.cl/rusach/site/artic/20200224/imag/foto_0000000720200224125028/logo_radio_amarillo-naranja.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Chile",
+    "country_code": "CL",
+    "language": "español",
+    "tags": "folcklore,rock,pop,noticias",
+    "state": "Santiago",
+    "bitrate": 600
+}

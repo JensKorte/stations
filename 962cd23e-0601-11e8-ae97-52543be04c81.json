@@ -1,0 +1,14 @@
+{
+    "uuid": "962cd23e-0601-11e8-ae97-52543be04c81",
+    "name": "TOPradio",
+    "url": "http://195.13.200.164:8000/listen.pls",
+    "homepage": "https://topradio.lv/",
+    "favicon": "https://topradio.lv/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "russian",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 192
+}

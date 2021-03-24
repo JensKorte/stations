@@ -1,0 +1,14 @@
+{
+    "uuid": "963991aa-0601-11e8-ae97-52543be04c81",
+    "name": "hr2-kultur (48 kbit/s)",
+    "url": "http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/48/stream.mp3",
+    "homepage": "http://www.hr-online.de/website/radio/hr2/",
+    "favicon": "http://www.hr2.de/assets_2.47.6/base/icons/favicon/favicon-256.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classical,culture,hessischer rundfunk,ard,public radio",
+    "state": "Hessen",
+    "bitrate": 0
+}

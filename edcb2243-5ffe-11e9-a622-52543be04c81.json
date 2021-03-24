@@ -1,0 +1,14 @@
+{
+    "uuid": "edcb2243-5ffe-11e9-a622-52543be04c81",
+    "name": "Tbilisi FM 93,5",
+    "url": "http://iis.ge:8000/radiotbilisi.mp3",
+    "homepage": "http://tbilisifm.com/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Georgia",
+    "country_code": "GE",
+    "language": "georgian",
+    "tags": "talk,news",
+    "state": "",
+    "bitrate": 0
+}

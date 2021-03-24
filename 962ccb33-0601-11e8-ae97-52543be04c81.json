@@ -1,0 +1,14 @@
+{
+    "uuid": "962ccb33-0601-11e8-ae97-52543be04c81",
+    "name": "Radio SWH+",
+    "url": "http://80.232.162.149:8000/plus96mp3.m3u",
+    "homepage": "http://www.radioswhplus.lv/",
+    "favicon": "http://www.radioswhplus.lv/wp-content/uploads/logo/swh+20gadulogo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Latvia",
+    "country_code": "LV",
+    "language": "russian",
+    "tags": "news,talk,classic rock",
+    "state": "",
+    "bitrate": 192
+}

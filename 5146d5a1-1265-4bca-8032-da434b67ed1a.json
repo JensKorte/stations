@@ -1,0 +1,14 @@
+{
+    "uuid": "5146d5a1-1265-4bca-8032-da434b67ed1a",
+    "name": "Times Radio (MP3 stream)",
+    "url": "http://www.radiofeeds.co.uk/wgtimesradio.m3u",
+    "homepage": "https://www.thetimes.co.uk/radio",
+    "favicon": "https://www.thetimes.co.uk/d/assets/logoWhite-cf9dd662d3.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

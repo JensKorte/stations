@@ -1,0 +1,14 @@
+{
+    "uuid": "962767b3-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Verona",
+    "url": "http://wma02.fluidstream.net:9980/listen.pls",
+    "homepage": "http://www.radioverona.it/",
+    "favicon": "http://media.radioverona.it/media/siti/tv_radio-v2/images/favicon-rvr.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pop,top 40,sport,talk",
+    "state": "Veneto",
+    "bitrate": 96
+}

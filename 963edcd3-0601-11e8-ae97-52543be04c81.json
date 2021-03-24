@@ -1,0 +1,14 @@
+{
+    "uuid": "963edcd3-0601-11e8-ae97-52543be04c81",
+    "name": "ESPN Deportes Radio",
+    "url": "http://edge.espn.cdn.abacast.net/espn-deportesmp3-48?",
+    "homepage": "http://espndeportes.espn.go.com/espndeportesradio/play?s=deportes",
+    "favicon": "http://a.espncdn.com/i/espnradio/08/player/shows/default_espnradio.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "spanish",
+    "tags": "espn,talk,sport",
+    "state": "",
+    "bitrate": 48
+}

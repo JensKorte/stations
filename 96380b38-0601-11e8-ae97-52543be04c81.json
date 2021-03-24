@@ -1,0 +1,14 @@
+{
+    "uuid": "96380b38-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Carrizal",
+    "url": "http://streaming.enantena.com:8000/radiocarrizal128.mp3",
+    "homepage": "http://carrizal.radio.es/#",
+    "favicon": "http://static.radio.es/images/broadcasts/d0/68/19184/c175.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "spanish",
+    "tags": "canarias,español",
+    "state": "Islas Canarias",
+    "bitrate": 0
+}

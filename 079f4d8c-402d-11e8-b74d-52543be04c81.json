@@ -1,0 +1,14 @@
+{
+    "uuid": "079f4d8c-402d-11e8-b74d-52543be04c81",
+    "name": "AngelsRadio",
+    "url": "http://stream.angelsradio.ru:9000/8162",
+    "homepage": "http://angelsradio.ru",
+    "favicon": "http://angelsradio.ru/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "alternative,metal,rock",
+    "state": "Moscow",
+    "bitrate": 320
+}

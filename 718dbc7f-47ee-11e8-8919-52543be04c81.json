@@ -1,0 +1,14 @@
+{
+    "uuid": "718dbc7f-47ee-11e8-8919-52543be04c81",
+    "name": "BR Nord.TV",
+    "url": "https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8",
+    "homepage": "https://www.br.de/fernsehen/index.html",
+    "favicon": "https://www.br.de//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 577
+}

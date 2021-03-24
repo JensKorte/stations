@@ -1,0 +1,14 @@
+{
+    "uuid": "ae7694a3-d499-11e9-a861-52543be04c81",
+    "name": "Radio Con Vos 89.9",
+    "url": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
+    "homepage": "https://www.radioconvos.com.ar",
+    "favicon": "https://www.radioconvos.com.ar///public/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "news,rock,pop",
+    "state": "Capitál Federal",
+    "bitrate": 66
+}

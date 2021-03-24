@@ -1,0 +1,14 @@
+{
+    "uuid": "964a181c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Swiss Classic German",
+    "url": "http://www.radioswissclassic.ch/de/live/aacp32.m3u",
+    "homepage": "http://www.radioswissclassic.ch",
+    "favicon": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "classical,srg ssr",
+    "state": "Bern",
+    "bitrate": 0
+}

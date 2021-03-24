@@ -1,0 +1,14 @@
+{
+    "uuid": "06e955cf-3188-43c8-aa91-22ee01961e33",
+    "name": "WJFD 97.3 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJFDFMAAC.aac",
+    "homepage": "https://wjfd.com",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WJFD-FM.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "international",
+    "state": "New Bedford MA",
+    "bitrate": 56
+}

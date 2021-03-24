@@ -1,0 +1,14 @@
+{
+    "uuid": "83aee402-c381-458e-b471-16a806e8dd69",
+    "name": "Play Radio Serbia",
+    "url": "https://stream.playradio.rs:8443/play.mp3",
+    "homepage": "https://www.playradio.rs/",
+    "favicon": "https://playradio.rs/images/playlogo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

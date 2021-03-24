@@ -1,0 +1,14 @@
+{
+    "uuid": "962ee1ed-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Petrolina FM (ZYX802, 98,3 MHz FM, Petronila, PE)",
+    "url": "http://hd4.matutos.com.br:8324/;stream.mp3",
+    "homepage": "http://www.petrolinafm.com",
+    "favicon": "http://srv01.site.mat.br/arquivos/395/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "full service,community radio,petrolinafm,petrolina",
+    "state": "Pernambuco",
+    "bitrate": 48
+}

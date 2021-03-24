@@ -1,0 +1,14 @@
+{
+    "uuid": "feefde10-0b39-437e-aa0a-9b95a0a5f8e0",
+    "name": "Nostalgic FM",
+    "url": "https://radionostalgic.ro:8040/mp3/",
+    "homepage": "https://nostalgicfm.ro/",
+    "favicon": "https://nostalgicfm.ro/favicon.ico",
+    "creation": "2021-02-12 06:53:09",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "english,romanian",
+    "tags": "love song,disco,dance,90s,80s,70s,oldies",
+    "state": "",
+    "bitrate": 192
+}

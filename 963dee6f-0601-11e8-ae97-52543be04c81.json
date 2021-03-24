@@ -1,0 +1,14 @@
+{
+    "uuid": "963dee6f-0601-11e8-ae97-52543be04c81",
+    "name": "Amposta Ràdio",
+    "url": "http://endirecte.amposta.cat:8000/radio",
+    "homepage": "http://www.amposta.cat/radio/",
+    "favicon": "http://www.amposta.cat/galeria/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "amposta",
+    "state": "Terres de l'Ebre",
+    "bitrate": 64
+}

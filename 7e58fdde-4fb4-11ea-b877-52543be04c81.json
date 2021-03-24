@@ -1,0 +1,14 @@
+{
+    "uuid": "7e58fdde-4fb4-11ea-b877-52543be04c81",
+    "name": "Giornale Radio",
+    "url": "http://ns3159873.ip-51-91-131.eu:8124/;",
+    "homepage": "https://giornaleradio.fm/",
+    "favicon": "https://giornaleradio.fm/images/Lgo_GR_Circular_big.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "milano,talk,news,allnews",
+    "state": "Lombardia",
+    "bitrate": 128
+}

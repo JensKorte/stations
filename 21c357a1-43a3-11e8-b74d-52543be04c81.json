@@ -1,0 +1,14 @@
+{
+    "uuid": "21c357a1-43a3-11e8-b74d-52543be04c81",
+    "name": "SlowFM",
+    "url": "http://radyo.slowfm.biz:8090/",
+    "homepage": "http://www.slowfm.biz/index.html",
+    "favicon": "http://www.slowfm.biz/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "",
+    "state": "",
+    "bitrate": 128
+}

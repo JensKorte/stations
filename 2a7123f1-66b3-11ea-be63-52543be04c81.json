@@ -1,0 +1,14 @@
+{
+    "uuid": "2a7123f1-66b3-11ea-be63-52543be04c81",
+    "name": "RádioLokál",
+    "url": "http://mpc.mediacp.eu:8065/listen.pls",
+    "homepage": "http://radiolokal.sk/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak",
+    "tags": "eurodance,slovakia,90s",
+    "state": "",
+    "bitrate": 128
+}

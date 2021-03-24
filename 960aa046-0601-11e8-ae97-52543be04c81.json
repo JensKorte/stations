@@ -1,0 +1,14 @@
+{
+    "uuid": "960aa046-0601-11e8-ae97-52543be04c81",
+    "name": "Bel-RTL",
+    "url": "http://audiostream.rtl.be/belrtl128",
+    "homepage": "http://www.belrtl.be/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BelRTL_2008_%28logo%29.svg/langfr-220px-BelRTL_2008_%28logo%29.svg.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "bel rtl,pop",
+    "state": "Brussels",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "6fc82acb-a036-4537-9fe4-a315db1e2456",
+    "name": "DevZen Podcast",
+    "url": "https://live.devzen.ru/stream?type=.mp3",
+    "homepage": "https://devzen.ru",
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/90/f7/1a/90f71a87-096d-b3c1-c284-873b2eaf1a25/mza_4771468106753631555.jpg/1200x630wp.png",
+    "creation": "2021-02-14 07:57:16",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "talking,podcast",
+    "state": "",
+    "bitrate": 80
+}

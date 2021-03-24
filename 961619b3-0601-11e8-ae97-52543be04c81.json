@@ -1,0 +1,14 @@
+{
+    "uuid": "961619b3-0601-11e8-ae97-52543be04c81",
+    "name": "Show Radyo",
+    "url": "http://46.20.3.229/;stream.nsv",
+    "homepage": "http://www.showradyo.com.tr/",
+    "favicon": "http://www.showradyo.com.tr/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "istanbul,pop,commercial",
+    "state": "",
+    "bitrate": 96
+}

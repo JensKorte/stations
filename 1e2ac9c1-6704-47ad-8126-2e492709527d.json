@@ -1,0 +1,14 @@
+{
+    "uuid": "1e2ac9c1-6704-47ad-8126-2e492709527d",
+    "name": "PLANETFM",
+    "url": "http://c20.radioboss.fm:8080/stream",
+    "homepage": "http://planetfmtz.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s253284/images/bannerx.jpg?t=637025061470000000",
+    "creation": "2021-02-14 17:55:14",
+    "country": "United Republic Of Tanzania",
+    "country_code": "TZ",
+    "language": "swahili",
+    "tags": "talk radio,classic hits",
+    "state": "",
+    "bitrate": 128
+}

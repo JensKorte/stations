@@ -1,0 +1,14 @@
+{
+    "uuid": "96475b24-0601-11e8-ae97-52543be04c81",
+    "name": "LandesWelle GrillWelle",
+    "url": "http://stream.landeswelle.de/lwgr/mp3-192/rin/",
+    "homepage": "http://www.landeswelle.de/",
+    "favicon": "https://www.landeswelle.de///templates/main/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "party,rock,pop",
+    "state": "Thuringia",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "05ca38f9-47ee-11e8-8919-52543be04c81",
+    "name": "ZDF heute.TV",
+    "url": "https://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8?",
+    "homepage": "http://heute.de/",
+    "favicon": "https://www.zdf.de/assets/logo-der-heute-nachrichten-100~1280x720?cb=1511553573063",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "tv",
+    "state": "",
+    "bitrate": 229
+}

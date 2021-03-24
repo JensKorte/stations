@@ -1,0 +1,14 @@
+{
+    "uuid": "b1840d04-edf0-4cd8-a060-1111629ea3f6",
+    "name": "Radio Netyco Argentina",
+    "url": "https://radio.netyco.com:18000/stream.mp3",
+    "homepage": "https://www.netyco.com",
+    "favicon": "https://radio.netyco.com/logo.php?puerto=8000",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "es",
+    "tags": "música las 24",
+    "state": "",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9612842d-0601-11e8-ae97-52543be04c81",
+    "name": "Linn Radio",
+    "url": "http://radio.linnrecords.com/cast/tunein.php/linnradio/playlist.pls",
+    "homepage": "http://www.linn.co.uk/radio",
+    "favicon": "http://small.linncdn.com/website/responsive/images/logo-black-chunky.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "320kbps",
+    "state": "Scotland",
+    "bitrate": 320
+}

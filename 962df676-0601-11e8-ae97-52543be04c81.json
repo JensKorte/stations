@@ -1,0 +1,14 @@
+{
+    "uuid": "962df676-0601-11e8-ae97-52543be04c81",
+    "name": "WUSB 90.1 State University of New York at Stony Brook, NY",
+    "url": "http://stream.wusb.stonybrook.edu:8090/;.mp3",
+    "homepage": "http://www.wusb.fm/",
+    "favicon": "http://abcdunlimited.com/images/logo/wusblogor80.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "stony brook,long island,freeform,university radio",
+    "state": "New York",
+    "bitrate": 128
+}

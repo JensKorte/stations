@@ -1,0 +1,14 @@
+{
+    "uuid": "961b040d-0601-11e8-ae97-52543be04c81",
+    "name": "RVM (Radio Vie Meilleure)",
+    "url": "http://guadadvent.org:8000/rvm",
+    "homepage": "http://www.radioviemeilleure.com/",
+    "favicon": "http://www.radioviemeilleure.com/wp-content/themes/twentyten/images/RVM-LOGO.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "outre-mer,christian",
+    "state": "Guadeloupe",
+    "bitrate": 192
+}

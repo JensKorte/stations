@@ -1,0 +1,14 @@
+{
+    "uuid": "96468f55-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 509 Hilversum",
+    "url": "http://provisioning.streamtheworld.com/pls/RADIO509AAC.pls",
+    "homepage": "http://www.radio509.nl/",
+    "favicon": "http://www.radio509.nl/images/layout/logoRadio509.gif",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "hilversum,community radio",
+    "state": "",
+    "bitrate": 96
+}

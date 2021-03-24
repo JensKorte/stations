@@ -1,0 +1,14 @@
+{
+    "uuid": "960f1047-0601-11e8-ae97-52543be04c81",
+    "name": "RBA FM",
+    "url": "http://heberg.radioludo.com:8006/stream.m3u",
+    "homepage": "http://www.rbafm.fr/",
+    "favicon": "http://www.rbafm.fr/s/img/emotionheader.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "",
+    "state": "Nouvelle-Aquitaine",
+    "bitrate": 0
+}

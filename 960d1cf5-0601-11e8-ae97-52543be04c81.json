@@ -1,0 +1,14 @@
+{
+    "uuid": "960d1cf5-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Air Libre",
+    "url": "http://streaming.domainepublic.net:8000/radioairlibre.ogg.m3u",
+    "homepage": "http://www.radioairlibre.be",
+    "favicon": "http://www.radioairlibre.be/bbpub.JPG",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "alternative",
+    "state": "Brussels",
+    "bitrate": 0
+}

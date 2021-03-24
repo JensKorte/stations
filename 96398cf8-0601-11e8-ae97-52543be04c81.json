@@ -1,0 +1,14 @@
+{
+    "uuid": "96398cf8-0601-11e8-ae97-52543be04c81",
+    "name": "Radio HCJB German (32kbps)",
+    "url": "http://segenswelle.de:8000/hcjb-aac",
+    "homepage": "http://andenstimme.org/empfang",
+    "favicon": "http://www.webbuilder.hosteurope.de/files/writeable/uploads/hosteurope16446/image/logo.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "language": "german",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 32
+}

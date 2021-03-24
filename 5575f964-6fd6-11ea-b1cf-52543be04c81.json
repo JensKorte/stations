@@ -1,0 +1,14 @@
+{
+    "uuid": "5575f964-6fd6-11ea-b1cf-52543be04c81",
+    "name": "Rádio Força Aérea",
+    "url": "http://shout25.crossradio.com.br:8290/1",
+    "homepage": "http://www.fab.mil.br/radio",
+    "favicon": "http://www.fab.mil.br///images/sistema/geral/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "public,government,militar",
+    "state": "",
+    "bitrate": 64
+}

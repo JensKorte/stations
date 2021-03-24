@@ -1,0 +1,14 @@
+{
+    "uuid": "5cf785ae-1a67-4b74-bc37-61f6596fe4fd",
+    "name": "LOS40 Ciudad de México - 101.7 FM - XEX-FM - Radiópolis - Ciudad de México",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac",
+    "homepage": "https://www.los40.com.mx/",
+    "favicon": "http://cdn-profiles.tunein.com/s47704/images/logoq.png?t=155784",
+    "creation": "2021-03-01 06:11:11",
+    "country": "Mexico",
+    "country_code": "MX",
+    "language": "español",
+    "tags": "televisa radio,entretenimiento,pop,pop,música,música,estación,101.7 fm,101.7,fm,radio,mx,mex,méxico,cdmx,ciudad de méxico,radiópolis,los40",
+    "state": "Ciudad de México",
+    "bitrate": 56
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96156c55-0601-11e8-ae97-52543be04c81",
+    "name": "RTÉ Pulse",
+    "url": "http://av.rasset.ie/av/live/radio/pulse.m3u",
+    "homepage": "http://www.rte.ie/radio",
+    "favicon": "http://www.liveradio.ie/files/images/101109/resized/140x134c/rte_pulse.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "english",
+    "tags": "electronic,dance,edm",
+    "state": "",
+    "bitrate": 0
+}

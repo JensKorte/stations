@@ -1,0 +1,14 @@
+{
+    "uuid": "9637b894-0601-11e8-ae97-52543be04c81",
+    "name": "Shout-FM Nightclub Stream",
+    "url": "http://stream.laut.fm/nightclub",
+    "homepage": "https://www.shout-fm.de/",
+    "favicon": "https://www.shout-fm.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "disco,ndw,90s,80s",
+    "state": "Lower Saxony",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96428937-0601-11e8-ae97-52543be04c81",
+    "name": "Ràdio Cabanes",
+    "url": "http://chrome.frilab.com:8000/radiocabanes",
+    "homepage": "http://ventdelnord.tv/graella/nova_radio_cabanes",
+    "favicon": "http://www.ventdelnord.tv/load/images_radio/logo_radio_cabanes_278_188.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "catalan",
+    "tags": "figueres",
+    "state": "Girona",
+    "bitrate": 96
+}

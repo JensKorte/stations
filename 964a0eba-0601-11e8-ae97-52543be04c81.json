@@ -1,0 +1,14 @@
+{
+    "uuid": "964a0eba-0601-11e8-ae97-52543be04c81",
+    "name": "extra radio",
+    "url": "http://www.radionetz.de:8000/extra-radio.mp3",
+    "homepage": "http://www.extra-radio.de/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/de/6/61/Extra-radio_RGB.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Bavaria",
+    "bitrate": 0
+}

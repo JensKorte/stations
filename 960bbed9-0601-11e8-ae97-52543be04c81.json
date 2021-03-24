@@ -1,0 +1,14 @@
+{
+    "uuid": "960bbed9-0601-11e8-ae97-52543be04c81",
+    "name": "SRF 2",
+    "url": "http://stream.srg-ssr.ch/drs2/mp3_128.m3u",
+    "homepage": "http://www.srf.ch/radio-srf-2-kultur",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "srg ssr,public radio,kultur,culture",
+    "state": "",
+    "bitrate": 0
+}

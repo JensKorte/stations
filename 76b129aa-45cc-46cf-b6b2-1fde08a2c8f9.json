@@ -1,0 +1,14 @@
+{
+    "uuid": "76b129aa-45cc-46cf-b6b2-1fde08a2c8f9",
+    "name": "FIP Pop",
+    "url": "https://icecast.radiofrance.fr/fippop-hifi.aac",
+    "homepage": "https://www.fip.fr/pop/webradio",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "aac,public radio,pop,radio france",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9611d75a-0601-11e8-ae97-52543be04c81",
+    "name": "radio hbw",
+    "url": "http://www.radio-hbw.de/livestream/radio_hbw.m3u",
+    "homepage": "http://www.radio-hbw.de",
+    "favicon": "http://www.radio-hbw.de/images/logo.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "pop,misc",
+    "state": "Saxony-Anhalt",
+    "bitrate": 128
+}

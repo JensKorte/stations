@@ -1,0 +1,14 @@
+{
+    "uuid": "96229d82-0601-11e8-ae97-52543be04c81",
+    "name": "Source FM",
+    "url": "http://live.canstream.co.uk:8000/sourcefm.mp3",
+    "homepage": "http://www.thesourcefm.co.uk/",
+    "favicon": "http://www.thesourcefm.co.uk/sites/default/files/Source-FM-Falmouth-Penryn-Community-Radio.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "english",
+    "tags": "cornwall,local talk,music,local,local programming,local news,local radio,community,community radio",
+    "state": "",
+    "bitrate": 102
+}

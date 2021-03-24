@@ -1,0 +1,14 @@
+{
+    "uuid": "bc4c5178-4245-11e8-b74d-52543be04c81",
+    "name": "CGTN Spanish",
+    "url": "http://livees.cgtn.com/200e/prog_index.m3u8",
+    "homepage": "http://www.cgtn.com",
+    "favicon": "http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690878867_254.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "spanish",
+    "tags": "hls video,beijing",
+    "state": "Beijing",
+    "bitrate": 0
+}

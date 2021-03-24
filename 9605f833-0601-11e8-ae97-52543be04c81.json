@@ -1,0 +1,14 @@
+{
+    "uuid": "9605f833-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Mainwelle 104.3",
+    "url": "http://webstream.mainwelle.de/radio-mainwelle.mp3",
+    "homepage": "http://www.radio-mainwelle.de/",
+    "favicon": "http://www.mainwelle.fm/sites/www.mainwelle.fm/files/favicon02.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "news",
+    "state": "",
+    "bitrate": 128
+}

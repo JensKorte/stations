@@ -1,0 +1,14 @@
+{
+    "uuid": "962e2f7d-0601-11e8-ae97-52543be04c81",
+    "name": "WRPR 90.3 Ramapo College, Mahwah, NJ",
+    "url": "http://video.ramapo.edu:8000/stream",
+    "homepage": "https://www.ramapo.edu/wrpr-fm/",
+    "favicon": "https://www.ramapo.edu//wp-content/themes/rcnjrd/images/favicons/apple-touch-icon-57x57.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "mahwah,freeform,college radio",
+    "state": "New Jersey",
+    "bitrate": 128
+}

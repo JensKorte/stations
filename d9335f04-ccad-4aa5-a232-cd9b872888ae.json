@@ -1,0 +1,14 @@
+{
+    "uuid": "d9335f04-ccad-4aa5-a232-cd9b872888ae",
+    "name": "Dein Rock Radio",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0185/deinrock/high/stream.mp3",
+    "homepage": "https://www.radiokoeln.de/service/radioplayer.html?radiochannel=rnrw-rock",
+    "favicon": "https://www.radiokoeln.de/assets/images/playerlogos/gelb/rnrw-rock.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,deutsch",
+    "tags": "rock",
+    "state": "Nordrhein-Westfalen",
+    "bitrate": 128
+}

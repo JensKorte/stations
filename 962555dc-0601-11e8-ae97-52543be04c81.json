@@ -1,0 +1,14 @@
+{
+    "uuid": "962555dc-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Disney Argentina",
+    "url": "http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8",
+    "homepage": "http://radiodisney.disneylatino.com/argentina",
+    "favicon": "https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png?region=0%2C0%2C860%2C860",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Argentina",
+    "country_code": "AR",
+    "language": "spanish",
+    "tags": "m3u8,teen pop",
+    "state": "Buenos Aires",
+    "bitrate": 96
+}

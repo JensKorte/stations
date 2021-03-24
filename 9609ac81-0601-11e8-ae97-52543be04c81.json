@@ -1,0 +1,14 @@
+{
+    "uuid": "9609ac81-0601-11e8-ae97-52543be04c81",
+    "name": "2MFM \"Muslim Community Radio\" 92.1 FM Sydney, NSW",
+    "url": "http://www.2mfm.org.au:8000/live",
+    "homepage": "http://www.2mfm.org/",
+    "favicon": "http://www.2mfm.org/images/2mfm.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "arabic,english",
+    "tags": "talk,religion",
+    "state": "New South Wales",
+    "bitrate": 80
+}

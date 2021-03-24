@@ -1,0 +1,14 @@
+{
+    "uuid": "379d25e3-eb8d-11e9-a96c-52543be04c81",
+    "name": "France Musique La B.O.",
+    "url": "http://icecast.radiofrance.fr/francemusiquelabo-hifi.aac",
+    "homepage": "https://www.francemusique.fr/musiques-de-films",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d2ac7a26-843d-4f0c-a497-8ddf6f3b2f0f/200x200_fmwebbotout.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "France",
+    "country_code": "FR",
+    "language": "french",
+    "tags": "radio france,movie soundtracks,public radio,aac",
+    "state": "",
+    "bitrate": 0
+}

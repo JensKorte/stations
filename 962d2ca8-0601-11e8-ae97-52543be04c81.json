@@ -1,0 +1,14 @@
+{
+    "uuid": "962d2ca8-0601-11e8-ae97-52543be04c81",
+    "name": "Radio California",
+    "url": "http://onair22.streaming.xdevel.com:10084/;stream.mp3",
+    "homepage": "http://www.california.it/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s154443q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "pescara,70s,80s,adult contemporary",
+    "state": "Abruzzo",
+    "bitrate": 128
+}

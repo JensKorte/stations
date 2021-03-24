@@ -1,0 +1,14 @@
+{
+    "uuid": "2bc29abb-b471-11e8-afe1-52543be04c81",
+    "name": "Rádio Cravo Albin",
+    "url": "http://minha.webradio.srv.br:8077/stream",
+    "homepage": "http://institutocravoalbin.com.br/radiocravoalbin/",
+    "favicon": "http://institutocravoalbin.com.br/radio/images/logo.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Brazil",
+    "country_code": "BR",
+    "language": "portuguese",
+    "tags": "instrumental,choro,chorinho,bossa nova,brazilian music",
+    "state": "Rio de Janeiro",
+    "bitrate": 128
+}

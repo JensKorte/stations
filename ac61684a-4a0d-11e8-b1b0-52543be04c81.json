@@ -1,0 +1,14 @@
+{
+    "uuid": "ac61684a-4a0d-11e8-b1b0-52543be04c81",
+    "name": "Tungchi Info TV",
+    "url": "http://www.ahdztv.cn:1935/live/wenhua/playlist.m3u8",
+    "homepage": "http://www.ahdztv.cn/",
+    "favicon": "http://www.ahdztv.cn/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "China",
+    "country_code": "CN",
+    "language": "chinese",
+    "tags": "hls video,anhwei",
+    "state": "Anhwei",
+    "bitrate": 103
+}

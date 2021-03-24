@@ -1,0 +1,14 @@
+{
+    "uuid": "bb7937c8-5ffe-11e9-a622-52543be04c81",
+    "name": "Радио SK",
+    "url": "http://iis.ge:8000/sk.mp3",
+    "homepage": "http://sknews.ge/",
+    "favicon": "http://sknews.ge//favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Georgia",
+    "country_code": "GE",
+    "language": "georgian",
+    "tags": "folk,talk,news,pop",
+    "state": "",
+    "bitrate": 152
+}

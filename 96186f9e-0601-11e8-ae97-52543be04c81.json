@@ -1,0 +1,14 @@
+{
+    "uuid": "96186f9e-0601-11e8-ae97-52543be04c81",
+    "name": "WBEZ 91.5 Chicago Public Radio",
+    "url": "http://stream.wbez.org/wbez128.mp3",
+    "homepage": "https://www.wbez.org/",
+    "favicon": "https://pbs.twimg.com/profile_images/766332979295629312/BgXlR9Li_400x400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "chicago,news,npr,public radio",
+    "state": "Illinois",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "359d532a-a730-474b-b40d-d5f43a90709f",
+    "name": "Harbour Radio",
+    "url": "http://54.38.212.160:9300/stream",
+    "homepage": "http://harbourradio.co.uk/",
+    "favicon": "http://harbourradio.co.uk/demo/wp-content/uploads/2017/08/logo-2.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "english",
+    "tags": "local radio",
+    "state": "Norfolk",
+    "bitrate": 128
+}

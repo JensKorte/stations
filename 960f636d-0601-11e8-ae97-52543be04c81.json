@@ -1,0 +1,14 @@
+{
+    "uuid": "960f636d-0601-11e8-ae97-52543be04c81",
+    "name": "Gdynia Radio",
+    "url": "http://51.255.8.139:8064/stream",
+    "homepage": "http://gdyniaradio.com/",
+    "favicon": "http://nadaje.pro/cache/imgs/squareStylist-128-00000000-3f7a1b85.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Poland",
+    "country_code": "PL",
+    "language": "polish",
+    "tags": "",
+    "state": "Gdynia",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "0ab0056c-6b80-11ea-b1cf-52543be04c81",
+    "name": "Pátria Rádió",
+    "url": "https://icecast.stv.livebox.sk/patria_128.mp3",
+    "homepage": "https://patria.rtvs.sk/",
+    "favicon": "https://felvidek.ma/wp-content/uploads/2012/08/patria_radio.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "language": "slovak,hungarian",
+    "tags": "talk,minority,public radio",
+    "state": "",
+    "bitrate": 0
+}

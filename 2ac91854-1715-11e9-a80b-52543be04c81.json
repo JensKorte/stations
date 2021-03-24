@@ -1,0 +1,14 @@
+{
+    "uuid": "2ac91854-1715-11e9-a80b-52543be04c81",
+    "name": "FL24 Radio",
+    "url": "https://fl24radio.radioca.st/stream?type=http\u0026nocache=58",
+    "homepage": "https://www.fl24radio.de/",
+    "favicon": "https://www.fl24radio.de/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "christian",
+    "state": "",
+    "bitrate": 128
+}

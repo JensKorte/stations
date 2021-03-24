@@ -1,0 +1,14 @@
+{
+    "uuid": "9625d1b6-0601-11e8-ae97-52543be04c81",
+    "name": "KCUR 89.3 Kansas City, MO",
+    "url": "http://kcurlive.umkc.edu:8000/kcur893",
+    "homepage": "http://kcur.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kcur/files/201509/KCUR-Logo-Horizontal-FullColor.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "kansas city,classical,npr,public radio",
+    "state": "Missouri",
+    "bitrate": 170
+}

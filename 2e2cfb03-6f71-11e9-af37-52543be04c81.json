@@ -1,0 +1,14 @@
+{
+    "uuid": "2e2cfb03-6f71-11e9-af37-52543be04c81",
+    "name": "Super FM Chania",
+    "url": "http://s3.onweb.gr:8454/",
+    "homepage": "http://superfm896.gr/",
+    "favicon": "http://superfm896.gr/site/templates/external/img/favicon.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "greece,crete,chania,greek",
+    "state": "Crete",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9649edae-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Roland FFN",
+    "url": "http://radioroland.de/stream.mp3",
+    "homepage": "http://radioroland.de/",
+    "favicon": "http://player.ffn.de/radioplayer/img/radioroland.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "schlager",
+    "state": "Bremen",
+    "bitrate": 192
+}

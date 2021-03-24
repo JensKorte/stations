@@ -1,0 +1,14 @@
+{
+    "uuid": "6325aaa7-3428-4cc2-9569-8b9de9efed79",
+    "name": "ten TV",
+    "url": "http://91.126.141.201:1935/live/ten/.m3u8",
+    "homepage": "https://tentv.es/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/375px-Ten.svg.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Spain",
+    "country_code": "ES",
+    "language": "castellano,español,spanish",
+    "tags": "entretenimiento,variedad",
+    "state": "Madrid",
+    "bitrate": 1908
+}

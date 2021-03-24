@@ -1,0 +1,14 @@
+{
+    "uuid": "963530c0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Venere",
+    "url": "http://188.165.192.5:8025/stream",
+    "homepage": "http://www.radiovenere.net/",
+    "favicon": "http://www.radiovenere.net/Content/Images/logo.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "bovalino,adult contemporary,entertainment,news",
+    "state": "Calabria",
+    "bitrate": 192
+}

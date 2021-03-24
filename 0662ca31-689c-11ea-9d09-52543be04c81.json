@@ -1,0 +1,14 @@
+{
+    "uuid": "0662ca31-689c-11ea-9d09-52543be04c81",
+    "name": "Isan FM 98",
+    "url": "http://radio11.plathong.net:8900/stream.mp3",
+    "homepage": "http://www.isanfm.com/",
+    "favicon": "http://www.isanfm.com/images/isanfm.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Thailand",
+    "country_code": "TH",
+    "language": "thai",
+    "tags": "pop",
+    "state": "",
+    "bitrate": 320
+}

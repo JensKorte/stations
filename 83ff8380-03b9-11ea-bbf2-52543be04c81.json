@@ -1,0 +1,14 @@
+{
+    "uuid": "83ff8380-03b9-11ea-bbf2-52543be04c81",
+    "name": "Efteling Kids Radio",
+    "url": "http://rrr.sz.xlcdn.com/?account=efteling\u0026file=hdstream\u0026type=live\u0026service=icecast\u0026protocol=http\u0026port=8000\u0026output=pls",
+    "homepage": "https://www.efteling.com/nl%20https://www.efteling.com/nl/kids/radio%20https://www.efteling.com/nl/kids/radio/player",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "language": "dutch",
+    "tags": "children,kids,fairytales,dutch",
+    "state": "",
+    "bitrate": 0
+}

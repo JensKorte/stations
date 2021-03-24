@@ -1,0 +1,14 @@
+{
+    "uuid": "9639c07d-0601-11e8-ae97-52543be04c81",
+    "name": "NDR Info (Niedersachsen)",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u",
+    "homepage": "https://www.ndr.de/info/",
+    "favicon": "http://static.radio.de/images/broadcasts/20/c9/2348/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "kultur,regional,cultural news,culture,local news,news,information",
+    "state": "Lower Saxony",
+    "bitrate": 0
+}

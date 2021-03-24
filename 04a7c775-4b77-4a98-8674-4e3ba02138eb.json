@@ -1,0 +1,14 @@
+{
+    "uuid": "04a7c775-4b77-4a98-8674-4e3ba02138eb",
+    "name": "Ретро FM 90e (32 kbps, m3u8)",
+    "url": "http://hls-01-retro90.emgsound.ru/3/32/playlist.m3u8",
+    "homepage": "https://retrofm.ru/online/player.php?type=90",
+    "favicon": "https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_90.png?v=2",
+    "creation": "2021-03-23 09:46:23",
+    "country": "The Russian Federation",
+    "country_code": "RU",
+    "language": "russian",
+    "tags": "rock,retro,disco,pop,90s",
+    "state": "Moscow",
+    "bitrate": 0
+}

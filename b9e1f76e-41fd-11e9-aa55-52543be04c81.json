@@ -1,0 +1,14 @@
+{
+    "uuid": "b9e1f76e-41fd-11e9-aa55-52543be04c81",
+    "name": "Blues Radio",
+    "url": "http://cast3.radiohost.ovh:8352/",
+    "homepage": "http://bluesradio.gr",
+    "favicon": "http://bluesradio.gr//wp-content/uploads/2015/09/create_thumb.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "english",
+    "tags": "blues",
+    "state": "Athens",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "961b1705-0601-11e8-ae97-52543be04c81",
+    "name": "KUAC 89.9 Fairbanks, AK",
+    "url": "http://kuac.streamon.fm:8000/KUAC-24k.aac?starttime=1447630903",
+    "homepage": "http://fm.kuac.org/",
+    "favicon": "http://mediad.publicbroadcasting.net/p/kuac/files/201505/favicon_fid.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "fairbanks",
+    "state": "Alaska",
+    "bitrate": 24
+}

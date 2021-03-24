@@ -1,0 +1,14 @@
+{
+    "uuid": "96190b45-0601-11e8-ae97-52543be04c81",
+    "name": "Rádio Planície 92.8 Moura",
+    "url": "http://109.71.41.6:8026/stream",
+    "homepage": "http://www.radioplanicie.com/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s82364q.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Portugal",
+    "country_code": "PT",
+    "language": "portuguese",
+    "tags": "pop,talkshow,local music",
+    "state": "Beja",
+    "bitrate": 128
+}

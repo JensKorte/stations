@@ -1,0 +1,14 @@
+{
+    "uuid": "7ab73938-f92a-41ce-8647-9397afcf9ea3",
+    "name": "90 Dance Radio",
+    "url": "https://nrf1.newradio.it:9934/stream",
+    "homepage": "https://www.90danceradio.com/",
+    "favicon": "https://www.90danceradio.com/immagini/Logo%2090danceradio%20500x500.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "verona,90s,dance,eurodance",
+    "state": "Veneto",
+    "bitrate": 96
+}

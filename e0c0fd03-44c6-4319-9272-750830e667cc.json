@@ -1,0 +1,14 @@
+{
+    "uuid": "e0c0fd03-44c6-4319-9272-750830e667cc",
+    "name": "Rádió 1",
+    "url": "http://stream.radio1.hu/mid.mp3",
+    "homepage": "https://www.radio1.hu/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "csak igazi mai sláger megy",
+    "state": "",
+    "bitrate": 128
+}

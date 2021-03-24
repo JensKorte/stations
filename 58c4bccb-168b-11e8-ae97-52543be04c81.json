@@ -1,0 +1,14 @@
+{
+    "uuid": "58c4bccb-168b-11e8-ae97-52543be04c81",
+    "name": "RTBF Pure Lazy",
+    "url": "https://radios.rtbf.be/wr-pure-lazy-128.mp3",
+    "homepage": "http://www.rtbfradioplayer.be/radio/liveradio/webradio-purelazy",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/1107_300x170_2018-01-12-13-15-51-1.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf",
+    "state": "",
+    "bitrate": 128
+}

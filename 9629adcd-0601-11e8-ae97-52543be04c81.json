@@ -1,0 +1,14 @@
+{
+    "uuid": "9629adcd-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Milano TV",
+    "url": "http://nr6.newradio.it:9120/listen.pls",
+    "homepage": "http://www.radiomilanotv.com/",
+    "favicon": "http://www.radiomilanotv.com/logo_new.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "top 40,pop",
+    "state": "Lombardia",
+    "bitrate": 128
+}

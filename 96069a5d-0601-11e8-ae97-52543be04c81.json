@@ -1,0 +1,14 @@
+{
+    "uuid": "96069a5d-0601-11e8-ae97-52543be04c81",
+    "name": "Energy Zürich (NRJ)",
+    "url": "http://broadcast.infomaniak.ch/energyzuerich-high.mp3",
+    "homepage": "https://energy.ch/radio/zurich",
+    "favicon": "http://static.radio.net/images/broadcasts/31/2f/6977/1/c300.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "swiss,mainstream,news,pop",
+    "state": "Zürich",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "963de807-0601-11e8-ae97-52543be04c81",
+    "name": "Deutschlandfunk  [MP3 64kbit/s]",
+    "url": "http://www.deutschlandradio.de/streaming/dlf_lq_mp3.m3u",
+    "homepage": "http://www.deutschlandfunk.de",
+    "favicon": "http://www.deutschlandfunk.de/themes/dradio/icons/dlf/favicon-196x196.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "cultural news,culture,kultur,news,information",
+    "state": "",
+    "bitrate": 0
+}

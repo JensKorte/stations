@@ -1,0 +1,14 @@
+{
+    "uuid": "bd6309de-5711-4e5d-b51c-64cad25a5e27",
+    "name": "Downtuned Radio",
+    "url": "http://37.75.232.152:2199/tunein/taronopo.pls",
+    "homepage": "http://www.downtunedmag.com/p/downtuned-radio.html",
+    "favicon": "http://www.downtunedmag.com/favicon.ico",
+    "creation": "2021-02-07 13:11:49",
+    "country": "Greece",
+    "country_code": "GR",
+    "language": "greek",
+    "tags": "doom,psychedelic,stoner rock",
+    "state": "",
+    "bitrate": 128
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "964a534e-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Sole",
+    "url": "http://178.32.62.154:8043/listen.pls",
+    "homepage": "https://www.radiosole.eu/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s154449q.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "vittoria,pop",
+    "state": "Sicilia",
+    "bitrate": 128
+}

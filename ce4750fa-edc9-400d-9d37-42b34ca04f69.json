@@ -1,0 +1,14 @@
+{
+    "uuid": "ce4750fa-edc9-400d-9d37-42b34ca04f69",
+    "name": "Sepsi Rádió",
+    "url": "https://stream.sepsiradio.ro:8001/SepsiRadio",
+    "homepage": "https://www.sepsiradio.ro/",
+    "favicon": "https://www.sepsiradio.ro/design/img/logo2017.png",
+    "creation": "2021-03-05 23:20:35",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "hungarian",
+    "tags": "top 40,pop rock,news,talk \u0026 speech,local",
+    "state": "Harghita",
+    "bitrate": 128
+}

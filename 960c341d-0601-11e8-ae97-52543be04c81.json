@@ -1,0 +1,14 @@
+{
+    "uuid": "960c341d-0601-11e8-ae97-52543be04c81",
+    "name": "NTV Radyo",
+    "url": "http://46.20.3.207/listen.pls",
+    "homepage": "http://www.ntvradyo.com.tr/Home",
+    "favicon": "http://www.ntvradyo.com.tr/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Turkey",
+    "country_code": "TR",
+    "language": "turkish",
+    "tags": "türkçe,news,haberler,haber",
+    "state": "",
+    "bitrate": 63
+}

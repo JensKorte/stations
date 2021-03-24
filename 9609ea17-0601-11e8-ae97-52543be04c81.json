@@ -1,0 +1,14 @@
+{
+    "uuid": "9609ea17-0601-11e8-ae97-52543be04c81",
+    "name": "OK Radio Beograd",
+    "url": "http://live7.okradio.net/;*.mp3",
+    "homepage": "http://www.okradio.net/",
+    "favicon": "http://www.okradio.net/images/favicon.ico",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Serbia",
+    "country_code": "RS",
+    "language": "serbian",
+    "tags": "beograd,local programming",
+    "state": "",
+    "bitrate": 128
+}

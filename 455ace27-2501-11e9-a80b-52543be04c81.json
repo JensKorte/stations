@@ -1,0 +1,14 @@
+{
+    "uuid": "455ace27-2501-11e9-a80b-52543be04c81",
+    "name": "Raidió na Gaeltachta",
+    "url": "http://av.rasset.ie/av/live/radio/rnag.m3u",
+    "homepage": "https://www.rte.ie/rnag/",
+    "favicon": "https://www.rte.ie/favicon.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Ireland",
+    "country_code": "IE",
+    "language": "irish",
+    "tags": "irish,gaeilge,gaeltacht,raidió",
+    "state": "",
+    "bitrate": 0
+}

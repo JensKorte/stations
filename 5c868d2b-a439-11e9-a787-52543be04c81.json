@@ -1,0 +1,14 @@
+{
+    "uuid": "5c868d2b-a439-11e9-a787-52543be04c81",
+    "name": "SeaSalt",
+    "url": "http://stream.laut.fm:80/seasaltradio",
+    "homepage": "http://www.laut.fm/seasaltradio",
+    "favicon": "https://image.noelshack.com/fichiers/2019/28/5/1562890066-beach.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "sound of ocean",
+    "state": "",
+    "bitrate": 128
+}

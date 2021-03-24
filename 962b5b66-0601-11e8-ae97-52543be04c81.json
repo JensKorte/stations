@@ -1,0 +1,14 @@
+{
+    "uuid": "962b5b66-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Toscana",
+    "url": "http://onair15.xdevel.com:8068/listen.pls",
+    "homepage": "http://www.radiotoscana.it/",
+    "favicon": "http://www.radiotoscana.it/wp-content/themes/eprom_1_3_1/styles/img_rt/logo_radiotoscana.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "misc",
+    "state": "Toscana",
+    "bitrate": 96
+}

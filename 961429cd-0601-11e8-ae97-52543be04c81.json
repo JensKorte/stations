@@ -1,0 +1,14 @@
+{
+    "uuid": "961429cd-0601-11e8-ae97-52543be04c81",
+    "name": "Sláger FM",
+    "url": "http://92.61.114.159:7812/slagerfm256.mp3",
+    "homepage": "http://www.slagerfm.hu/",
+    "favicon": "https://ripost.s3.eu-central-1.amazonaws.com/kepadatbazis/62a70607872e653fc22f162332d3228fdcbba5fb/e06941aae233d3339ddc9adedf1b946047960244.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Hungary",
+    "country_code": "HU",
+    "language": "hungarian",
+    "tags": "classic hits,90s,80s",
+    "state": "Budapest",
+    "bitrate": 256
+}

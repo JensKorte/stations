@@ -1,0 +1,14 @@
+{
+    "uuid": "960c6812-0601-11e8-ae97-52543be04c81",
+    "name": "Sveriges Radio - SR Sisuradio",
+    "url": "http://sverigesradio.se/topsy/direkt/226-hi-aac.pls",
+    "homepage": "https://sverigesradio.se/",
+    "favicon": "https://static-cdn.sr.se/sida/images/185/3633869_2048_1152.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "swedish,finnish",
+    "tags": "music,news,finnish,sveriges radio,public radio",
+    "state": "",
+    "bitrate": 0
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ab6cc0be-b8f7-11e9-acb2-52543be04c81",
+    "name": "SecondRadio",
+    "url": "http://secondradio.de:7070/stream",
+    "homepage": "https://www.secondradio.de/",
+    "favicon": "https://www.secondradio.de//webcfg/favicon-96x96.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "Sachsen",
+    "bitrate": 192
+}

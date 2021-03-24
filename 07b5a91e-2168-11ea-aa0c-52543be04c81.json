@@ -1,0 +1,14 @@
+{
+    "uuid": "07b5a91e-2168-11ea-aa0c-52543be04c81",
+    "name": "XMas Radio",
+    "url": "https://icecast.unitedradio.it/um025.mp3",
+    "homepage": "http://www.unitedmusic.it/",
+    "favicon": "https://www.105.net/resizer/380/380/true/1480523220519.png--.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "mediaset,christmas music",
+    "state": "Lombardia",
+    "bitrate": 128
+}

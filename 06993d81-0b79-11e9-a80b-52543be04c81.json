@@ -1,0 +1,14 @@
+{
+    "uuid": "06993d81-0b79-11e9-a80b-52543be04c81",
+    "name": "UFM 100.3 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
+    "homepage": "http://www.ufm1003.sg/",
+    "favicon": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/UFM_LOGO.jpg/220px-UFM_LOGO.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Singapore",
+    "country_code": "SG",
+    "language": "chinese",
+    "tags": "",
+    "state": "Toa Payoh",
+    "bitrate": 64
+}

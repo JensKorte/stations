@@ -1,0 +1,14 @@
+{
+    "uuid": "961bf1c2-0601-11e8-ae97-52543be04c81",
+    "name": "RTBF Pure Like",
+    "url": "https://radios.rtbf.be/wr-pure2-128.mp3",
+    "homepage": "http://www.rtbf.be/radio/liveradio/webradio-purelike",
+    "favicon": "http://marpimagecache.s3.amazonaws.com/image/19_300x170_2017-01-09-09-15-23-134.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Belgium",
+    "country_code": "BE",
+    "language": "french",
+    "tags": "rtbf",
+    "state": "",
+    "bitrate": 128
+}

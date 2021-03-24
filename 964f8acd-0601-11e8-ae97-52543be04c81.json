@@ -1,0 +1,14 @@
+{
+    "uuid": "964f8acd-0601-11e8-ae97-52543be04c81",
+    "name": "TORi-Live-8000",
+    "url": "http://173.203.133.187:9700/;stream/1",
+    "homepage": "http://www.teluguoneradio.com/",
+    "favicon": "http://www.teluguoneradio.com/images/tori_logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "India",
+    "country_code": "IN",
+    "language": "telugu",
+    "tags": "country,telugu",
+    "state": "andhra pradesh",
+    "bitrate": 64
+}

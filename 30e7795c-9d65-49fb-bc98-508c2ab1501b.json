@@ -1,0 +1,14 @@
+{
+    "uuid": "30e7795c-9d65-49fb-bc98-508c2ab1501b",
+    "name": "Radio Istra",
+    "url": "http://146.185.18.251:7117/stream",
+    "homepage": "https://www.radioistra.hr/",
+    "favicon": "https://www.radioistra.hr/templates/rt_fresco/favicon.ico",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Croatia",
+    "country_code": "HR",
+    "language": "croatian",
+    "tags": "folk,pop,local news",
+    "state": "",
+    "bitrate": 128
+}

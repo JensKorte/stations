@@ -1,0 +1,14 @@
+{
+    "uuid": "9626282c-0601-11e8-ae97-52543be04c81",
+    "name": "Rai Radio Live",
+    "url": "http://icestreaming.rai.it/10.mp3",
+    "homepage": "http://www.wr7.rai.it",
+    "favicon": "https://pbs.twimg.com/profile_images/874252885965623296/K2I55N7A_400x400.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rai,public radio",
+    "state": "Lazio",
+    "bitrate": 0
+}

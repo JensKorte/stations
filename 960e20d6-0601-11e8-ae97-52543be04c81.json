@@ -1,0 +1,14 @@
+{
+    "uuid": "960e20d6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Larrakia",
+    "url": "http://stream.radiolarrakia.org:8000/radiolarrakia",
+    "homepage": "http://www.radiolarrakia.org/",
+    "favicon": "http://www.radiolarrakia.org/rl_apple_touch_icon1.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "",
+    "tags": "aboriginal",
+    "state": "Northern Territory",
+    "bitrate": 192
+}

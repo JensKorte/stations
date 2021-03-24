@@ -1,0 +1,14 @@
+{
+    "uuid": "f7911cb2-6f34-11e9-af37-52543be04c81",
+    "name": "TLIG Radio Croatian",
+    "url": "http://46.28.49.164:7804/stream",
+    "homepage": "https://tligradio.org/hr/",
+    "favicon": "https://tligradio.org/wp-content/uploads/2014/07/slider.jpg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "",
+    "country_code": "",
+    "language": "croatian",
+    "tags": "talk,religion,catholic,christian",
+    "state": "",
+    "bitrate": 128
+}

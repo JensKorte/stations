@@ -1,0 +1,14 @@
+{
+    "uuid": "9a76eda6-3b75-4614-a6f2-9bd29ea7f901",
+    "name": "oldenburg eins lokalsender (64 kbps)",
+    "url": "http://oeins.de:8000/oeins56",
+    "homepage": "https://www.oeins.de/radio/live-stream/",
+    "favicon": "",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "",
+    "state": "",
+    "bitrate": 64
+}

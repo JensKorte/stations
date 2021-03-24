@@ -1,0 +1,14 @@
+{
+    "uuid": "960ee76f-0601-11e8-ae97-52543be04c81",
+    "name": "Pro FM",
+    "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
+    "homepage": "http://www.profm.ro/",
+    "favicon": "http://www.radioteam.ro/image/cache/radio-online/profm-800x800.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Romania",
+    "country_code": "RO",
+    "language": "romanian",
+    "tags": "pop,top 40",
+    "state": "",
+    "bitrate": 0
+}

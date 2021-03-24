@@ -1,0 +1,14 @@
+{
+    "uuid": "a6add357-a13c-11e8-abb8-52543be04c81",
+    "name": "Radio City - Tampere",
+    "url": "http://stream.bauermedia.fi/radiocity/tre_64.aac",
+    "homepage": "https://www.radiocity.fi/",
+    "favicon": "https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Finland",
+    "country_code": "FI",
+    "language": "finnish",
+    "tags": "",
+    "state": "Pirkanmaa",
+    "bitrate": 64
+}

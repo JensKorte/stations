@@ -1,0 +1,14 @@
+{
+    "uuid": "0406a0b4-7b59-11ea-8a3b-52543be04c81",
+    "name": "COSMO - Chill",
+    "url": "https://wdr-edge-101b-dus-dtag-cdn.cast.addradio.de/wdr/cosmo/chillout/mp3/128/stream.mp3",
+    "homepage": "https://www1.wdr.de/radio/cosmo/channels/chill-out-channel-100.html",
+    "favicon": "https://www1.wdr.de/resources/img/wdr/logo/epgmodule/cosmo_logo_claim.svg",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "",
+    "tags": "relaxed,chill-out",
+    "state": "",
+    "bitrate": 0
+}

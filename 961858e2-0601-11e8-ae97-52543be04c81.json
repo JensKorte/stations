@@ -1,0 +1,14 @@
+{
+    "uuid": "961858e2-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Globo",
+    "url": "http://178.33.72.12/globorm64",
+    "homepage": "http://www.radioglobo.it/",
+    "favicon": "http://www.radioglobo.it/images/palinsesto/web_radio_radio_globo_diretta.jpg",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "roma,top 40,pop,hits",
+    "state": "Lazio",
+    "bitrate": 64
+}

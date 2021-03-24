@@ -1,0 +1,14 @@
+{
+    "uuid": "86d4ae01-6379-11ea-be63-52543be04c81",
+    "name": "Radio NJOY Wien",
+    "url": "http://94.136.28.9:8005/njoyradio-hd",
+    "homepage": "http://wien.njoyradio.at/",
+    "favicon": "http://wien.njoyradio.at//wp-content/uploads/fbrfg/apple-touch-icon.png?v=YAoXLxrYb6",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Austria",
+    "country_code": "AT",
+    "language": "german",
+    "tags": "student radio",
+    "state": "Vienna",
+    "bitrate": 128
+}

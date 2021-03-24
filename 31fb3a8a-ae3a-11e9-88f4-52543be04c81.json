@@ -1,0 +1,14 @@
+{
+    "uuid": "31fb3a8a-ae3a-11e9-88f4-52543be04c81",
+    "name": "WakeNews",
+    "url": "https://stream.wakenews.net/radio-high.mp3",
+    "homepage": "https://mywakenews.wordpress.com/",
+    "favicon": "https://secure.gravatar.com/blavatar/2b9ca4874e601ace7556abc14a916c7a?s=200\u0026ts=1563989912",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "german",
+    "tags": "info,talk",
+    "state": "Basel",
+    "bitrate": 160
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "77608c25-1b28-11e9-a80b-52543be04c81",
+    "name": "Tastytrade Live",
+    "url": "http://ice.tastytrade.com:8000/tastytrade.m3u",
+    "homepage": "https://uat.tastytrade.com/tt/live/",
+    "favicon": "http://tastytradepublicmedia.s3.amazonaws.com/assets/TT-logo-FB.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "tastytrade",
+    "state": "Illinois",
+    "bitrate": 0
+}

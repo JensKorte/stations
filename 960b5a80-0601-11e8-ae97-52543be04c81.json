@@ -1,0 +1,14 @@
+{
+    "uuid": "960b5a80-0601-11e8-ae97-52543be04c81",
+    "name": "KBOO 90.7 Portland, OR",
+    "url": "http://live.kboo.fm:8000/high.m3u",
+    "homepage": "http://www.kboo.fm/",
+    "favicon": "https://www.kboo.fm/sites/all/themes/custom/kbooui/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "portland,freeform",
+    "state": "Oregon",
+    "bitrate": 192
+}

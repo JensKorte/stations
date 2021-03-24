@@ -1,0 +1,14 @@
+{
+    "uuid": "96458eed-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Ohrspiel",
+    "url": "http://streams.fluxfm.de/ohrspiel/aac-64/audio/",
+    "homepage": "http://www.fluxfm.de",
+    "favicon": "https://www.fluxfm.de/wp-content/uploads/2016/04/Ohrspiel-250x250.jpg",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german,english",
+    "tags": "",
+    "state": "Berlin",
+    "bitrate": 64
+}

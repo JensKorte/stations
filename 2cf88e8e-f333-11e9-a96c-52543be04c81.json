@@ -1,0 +1,14 @@
+{
+    "uuid": "2cf88e8e-f333-11e9-a96c-52543be04c81",
+    "name": "Fréquence Banane",
+    "url": "http://fbpc5.epfl.ch:8000/fb_192",
+    "homepage": "https://www.frequencebanane.ch/",
+    "favicon": "https://www.frequencebanane.ch/wp-content/uploads/2015/06/logo_hor.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "language": "français,french",
+    "tags": "campus radio",
+    "state": "Suisse Romande",
+    "bitrate": 128
+}

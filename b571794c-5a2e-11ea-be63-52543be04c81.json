@@ -1,0 +1,14 @@
+{
+    "uuid": "b571794c-5a2e-11ea-be63-52543be04c81",
+    "name": "Radio Bluetu",
+    "url": "http://audio1.meway.tv:8092/stream.mp3",
+    "homepage": "https://radio.bluetu.it/",
+    "favicon": "https://radio.bluetu.it/wp-content/uploads/2019/11/radio2-150x150.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Italy",
+    "country_code": "IT",
+    "language": "italian",
+    "tags": "rovigo,community radio",
+    "state": "Veneto",
+    "bitrate": 192
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96239c1b-0601-11e8-ae97-52543be04c81",
+    "name": "ABC Local Radio 97.7 Goulburn Murray, VIC (MP3)",
+    "url": "http://live-radio02.mediahubaustralia.com/3WOD/mp3/;",
+    "homepage": "http://www.abc.net.au/goulburnmurray/",
+    "favicon": "https://resize.abcradio.net.au/PZlOGm_yU8JeOlZflrQsLM1MctM=/100x100/center/middle/http://www.abc.net.au/radio/images/service/local_goulburnmurray.png",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Australia",
+    "country_code": "AU",
+    "language": "english",
+    "tags": "abc,public radio,goulburn,local news,information,news",
+    "state": "Victoria",
+    "bitrate": 64
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "96065753-0601-11e8-ae97-52543be04c81",
+    "name": "CFGO \"TSN 1200\" Ottawa, ON",
+    "url": "http://provisioning.streamtheworld.com/pls/CFGOAMAAC.pls",
+    "homepage": "http://www.tsn.ca/radio/ottawa-1200",
+    "favicon": "http://images.tsn.ca/favicon32.ico",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Canada",
+    "country_code": "CA",
+    "language": "english",
+    "tags": "tsn,sports news,ottawa",
+    "state": "Ontario",
+    "bitrate": 40
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9627030b-0601-11e8-ae97-52543be04c81",
+    "name": "Laut.FM Classic Rock",
+    "url": "http://stream.laut.fm:80/classicrock",
+    "homepage": "http://laut.fm/classicrock",
+    "favicon": "https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300",
+    "creation": "2021-02-07 13:11:46",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "classic rock",
+    "state": "",
+    "bitrate": 128
+}

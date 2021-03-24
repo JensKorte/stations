@@ -1,0 +1,14 @@
+{
+    "uuid": "9617864d-0601-11e8-ae97-52543be04c81",
+    "name": "R.SH Top 40",
+    "url": "http://streams.rsh.de/rsh-nordparade/mp3-128/mediaplayer",
+    "homepage": "http://livestream.rsh.de/",
+    "favicon": "http://www.rsh.de/frontend/theme-rsh/design/logo.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "german",
+    "tags": "top 40,hits",
+    "state": "Schleswig-Holstein",
+    "bitrate": 128
+}

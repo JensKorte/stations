@@ -1,0 +1,14 @@
+{
+    "uuid": "eaa0f9d2-44b8-11ea-a860-52543be04c81",
+    "name": "LOA2010",
+    "url": "http://stream.enet24.de:9600",
+    "homepage": "http://www.loa2010.de",
+    "favicon": "http://www.loa2010.de/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "country,schlager,gothic,dark,pop,rock",
+    "state": "NRW",
+    "bitrate": 128
+}

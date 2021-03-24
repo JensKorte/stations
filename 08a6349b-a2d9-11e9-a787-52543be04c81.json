@@ -1,0 +1,14 @@
+{
+    "uuid": "08a6349b-a2d9-11e9-a787-52543be04c81",
+    "name": "RADIO BOB! Livestream",
+    "url": "http://streams.radiobob.de/bob-live/aac-64/mediaplayer",
+    "homepage": "http://streams.radiobob.de/bob-live/mp3-192/mediaplayer",
+    "favicon": "https://www.radiobob.de/frontend/theme-bob/design/logo.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Germany",
+    "country_code": "DE",
+    "language": "deutsch german",
+    "tags": "radio bob!,stream,live,pop,rock,kassel",
+    "state": "Hessen",
+    "bitrate": 64
+}

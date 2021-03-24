@@ -1,0 +1,14 @@
+{
+    "uuid": "7c7d4e92-fec6-4334-a288-f401adea41a4",
+    "name": "Q FM Lusaka",
+    "url": "http://s3.myradiostream.com:7620/listen.m4a",
+    "homepage": "http://www.qfmzambia.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s110024q.png",
+    "creation": "2021-02-07 13:11:48",
+    "country": "Zambia",
+    "country_code": "ZM",
+    "language": "",
+    "tags": "",
+    "state": "lusaka",
+    "bitrate": 80
+}

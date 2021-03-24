@@ -1,0 +1,14 @@
+{
+    "uuid": "9898facc-1707-11e9-a80b-52543be04c81",
+    "name": "KIRO - 710 AM ESPN Seattle",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KIROAM.mp3",
+    "homepage": "http://sports.mynorthwest.com/",
+    "favicon": "http://sports.mynorthwest.com/wp-content/themes/710sports/assets/logo/socialBtn.png",
+    "creation": "2021-02-07 13:11:47",
+    "country": "The United States Of America",
+    "country_code": "US",
+    "language": "english",
+    "tags": "seattle,espn,sports talk,sport,sports news",
+    "state": "Washington",
+    "bitrate": 64
+}

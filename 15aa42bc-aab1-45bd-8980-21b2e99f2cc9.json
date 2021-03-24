@@ -1,0 +1,14 @@
+{
+    "uuid": "15aa42bc-aab1-45bd-8980-21b2e99f2cc9",
+    "name": "BBC Radio 4 Extra (320kbits)",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8",
+    "homepage": "http://www.bbc.co.uk/radio4extra/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s6839q.png",
+    "creation": "2021-02-07 13:11:49",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "country_code": "GB",
+    "language": "",
+    "tags": "",
+    "state": "",
+    "bitrate": 339
+}
